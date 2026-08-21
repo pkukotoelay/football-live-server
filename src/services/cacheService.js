@@ -73,7 +73,7 @@ class CacheService {
   }
 
   /**
-   * Persist delivery feeds under data/delivery/ for local Flutter endpoints + GitHub compare.
+   * Persist delivery feeds under data/delivery/ (local cache). GitHub public copies live at repo root.
    * Keys with null/undefined are skipped so admin-owned feeds (e.g. mainlive) stay intact.
    */
   saveDeliveryBundle(bundle) {

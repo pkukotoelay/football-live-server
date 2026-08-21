@@ -4,7 +4,8 @@ logs/*.log
 logs/*.json
 data/current.json
 data/previous.json
-data/cache/
+data/delivery/*.json
+!data/delivery/.gitkeep
 data/admin/admins.json
 data/admin/match-overrides.json
 data/admin/admin-logs.json
