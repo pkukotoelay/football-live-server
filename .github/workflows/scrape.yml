@@ -55,12 +55,6 @@ jobs:
       GITHUB_MAINLIVE_PATH: ${{ secrets.GITHUB_MAINLIVE_PATH || 'mainlive.json' }}
     steps:
       - uses: actions/checkout@v4
-      - name: Commit and push changes
-        run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto update scraped data" && git push)
 
       - uses: actions/setup-node@v4
         with:
@@ -96,3 +90,9 @@ jobs:
             run_one tips --tips
           fi
           
+        - name: Commit and push changes
+          run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto update scraped data" && git push)
