@@ -129,22 +129,16 @@ class GitHubService {
       return { uploaded: false, reason: 'invalid_payload', path: filePath };
     }
 
-    // Never wipe a previously populated feed with empty on scrape failure.
-    // Admin-owned mainlive may intentionally clear all rows (allowEmpty).
-    const remoteEarly = this.enabled ? await this.getFileSha(filePath) : { sha: null, content: null };
-    const previousPopulated =
-      (previousLocal && !this.isEmptyFeed(feedKey, previousLocal)) ||
-      (remoteEarly.content && !this.isEmptyFeed(feedKey, remoteEarly.content));
-
-    if (this.isEmptyFeed(feedKey, payload) && previousPopulated && !allowEmpty) {
-      logEvent(events.GITHUB_SKIPPED, 'GitHub upload skipped — refuse empty overwrite', {
+    // Never publish empty JSON (including first create of `[]`), except admin allowEmpty.
+    if (this.isEmptyFeed(feedKey, payload) && !allowEmpty) {
+      logEvent(events.GITHUB_SKIPPED, 'GitHub upload skipped — refuse empty feed', {
         path: filePath,
         feed: feedKey,
       });
       return { uploaded: false, reason: 'refuse_empty', path: filePath };
     }
 
-    const remote = remoteEarly;
+    const remote = this.enabled ? await this.getFileSha(filePath) : { sha: null, content: null };
 
     // Missing GitHub file must be created even if local cache already matches payload.
     if (remote.sha && remote.content != null && !this.payloadChanged(remote.content, payload)) {

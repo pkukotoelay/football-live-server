@@ -41,8 +41,9 @@ jobs:
       PUPPETEER_CONCURRENCY: '1'
       PUPPETEER_MAX_PAGES: '2'
       BROWSER_RESTART_EVERY_N_PAGES: '8'
-      GITHUB_OWNER: ${{ secrets.GITHUB_OWNER }}
-      GITHUB_REPO: ${{ secrets.GITHUB_REPO }}
+      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      GITHUB_OWNER: ${{ github.repository_owner }}
+      GITHUB_REPO: ${{ github.event.repository.name }}
       GITHUB_BRANCH: ${{ secrets.GITHUB_BRANCH || 'main' }}
       GITHUB_HIGHLIGHT1_PATH: ${{ secrets.GITHUB_HIGHLIGHT1_PATH || 'highlight1.json' }}
       GITHUB_HIGHLIGHT2_PATH: ${{ secrets.GITHUB_HIGHLIGHT2_PATH || 'highlight2.json' }}
@@ -113,7 +114,10 @@ jobs:
             fi
           done
 
-          git add data/delivery/*.json highlight1.json highlight2.json myanmartv.json tips.json
+          git add data/delivery/*.json
+          for f in highlight1.json highlight2.json myanmartv.json tips.json; do
+            if [ -f "$f" ]; then git add "$f"; fi
+          done
           if git diff --staged --quiet; then
             echo "No highlight/TV/tips JSON changes"
             exit 0
