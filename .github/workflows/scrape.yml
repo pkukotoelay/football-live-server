@@ -1,18 +1,14 @@
-# Football scrapes on GitHub-hosted runners (Chrome + RAM).
-# This repo is a copy of AWS_Server for Actions only — do not edit D:\SCRAPPING_CODE\AWS_Server.
-#
-# Automatic: every 8 hours. Manual: Actions → Run workflow.
 name: Scrape (highlights / TV / tips)
 
 on:
   schedule:
-    - cron: '0 */8 * * *'
+    - cron: '0 */8 * * *' # UTC 8 နာရီတစ်ကြိမ်
   workflow_dispatch:
     inputs:
-      job:
-        description: Which scrape to run
+      target:
+        description: 'Target to scrape'
         required: true
-        default: all
+        default: 'all'
         type: choice
         options:
           - all
@@ -20,79 +16,45 @@ on:
           - channels
           - tips
 
-concurrency:
-  group: aws-github-action-scrape
-  cancel-in-progress: false
-
-permissions:
-  contents: read
-
 jobs:
   scrape:
     runs-on: ubuntu-latest
-    timeout-minutes: 60
-    env:
-      NODE_ENV: production
-      TZ: Asia/Yangon
-      LOW_MEMORY_MODE: 'false'
-      USE_LOCAL_CONFIG: 'true'
-      LOCAL_CONFIG_DIR: ./config
-      PUPPETEER_HEADLESS: 'new'
-      PUPPETEER_TIMEOUT_MS: '45000'
-      PUPPETEER_BLOCK_RESOURCES: 'true'
-      PUPPETEER_CONCURRENCY: '1'
-      PUPPETEER_MAX_PAGES: '2'
-      BROWSER_RESTART_EVERY_N_PAGES: '8'
-      GITHUB_TOKEN: ${{ secrets.DELIVERY_GITHUB_TOKEN }}
-      GITHUB_OWNER: ${{ secrets.GITHUB_OWNER }}
-      GITHUB_REPO: ${{ secrets.GITHUB_REPO }}
-      GITHUB_BRANCH: ${{ secrets.GITHUB_BRANCH || 'main' }}
-      GITHUB_HIGHLIGHT1_PATH: ${{ secrets.GITHUB_HIGHLIGHT1_PATH || 'highlight1.json' }}
-      GITHUB_HIGHLIGHT2_PATH: ${{ secrets.GITHUB_HIGHLIGHT2_PATH || 'highlight2.json' }}
-      GITHUB_CHANNELS_PATH: ${{ secrets.GITHUB_CHANNELS_PATH || 'myanmartv.json' }}
-      GITHUB_TIPS_PATH: ${{ secrets.GITHUB_TIPS_PATH || 'tips.json' }}
-      GITHUB_MATCHES_PATH: ${{ secrets.GITHUB_MATCHES_PATH || 'matches.json' }}
-      GITHUB_MAINLIVE_PATH: ${{ secrets.GITHUB_MAINLIVE_PATH || 'mainlive.json' }}
-    steps:
-      - uses: actions/checkout@v4
+    permissions:
+      contents: write # Git Commit & Push လုပ်နိုင်ရန် Permissions ဖွင့်ပေးရန်လိုအပ်သည်
 
-      - uses: actions/setup-node@v4
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
         with:
           node-version: '20'
-          cache: npm
+          cache: 'npm'
 
-      - name: Install Google Chrome
-        uses: browser-actions/setup-chrome@v1
-        id: chrome
-
-      - name: Install npm dependencies
+      - name: Install dependencies
         run: npm ci
 
-      - name: Run scrape
+      - name: Run Scraper
         env:
-          PUPPETEER_EXECUTABLE_PATH: ${{ steps.chrome.outputs.chrome-path }}
+          DELIVERY_GITHUB_TOKEN: ${{ secrets.DELIVERY_GITHUB_TOKEN }}
+          GITHUB_OWNER: ${{ secrets.GITHUB_OWNER }}
+          GITHUB_REPO: ${{ secrets.GITHUB_REPO }}
         run: |
-          JOB="${{ github.event.inputs.job || 'all' }}"
-          run_one() {
-            echo "::group::$1"
-            node src/cli/runPipeline.js "$2" || echo "::warning::$1 failed (previous JSON kept if scrape empty)"
-            echo "::endgroup::"
-          }
-          if [ "$JOB" = "highlights" ]; then
-            run_one highlights --highlights
-          elif [ "$JOB" = "channels" ]; then
-            run_one myanmartv --channels
-          elif [ "$JOB" = "tips" ]; then
-            run_one tips --tips
+          if [ "${{ github.event.inputs.target }}" = "highlights" ]; then
+            node src/cli/runPipeline.js --highlights
+          elif [ "${{ github.event.inputs.target }}" = "channels" ]; then
+            node src/cli/runPipeline.js --channels
+          elif [ "${{ github.event.inputs.target }}" = "tips" ]; then
+            node src/cli/runPipeline.js --tips
           else
-            run_one highlights --highlights
-            run_one myanmartv --channels
-            run_one tips --tips
+            node src/cli/runPipeline.js --highlights --channels --tips
           fi
-          
-        - name: Commit and push changes
-          run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto update scraped data" && git push)
+
+      # PAT / Secrets မသုံးဘဲ Repo ထဲသို့ တိုက်ရိုက် Commit & Push လုပ်မည့် အဆင့်
+      - name: Commit and push delivery JSONs
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action Bot"
+          git add data/delivery/*.json
+          git diff --quiet && git diff --staged --quiet || (git commit -m "chore: update delivery JSONs [skip ci]" && git push)
