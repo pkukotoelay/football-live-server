@@ -95,7 +95,7 @@ jobs:
 
           # Same folder as AWS uploads: repo root. Do not overwrite matches.json.
           mkdir -p /tmp/delivery-out
-          for f in highlight.json highlight1.json highlight2.json myanmartv.json tips.json; do
+          for f in highlight1.json highlight2.json myanmartv.json tips.json; do
             if [ -f "data/delivery/$f" ]; then
               cp -a "data/delivery/$f" "/tmp/delivery-out/$f"
             fi
@@ -106,14 +106,14 @@ jobs:
           git reset --hard "origin/${GITHUB_REF_NAME}"
 
           mkdir -p data/delivery
-          for f in highlight.json highlight1.json highlight2.json myanmartv.json tips.json; do
+          for f in highlight1.json highlight2.json myanmartv.json tips.json; do
             if [ -f "/tmp/delivery-out/$f" ]; then
               cp -a "/tmp/delivery-out/$f" "data/delivery/$f"
               cp -a "/tmp/delivery-out/$f" "./$f"
             fi
           done
 
-          git add data/delivery/*.json highlight.json highlight1.json highlight2.json myanmartv.json tips.json
+          git add data/delivery/*.json highlight1.json highlight2.json myanmartv.json tips.json
           if git diff --staged --quiet; then
             echo "No highlight/TV/tips JSON changes"
             exit 0
