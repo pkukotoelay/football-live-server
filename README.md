@@ -6,7 +6,7 @@ Live football (every 5 minutes) stays on the 1GB AWS box. This project runs **hi
 
 Full production notes: [`docs/PRODUCTION.md`](docs/PRODUCTION.md).
 
-## Local
+## LocalLL
 
 ```bash
 npm install
