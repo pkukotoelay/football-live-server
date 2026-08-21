@@ -1,18 +1,45 @@
 const express = require('express');
-const cors = require('cors');
 const path = require('path');
 const { createApiRouter } = require('./routes/api');
 const { createAdminRouter } = require('./admin/routes/adminRoutes');
 const { logger } = require('./utils/logger');
 
+function rateLimit({ windowMs, max }) {
+  const hits = new Map();
+  return (req, res, next) => {
+    const now = Date.now();
+    const ip = String(req.ip || req.socket.remoteAddress || 'unknown');
+    let bucket = hits.get(ip);
+    if (!bucket || now - bucket.start > windowMs) {
+      bucket = { start: now, count: 0 };
+      hits.set(ip, bucket);
+    }
+    bucket.count += 1;
+    if (hits.size > 5000) hits.clear();
+    if (bucket.count > max) {
+      return res.status(429).json({ ok: false, error: 'Too many requests' });
+    }
+    return next();
+  };
+}
+
 function createApp({ pipeline, cache, admin, env = process.env }) {
   const app = express();
+  app.disable('x-powered-by');
   // Behind nginx/ALB set TRUST_PROXY=1 so req.ip / rate limits stay accurate.
   if (env.TRUST_PROXY === '1' || env.TRUST_PROXY === 'true') {
     app.set('trust proxy', 1);
   }
-  app.use(cors());
-  app.use(express.json({ limit: '2mb' }));
+  app.use((_req, res, next) => {
+    res.setHeader('X-Content-Type-Options', 'nosniff');
+    res.setHeader('X-Frame-Options', 'DENY');
+    res.setHeader('Referrer-Policy', 'no-referrer');
+    res.setHeader('X-Robots-Tag', 'noindex');
+    next();
+  });
+  app.use(express.json({ limit: '1mb' }));
+  app.use('/api/admin/auth/login', rateLimit({ windowMs: 15 * 60 * 1000, max: 8 }));
+  app.use('/api', rateLimit({ windowMs: 60 * 1000, max: 60 }));
 
   const apiKey = env.API_KEY || '';
   const publicJson = env.ENABLE_PUBLIC_JSON === 'true';
@@ -52,33 +79,7 @@ function createApp({ pipeline, cache, admin, env = process.env }) {
   });
 
   app.get('/', (_req, res) => {
-    res.json({
-      name: 'Football Live Streaming Backend',
-      timezone: 'Asia/Yangon',
-      adminPanel: '/admin',
-      feeds: {
-        mainlive: '/flutter/mainlive.json',
-        matches: '/flutter/matches.json',
-        highlight: '/flutter/highlight1.json',
-        highlight1: '/flutter/highlight1.json',
-        highlight2: '/flutter/highlight2.json',
-        myanmartv: '/flutter/myanmartv.json',
-        tips: '/flutter/tips.json',
-      },
-      endpoints: [
-        'GET /api/health',
-        'GET /api/matches',
-        'GET /flutter/mainlive.json',
-        'GET /flutter/matches.json',
-        'GET /flutter/highlight1.json',
-        'GET /flutter/highlight2.json',
-        'GET /flutter/myanmartv.json',
-        'GET /flutter/tips.json',
-        'POST /api/pipeline/run',
-        'POST /api/admin/auth/login',
-        'GET /api/admin/dashboard',
-      ],
-    });
+    res.json({ ok: true, timezone: 'Asia/Yangon' });
   });
 
   // Flutter delivery aliases (same shapes as GitHub raw JSON)

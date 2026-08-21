@@ -37,40 +37,17 @@ async function main() {
   const scheduler = new Scheduler(pipeline, process.env);
   scheduler.start();
 
-  // Boot: one job at a time (1GB EC2). Pipeline → highlights → MyanmarTV → tips.
+  // Boot: football only. Highlights / TV / tips stay on GitHub Actions (1GB EC2).
   // Avoid forceStreamCheck:true — it deep-scrapes fixtures and OOMs t3.micro.
+  const skipHeavyBoot = String(process.env.SKIP_BOOT_HEAVY_JOBS || 'true').toLowerCase() !== 'false';
   setTimeout(() => {
-    pipeline
-      .run({ forceStreamCheck: false })
-      .catch((err) => {
-        logger.error('Initial pipeline run failed', { error: err.message });
-      })
-      .finally(() => {
-        setTimeout(() => {
-          pipeline
-            .runHighlights({ force: false })
-            .catch((err) => {
-              logger.error('Initial highlight job failed', { error: err.message });
-            })
-            .finally(() => {
-              setTimeout(() => {
-                pipeline
-                  .runMyanmarTv({ force: false })
-                  .catch((err) => {
-                    logger.error('Initial MyanmarTV job failed', { error: err.message });
-                  })
-                  .finally(() => {
-                    setTimeout(() => {
-                      pipeline.runTips({ force: false }).catch((err) => {
-                        logger.error('Initial tips job failed', { error: err.message });
-                      });
-                    }, 15000);
-                  });
-              }, 15000);
-            });
-        }, 15000);
-      });
+    pipeline.run({ forceStreamCheck: false }).catch((err) => {
+      logger.error('Initial pipeline run failed', { error: err.message });
+    });
   }, 10000);
+  if (skipHeavyBoot) {
+    logger.info('Boot heavy jobs skipped (GitHub Actions handles highlights/TV/tips)');
+  }
 
   const shutdown = async (signal) => {
     logger.info(`Received ${signal}, shutting down`);

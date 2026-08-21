@@ -35,8 +35,17 @@ function assertProductionEnv(env = process.env) {
     logger.warn('GITHUB_TOKEN missing — Flutter JSON will not upload to GitHub');
   }
 
-  if (!env.API_KEY && env.ENABLE_PUBLIC_JSON !== 'true') {
-    logger.warn('API_KEY missing and ENABLE_PUBLIC_JSON is not true — API routes may be open or blocked unexpectedly');
+  const apiKey = String(env.API_KEY || '').trim();
+  if (!apiKey || WEAK_SECRETS.has(apiKey)) {
+    throw new Error(
+      'Production requires a strong API_KEY (set in .env). Refusing to start with a default/placeholder.'
+    );
+  }
+
+  if (String(env.ENABLE_PUBLIC_JSON || '').toLowerCase() === 'true') {
+    logger.warn(
+      'ENABLE_PUBLIC_JSON=true — /flutter JSON is open on this host. Prefer GitHub raw URLs for the app and keep port 3000 off the public internet.'
+    );
   }
 
   if (!env.PUPPETEER_EXECUTABLE_PATH) {

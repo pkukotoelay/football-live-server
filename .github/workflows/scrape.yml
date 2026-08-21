@@ -89,7 +89,34 @@ jobs:
 
       - name: Commit and push delivery JSONs
         run: |
+          set -euo pipefail
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action Bot"
+
+          # Same folder as AWS uploads: repo root. Do not overwrite matches.json.
+          mkdir -p /tmp/delivery-out
+          for f in highlight.json highlight1.json highlight2.json myanmartv.json tips.json; do
+            if [ -f "data/delivery/$f" ]; then
+              cp -a "data/delivery/$f" "/tmp/delivery-out/$f"
+            fi
+          done
+
           git add data/delivery/*.json
-          git diff --quiet && git diff --staged --quiet || (git commit -m "chore: update delivery JSONs [skip ci]" && git push)
+          git fetch origin "${GITHUB_REF_NAME}"
+          git reset --hard "origin/${GITHUB_REF_NAME}"
+
+          mkdir -p data/delivery
+          for f in highlight.json highlight1.json highlight2.json myanmartv.json tips.json; do
+            if [ -f "/tmp/delivery-out/$f" ]; then
+              cp -a "/tmp/delivery-out/$f" "data/delivery/$f"
+              cp -a "/tmp/delivery-out/$f" "./$f"
+            fi
+          done
+
+          git add data/delivery/*.json highlight.json highlight1.json highlight2.json myanmartv.json tips.json
+          if git diff --staged --quiet; then
+            echo "No highlight/TV/tips JSON changes"
+            exit 0
+          fi
+          git commit -m "chore: update delivery JSONs [skip ci]"
+          git push origin "HEAD:${GITHUB_REF_NAME}"

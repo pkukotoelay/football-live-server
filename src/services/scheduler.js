@@ -73,6 +73,9 @@ class Scheduler {
       { timezone: 'Asia/Yangon' }
     );
 
+    if (disableHeavy) {
+      logger.info('Highlight / MyanmarTV / tips crons off — GitHub Actions owns those feeds');
+    } else {
     if (!cron.validate(highlightExpression)) {
       logger.error('Invalid HIGHLIGHT_CRON expression', { expression: highlightExpression });
     } else {
@@ -131,6 +134,7 @@ class Scheduler {
         },
         { timezone: 'Asia/Yangon' }
       );
+    }
     }
 
     if (this.env.DOMAIN_CHECK_ENABLED === 'false') {
