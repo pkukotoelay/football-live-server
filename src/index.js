@@ -1,0 +1,105 @@
+require('dotenv').config();
+
+const { logger } = require('./utils/logger');
+const { assertProductionEnv } = require('./utils/productionChecks');
+const { Pipeline } = require('./services/pipeline');
+const { Scheduler } = require('./services/scheduler');
+const { createApp } = require('./app');
+const { createAdminContext } = require('./admin/services/adminContext');
+const { startMonitoring } = require('./monitor');
+
+async function main() {
+  assertProductionEnv(process.env);
+
+  const pipeline = new Pipeline(process.env);
+  const { cache, github } = pipeline;
+
+  const admin = createAdminContext({ pipeline, cache, github, env: process.env });
+  await admin.users.ensureSeedAdmin();
+  pipeline.attachAdmin(admin);
+
+  const monitoring = startMonitoring({ pipeline, env: process.env });
+  pipeline.attachMonitoring(monitoring);
+
+  const app = createApp({ pipeline, cache, admin, env: process.env });
+  const port = Number(process.env.PORT || 3000);
+  // Bind all interfaces so EC2 public IP / security-group:3000 can reach the admin panel
+  const host = process.env.HOST || '0.0.0.0';
+
+  const server = app.listen(port, host, () => {
+    logger.info(`API listening on http://${host}:${port}`, {
+      timezone: 'Asia/Yangon',
+      adminPanel: `http://${host}:${port}/admin`,
+    });
+    monitoring.telegram.serverStarted().catch(() => {});
+  });
+
+  const scheduler = new Scheduler(pipeline, process.env);
+  scheduler.start();
+
+  // Boot: one job at a time (1GB EC2). Pipeline → highlights → MyanmarTV → tips.
+  // Avoid forceStreamCheck:true — it deep-scrapes fixtures and OOMs t3.micro.
+  setTimeout(() => {
+    pipeline
+      .run({ forceStreamCheck: false })
+      .catch((err) => {
+        logger.error('Initial pipeline run failed', { error: err.message });
+      })
+      .finally(() => {
+        setTimeout(() => {
+          pipeline
+            .runHighlights({ force: false })
+            .catch((err) => {
+              logger.error('Initial highlight job failed', { error: err.message });
+            })
+            .finally(() => {
+              setTimeout(() => {
+                pipeline
+                  .runMyanmarTv({ force: false })
+                  .catch((err) => {
+                    logger.error('Initial MyanmarTV job failed', { error: err.message });
+                  })
+                  .finally(() => {
+                    setTimeout(() => {
+                      pipeline.runTips({ force: false }).catch((err) => {
+                        logger.error('Initial tips job failed', { error: err.message });
+                      });
+                    }, 15000);
+                  });
+              }, 15000);
+            });
+        }, 15000);
+      });
+  }, 10000);
+
+  const shutdown = async (signal) => {
+    logger.info(`Received ${signal}, shutting down`);
+    scheduler.stop();
+    try {
+      monitoring.stop();
+    } catch {
+      // ignore
+    }
+    server.close();
+    try {
+      await pipeline.browser.close();
+    } catch {
+      // ignore
+    }
+    process.exit(0);
+  };
+
+  process.on('SIGINT', () => shutdown('SIGINT'));
+  process.on('SIGTERM', () => shutdown('SIGTERM'));
+}
+
+main().catch(async (err) => {
+  logger.error('Fatal startup error', { error: err.message, stack: err.stack });
+  try {
+    const { getTelegramService } = require('./services/telegram.service');
+    await getTelegramService().serverCrash(err);
+  } catch {
+    // ignore
+  }
+  process.exit(1);
+});

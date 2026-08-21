@@ -1,0 +1,322 @@
+{
+  "updatedAt": "2026-08-13T00:00:00.000Z",
+  "sources": [
+    {
+      "name": "fotmob",
+      "enabled": true,
+      "type": "fixtures",
+      "domains": ["https://www.fotmob.com"],
+      "api": {
+        "matches": "https://www.fotmob.com/api/data/matches",
+        "leagues": "https://www.fotmob.com/api/data/leagues"
+      },
+      "selectors": {},
+      "headers": {
+        "Accept": "application/json",
+        "Referer": "https://www.fotmob.com/"
+      }
+    },
+    {
+      "name": "cakhia",
+      "enabled": true,
+      "type": "streaming",
+      "priority": 450,
+      "extractionMethod": "axios-first",
+      "domains": ["https://cakhiazvm.tv"],
+      "mirrorDomains": [],
+      "paths": {
+        "home": "/",
+        "schedule": "/sport/football/filter/today",
+        "lists": [
+          "/sport/football/filter/today",
+          "/sport/football/filter/tomorrow"
+        ]
+      },
+      "discover": {
+        "waitUntil": "domcontentloaded",
+        "waitMs": 2800,
+        "scroll": true,
+        "scrollY": 1400
+      },
+      "attrs": {
+        "href": ["href", "data-href", "data-url", "data-link"],
+        "src": ["src", "data-src", "data-lazy-src"]
+      },
+      "selectors": {
+        "matchCard": [".match-item", ".match-card", ".fixture-item", ".event-card", ".list-match .item", "a.match"],
+        "league": [".league-name", ".competition", ".tour-title", ".league", ".tour-name"],
+        "homeTeam": [".home-team", ".team-home", ".team.home", ".home .name", ".team1"],
+        "awayTeam": [".away-team", ".team-away", ".team.away", ".away .name", ".team2"],
+        "time": [".match-time", ".time", ".kickoff", ".hour", ".start-time"],
+        "matchLink": ["a", "a.match-link", "a[href*='/truc-tiep']", "a[href*='/live']", "a[href*='/watch']"],
+        "qualityButton": [".quality-btn", ".server-btn", ".stream-option", ".btn-quality", ".list-server button", ".server-list a", ".cdn-list button", "#tv_links a", "a.player-link", "a[href*='/link/']"],
+        "iframe": ["iframe", "iframe.player", "iframe#player", ".player-container iframe", ".embed iframe"],
+        "video": ["video", "video source", "#player video"]
+      },
+      "streamDetection": {
+        "m3u8Patterns": ["\\.m3u8", "master\\.m3u8", "playlist\\.m3u8", "index\\.m3u8", "/hls/", "chunklist"],
+        "waitUntil": "domcontentloaded",
+        "playerWaitUntil": "networkidle2",
+        "playerWaitTimeoutMs": 7000,
+        "navigationTimeoutMs": 22000,
+        "waitAfterLoadMs": 4000,
+        "waitAfterClickMs": 2000,
+        "iframeRetries": 2,
+        "iframeRetryDelayMs": 400,
+        "retryBackoffMs": 1500
+      },
+      "playerRules": {
+        "autoPlay": true,
+        "clickPlaySelectors": [".vjs-big-play-button", ".play-btn", "#play", ".btn-play", ".play-button"]
+      },
+      "notes": "https://cakhiazvm.tv/",
+      "playbackHeaders": {
+        "User-Agent": "Mozilla/5.0 (Linux; Android 13; Mobile) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36",
+        "Referer": "https://cakhiazvm.tv/"
+      }
+    },
+    {
+      "name": "xoilac",
+      "enabled": true,
+      "type": "streaming",
+      "priority": 400,
+      "extractionMethod": "axios-first",
+      "parser": "xoilac",
+      "domains": ["https://xoilacxts.tv"],
+      "mirrorDomains": ["https://xoilacxtr.tv"],
+      "paths": {
+        "home": "/",
+        "schedule": "/sport/football/filter/today",
+        "lists": [
+          "/sport/football/filter/today",
+          "/sport/football/filter/tomorrow"
+        ]
+      },
+      "attrs": {
+        "href": ["href", "data-href", "data-url"],
+        "src": ["src", "data-src", "data-lazy-src"]
+      },
+      "selectors": {
+        "matchCard": [".match", ".match-item", ".fixture-item", ".event-card", ".list-match li"],
+        "league": [".league-name", ".tour-name", ".competition"],
+        "homeTeam": [".home-team", ".team1", ".club-home"],
+        "awayTeam": [".away-team", ".team2", ".club-away"],
+        "time": [".time", ".kick-off", ".match-hour"],
+        "matchLink": ["a", "a[href*='/live']", "a[href*='/watch']"],
+        "qualityButton": [".server-item", ".quality-item", ".btn-quality", ".list-server a", ".cdn-list button", "#tv_links a", "a.player-link", "a[href*='/link/']"],
+        "iframe": ["iframe", ".embed iframe", "#player iframe"],
+        "video": ["video", "video source"]
+      },
+      "streamDetection": {
+        "m3u8Patterns": ["\\.m3u8", "master\\.m3u8", "playlist\\.m3u8", "index\\.m3u8", "/hls/", "chunklist", "livecdn"],
+        "waitUntil": "domcontentloaded",
+        "playerWaitUntil": "networkidle2",
+        "playerWaitTimeoutMs": 10000,
+        "navigationTimeoutMs": 28000,
+        "waitAfterLoadMs": 5500,
+        "waitAfterClickMs": 2500,
+        "iframeRetries": 3,
+        "iframeRetryDelayMs": 500,
+        "retryBackoffMs": 800
+      },
+      "playerRules": {
+        "autoPlay": true,
+        "clickPlaySelectors": [".vjs-big-play-button", ".play-button", ".btn-play"]
+      },
+      "notes": "https://xoilacxts.tv/",
+      "playbackHeaders": {
+        "User-Agent": "Mozilla/5.0 (Linux; Android 13; Mobile) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36",
+        "Referer": "https://xoilacxts.tv/"
+      }
+    },
+    {
+      "name": "mitomtm",
+      "enabled": true,
+      "type": "streaming",
+      "priority": 350,
+      "extractionMethod": "axios-first",
+      "domains": ["https://mitomtm.cc"],
+      "mirrorDomains": [],
+      "paths": {
+        "home": "/",
+        "schedule": "/",
+        "lists": [
+          "/",
+          "/sport/football/filter/today",
+          "/sport/football/filter/tomorrow"
+        ]
+      },
+      "discover": {
+        "waitUntil": "domcontentloaded",
+        "waitMs": 2800,
+        "scroll": true,
+        "scrollY": 1400
+      },
+      "attrs": {
+        "href": ["href", "data-href", "data-url"],
+        "src": ["src", "data-src", "data-lazy-src"]
+      },
+      "selectors": {
+        "matchCard": [".match-item", ".match-card", ".fixture-item", ".event-card", ".list-match .item", "a.match"],
+        "league": [".league-name", ".competition", ".tour-title", ".league", ".tour-name"],
+        "homeTeam": [".home-team", ".team-home", ".team.home", ".home .name", ".team1"],
+        "awayTeam": [".away-team", ".team-away", ".team.away", ".away .name", ".team2"],
+        "time": [".match-time", ".time", ".kickoff", ".hour", ".start-time"],
+        "matchLink": ["a", "a.match-link", "a[href*='/truc-tiep']", "a[href*='/live']"],
+        "qualityButton": ["#tv_links a", "a.player-link", "a[href*='/link/']"],
+        "iframe": ["iframe", "iframe.player", "iframe#player", ".player-container iframe", ".embed iframe"],
+        "video": ["video", "video source", "#player video"]
+      },
+      "streamDetection": {
+        "m3u8Patterns": ["\\.m3u8", "master\\.m3u8", "playlist\\.m3u8", "index\\.m3u8", "/hls/", "chunklist"],
+        "waitUntil": "domcontentloaded",
+        "playerWaitUntil": "networkidle2",
+        "playerWaitTimeoutMs": 7000,
+        "navigationTimeoutMs": 22000,
+        "waitAfterLoadMs": 4000,
+        "waitAfterClickMs": 2000,
+        "iframeRetries": 2,
+        "iframeRetryDelayMs": 400,
+        "retryBackoffMs": 1500
+      },
+      "playerRules": {
+        "autoPlay": true,
+        "clickPlaySelectors": [".vjs-big-play-button", ".play-btn", "#play", ".btn-play", ".play-button"]
+      },
+      "notes": "https://mitomtm.cc/",
+      "playbackHeaders": {
+        "User-Agent": "Mozilla/5.0 (Linux; Android 13; Mobile) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36",
+        "Referer": "https://mitomtm.cc/"
+      }
+    },
+    {
+      "name": "socolive",
+      "enabled": true,
+      "type": "streaming",
+      "priority": 300,
+      "extractionMethod": "axios-first",
+      "parser": "socolive",
+      "domains": ["https://socolivepp.tv"],
+      "mirrorDomains": [],
+      "paths": {
+        "home": "/",
+        "schedule": "/sport/football/filter/today",
+        "lists": [
+          "/sport/football/filter/today",
+          "/sport/football/filter/tomorrow"
+        ]
+      },
+      "attrs": {
+        "href": ["href", "data-href", "data-url"],
+        "src": ["src", "data-src", "data-lazy-src"]
+      },
+      "selectors": {
+        "matchCard": [".match-item", ".match-card", ".event-item", ".schedule-item", ".list-game .item"],
+        "league": [".league", ".league-name", ".competition-name", ".tour"],
+        "homeTeam": [".home", ".team-home", ".home-name", ".name-home"],
+        "awayTeam": [".away", ".team-away", ".away-name", ".name-away"],
+        "time": [".time", ".match-time", ".start-time"],
+        "matchLink": ["a", "a[href*='/live']", "a[href*='/truc-tiep']"],
+        "qualityButton": [".quality", ".server", ".btn-server", ".stream-btn", ".list-btn button", "#tv_links a", "a.player-link", "a[href*='/link/']"],
+        "iframe": ["iframe", "iframe[src*='player']", "#live-player iframe"],
+        "video": ["video", "video source"]
+      },
+      "streamDetection": {
+        "m3u8Patterns": ["\\.m3u8", "master\\.m3u8", "playlist\\.m3u8", "/hls/", "chunklist"],
+        "waitUntil": "domcontentloaded",
+        "playerWaitUntil": "networkidle2",
+        "playerWaitTimeoutMs": 7000,
+        "navigationTimeoutMs": 22000,
+        "waitAfterLoadMs": 4000,
+        "waitAfterClickMs": 2000,
+        "iframeRetries": 2,
+        "iframeRetryDelayMs": 400,
+        "retryBackoffMs": 1500
+      },
+      "playerRules": {
+        "autoPlay": true,
+        "clickPlaySelectors": [".play", ".vjs-big-play-button", ".btn-play"]
+      },
+      "notes": "https://socolivepp.tv/",
+      "playbackHeaders": {
+        "User-Agent": "Mozilla/5.0 (Linux; Android 13; Mobile) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36",
+        "Referer": "https://soco.textliveupdaterz.com/"
+      }
+    },
+    {
+      "name": "highlight1",
+      "enabled": true,
+      "type": "highlights",
+      "parser": "hoofoot",
+      "feed": "highlight1",
+      "domains": ["https://hoofoot.com/"],
+      "paths": {
+        "list": "/"
+      },
+      "attrs": {
+        "href": ["href"],
+        "src": ["src"]
+      },
+      "selectors": {
+        "card": ["#gallery > .box > #port"],
+        "link": ["a[id^='rut']"],
+        "title": ["[id^='d']"],
+        "image": ["img"],
+        "player": ["#player a", "#player iframe", "iframe[src*='embed']"]
+      },
+      "recentDays": 7,
+      "retentionDays": 7,
+      "maxItems": 8,
+      "notes": "Hoofoot. GitHub highlight1.json only."
+    },
+    {
+      "name": "highlight2",
+      "enabled": true,
+      "type": "highlights",
+      "parser": "socolive",
+      "feed": "highlight2",
+      "domains": ["https://socolivepp.tv/"],
+      "paths": {
+        "list": "/video-highlight/",
+        "page": "/video-highlight/page/{page}/"
+      },
+      "attrs": {
+        "href": ["href", "data-href", "data-url"],
+        "src": ["src", "data-src", "data-lazy-src"]
+      },
+      "selectors": {
+        "card": [".highlight__item", ".splide__slide"],
+        "link": ["a[href*='video-highlight']", "a"],
+        "title": ["p", ".highlight__item__content p", "img[alt]"],
+        "image": ["[style*='background-image']", "img"],
+        "player": ["#player iframe", "iframe[src*='embed']", "iframe"],
+        "jwplayerFile": ["file"]
+      },
+      "recentDays": 5,
+      "retentionDays": 5,
+      "maxPages": 10,
+      "maxItems": 40,
+      "notes": "Socolive video-highlight last 5 days. Paginates list via axios. GitHub highlight2.json."
+    },
+    {
+      "name": "myanmartv",
+      "enabled": true,
+      "type": "channels",
+      "domains": ["https://www.myanmartvchannels.com/"],
+      "paths": {
+        "channels": "https://www.myanmartvchannels.com/tv-channels.html"
+      }
+    },
+    {
+      "name": "tips",
+      "enabled": true,
+      "type": "tips",
+      "domains": ["https://www.predictz.com/"],
+      "paths": {
+        "today": "https://www.predictz.com/predictions/",
+        "tomorrow": "https://www.predictz.com/predictions/tomorrow/"
+      },
+      "notes": "PredictZ today + tomorrow tips. Default TIPS_CRON 08:07 and 20:07 Yangon; queued if football scrape is busy."
+    }
+  ]
+}
