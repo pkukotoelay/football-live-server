@@ -1,14 +1,16 @@
+# Football scrapes on GitHub-hosted runners (Chrome + RAM).
+# Automatic: every 8 hours. Manual: Actions → Run workflow.
 name: Scrape (highlights / TV / tips)
 
 on:
   schedule:
-    - cron: '0 */8 * * *' # UTC 8 နာရီတစ်ကြိမ်
+    - cron: '0 */8 * * *'
   workflow_dispatch:
     inputs:
       target:
-        description: 'Target to scrape'
+        description: Which scrape to run
         required: true
-        default: 'all'
+        default: all
         type: choice
         options:
           - all
@@ -16,42 +18,75 @@ on:
           - channels
           - tips
 
+concurrency:
+  group: aws-github-action-scrape
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
 jobs:
   scrape:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write # Git Commit & Push လုပ်နိုင်ရန် Permissions ဖွင့်ပေးရန်လိုအပ်သည်
-
+    timeout-minutes: 60
+    env:
+      NODE_ENV: production
+      TZ: Asia/Yangon
+      LOW_MEMORY_MODE: 'false'
+      USE_LOCAL_CONFIG: 'true'
+      LOCAL_CONFIG_DIR: ./config
+      PUPPETEER_HEADLESS: 'new'
+      PUPPETEER_TIMEOUT_MS: '45000'
+      PUPPETEER_BLOCK_RESOURCES: 'true'
+      PUPPETEER_CONCURRENCY: '1'
+      PUPPETEER_MAX_PAGES: '2'
+      BROWSER_RESTART_EVERY_N_PAGES: '8'
+      GITHUB_OWNER: ${{ secrets.GITHUB_OWNER }}
+      GITHUB_REPO: ${{ secrets.GITHUB_REPO }}
+      GITHUB_BRANCH: ${{ secrets.GITHUB_BRANCH || 'main' }}
+      GITHUB_HIGHLIGHT1_PATH: ${{ secrets.GITHUB_HIGHLIGHT1_PATH || 'highlight1.json' }}
+      GITHUB_HIGHLIGHT2_PATH: ${{ secrets.GITHUB_HIGHLIGHT2_PATH || 'highlight2.json' }}
+      GITHUB_CHANNELS_PATH: ${{ secrets.GITHUB_CHANNELS_PATH || 'myanmartv.json' }}
+      GITHUB_TIPS_PATH: ${{ secrets.GITHUB_TIPS_PATH || 'tips.json' }}
+      GITHUB_MATCHES_PATH: ${{ secrets.GITHUB_MATCHES_PATH || 'matches.json' }}
+      GITHUB_MAINLIVE_PATH: ${{ secrets.GITHUB_MAINLIVE_PATH || 'mainlive.json' }}
     steps:
-      - name: Checkout code
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
-      - name: Setup Node.js
-        uses: actions/setup-node@v4
+      - uses: actions/setup-node@v4
         with:
           node-version: '20'
-          cache: 'npm'
+          cache: npm
 
-      - name: Install dependencies
+      - name: Install Google Chrome
+        uses: browser-actions/setup-chrome@v1
+        id: chrome
+
+      - name: Install npm dependencies
         run: npm ci
 
-      - name: Run Scraper
+      - name: Run scrape
         env:
-          DELIVERY_GITHUB_TOKEN: ${{ secrets.DELIVERY_GITHUB_TOKEN }}
-          GITHUB_OWNER: ${{ secrets.GITHUB_OWNER }}
-          GITHUB_REPO: ${{ secrets.GITHUB_REPO }}
+          PUPPETEER_EXECUTABLE_PATH: ${{ steps.chrome.outputs.chrome-path }}
         run: |
-          if [ "${{ github.event.inputs.target }}" = "highlights" ]; then
-            node src/cli/runPipeline.js --highlights
-          elif [ "${{ github.event.inputs.target }}" = "channels" ]; then
-            node src/cli/runPipeline.js --channels
-          elif [ "${{ github.event.inputs.target }}" = "tips" ]; then
-            node src/cli/runPipeline.js --tips
+          TARGET="${{ github.event.inputs.target || 'all' }}"
+          run_one() {
+            echo "::group::$1"
+            node src/cli/runPipeline.js "$2" || echo "::warning::$1 failed (previous JSON kept if scrape empty)"
+            echo "::endgroup::"
+          }
+          if [ "$TARGET" = "highlights" ]; then
+            run_one highlights --highlights
+          elif [ "$TARGET" = "channels" ]; then
+            run_one myanmartv --channels
+          elif [ "$TARGET" = "tips" ]; then
+            run_one tips --tips
           else
-            node src/cli/runPipeline.js --highlights --channels --tips
+            run_one highlights --highlights
+            run_one myanmartv --channels
+            run_one tips --tips
           fi
 
-      # PAT / Secrets မသုံးဘဲ Repo ထဲသို့ တိုက်ရိုက် Commit & Push လုပ်မည့် အဆင့်
       - name: Commit and push delivery JSONs
         run: |
           git config --local user.email "action@github.com"
