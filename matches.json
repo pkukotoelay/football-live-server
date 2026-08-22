@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-22T16:30:16.964+06:30",
+  "generatedAt": "2026-08-22T16:30:22.782+06:30",
   "timezone": "Asia/Yangon",
   "matchCount": 35,
   "matches": [
@@ -28,7 +28,7 @@
       "pinned": false,
       "featured": false,
       "hasStreams": true,
-      "streamCount": 2,
+      "streamCount": 3,
       "originalNames": {
         "fotmob": {
           "league": "KOR K-League 1",
@@ -59,9 +59,7 @@
             "Referer": "https://soco.textliveupdaterz.com/"
           },
           "active": true,
-          "checkedAt": "2026-08-22T10:00:14.605Z",
-          "validationStatus": "AVAILABLE",
-          "validationReason": null
+          "checkedAt": "2026-08-22T10:00:14.605Z"
         },
         {
           "source": "cakhia",
@@ -78,9 +76,24 @@
             "Referer": "https://soco.textliveupdaterz.com/"
           },
           "active": true,
-          "checkedAt": "2026-08-22T10:00:14.511Z",
-          "validationStatus": "AVAILABLE",
-          "validationReason": null
+          "checkedAt": "2026-08-22T10:00:14.511Z"
+        },
+        {
+          "source": "socolive",
+          "type": "m3u8",
+          "quality": "POLO",
+          "name": "Socolive · POLO",
+          "url": "https://live2.livefeedtextbox.com/live/channel10.m3u8",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 13; Mobile) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://soco.textliveupdaterz.com/"
+          },
+          "streamHeaders": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 13; Mobile) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://soco.textliveupdaterz.com/"
+          },
+          "active": true,
+          "checkedAt": "2026-08-22T10:00:22.218Z"
         }
       ],
       "streamAttempts": {
@@ -100,7 +113,7 @@
       "attempts": 1,
       "validationStatus": "AVAILABLE",
       "validationReason": null,
-      "lastAttemptAt": "2026-08-22T10:00:16.941Z",
+      "lastAttemptAt": "2026-08-22T10:00:22.664Z",
       "streamSearch": {
         "started": true,
         "stopped": false,
@@ -132,14 +145,16 @@
             "extractionMethod": "axios"
           },
           "socolive": {
-            "status": "SEARCHING",
-            "attempts": 0,
+            "status": "AVAILABLE",
+            "attempts": 1,
             "postKickoffAttempts": 0,
             "lastError": null,
-            "lastAttemptAt": null,
-            "updatedAt": "2026-08-22T10:00:03.442Z",
-            "slotsDone": {},
-            "extractionMethod": null
+            "lastAttemptAt": "2026-08-22T10:00:22.664Z",
+            "updatedAt": "2026-08-22T10:00:22.664Z",
+            "slotsDone": {
+              "t30": true
+            },
+            "extractionMethod": "axios"
           }
         }
       },
@@ -198,7 +213,7 @@
           }
         }
       },
-      "updatedAt": "2026-08-22T10:00:16.959Z"
+      "updatedAt": "2026-08-22T10:00:22.772Z"
     },
     {
       "matchId": "fc_anyang_fc_seoul_20260822",
@@ -218,13 +233,13 @@
       "fotmobMatchId": 5140000,
       "leagueId": 919356,
       "leagueName": "K League 1 (KOR D1)",
-      "source": "fotmob",
+      "source": "cakhia",
       "manual": false,
       "statusLocked": false,
       "pinned": false,
       "featured": false,
-      "hasStreams": false,
-      "streamCount": 0,
+      "hasStreams": true,
+      "streamCount": 1,
       "originalNames": {
         "fotmob": {
           "league": "KOR K-League 1",
@@ -239,31 +254,90 @@
         "mitomtm": "https://mitomtm.cc/truc-tiep/fc-anyang-vs-seoul-fc-luc-1730-ngay-22-08-2026/",
         "socolive": "https://socolivepp.tv/truc-tiep/fc-anyang-vs-seoul-fc-luc-1730-ngay-22-08-2026/"
       },
-      "streams": [],
-      "streamAttempts": {},
+      "streams": [
+        {
+          "source": "cakhia",
+          "type": "m3u8",
+          "quality": "JOHAN",
+          "name": "Cakhia · JOHAN",
+          "url": "https://live2.livefeedtextbox.com/live/channel12.m3u8",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 13; Mobile) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://soco.textliveupdaterz.com/"
+          },
+          "streamHeaders": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 13; Mobile) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://soco.textliveupdaterz.com/"
+          },
+          "active": true,
+          "checkedAt": "2026-08-22T10:00:22.600Z",
+          "validationStatus": "AVAILABLE",
+          "validationReason": null
+        }
+      ],
+      "streamAttempts": {
+        "t30": true
+      },
       "matchUrl": "https://cakhiazvm.tv/truc-tiep/fc-anyang-vs-seoul-fc-luc-1730-ngay-22-08-2026/",
       "matchUrlStatus": "MATCH_URL_CONFIRMED",
       "matchUrlAttempts": 3,
-      "lastMatchUrlAttemptAt": "2026-08-22T09:55:00.745Z",
+      "lastMatchUrlAttemptAt": "2026-08-22T10:00:03.443Z",
       "matchUrlSource": "cakhia",
-      "streamUrl": null,
-      "streamHeaders": null,
-      "streamStatus": "PREPARING_STREAM",
-      "attempts": 0,
-      "validationStatus": null,
+      "streamUrl": "https://live2.livefeedtextbox.com/live/channel12.m3u8",
+      "streamHeaders": {
+        "User-Agent": "Mozilla/5.0 (Linux; Android 13; Mobile) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36",
+        "Referer": "https://soco.textliveupdaterz.com/"
+      },
+      "streamStatus": "AVAILABLE",
+      "attempts": 1,
+      "validationStatus": "AVAILABLE",
       "validationReason": null,
-      "lastAttemptAt": null,
+      "lastAttemptAt": "2026-08-22T10:00:22.739Z",
       "streamSearch": {
-        "started": false,
+        "started": true,
         "stopped": false,
         "stopTime": null,
         "slotsDone": {},
-        "sources": {}
+        "sources": {
+          "cakhia": {
+            "status": "AVAILABLE",
+            "attempts": 1,
+            "postKickoffAttempts": 0,
+            "lastError": null,
+            "lastAttemptAt": "2026-08-22T10:00:22.739Z",
+            "updatedAt": "2026-08-22T10:00:22.739Z",
+            "slotsDone": {
+              "t30": true
+            },
+            "extractionMethod": "axios"
+          },
+          "mitomtm": {
+            "status": "SEARCHING",
+            "attempts": 0,
+            "postKickoffAttempts": 0,
+            "lastError": null,
+            "lastAttemptAt": null,
+            "updatedAt": "2026-08-22T10:00:03.446Z",
+            "slotsDone": {},
+            "extractionMethod": null
+          },
+          "socolive": {
+            "status": "SEARCHING",
+            "attempts": 0,
+            "postKickoffAttempts": 0,
+            "lastError": null,
+            "lastAttemptAt": null,
+            "updatedAt": "2026-08-22T10:00:03.446Z",
+            "slotsDone": {},
+            "extractionMethod": null
+          }
+        }
       },
       "matchUrlSearch": {
         "slotsDone": {
           "t60": true,
-          "t45": true
+          "t45": true,
+          "t30": true
         },
         "sources": {
           "cakhia": {
@@ -282,10 +356,11 @@
             "status": "MATCH_URL_FAILED",
             "attempts": 3,
             "liveAttempts": 0,
-            "lastAttemptAt": "2026-08-22T09:55:00.745Z",
+            "lastAttemptAt": "2026-08-22T10:00:03.443Z",
             "slotsDone": {
               "t60": true,
-              "t45": true
+              "t45": true,
+              "t30": true
             },
             "confidence": 0
           },
@@ -313,7 +388,7 @@
           }
         }
       },
-      "updatedAt": "2026-08-22T10:00:16.960Z"
+      "updatedAt": "2026-08-22T10:00:22.773Z"
     },
     {
       "matchId": "jeju_united_gimcheon_sangmu_20260822",
@@ -428,7 +503,7 @@
           }
         }
       },
-      "updatedAt": "2026-08-22T10:00:16.960Z"
+      "updatedAt": "2026-08-22T10:00:22.773Z"
     },
     {
       "matchId": "jeonbuk_hyundai_motors_ulsan_hd_fc_20260822",
@@ -543,7 +618,7 @@
           }
         }
       },
-      "updatedAt": "2026-08-22T10:00:16.960Z"
+      "updatedAt": "2026-08-22T10:00:22.774Z"
     },
     {
       "matchId": "hull_city_manchester_united_20260822",
@@ -605,7 +680,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-22T10:00:16.960Z"
+      "updatedAt": "2026-08-22T10:00:22.774Z"
     },
     {
       "matchId": "thailand_vietnam_20260822",
@@ -667,7 +742,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-22T10:00:16.960Z"
+      "updatedAt": "2026-08-22T10:00:22.774Z"
     },
     {
       "matchId": "everton_crystal_palace_20260822",
@@ -729,7 +804,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-22T10:00:16.961Z"
+      "updatedAt": "2026-08-22T10:00:22.774Z"
     },
     {
       "matchId": "ipswich_town_sunderland_20260822",
@@ -791,7 +866,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-22T10:00:16.961Z"
+      "updatedAt": "2026-08-22T10:00:22.775Z"
     },
     {
       "matchId": "nottingham_forest_leeds_united_20260822",
@@ -853,7 +928,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-22T10:00:16.962Z"
+      "updatedAt": "2026-08-22T10:00:22.775Z"
     },
     {
       "matchId": "athletic_bilbao_sevilla_20260822",
@@ -915,7 +990,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-22T10:00:16.962Z"
+      "updatedAt": "2026-08-22T10:00:22.775Z"
     },
     {
       "matchId": "lens_auxerre_20260822",
@@ -977,7 +1052,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-22T10:00:16.962Z"
+      "updatedAt": "2026-08-22T10:00:22.775Z"
     },
     {
       "matchId": "brentford_tottenham_hotspur_20260822",
@@ -1039,7 +1114,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-22T10:00:16.962Z"
+      "updatedAt": "2026-08-22T10:00:22.776Z"
     },
     {
       "matchId": "inter_milan_monza_20260822",
@@ -1101,7 +1176,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-22T10:00:16.962Z"
+      "updatedAt": "2026-08-22T10:00:22.776Z"
     },
     {
       "matchId": "udinese_como_20260822",
@@ -1163,7 +1238,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-22T10:00:16.962Z"
+      "updatedAt": "2026-08-22T10:00:22.776Z"
     },
     {
       "matchId": "valencia_celta_vigo_20260823",
@@ -1225,7 +1300,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-22T10:00:16.962Z"
+      "updatedAt": "2026-08-22T10:00:22.776Z"
     },
     {
       "matchId": "le_mans_brest_20260823",
@@ -1287,7 +1362,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-22T10:00:16.962Z"
+      "updatedAt": "2026-08-22T10:00:22.777Z"
     },
     {
       "matchId": "nice_lorient_20260823",
@@ -1349,7 +1424,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-22T10:00:16.962Z"
+      "updatedAt": "2026-08-22T10:00:22.777Z"
     },
     {
       "matchId": "toulouse_olympique_lyonnais_20260823",
@@ -1411,7 +1486,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-22T10:00:16.963Z"
+      "updatedAt": "2026-08-22T10:00:22.777Z"
     },
     {
       "matchId": "troyes_paris_fc_20260823",
@@ -1473,7 +1548,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-22T10:00:16.963Z"
+      "updatedAt": "2026-08-22T10:00:22.777Z"
     },
     {
       "matchId": "genoa_napoli_20260823",
@@ -1535,7 +1610,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-22T10:00:16.963Z"
+      "updatedAt": "2026-08-22T10:00:22.778Z"
     },
     {
       "matchId": "parma_cagliari_20260823",
@@ -1597,7 +1672,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-22T10:00:16.963Z"
+      "updatedAt": "2026-08-22T10:00:22.778Z"
     },
     {
       "matchId": "fluminense_remo_20260823",
@@ -1659,7 +1734,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-22T10:00:16.963Z"
+      "updatedAt": "2026-08-22T10:00:22.778Z"
     },
     {
       "matchId": "espanyol_real_madrid_20260823",
@@ -1721,7 +1796,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-22T10:00:16.963Z"
+      "updatedAt": "2026-08-22T10:00:22.779Z"
     },
     {
       "matchId": "internacional_atletico_mg_20260823",
@@ -1783,7 +1858,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-22T10:00:16.963Z"
+      "updatedAt": "2026-08-22T10:00:22.779Z"
     },
     {
       "matchId": "cruzeiro_flamengo_20260823",
@@ -1845,7 +1920,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-22T10:00:16.963Z"
+      "updatedAt": "2026-08-22T10:00:22.779Z"
     },
     {
       "matchId": "daejeon_hana_citizen_gangwon_fc_20260823",
@@ -1907,7 +1982,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-22T10:00:16.963Z"
+      "updatedAt": "2026-08-22T10:00:22.779Z"
     },
     {
       "matchId": "gwangju_fc_incheon_united_20260823",
@@ -1969,7 +2044,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-22T10:00:16.964Z"
+      "updatedAt": "2026-08-22T10:00:22.780Z"
     },
     {
       "matchId": "angers_lille_20260823",
@@ -2031,7 +2106,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-22T10:00:16.964Z"
+      "updatedAt": "2026-08-22T10:00:22.780Z"
     },
     {
       "matchId": "brighton_and_hove_albion_aston_villa_20260823",
@@ -2093,7 +2168,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-22T10:00:16.964Z"
+      "updatedAt": "2026-08-22T10:00:22.780Z"
     },
     {
       "matchId": "manchester_city_bournemouth_20260823",
@@ -2155,7 +2230,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-22T10:00:16.964Z"
+      "updatedAt": "2026-08-22T10:00:22.780Z"
     },
     {
       "matchId": "atletico_madrid_villarreal_20260823",
@@ -2217,7 +2292,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-22T10:00:16.964Z"
+      "updatedAt": "2026-08-22T10:00:22.781Z"
     },
     {
       "matchId": "le_havre_as_monaco_20260823",
@@ -2279,7 +2354,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-22T10:00:16.964Z"
+      "updatedAt": "2026-08-22T10:00:22.781Z"
     },
     {
       "matchId": "newcastle_united_liverpool_20260823",
@@ -2341,7 +2416,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-22T10:00:16.964Z"
+      "updatedAt": "2026-08-22T10:00:22.781Z"
     },
     {
       "matchId": "frosinone_juventus_20260823",
@@ -2403,7 +2478,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-22T10:00:16.964Z"
+      "updatedAt": "2026-08-22T10:00:22.781Z"
     },
     {
       "matchId": "venezia_lecce_20260823",
@@ -2465,7 +2540,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-22T10:00:16.964Z"
+      "updatedAt": "2026-08-22T10:00:22.782Z"
     }
   ],
   "meta": {
@@ -2488,8 +2563,8 @@
     "manualStreamCount": 0,
     "highlightCount": 10,
     "channelCount": 0,
-    "checksum": "679f524ff08df688986f9bb1880a373f38a395fd48146c938be9f34e31b0965c",
-    "cachedAt": "2026-08-22T10:00:16.975Z",
+    "checksum": "6d2a7c6aeca81b8cc1688170df441ad27adff5b2c38271d3e762364fb292617f",
+    "cachedAt": "2026-08-22T10:00:22.801Z",
     "feed": "matches"
   }
 }
