@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-22T16:45:24.813+06:30",
+  "generatedAt": "2026-08-22T16:45:26.423+06:30",
   "timezone": "Asia/Yangon",
   "matchCount": 35,
   "matches": [
@@ -219,7 +219,7 @@
           }
         }
       },
-      "updatedAt": "2026-08-22T10:15:24.805Z"
+      "updatedAt": "2026-08-22T10:15:26.415Z"
     },
     {
       "matchId": "fc_anyang_fc_seoul_20260822",
@@ -436,7 +436,7 @@
           }
         }
       },
-      "updatedAt": "2026-08-22T10:15:24.805Z"
+      "updatedAt": "2026-08-22T10:15:26.416Z"
     },
     {
       "matchId": "jeju_united_gimcheon_sangmu_20260822",
@@ -653,7 +653,7 @@
           }
         }
       },
-      "updatedAt": "2026-08-22T10:15:24.805Z"
+      "updatedAt": "2026-08-22T10:15:26.416Z"
     },
     {
       "matchId": "jeonbuk_hyundai_motors_ulsan_hd_fc_20260822",
@@ -748,12 +748,13 @@
         }
       ],
       "streamAttempts": {
-        "t30": true
+        "t30": true,
+        "t15": true
       },
       "matchUrl": "https://cakhiazvm.tv/truc-tiep/jeonbuk-hyundai-vs-ulsan-hyundai-luc-1730-ngay-22-08-2026/",
       "matchUrlStatus": "MATCH_URL_FOUND",
       "matchUrlAttempts": 3,
-      "lastMatchUrlAttemptAt": "2026-08-22T10:05:05.716Z",
+      "lastMatchUrlAttemptAt": "2026-08-22T10:15:03.551Z",
       "matchUrlSource": "cakhia",
       "streamUrl": "https://live2.livefeedtextbox.com/live/channel22.m3u8",
       "streamHeaders": {
@@ -761,10 +762,10 @@
         "Referer": "https://soco.textliveupdaterz.com/"
       },
       "streamStatus": "AVAILABLE",
-      "attempts": 3,
+      "attempts": 4,
       "validationStatus": null,
       "validationReason": null,
-      "lastAttemptAt": "2026-08-22T10:10:30.794Z",
+      "lastAttemptAt": "2026-08-22T10:15:26.390Z",
       "streamSearch": {
         "started": true,
         "stopped": false,
@@ -775,35 +776,36 @@
         "sources": {
           "cakhia": {
             "status": "AVAILABLE",
-            "attempts": 3,
+            "attempts": 4,
             "postKickoffAttempts": 0,
             "lastError": null,
-            "lastAttemptAt": "2026-08-22T10:10:25.223Z",
-            "updatedAt": "2026-08-22T10:10:25.223Z",
+            "lastAttemptAt": "2026-08-22T10:15:26.390Z",
+            "updatedAt": "2026-08-22T10:15:26.390Z",
             "slotsDone": {
-              "t30": true
+              "t30": true,
+              "t15": true
             },
             "extractionMethod": "axios"
           },
           "mitomtm": {
-            "status": "AVAILABLE",
+            "status": "SEARCHING",
             "attempts": 3,
             "postKickoffAttempts": 0,
             "lastError": null,
             "lastAttemptAt": "2026-08-22T10:10:28.057Z",
-            "updatedAt": "2026-08-22T10:10:28.057Z",
+            "updatedAt": "2026-08-22T10:15:03.562Z",
             "slotsDone": {
               "t30": true
             },
             "extractionMethod": "axios"
           },
           "socolive": {
-            "status": "AVAILABLE",
+            "status": "SEARCHING",
             "attempts": 3,
             "postKickoffAttempts": 0,
             "lastError": null,
             "lastAttemptAt": "2026-08-22T10:10:30.794Z",
-            "updatedAt": "2026-08-22T10:10:30.794Z",
+            "updatedAt": "2026-08-22T10:15:03.562Z",
             "slotsDone": {
               "t30": true
             },
@@ -834,7 +836,7 @@
             "status": "MATCH_URL_FAILED",
             "attempts": 3,
             "liveAttempts": 0,
-            "lastAttemptAt": "2026-08-22T10:05:05.716Z",
+            "lastAttemptAt": "2026-08-22T10:15:03.551Z",
             "slotsDone": {
               "t60": true,
               "t45": true,
@@ -866,7 +868,7 @@
           }
         }
       },
-      "updatedAt": "2026-08-22T10:15:24.806Z"
+      "updatedAt": "2026-08-22T10:15:26.416Z"
     },
     {
       "matchId": "hull_city_manchester_united_20260822",
@@ -928,7 +930,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-22T10:15:24.806Z"
+      "updatedAt": "2026-08-22T10:15:26.416Z"
     },
     {
       "matchId": "thailand_vietnam_20260822",
@@ -990,7 +992,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-22T10:15:24.806Z"
+      "updatedAt": "2026-08-22T10:15:26.417Z"
     },
     {
       "matchId": "everton_crystal_palace_20260822",
@@ -1052,7 +1054,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-22T10:15:24.806Z"
+      "updatedAt": "2026-08-22T10:15:26.417Z"
     },
     {
       "matchId": "ipswich_town_sunderland_20260822",
@@ -1114,7 +1116,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-22T10:15:24.806Z"
+      "updatedAt": "2026-08-22T10:15:26.417Z"
     },
     {
       "matchId": "nottingham_forest_leeds_united_20260822",
@@ -1176,7 +1178,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-22T10:15:24.807Z"
+      "updatedAt": "2026-08-22T10:15:26.417Z"
     },
     {
       "matchId": "athletic_bilbao_sevilla_20260822",
@@ -1238,7 +1240,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-22T10:15:24.807Z"
+      "updatedAt": "2026-08-22T10:15:26.418Z"
     },
     {
       "matchId": "lens_auxerre_20260822",
@@ -1300,7 +1302,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-22T10:15:24.807Z"
+      "updatedAt": "2026-08-22T10:15:26.418Z"
     },
     {
       "matchId": "brentford_tottenham_hotspur_20260822",
@@ -1362,7 +1364,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-22T10:15:24.807Z"
+      "updatedAt": "2026-08-22T10:15:26.418Z"
     },
     {
       "matchId": "inter_milan_monza_20260822",
@@ -1424,7 +1426,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-22T10:15:24.807Z"
+      "updatedAt": "2026-08-22T10:15:26.418Z"
     },
     {
       "matchId": "udinese_como_20260822",
@@ -1486,7 +1488,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-22T10:15:24.808Z"
+      "updatedAt": "2026-08-22T10:15:26.418Z"
     },
     {
       "matchId": "valencia_celta_vigo_20260823",
@@ -1548,7 +1550,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-22T10:15:24.808Z"
+      "updatedAt": "2026-08-22T10:15:26.419Z"
     },
     {
       "matchId": "le_mans_brest_20260823",
@@ -1610,7 +1612,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-22T10:15:24.808Z"
+      "updatedAt": "2026-08-22T10:15:26.419Z"
     },
     {
       "matchId": "nice_lorient_20260823",
@@ -1672,7 +1674,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-22T10:15:24.808Z"
+      "updatedAt": "2026-08-22T10:15:26.419Z"
     },
     {
       "matchId": "toulouse_olympique_lyonnais_20260823",
@@ -1734,7 +1736,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-22T10:15:24.809Z"
+      "updatedAt": "2026-08-22T10:15:26.419Z"
     },
     {
       "matchId": "troyes_paris_fc_20260823",
@@ -1796,7 +1798,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-22T10:15:24.809Z"
+      "updatedAt": "2026-08-22T10:15:26.419Z"
     },
     {
       "matchId": "genoa_napoli_20260823",
@@ -1858,7 +1860,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-22T10:15:24.809Z"
+      "updatedAt": "2026-08-22T10:15:26.420Z"
     },
     {
       "matchId": "parma_cagliari_20260823",
@@ -1920,7 +1922,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-22T10:15:24.809Z"
+      "updatedAt": "2026-08-22T10:15:26.420Z"
     },
     {
       "matchId": "fluminense_remo_20260823",
@@ -1982,7 +1984,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-22T10:15:24.809Z"
+      "updatedAt": "2026-08-22T10:15:26.420Z"
     },
     {
       "matchId": "espanyol_real_madrid_20260823",
@@ -2044,7 +2046,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-22T10:15:24.809Z"
+      "updatedAt": "2026-08-22T10:15:26.420Z"
     },
     {
       "matchId": "internacional_atletico_mg_20260823",
@@ -2106,7 +2108,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-22T10:15:24.810Z"
+      "updatedAt": "2026-08-22T10:15:26.420Z"
     },
     {
       "matchId": "cruzeiro_flamengo_20260823",
@@ -2168,7 +2170,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-22T10:15:24.810Z"
+      "updatedAt": "2026-08-22T10:15:26.421Z"
     },
     {
       "matchId": "daejeon_hana_citizen_gangwon_fc_20260823",
@@ -2230,7 +2232,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-22T10:15:24.810Z"
+      "updatedAt": "2026-08-22T10:15:26.421Z"
     },
     {
       "matchId": "gwangju_fc_incheon_united_20260823",
@@ -2292,7 +2294,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-22T10:15:24.810Z"
+      "updatedAt": "2026-08-22T10:15:26.421Z"
     },
     {
       "matchId": "angers_lille_20260823",
@@ -2354,7 +2356,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-22T10:15:24.811Z"
+      "updatedAt": "2026-08-22T10:15:26.421Z"
     },
     {
       "matchId": "brighton_and_hove_albion_aston_villa_20260823",
@@ -2416,7 +2418,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-22T10:15:24.811Z"
+      "updatedAt": "2026-08-22T10:15:26.421Z"
     },
     {
       "matchId": "manchester_city_bournemouth_20260823",
@@ -2478,7 +2480,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-22T10:15:24.811Z"
+      "updatedAt": "2026-08-22T10:15:26.422Z"
     },
     {
       "matchId": "atletico_madrid_villarreal_20260823",
@@ -2540,7 +2542,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-22T10:15:24.811Z"
+      "updatedAt": "2026-08-22T10:15:26.422Z"
     },
     {
       "matchId": "le_havre_as_monaco_20260823",
@@ -2602,7 +2604,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-22T10:15:24.812Z"
+      "updatedAt": "2026-08-22T10:15:26.422Z"
     },
     {
       "matchId": "newcastle_united_liverpool_20260823",
@@ -2664,7 +2666,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-22T10:15:24.812Z"
+      "updatedAt": "2026-08-22T10:15:26.422Z"
     },
     {
       "matchId": "frosinone_juventus_20260823",
@@ -2726,7 +2728,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-22T10:15:24.812Z"
+      "updatedAt": "2026-08-22T10:15:26.422Z"
     },
     {
       "matchId": "venezia_lecce_20260823",
@@ -2788,7 +2790,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-22T10:15:24.813Z"
+      "updatedAt": "2026-08-22T10:15:26.423Z"
     }
   ],
   "meta": {
@@ -2811,8 +2813,8 @@
     "manualStreamCount": 0,
     "highlightCount": 10,
     "channelCount": 0,
-    "checksum": "ca9142089d035153fd4d345104d83cb385e2d99d511ffdf6180b3f8289d6a1f2",
-    "cachedAt": "2026-08-22T10:15:24.833Z",
+    "checksum": "0b89a9e2ddf3965a6ae0bff3417b24a40e1a3ef535960c6c28030d448e1db1e1",
+    "cachedAt": "2026-08-22T10:15:26.437Z",
     "feed": "matches"
   }
 }
