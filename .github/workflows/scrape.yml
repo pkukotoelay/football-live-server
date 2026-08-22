@@ -1,10 +1,10 @@
 # Football scrapes on GitHub-hosted runners (Chrome + RAM).
-# Automatic: every 8 hours. Manual: Actions → Run workflow.
+# Automatic: highlights + tips every 3 hours. Manual: Actions → Run workflow.
 name: Scrape (highlights / TV / tips)
 
 on:
   schedule:
-    - cron: '0 */8 * * *'
+    - cron: '30 */3 * * *'
   workflow_dispatch:
     inputs:
       target:
@@ -51,6 +51,9 @@ jobs:
       GITHUB_TIPS_PATH: ${{ secrets.GITHUB_TIPS_PATH || 'tips.json' }}
       GITHUB_MATCHES_PATH: ${{ secrets.GITHUB_MATCHES_PATH || 'matches.json' }}
       GITHUB_MAINLIVE_PATH: ${{ secrets.GITHUB_MAINLIVE_PATH || 'mainlive.json' }}
+      HIGHLIGHT1_TIMEOUT_MS: '180000'
+      HIGHLIGHT2_TIMEOUT_MS: '300000'
+      HIGHLIGHT_MAX_ITEMS_CAP: '12'
     steps:
       - uses: actions/checkout@v4
 
@@ -66,11 +69,20 @@ jobs:
       - name: Install npm dependencies
         run: npm ci
 
+      - name: Seed local cache from published root JSON
+        run: |
+          mkdir -p data/delivery
+          for f in highlight1.json highlight2.json myanmartv.json tips.json; do
+            if [ -f "./$f" ]; then
+              cp -a "./$f" "data/delivery/$f"
+            fi
+          done
+
       - name: Run scrape
         env:
           PUPPETEER_EXECUTABLE_PATH: ${{ steps.chrome.outputs.chrome-path }}
         run: |
-          TARGET="${{ github.event.inputs.target || 'all' }}"
+          TARGET="${{ github.event_name == 'schedule' && 'scheduled' || github.event.inputs.target || 'all' }}"
           run_one() {
             echo "::group::$1"
             node src/cli/runPipeline.js "$2" || echo "::warning::$1 failed (previous JSON kept if scrape empty)"
@@ -81,6 +93,9 @@ jobs:
           elif [ "$TARGET" = "channels" ]; then
             run_one myanmartv --channels
           elif [ "$TARGET" = "tips" ]; then
+            run_one tips --tips
+          elif [ "$TARGET" = "scheduled" ]; then
+            run_one highlights --highlights
             run_one tips --tips
           else
             run_one highlights --highlights

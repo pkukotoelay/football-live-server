@@ -73,6 +73,7 @@ class Scheduler {
       { timezone: 'Asia/Yangon' }
     );
 
+    const disableHeavy = /^(1|true|yes)$/i.test(String(this.env.DISABLE_HEAVY_CRONS || ''));
     if (disableHeavy) {
       logger.info('Highlight / MyanmarTV / tips crons off — GitHub Actions owns those feeds');
     } else {

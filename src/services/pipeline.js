@@ -826,6 +826,17 @@ class Pipeline {
         if (!existing.length && feedKey === 'highlight1') {
           existing = [...sourceManager.extractList(this.cache.getCurrent())];
         }
+        if (!existing.length && this.github.enabled) {
+          try {
+            const remote = await this.github.getFileSha(this.github.paths[feedKey]);
+            existing = [...sourceManager.extractList(remote.content)];
+          } catch (err) {
+            logger.warn('Could not seed highlights from GitHub', {
+              feed: feedKey,
+              error: err.message,
+            });
+          }
+        }
 
         let scraped = [];
         try {
@@ -1316,7 +1327,15 @@ class Pipeline {
         domains: ['https://www.predictz.com/'],
       };
 
-      const previousDelivery = this.cache.getDelivery('tips');
+      let previousDelivery = this.cache.getDelivery('tips');
+      if (!previousDelivery && this.github.enabled) {
+        try {
+          const remote = await this.github.getFileSha(this.github.paths.tips);
+          previousDelivery = remote.content;
+        } catch (err) {
+          logger.warn('Could not seed tips from GitHub', { error: err.message });
+        }
+      }
 
       let scraped = null;
       try {
