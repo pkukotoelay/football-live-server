@@ -1,14 +1,139 @@
 {
   "source": "https://www.predictz.com/",
-  "scraped_at": "2026-08-22T19:34:14.494Z",
+  "scraped_at": "2026-08-22T21:59:10.366Z",
   "timezone": "Asia/Yangon",
   "today": {
     "day": "today",
     "date": "2026-08-23",
-    "label": "www.predictz.com",
+    "label": "Football Tips Tonight - Saturday, August 22nd, 2026",
     "pageUrl": "https://www.predictz.com/predictions/",
-    "count": 0,
-    "tips": []
+    "count": 4,
+    "tips": [
+      {
+        "id": "1185922",
+        "day": "today",
+        "date": "2026-08-23",
+        "league": "Brazil Serie C",
+        "homeTeam": "Confianca",
+        "awayTeam": "Anapolis",
+        "match": "Confianca v Anapolis",
+        "prediction": "Draw 2-2",
+        "predictionSide": "draw",
+        "odds": {
+          "home": "1.97",
+          "draw": "3.05",
+          "away": "3.85"
+        },
+        "homeForm": [
+          "L",
+          "L",
+          "D",
+          "L",
+          "D"
+        ],
+        "awayForm": [
+          "L",
+          "L",
+          "W",
+          "W",
+          "L"
+        ],
+        "url": "https://www.predictz.com/predictions/brazil/serie-c/1185922/"
+      },
+      {
+        "id": "1185921",
+        "day": "today",
+        "date": "2026-08-23",
+        "league": "Brazil Serie C",
+        "homeTeam": "Santa Cruz",
+        "awayTeam": "Caxias RS",
+        "match": "Santa Cruz v Caxias RS",
+        "prediction": "Draw 1-1",
+        "predictionSide": "draw",
+        "odds": {
+          "home": "2.06",
+          "draw": "3.00",
+          "away": "3.60"
+        },
+        "homeForm": [
+          "W",
+          "W",
+          "D",
+          "D",
+          "L"
+        ],
+        "awayForm": [
+          "W",
+          "D",
+          "L",
+          "W",
+          "L"
+        ],
+        "url": "https://www.predictz.com/predictions/brazil/serie-c/1185921/"
+      },
+      {
+        "id": "1219101",
+        "day": "today",
+        "date": "2026-08-23",
+        "league": "Venezuela Primera Division",
+        "homeTeam": "Metropolitanos",
+        "awayTeam": "Tachira",
+        "match": "Metropolitanos v Tachira",
+        "prediction": "Draw 0-0",
+        "predictionSide": "draw",
+        "odds": {
+          "home": "3.30",
+          "draw": "3.05",
+          "away": "2.17"
+        },
+        "homeForm": [
+          "L",
+          "W",
+          "W",
+          "W",
+          "L"
+        ],
+        "awayForm": [
+          "D",
+          "W",
+          "W",
+          "W",
+          "W"
+        ],
+        "url": "https://www.predictz.com/predictions/venezuela/primera-division/1219101/"
+      },
+      {
+        "id": "1219098",
+        "day": "today",
+        "date": "2026-08-23",
+        "league": "Venezuela Primera Division",
+        "homeTeam": "Monagas SC",
+        "awayTeam": "Portuguesa FC",
+        "match": "Monagas SC v Portuguesa FC",
+        "prediction": "Draw 2-2",
+        "predictionSide": "draw",
+        "odds": {
+          "home": "2.15",
+          "draw": "3.20",
+          "away": "3.15"
+        },
+        "homeForm": [
+          "D",
+          "L",
+          "L",
+          "W",
+          "L"
+        ],
+        "awayForm": [
+          "W",
+          "W",
+          "L",
+          "W",
+          "W"
+        ],
+        "url": "https://www.predictz.com/predictions/venezuela/primera-division/1219098/"
+      }
+    ]
   },
   "tomorrow": {
     "day": "tomorrow",
@@ -90,9 +215,9 @@
         "prediction": "Home 3-2",
         "predictionSide": "home",
         "odds": {
-          "home": "4.00",
-          "draw": "3.70",
-          "away": "1.90"
+          "home": "4.20",
+          "draw": "3.75",
+          "away": "1.85"
         },
         "homeForm": [
           "L",
@@ -400,8 +525,8 @@
         "prediction": "Away 0-4",
         "predictionSide": "away",
         "odds": {
-          "home": "51.00",
-          "draw": "23.00",
+          "home": "41.00",
+          "draw": "21.00",
           "away": "1.02"
         },
         "homeForm": [
@@ -643,8 +768,8 @@
         "predictionSide": "home",
         "odds": {
           "home": "1.53",
-          "draw": "4.10",
-          "away": "6.50"
+          "draw": "4.20",
+          "away": "6.00"
         },
         "homeForm": [
           "L",
@@ -952,8 +1077,8 @@
         "prediction": "Home 1-0",
         "predictionSide": "home",
         "odds": {
-          "home": "2.15",
-          "draw": "2.57",
+          "home": "2.20",
+          "draw": "2.50",
           "away": "4.33"
         },
         "homeForm": [
@@ -983,9 +1108,9 @@
         "prediction": "Home 2-0",
         "predictionSide": "home",
         "odds": {
-          "home": "2.25",
+          "home": "2.15",
           "draw": "2.85",
-          "away": "3.60"
+          "away": "3.75"
         },
         "homeForm": [
           "W",
@@ -1138,9 +1263,9 @@
         "prediction": "Away 0-3",
         "predictionSide": "away",
         "odds": {
-          "home": "3.20",
-          "draw": "3.25",
-          "away": "2.25"
+          "home": "3.30",
+          "draw": "3.30",
+          "away": "2.20"
         },
         "homeForm": [
           "W",
@@ -1169,7 +1294,7 @@
         "prediction": "Draw 1-1",
         "predictionSide": "draw",
         "odds": {
-          "home": "1.68",
+          "home": "1.66",
           "draw": "3.75",
           "away": "5.00"
         },
@@ -1355,9 +1480,9 @@
         "prediction": "Home 1-0",
         "predictionSide": "home",
         "odds": {
-          "home": "2.05",
-          "draw": "3.50",
-          "away": "3.50"
+          "home": "1.91",
+          "draw": "3.60",
+          "away": "3.80"
         },
         "homeForm": [
           "L",
@@ -1386,9 +1511,9 @@
         "prediction": "Away 1-2",
         "predictionSide": "away",
         "odds": {
-          "home": "1.71",
-          "draw": "3.75",
-          "away": "4.50"
+          "home": "1.68",
+          "draw": "3.90",
+          "away": "4.75"
         },
         "homeForm": [
           "D",
@@ -1449,8 +1574,8 @@
         "predictionSide": "home",
         "odds": {
           "home": "1.30",
-          "draw": "5.75",
-          "away": "8.00"
+          "draw": "6.00",
+          "away": "8.50"
         },
         "homeForm": [
           "W",
@@ -1479,9 +1604,9 @@
         "prediction": "Away 0-2",
         "predictionSide": "away",
         "odds": {
-          "home": "2.65",
-          "draw": "3.60",
-          "away": "2.45"
+          "home": "2.55",
+          "draw": "3.50",
+          "away": "2.55"
         },
         "homeForm": [
           "L",
@@ -1510,9 +1635,9 @@
         "prediction": "Draw 1-1",
         "predictionSide": "draw",
         "odds": {
-          "home": "1.96",
+          "home": "2.01",
           "draw": "4.00",
-          "away": "3.25"
+          "away": "3.20"
         },
         "homeForm": [
           "W",
@@ -1572,9 +1697,9 @@
         "prediction": "Draw 2-2",
         "predictionSide": "draw",
         "odds": {
-          "home": "2.15",
-          "draw": "3.50",
-          "away": "3.40"
+          "home": "2.01",
+          "draw": "3.60",
+          "away": "3.70"
         },
         "homeForm": [
           "W",
@@ -1634,9 +1759,9 @@
         "prediction": "Draw 2-2",
         "predictionSide": "draw",
         "odds": {
-          "home": "1.51",
-          "draw": "4.33",
-          "away": "5.75"
+          "home": "1.46",
+          "draw": "4.50",
+          "away": "6.25"
         },
         "homeForm": [
           "L",
@@ -1758,7 +1883,7 @@
         "prediction": "Draw 1-1",
         "predictionSide": "draw",
         "odds": {
-          "home": "2.25",
+          "home": "2.30",
           "draw": "3.60",
           "away": "3.00"
         },
@@ -1780,5 +1905,5 @@
       }
     ]
   },
-  "count": 57
+  "count": 61
 }
