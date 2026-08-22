@@ -1,8 +1,75 @@
 {
   "source": "https://hoofoot.com/",
-  "scraped_at": "2026-08-22T15:58:18.855Z",
-  "count": 19,
+  "scraped_at": "2026-08-22T19:33:51.340Z",
+  "count": 23,
   "highlights": [
+    {
+      "id": "37965",
+      "title": "Inter v Monza",
+      "img": "https://th.hoofoot.com/pics/37793.jpg",
+      "url": "https://hoofoot.com/?match=Inter_Milan_v_Monza_2026_08_22",
+      "match_date": "2026-08-22",
+      "embed_url": "https://app.videas.fr/embed/media/65883095-ea3f-4366-a36d-9bcb78f9921b/?title=false&logo=false",
+      "m3u8": null,
+      "headers": null,
+      "source": "highlight1"
+    },
+    {
+      "id": "37964",
+      "title": "Brentford v Tottenham",
+      "img": "https://th.hoofoot.com/pics/37792.jpg",
+      "url": "https://hoofoot.com/?match=Brentford_v_Tottenham_2026_08_22",
+      "match_date": "2026-08-22",
+      "embed_url": "https://app.videas.fr/embed/media/735103cf-9ad0-4acc-9cd4-0172de6f9b72/?title=false&logo=false",
+      "m3u8": "https://cdn.videas.fr/v-medias/s5/hlsv1/ad/9d/ad9d7474-03ce-4ab1-b83d-e39914646a38/playlist.m3u8",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+        "Referer": "https://app.videas.fr/embed/media/735103cf-9ad0-4acc-9cd4-0172de6f9b72/?title=false&logo=false"
+      },
+      "source": "highlight1"
+    },
+    {
+      "id": "37963",
+      "title": "Lens v Auxerre",
+      "img": "https://th.hoofoot.com/pics/37791.jpg",
+      "url": "https://hoofoot.com/?match=Lens_v_Auxerre_2026_08_22",
+      "match_date": "2026-08-22",
+      "embed_url": "https://app.videas.fr/embed/media/bd663415-de36-42a8-b7fe-b37498af8313/?title=false&logo=false",
+      "m3u8": "https://cdn.videas.fr/v-medias/s5/hlsv1/86/92/8692d040-9dde-4a87-9edf-db34f1fcfcb2/playlist.m3u8",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+        "Referer": "https://app.videas.fr/embed/media/bd663415-de36-42a8-b7fe-b37498af8313/?title=false&logo=false"
+      },
+      "source": "highlight1"
+    },
+    {
+      "id": "37962",
+      "title": "Athletic Club v Sevilla",
+      "img": "https://th.hoofoot.com/pics/37790.jpg",
+      "url": "https://hoofoot.com/?match=Athletic_Bilbao_v_Sevilla_2026_08_22",
+      "match_date": "2026-08-22",
+      "embed_url": "https://app.videas.fr/embed/media/6106ed4b-ed82-4e46-87cf-cc9c25635d2c/?title=false&logo=false",
+      "m3u8": "https://cdn.videas.fr/v-medias/s5/hlsv1/f1/6f/f16f4390-d57c-4aca-8c62-b3587a78091f/playlist.m3u8",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+        "Referer": "https://app.videas.fr/embed/media/6106ed4b-ed82-4e46-87cf-cc9c25635d2c/?title=false&logo=false"
+      },
+      "source": "highlight1"
+    },
+    {
+      "id": "37961",
+      "title": "Nottingham v Leeds",
+      "img": "https://th.hoofoot.com/pics/37789.jpg",
+      "url": "https://hoofoot.com/?match=Nottingham_v_Leeds_2026_08_22",
+      "match_date": "2026-08-22",
+      "embed_url": "https://app.videas.fr/embed/media/c31919e4-a407-4c35-9cc5-d5b7cdb09767/?title=false&logo=false",
+      "m3u8": "https://cdn.videas.fr/v-medias/s5/hlsv1/c8/a8/c8a80ed8-5484-45bb-b75a-763d4f4ff221/playlist.m3u8",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+        "Referer": "https://app.videas.fr/embed/media/c31919e4-a407-4c35-9cc5-d5b7cdb09767/?title=false&logo=false"
+      },
+      "source": "highlight1"
+    },
     {
       "id": "37960",
       "title": "Everton v Crystal Palace",
@@ -246,20 +313,6 @@
       "headers": {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
         "Referer": "https://app.videas.fr/embed/media/1af5f61a-748a-48fb-a447-71b1557346fd/?title=false&logo=false"
-      },
-      "source": "highlight1"
-    },
-    {
-      "id": "37935",
-      "title": "Arsenal v Manchester City",
-      "img": "https://th.hoofoot.com/pics/37763.jpg",
-      "url": "https://hoofoot.com/?match=Arsenal_v_Manchester_City_2026_08_16",
-      "match_date": "2026-08-16",
-      "embed_url": "https://app.videas.fr/embed/media/d1b44a3c-193a-4e9e-bcbe-4df943c3931b/?title=false&logo=false",
-      "m3u8": "https://cdn.videas.fr/v-medias/s5/hlsv1/85/09/85099d7c-d2e7-47a8-993e-4de4ac8bf2b9/playlist.m3u8",
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
-        "Referer": "https://app.videas.fr/embed/media/d1b44a3c-193a-4e9e-bcbe-4df943c3931b/?title=false&logo=false"
       },
       "source": "highlight1"
     }
