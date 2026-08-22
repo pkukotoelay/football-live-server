@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-23T03:30:02.415+06:30",
+  "generatedAt": "2026-08-23T04:00:00.686+06:30",
   "timezone": "Asia/Yangon",
   "matchCount": 13,
   "matches": [
@@ -18,7 +18,7 @@
       "time": "2:00 AM",
       "kickoff": "2026-08-23T02:00:00.000+06:30",
       "timezone": "Asia/Yangon",
-      "status": "LIVE",
+      "status": "END",
       "fotmobMatchId": 5868025,
       "leagueId": 87,
       "leagueName": "La Liga",
@@ -64,7 +64,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-22T21:00:02.361Z"
+      "updatedAt": "2026-08-22T21:30:00.681Z"
     },
     {
       "matchId": "internacional_atletico_mg_20260823",
@@ -80,7 +80,7 @@
       "time": "4:00 AM",
       "kickoff": "2026-08-23T04:00:00.000+06:30",
       "timezone": "Asia/Yangon",
-      "status": "PREPARING_STREAM",
+      "status": "LIVE",
       "fotmobMatchId": 5103600,
       "leagueId": 268,
       "leagueName": "Brazil Serie A (BRA D1)",
@@ -126,7 +126,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-22T21:00:02.404Z"
+      "updatedAt": "2026-08-22T21:30:00.682Z"
     },
     {
       "matchId": "cruzeiro_flamengo_20260823",
@@ -188,7 +188,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-22T21:00:02.405Z"
+      "updatedAt": "2026-08-22T21:30:00.682Z"
     },
     {
       "matchId": "daejeon_hana_citizen_gangwon_fc_20260823",
@@ -250,7 +250,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-22T21:00:02.405Z"
+      "updatedAt": "2026-08-22T21:30:00.683Z"
     },
     {
       "matchId": "gwangju_fc_incheon_united_20260823",
@@ -312,7 +312,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-22T21:00:02.405Z"
+      "updatedAt": "2026-08-22T21:30:00.683Z"
     },
     {
       "matchId": "angers_lille_20260823",
@@ -374,7 +374,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-22T21:00:02.405Z"
+      "updatedAt": "2026-08-22T21:30:00.683Z"
     },
     {
       "matchId": "brighton_and_hove_albion_aston_villa_20260823",
@@ -436,7 +436,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-22T21:00:02.405Z"
+      "updatedAt": "2026-08-22T21:30:00.683Z"
     },
     {
       "matchId": "manchester_city_bournemouth_20260823",
@@ -498,7 +498,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-22T21:00:02.415Z"
+      "updatedAt": "2026-08-22T21:30:00.684Z"
     },
     {
       "matchId": "atletico_madrid_villarreal_20260823",
@@ -560,7 +560,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-22T21:00:02.415Z"
+      "updatedAt": "2026-08-22T21:30:00.684Z"
     },
     {
       "matchId": "le_havre_as_monaco_20260823",
@@ -622,7 +622,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-22T21:00:02.415Z"
+      "updatedAt": "2026-08-22T21:30:00.685Z"
     },
     {
       "matchId": "newcastle_united_liverpool_20260823",
@@ -684,7 +684,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-22T21:00:02.415Z"
+      "updatedAt": "2026-08-22T21:30:00.685Z"
     },
     {
       "matchId": "frosinone_juventus_20260823",
@@ -746,7 +746,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-22T21:00:02.415Z"
+      "updatedAt": "2026-08-22T21:30:00.686Z"
     },
     {
       "matchId": "venezia_lecce_20260823",
@@ -808,7 +808,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-22T21:00:02.415Z"
+      "updatedAt": "2026-08-22T21:30:00.686Z"
     }
   ],
   "meta": {
@@ -816,18 +816,18 @@
     "sources": [],
     "adminApplied": true,
     "sync": {
-      "removedExpired": 1,
+      "removedExpired": 0,
       "streamsAdded": 0,
       "matchesAdded": 0
     },
     "liveCount": 1,
     "scheduledCount": 11,
-    "endedCount": 0,
+    "endedCount": 1,
     "manualStreamCount": 0,
     "highlightCount": 10,
     "channelCount": 0,
-    "checksum": "3d24e4c36eca64711584c29732302bbf6f8225752c3e25854bdcdc3c00f62f4b",
-    "cachedAt": "2026-08-22T21:00:02.437Z",
+    "checksum": "f04438aa064006681befdff46bdef06fb36415b228f7f8e95cd76b825c495874",
+    "cachedAt": "2026-08-22T21:30:00.693Z",
     "feed": "matches"
   }
 }
