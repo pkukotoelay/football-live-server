@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-23T05:00:00.275+06:30",
+  "generatedAt": "2026-08-23T06:00:00.463+06:30",
   "timezone": "Asia/Yangon",
   "matchCount": 12,
   "matches": [
@@ -18,7 +18,7 @@
       "time": "4:00 AM",
       "kickoff": "2026-08-23T04:00:00.000+06:30",
       "timezone": "Asia/Yangon",
-      "status": "LIVE",
+      "status": "END",
       "fotmobMatchId": 5103600,
       "leagueId": 268,
       "leagueName": "Brazil Serie A (BRA D1)",
@@ -64,7 +64,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-22T22:30:00.273Z"
+      "updatedAt": "2026-08-22T23:30:00.460Z"
     },
     {
       "matchId": "cruzeiro_flamengo_20260823",
@@ -80,7 +80,7 @@
       "time": "6:00 AM",
       "kickoff": "2026-08-23T06:00:00.000+06:30",
       "timezone": "Asia/Yangon",
-      "status": "PREPARING_STREAM",
+      "status": "LIVE",
       "fotmobMatchId": 5103599,
       "leagueId": 268,
       "leagueName": "Brazil Serie A (BRA D1)",
@@ -126,7 +126,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-22T22:30:00.273Z"
+      "updatedAt": "2026-08-22T23:30:00.460Z"
     },
     {
       "matchId": "daejeon_hana_citizen_gangwon_fc_20260823",
@@ -188,7 +188,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-22T22:30:00.274Z"
+      "updatedAt": "2026-08-22T23:30:00.460Z"
     },
     {
       "matchId": "gwangju_fc_incheon_united_20260823",
@@ -250,7 +250,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-22T22:30:00.274Z"
+      "updatedAt": "2026-08-22T23:30:00.461Z"
     },
     {
       "matchId": "angers_lille_20260823",
@@ -312,7 +312,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-22T22:30:00.274Z"
+      "updatedAt": "2026-08-22T23:30:00.461Z"
     },
     {
       "matchId": "brighton_and_hove_albion_aston_villa_20260823",
@@ -374,7 +374,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-22T22:30:00.274Z"
+      "updatedAt": "2026-08-22T23:30:00.461Z"
     },
     {
       "matchId": "manchester_city_bournemouth_20260823",
@@ -436,7 +436,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-22T22:30:00.274Z"
+      "updatedAt": "2026-08-22T23:30:00.461Z"
     },
     {
       "matchId": "atletico_madrid_villarreal_20260823",
@@ -498,7 +498,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-22T22:30:00.275Z"
+      "updatedAt": "2026-08-22T23:30:00.461Z"
     },
     {
       "matchId": "le_havre_as_monaco_20260823",
@@ -560,7 +560,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-22T22:30:00.275Z"
+      "updatedAt": "2026-08-22T23:30:00.462Z"
     },
     {
       "matchId": "newcastle_united_liverpool_20260823",
@@ -622,7 +622,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-22T22:30:00.275Z"
+      "updatedAt": "2026-08-22T23:30:00.462Z"
     },
     {
       "matchId": "frosinone_juventus_20260823",
@@ -684,7 +684,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-22T22:30:00.275Z"
+      "updatedAt": "2026-08-22T23:30:00.463Z"
     },
     {
       "matchId": "venezia_lecce_20260823",
@@ -746,7 +746,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-22T22:30:00.275Z"
+      "updatedAt": "2026-08-22T23:30:00.463Z"
     }
   ],
   "meta": {
@@ -760,12 +760,12 @@
     },
     "liveCount": 1,
     "scheduledCount": 10,
-    "endedCount": 0,
+    "endedCount": 1,
     "manualStreamCount": 0,
     "highlightCount": 10,
     "channelCount": 0,
-    "checksum": "7ca41e0fb25f9a19ecfe8ae45a3b38c0eb733648223f3374f4354f83ecd3700c",
-    "cachedAt": "2026-08-22T22:30:00.283Z",
+    "checksum": "3a4019b7b7d4dc6f548ec68c57844b537e2e8e6c20d75f4d5624c3d9125b0698",
+    "cachedAt": "2026-08-22T23:30:00.470Z",
     "feed": "matches"
   }
 }
