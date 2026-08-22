@@ -1,381 +1,9 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-23T03:15:00.680+06:30",
+  "generatedAt": "2026-08-23T03:15:03.015+06:30",
   "timezone": "Asia/Yangon",
-  "matchCount": 20,
+  "matchCount": 14,
   "matches": [
-    {
-      "matchId": "le_mans_brest_20260823",
-      "league": "Ligue 1",
-      "leagueIcon": "https://images.fotmob.com/image_resources/logo/leaguelogo/53.png",
-      "homeTeam": "Le Mans",
-      "awayTeam": "Brest",
-      "homeTeamId": 8682,
-      "awayTeamId": 8521,
-      "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/8682.png",
-      "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/8521.png",
-      "date": "2026-08-23",
-      "time": "1:15 AM",
-      "kickoff": "2026-08-23T01:15:00.000+06:30",
-      "timezone": "Asia/Yangon",
-      "status": "END",
-      "fotmobMatchId": 5802903,
-      "leagueId": 53,
-      "leagueName": "Ligue 1",
-      "source": "fotmob",
-      "manual": false,
-      "statusLocked": false,
-      "pinned": false,
-      "featured": false,
-      "hasStreams": false,
-      "streamCount": 0,
-      "originalNames": {
-        "fotmob": {
-          "league": "FRA Ligue 1",
-          "country": "FRA",
-          "leagueId": 53,
-          "homeTeam": "Le Mans",
-          "awayTeam": "Brest"
-        }
-      },
-      "sourcePages": {},
-      "streams": [],
-      "streamAttempts": {},
-      "matchUrl": null,
-      "matchUrlStatus": "MATCH_URL_PENDING",
-      "matchUrlAttempts": 0,
-      "lastMatchUrlAttemptAt": null,
-      "matchUrlSource": null,
-      "streamUrl": null,
-      "streamHeaders": null,
-      "streamStatus": "PREPARING_STREAM",
-      "attempts": 0,
-      "validationStatus": null,
-      "validationReason": null,
-      "lastAttemptAt": null,
-      "streamSearch": {
-        "started": false,
-        "stopped": false,
-        "stopTime": null,
-        "slotsDone": {},
-        "sources": {}
-      },
-      "matchUrlSearch": {
-        "slotsDone": {},
-        "sources": {}
-      },
-      "updatedAt": "2026-08-22T20:45:00.675Z"
-    },
-    {
-      "matchId": "nice_lorient_20260823",
-      "league": "Ligue 1",
-      "leagueIcon": "https://images.fotmob.com/image_resources/logo/leaguelogo/53.png",
-      "homeTeam": "Nice",
-      "awayTeam": "Lorient",
-      "homeTeamId": 9831,
-      "awayTeamId": 8689,
-      "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/9831.png",
-      "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/8689.png",
-      "date": "2026-08-23",
-      "time": "1:15 AM",
-      "kickoff": "2026-08-23T01:15:00.000+06:30",
-      "timezone": "Asia/Yangon",
-      "status": "END",
-      "fotmobMatchId": 5802906,
-      "leagueId": 53,
-      "leagueName": "Ligue 1",
-      "source": "fotmob",
-      "manual": false,
-      "statusLocked": false,
-      "pinned": false,
-      "featured": false,
-      "hasStreams": false,
-      "streamCount": 0,
-      "originalNames": {
-        "fotmob": {
-          "league": "FRA Ligue 1",
-          "country": "FRA",
-          "leagueId": 53,
-          "homeTeam": "Nice",
-          "awayTeam": "Lorient"
-        }
-      },
-      "sourcePages": {},
-      "streams": [],
-      "streamAttempts": {},
-      "matchUrl": null,
-      "matchUrlStatus": "MATCH_URL_PENDING",
-      "matchUrlAttempts": 0,
-      "lastMatchUrlAttemptAt": null,
-      "matchUrlSource": null,
-      "streamUrl": null,
-      "streamHeaders": null,
-      "streamStatus": "PREPARING_STREAM",
-      "attempts": 0,
-      "validationStatus": null,
-      "validationReason": null,
-      "lastAttemptAt": null,
-      "streamSearch": {
-        "started": false,
-        "stopped": false,
-        "stopTime": null,
-        "slotsDone": {},
-        "sources": {}
-      },
-      "matchUrlSearch": {
-        "slotsDone": {},
-        "sources": {}
-      },
-      "updatedAt": "2026-08-22T20:45:00.676Z"
-    },
-    {
-      "matchId": "toulouse_olympique_lyonnais_20260823",
-      "league": "Ligue 1",
-      "leagueIcon": "https://images.fotmob.com/image_resources/logo/leaguelogo/53.png",
-      "homeTeam": "Toulouse",
-      "awayTeam": "Olympique Lyonnais",
-      "homeTeamId": 9941,
-      "awayTeamId": 9748,
-      "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/9941.png",
-      "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/9748.png",
-      "date": "2026-08-23",
-      "time": "1:15 AM",
-      "kickoff": "2026-08-23T01:15:00.000+06:30",
-      "timezone": "Asia/Yangon",
-      "status": "END",
-      "fotmobMatchId": 5802908,
-      "leagueId": 53,
-      "leagueName": "Ligue 1",
-      "source": "fotmob",
-      "manual": false,
-      "statusLocked": false,
-      "pinned": false,
-      "featured": false,
-      "hasStreams": false,
-      "streamCount": 0,
-      "originalNames": {
-        "fotmob": {
-          "league": "FRA Ligue 1",
-          "country": "FRA",
-          "leagueId": 53,
-          "homeTeam": "Toulouse",
-          "awayTeam": "Lyon"
-        }
-      },
-      "sourcePages": {},
-      "streams": [],
-      "streamAttempts": {},
-      "matchUrl": null,
-      "matchUrlStatus": "MATCH_URL_PENDING",
-      "matchUrlAttempts": 0,
-      "lastMatchUrlAttemptAt": null,
-      "matchUrlSource": null,
-      "streamUrl": null,
-      "streamHeaders": null,
-      "streamStatus": "PREPARING_STREAM",
-      "attempts": 0,
-      "validationStatus": null,
-      "validationReason": null,
-      "lastAttemptAt": null,
-      "streamSearch": {
-        "started": false,
-        "stopped": false,
-        "stopTime": null,
-        "slotsDone": {},
-        "sources": {}
-      },
-      "matchUrlSearch": {
-        "slotsDone": {},
-        "sources": {}
-      },
-      "updatedAt": "2026-08-22T20:45:00.676Z"
-    },
-    {
-      "matchId": "troyes_paris_fc_20260823",
-      "league": "Ligue 1",
-      "leagueIcon": "https://images.fotmob.com/image_resources/logo/leaguelogo/53.png",
-      "homeTeam": "Troyes",
-      "awayTeam": "Paris FC",
-      "homeTeamId": 10242,
-      "awayTeamId": 6379,
-      "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/10242.png",
-      "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/6379.png",
-      "date": "2026-08-23",
-      "time": "1:15 AM",
-      "kickoff": "2026-08-23T01:15:00.000+06:30",
-      "timezone": "Asia/Yangon",
-      "status": "END",
-      "fotmobMatchId": 5802909,
-      "leagueId": 53,
-      "leagueName": "Ligue 1",
-      "source": "fotmob",
-      "manual": false,
-      "statusLocked": false,
-      "pinned": false,
-      "featured": false,
-      "hasStreams": false,
-      "streamCount": 0,
-      "originalNames": {
-        "fotmob": {
-          "league": "FRA Ligue 1",
-          "country": "FRA",
-          "leagueId": 53,
-          "homeTeam": "Troyes",
-          "awayTeam": "Paris FC"
-        }
-      },
-      "sourcePages": {},
-      "streams": [],
-      "streamAttempts": {},
-      "matchUrl": null,
-      "matchUrlStatus": "MATCH_URL_PENDING",
-      "matchUrlAttempts": 0,
-      "lastMatchUrlAttemptAt": null,
-      "matchUrlSource": null,
-      "streamUrl": null,
-      "streamHeaders": null,
-      "streamStatus": "PREPARING_STREAM",
-      "attempts": 0,
-      "validationStatus": null,
-      "validationReason": null,
-      "lastAttemptAt": null,
-      "streamSearch": {
-        "started": false,
-        "stopped": false,
-        "stopTime": null,
-        "slotsDone": {},
-        "sources": {}
-      },
-      "matchUrlSearch": {
-        "slotsDone": {},
-        "sources": {}
-      },
-      "updatedAt": "2026-08-22T20:45:00.676Z"
-    },
-    {
-      "matchId": "genoa_napoli_20260823",
-      "league": "Serie A",
-      "leagueIcon": "https://images.fotmob.com/image_resources/logo/leaguelogo/55.png",
-      "homeTeam": "Genoa",
-      "awayTeam": "Napoli",
-      "homeTeamId": 10233,
-      "awayTeamId": 9875,
-      "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/10233.png",
-      "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/9875.png",
-      "date": "2026-08-23",
-      "time": "1:15 AM",
-      "kickoff": "2026-08-23T01:15:00.000+06:30",
-      "timezone": "Asia/Yangon",
-      "status": "END",
-      "fotmobMatchId": 5749644,
-      "leagueId": 55,
-      "leagueName": "Serie A",
-      "source": "fotmob",
-      "manual": false,
-      "statusLocked": false,
-      "pinned": false,
-      "featured": false,
-      "hasStreams": false,
-      "streamCount": 0,
-      "originalNames": {
-        "fotmob": {
-          "league": "ITA Serie A",
-          "country": "ITA",
-          "leagueId": 55,
-          "homeTeam": "Genoa",
-          "awayTeam": "Napoli"
-        }
-      },
-      "sourcePages": {},
-      "streams": [],
-      "streamAttempts": {},
-      "matchUrl": null,
-      "matchUrlStatus": "MATCH_URL_PENDING",
-      "matchUrlAttempts": 0,
-      "lastMatchUrlAttemptAt": null,
-      "matchUrlSource": null,
-      "streamUrl": null,
-      "streamHeaders": null,
-      "streamStatus": "PREPARING_STREAM",
-      "attempts": 0,
-      "validationStatus": null,
-      "validationReason": null,
-      "lastAttemptAt": null,
-      "streamSearch": {
-        "started": false,
-        "stopped": false,
-        "stopTime": null,
-        "slotsDone": {},
-        "sources": {}
-      },
-      "matchUrlSearch": {
-        "slotsDone": {},
-        "sources": {}
-      },
-      "updatedAt": "2026-08-22T20:45:00.676Z"
-    },
-    {
-      "matchId": "parma_cagliari_20260823",
-      "league": "Serie A",
-      "leagueIcon": "https://images.fotmob.com/image_resources/logo/leaguelogo/55.png",
-      "homeTeam": "Parma",
-      "awayTeam": "Cagliari",
-      "homeTeamId": 10167,
-      "awayTeamId": 8529,
-      "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/10167.png",
-      "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/8529.png",
-      "date": "2026-08-23",
-      "time": "1:15 AM",
-      "kickoff": "2026-08-23T01:15:00.000+06:30",
-      "timezone": "Asia/Yangon",
-      "status": "END",
-      "fotmobMatchId": 5749646,
-      "leagueId": 55,
-      "leagueName": "Serie A",
-      "source": "fotmob",
-      "manual": false,
-      "statusLocked": false,
-      "pinned": false,
-      "featured": false,
-      "hasStreams": false,
-      "streamCount": 0,
-      "originalNames": {
-        "fotmob": {
-          "league": "ITA Serie A",
-          "country": "ITA",
-          "leagueId": 55,
-          "homeTeam": "Parma",
-          "awayTeam": "Cagliari"
-        }
-      },
-      "sourcePages": {},
-      "streams": [],
-      "streamAttempts": {},
-      "matchUrl": null,
-      "matchUrlStatus": "MATCH_URL_PENDING",
-      "matchUrlAttempts": 0,
-      "lastMatchUrlAttemptAt": null,
-      "matchUrlSource": null,
-      "streamUrl": null,
-      "streamHeaders": null,
-      "streamStatus": "PREPARING_STREAM",
-      "attempts": 0,
-      "validationStatus": null,
-      "validationReason": null,
-      "lastAttemptAt": null,
-      "streamSearch": {
-        "started": false,
-        "stopped": false,
-        "stopTime": null,
-        "slotsDone": {},
-        "sources": {}
-      },
-      "matchUrlSearch": {
-        "slotsDone": {},
-        "sources": {}
-      },
-      "updatedAt": "2026-08-22T20:45:00.676Z"
-    },
     {
       "matchId": "fluminense_remo_20260823",
       "league": "Brazil Serie A (BRA D1)",
@@ -436,7 +64,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-22T20:45:00.677Z"
+      "updatedAt": "2026-08-22T20:45:03.013Z"
     },
     {
       "matchId": "espanyol_real_madrid_20260823",
@@ -498,7 +126,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-22T20:45:00.677Z"
+      "updatedAt": "2026-08-22T20:45:03.013Z"
     },
     {
       "matchId": "internacional_atletico_mg_20260823",
@@ -560,7 +188,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-22T20:45:00.677Z"
+      "updatedAt": "2026-08-22T20:45:03.013Z"
     },
     {
       "matchId": "cruzeiro_flamengo_20260823",
@@ -622,7 +250,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-22T20:45:00.677Z"
+      "updatedAt": "2026-08-22T20:45:03.013Z"
     },
     {
       "matchId": "daejeon_hana_citizen_gangwon_fc_20260823",
@@ -684,7 +312,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-22T20:45:00.677Z"
+      "updatedAt": "2026-08-22T20:45:03.013Z"
     },
     {
       "matchId": "gwangju_fc_incheon_united_20260823",
@@ -746,7 +374,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-22T20:45:00.678Z"
+      "updatedAt": "2026-08-22T20:45:03.013Z"
     },
     {
       "matchId": "angers_lille_20260823",
@@ -808,7 +436,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-22T20:45:00.678Z"
+      "updatedAt": "2026-08-22T20:45:03.013Z"
     },
     {
       "matchId": "brighton_and_hove_albion_aston_villa_20260823",
@@ -870,7 +498,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-22T20:45:00.678Z"
+      "updatedAt": "2026-08-22T20:45:03.014Z"
     },
     {
       "matchId": "manchester_city_bournemouth_20260823",
@@ -932,7 +560,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-22T20:45:00.678Z"
+      "updatedAt": "2026-08-22T20:45:03.014Z"
     },
     {
       "matchId": "atletico_madrid_villarreal_20260823",
@@ -994,7 +622,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-22T20:45:00.678Z"
+      "updatedAt": "2026-08-22T20:45:03.014Z"
     },
     {
       "matchId": "le_havre_as_monaco_20260823",
@@ -1056,7 +684,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-22T20:45:00.679Z"
+      "updatedAt": "2026-08-22T20:45:03.015Z"
     },
     {
       "matchId": "newcastle_united_liverpool_20260823",
@@ -1118,7 +746,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-22T20:45:00.680Z"
+      "updatedAt": "2026-08-22T20:45:03.015Z"
     },
     {
       "matchId": "frosinone_juventus_20260823",
@@ -1180,7 +808,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-22T20:45:00.680Z"
+      "updatedAt": "2026-08-22T20:45:03.015Z"
     },
     {
       "matchId": "venezia_lecce_20260823",
@@ -1242,7 +870,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-22T20:45:00.680Z"
+      "updatedAt": "2026-08-22T20:45:03.015Z"
     }
   ],
   "meta": {
@@ -1250,18 +878,18 @@
     "sources": [],
     "adminApplied": true,
     "sync": {
-      "removedExpired": 0,
+      "removedExpired": 6,
       "streamsAdded": 0,
       "matchesAdded": 0
     },
     "liveCount": 2,
     "scheduledCount": 11,
-    "endedCount": 6,
+    "endedCount": 0,
     "manualStreamCount": 0,
     "highlightCount": 10,
     "channelCount": 0,
-    "checksum": "27e2c5aa83c5af14021bc81df8eda9a7d2138fd48f564a6dcef43b6814901342",
-    "cachedAt": "2026-08-22T20:45:00.690Z",
+    "checksum": "da149426c9c5c3b13313b98f121103073180316cbdf5a39fda32e2b13b4e1959",
+    "cachedAt": "2026-08-22T20:45:03.024Z",
     "feed": "matches"
   }
 }
