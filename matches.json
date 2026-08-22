@@ -1,578 +1,9 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-23T00:30:00.962+06:30",
+  "generatedAt": "2026-08-23T01:05:00.302+06:30",
   "timezone": "Asia/Yangon",
-  "matchCount": 24,
+  "matchCount": 21,
   "matches": [
-    {
-      "matchId": "brentford_tottenham_hotspur_20260822",
-      "league": "English Premier League (EPL)",
-      "leagueIcon": "https://images.fotmob.com/image_resources/logo/leaguelogo/47.png",
-      "homeTeam": "Brentford",
-      "awayTeam": "Tottenham Hotspur",
-      "homeTeamId": 9937,
-      "awayTeamId": 8586,
-      "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/9937.png",
-      "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/8586.png",
-      "date": "2026-08-22",
-      "time": "11:00 PM",
-      "kickoff": "2026-08-22T23:00:00.000+06:30",
-      "timezone": "Asia/Yangon",
-      "status": "END",
-      "fotmobMatchId": 5795368,
-      "leagueId": 47,
-      "leagueName": "English Premier League (EPL)",
-      "source": "fotmob",
-      "manual": false,
-      "statusLocked": false,
-      "pinned": false,
-      "featured": false,
-      "hasStreams": false,
-      "streamCount": 0,
-      "originalNames": {
-        "fotmob": {
-          "league": "ENG Premier League",
-          "country": "ENG",
-          "leagueId": 47,
-          "homeTeam": "Brentford",
-          "awayTeam": "Tottenham"
-        }
-      },
-      "sourcePages": {},
-      "streams": [],
-      "streamAttempts": {
-        "t30": true,
-        "t15": true,
-        "t5": true
-      },
-      "matchUrl": null,
-      "matchUrlStatus": "MATCH_URL_SEARCHING",
-      "matchUrlAttempts": 3,
-      "lastMatchUrlAttemptAt": "2026-08-22T16:20:03.539Z",
-      "matchUrlSource": null,
-      "streamUrl": null,
-      "streamHeaders": null,
-      "streamStatus": "PREPARING_STREAM",
-      "attempts": 0,
-      "validationStatus": null,
-      "validationReason": null,
-      "lastAttemptAt": null,
-      "streamSearch": {
-        "started": true,
-        "stopped": false,
-        "stopTime": null,
-        "slotsDone": {},
-        "sources": {}
-      },
-      "matchUrlSearch": {
-        "slotsDone": {
-          "t60": true,
-          "t45": true,
-          "t30": true
-        },
-        "sources": {
-          "cakhia": {
-            "matchUrl": null,
-            "status": "MATCH_URL_FAILED",
-            "attempts": 3,
-            "liveAttempts": 0,
-            "lastAttemptAt": "2026-08-22T16:20:03.539Z",
-            "slotsDone": {
-              "t60": true,
-              "t45": true,
-              "t30": true
-            },
-            "confidence": 0
-          },
-          "xoilac": {
-            "matchUrl": null,
-            "status": "MATCH_URL_FAILED",
-            "attempts": 3,
-            "liveAttempts": 0,
-            "lastAttemptAt": "2026-08-22T16:20:03.539Z",
-            "slotsDone": {
-              "t60": true,
-              "t45": true,
-              "t30": true
-            },
-            "confidence": 0
-          },
-          "mitomtm": {
-            "matchUrl": null,
-            "status": "MATCH_URL_FAILED",
-            "attempts": 3,
-            "liveAttempts": 0,
-            "lastAttemptAt": "2026-08-22T16:20:03.539Z",
-            "slotsDone": {
-              "t60": true,
-              "t45": true,
-              "t30": true
-            },
-            "confidence": 0
-          },
-          "socolive": {
-            "matchUrl": null,
-            "status": "MATCH_URL_FAILED",
-            "attempts": 3,
-            "liveAttempts": 0,
-            "lastAttemptAt": "2026-08-22T16:20:03.539Z",
-            "slotsDone": {
-              "t60": true,
-              "t45": true,
-              "t30": true
-            },
-            "confidence": 0
-          }
-        }
-      },
-      "updatedAt": "2026-08-22T18:00:00.956Z"
-    },
-    {
-      "matchId": "inter_milan_monza_20260822",
-      "league": "Serie A",
-      "leagueIcon": "https://images.fotmob.com/image_resources/logo/leaguelogo/55.png",
-      "homeTeam": "Inter Milan",
-      "awayTeam": "Monza",
-      "homeTeamId": 8636,
-      "awayTeamId": 6504,
-      "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/8636.png",
-      "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/6504.png",
-      "date": "2026-08-22",
-      "time": "11:00 PM",
-      "kickoff": "2026-08-22T23:00:00.000+06:30",
-      "timezone": "Asia/Yangon",
-      "status": "LIVE",
-      "fotmobMatchId": 5749645,
-      "leagueId": 55,
-      "leagueName": "Serie A",
-      "source": "fotmob",
-      "manual": false,
-      "statusLocked": false,
-      "pinned": false,
-      "featured": false,
-      "hasStreams": true,
-      "streamCount": 3,
-      "originalNames": {
-        "fotmob": {
-          "league": "ITA Serie A",
-          "country": "ITA",
-          "leagueId": 55,
-          "homeTeam": "Inter",
-          "awayTeam": "Monza"
-        }
-      },
-      "sourcePages": {
-        "cakhia": "https://cakhiazvm.tv/truc-tiep/inter-milan-vs-monza-luc-2330-ngay-22-08-2026/",
-        "mitomtm": "https://mitomtm.cc/truc-tiep/inter-milan-vs-monza-luc-2330-ngay-22-08-2026/",
-        "socolive": "https://socolivepp.tv/truc-tiep/inter-milan-vs-monza-luc-2330-ngay-22-08-2026/"
-      },
-      "streams": [
-        {
-          "source": "cakhia",
-          "type": "m3u8",
-          "quality": "BRADY",
-          "name": "Cakhia · BRADY",
-          "url": "https://live2.livefeedtextbox.com/live/channel15.m3u8",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 13; Mobile) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36",
-            "Referer": "https://soco.textliveupdaterz.com/"
-          },
-          "streamHeaders": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 13; Mobile) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36",
-            "Referer": "https://soco.textliveupdaterz.com/"
-          },
-          "active": true,
-          "checkedAt": "2026-08-22T16:00:09.964Z"
-        },
-        {
-          "source": "mitomtm",
-          "type": "m3u8",
-          "quality": "BRADY",
-          "name": "Mitomtm · BRADY",
-          "url": "https://live2.livefeedtextbox.com/live/channel15.m3u8",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 13; Mobile) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36",
-            "Referer": "https://soco.textliveupdaterz.com/"
-          },
-          "streamHeaders": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 13; Mobile) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36",
-            "Referer": "https://soco.textliveupdaterz.com/"
-          },
-          "active": true,
-          "checkedAt": "2026-08-22T16:00:09.943Z"
-        },
-        {
-          "source": "socolive",
-          "type": "m3u8",
-          "quality": "BRADY",
-          "name": "Socolive · BRADY",
-          "url": "https://live2.livefeedtextbox.com/live/channel15.m3u8",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 13; Mobile) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36",
-            "Referer": "https://soco.textliveupdaterz.com/"
-          },
-          "streamHeaders": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 13; Mobile) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36",
-            "Referer": "https://soco.textliveupdaterz.com/"
-          },
-          "active": true,
-          "checkedAt": "2026-08-22T16:00:17.869Z"
-        }
-      ],
-      "streamAttempts": {
-        "t30": true,
-        "t15": true,
-        "t5": true
-      },
-      "matchUrl": "https://cakhiazvm.tv/truc-tiep/inter-milan-vs-monza-luc-2330-ngay-22-08-2026/",
-      "matchUrlStatus": "MATCH_URL_CONFIRMED",
-      "matchUrlAttempts": 3,
-      "lastMatchUrlAttemptAt": "2026-08-22T16:20:03.542Z",
-      "matchUrlSource": "cakhia",
-      "streamUrl": "https://live2.livefeedtextbox.com/live/channel15.m3u8",
-      "streamHeaders": {
-        "User-Agent": "Mozilla/5.0 (Linux; Android 13; Mobile) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36",
-        "Referer": "https://soco.textliveupdaterz.com/"
-      },
-      "streamStatus": "AVAILABLE",
-      "attempts": 6,
-      "validationStatus": null,
-      "validationReason": null,
-      "lastAttemptAt": "2026-08-22T16:25:13.155Z",
-      "streamSearch": {
-        "started": true,
-        "stopped": false,
-        "stopTime": null,
-        "slotsDone": {
-          "t30": true,
-          "t15": true,
-          "t5": true
-        },
-        "sources": {
-          "cakhia": {
-            "status": "AVAILABLE",
-            "attempts": 6,
-            "postKickoffAttempts": 0,
-            "lastError": null,
-            "lastAttemptAt": "2026-08-22T16:25:08.022Z",
-            "updatedAt": "2026-08-22T16:25:08.022Z",
-            "slotsDone": {
-              "t30": true,
-              "t15": true,
-              "t5": true
-            },
-            "extractionMethod": "axios"
-          },
-          "mitomtm": {
-            "status": "AVAILABLE",
-            "attempts": 6,
-            "postKickoffAttempts": 0,
-            "lastError": null,
-            "lastAttemptAt": "2026-08-22T16:25:05.715Z",
-            "updatedAt": "2026-08-22T16:25:05.715Z",
-            "slotsDone": {
-              "t30": true,
-              "t15": true,
-              "t5": true
-            },
-            "extractionMethod": "axios"
-          },
-          "socolive": {
-            "status": "AVAILABLE",
-            "attempts": 6,
-            "postKickoffAttempts": 0,
-            "lastError": null,
-            "lastAttemptAt": "2026-08-22T16:25:13.155Z",
-            "updatedAt": "2026-08-22T16:25:13.155Z",
-            "slotsDone": {
-              "t30": true,
-              "t15": true,
-              "t5": true
-            },
-            "extractionMethod": "axios"
-          }
-        }
-      },
-      "matchUrlSearch": {
-        "slotsDone": {
-          "t60": true,
-          "t45": true,
-          "t30": true
-        },
-        "sources": {
-          "cakhia": {
-            "matchUrl": "https://cakhiazvm.tv/truc-tiep/inter-milan-vs-monza-luc-2330-ngay-22-08-2026/",
-            "status": "MATCH_URL_CONFIRMED",
-            "attempts": 1,
-            "liveAttempts": 0,
-            "lastAttemptAt": "2026-08-22T15:30:38.295Z",
-            "slotsDone": {
-              "t60": true
-            },
-            "confidence": 100
-          },
-          "xoilac": {
-            "matchUrl": null,
-            "status": "MATCH_URL_FAILED",
-            "attempts": 3,
-            "liveAttempts": 0,
-            "lastAttemptAt": "2026-08-22T16:20:03.542Z",
-            "slotsDone": {
-              "t60": true,
-              "t45": true,
-              "t30": true
-            },
-            "confidence": 0
-          },
-          "mitomtm": {
-            "matchUrl": "https://mitomtm.cc/truc-tiep/inter-milan-vs-monza-luc-2330-ngay-22-08-2026/",
-            "status": "MATCH_URL_CONFIRMED",
-            "attempts": 1,
-            "liveAttempts": 0,
-            "lastAttemptAt": "2026-08-22T15:30:38.295Z",
-            "slotsDone": {
-              "t60": true
-            },
-            "confidence": 100
-          },
-          "socolive": {
-            "matchUrl": "https://socolivepp.tv/truc-tiep/inter-milan-vs-monza-luc-2330-ngay-22-08-2026/",
-            "status": "MATCH_URL_CONFIRMED",
-            "attempts": 1,
-            "liveAttempts": 0,
-            "lastAttemptAt": "2026-08-22T15:30:38.295Z",
-            "slotsDone": {
-              "t60": true
-            },
-            "confidence": 100
-          }
-        }
-      },
-      "updatedAt": "2026-08-22T18:00:00.956Z"
-    },
-    {
-      "matchId": "udinese_como_20260822",
-      "league": "Serie A",
-      "leagueIcon": "https://images.fotmob.com/image_resources/logo/leaguelogo/55.png",
-      "homeTeam": "Udinese",
-      "awayTeam": "Como",
-      "homeTeamId": 8600,
-      "awayTeamId": 10171,
-      "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/8600.png",
-      "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/10171.png",
-      "date": "2026-08-22",
-      "time": "11:00 PM",
-      "kickoff": "2026-08-22T23:00:00.000+06:30",
-      "timezone": "Asia/Yangon",
-      "status": "LIVE",
-      "fotmobMatchId": 5749648,
-      "leagueId": 55,
-      "leagueName": "Serie A",
-      "source": "fotmob",
-      "manual": false,
-      "statusLocked": false,
-      "pinned": false,
-      "featured": false,
-      "hasStreams": true,
-      "streamCount": 3,
-      "originalNames": {
-        "fotmob": {
-          "league": "ITA Serie A",
-          "country": "ITA",
-          "leagueId": 55,
-          "homeTeam": "Udinese",
-          "awayTeam": "Como"
-        }
-      },
-      "sourcePages": {
-        "cakhia": "https://cakhiazvm.tv/truc-tiep/udinese-vs-como-luc-2330-ngay-22-08-2026/",
-        "mitomtm": "https://mitomtm.cc/truc-tiep/udinese-vs-como-luc-2330-ngay-22-08-2026/",
-        "socolive": "https://socolivepp.tv/truc-tiep/udinese-vs-como-luc-2330-ngay-22-08-2026/"
-      },
-      "streams": [
-        {
-          "source": "cakhia",
-          "type": "m3u8",
-          "quality": "ASTRA",
-          "name": "Cakhia · ASTRA",
-          "url": "https://live2.livefeedtextbox.com/live/channel11.m3u8",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 13; Mobile) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36",
-            "Referer": "https://soco.textliveupdaterz.com/"
-          },
-          "streamHeaders": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 13; Mobile) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36",
-            "Referer": "https://soco.textliveupdaterz.com/"
-          },
-          "active": true,
-          "checkedAt": "2026-08-22T16:00:21.223Z"
-        },
-        {
-          "source": "mitomtm",
-          "type": "m3u8",
-          "quality": "ASTRA",
-          "name": "Mitomtm · ASTRA",
-          "url": "https://live2.livefeedtextbox.com/live/channel11.m3u8",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 13; Mobile) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36",
-            "Referer": "https://soco.textliveupdaterz.com/"
-          },
-          "streamHeaders": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 13; Mobile) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36",
-            "Referer": "https://soco.textliveupdaterz.com/"
-          },
-          "active": true,
-          "checkedAt": "2026-08-22T16:00:23.420Z"
-        },
-        {
-          "source": "socolive",
-          "type": "m3u8",
-          "quality": "ASTRA",
-          "name": "Socolive · ASTRA",
-          "url": "https://live2.livefeedtextbox.com/live/channel11.m3u8",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 13; Mobile) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36",
-            "Referer": "https://soco.textliveupdaterz.com/"
-          },
-          "streamHeaders": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 13; Mobile) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36",
-            "Referer": "https://soco.textliveupdaterz.com/"
-          },
-          "active": true,
-          "checkedAt": "2026-08-22T16:00:27.175Z"
-        }
-      ],
-      "streamAttempts": {
-        "t30": true,
-        "t15": true,
-        "t5": true
-      },
-      "matchUrl": "https://cakhiazvm.tv/truc-tiep/udinese-vs-como-luc-2330-ngay-22-08-2026/",
-      "matchUrlStatus": "MATCH_URL_CONFIRMED",
-      "matchUrlAttempts": 3,
-      "lastMatchUrlAttemptAt": "2026-08-22T16:20:03.544Z",
-      "matchUrlSource": "cakhia",
-      "streamUrl": "https://live2.livefeedtextbox.com/live/channel11.m3u8",
-      "streamHeaders": {
-        "User-Agent": "Mozilla/5.0 (Linux; Android 13; Mobile) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36",
-        "Referer": "https://soco.textliveupdaterz.com/"
-      },
-      "streamStatus": "AVAILABLE",
-      "attempts": 6,
-      "validationStatus": null,
-      "validationReason": null,
-      "lastAttemptAt": "2026-08-22T16:25:21.736Z",
-      "streamSearch": {
-        "started": true,
-        "stopped": false,
-        "stopTime": null,
-        "slotsDone": {
-          "t30": true,
-          "t15": true,
-          "t5": true
-        },
-        "sources": {
-          "cakhia": {
-            "status": "AVAILABLE",
-            "attempts": 6,
-            "postKickoffAttempts": 0,
-            "lastError": null,
-            "lastAttemptAt": "2026-08-22T16:25:13.043Z",
-            "updatedAt": "2026-08-22T16:25:13.043Z",
-            "slotsDone": {
-              "t30": true,
-              "t15": true,
-              "t5": true
-            },
-            "extractionMethod": "axios"
-          },
-          "mitomtm": {
-            "status": "AVAILABLE",
-            "attempts": 6,
-            "postKickoffAttempts": 0,
-            "lastError": null,
-            "lastAttemptAt": "2026-08-22T16:25:18.713Z",
-            "updatedAt": "2026-08-22T16:25:18.713Z",
-            "slotsDone": {
-              "t30": true,
-              "t15": true,
-              "t5": true
-            },
-            "extractionMethod": "axios"
-          },
-          "socolive": {
-            "status": "AVAILABLE",
-            "attempts": 6,
-            "postKickoffAttempts": 0,
-            "lastError": null,
-            "lastAttemptAt": "2026-08-22T16:25:21.736Z",
-            "updatedAt": "2026-08-22T16:25:21.736Z",
-            "slotsDone": {
-              "t30": true,
-              "t15": true,
-              "t5": true
-            },
-            "extractionMethod": "axios"
-          }
-        }
-      },
-      "matchUrlSearch": {
-        "slotsDone": {
-          "t60": true,
-          "t45": true,
-          "t30": true
-        },
-        "sources": {
-          "cakhia": {
-            "matchUrl": "https://cakhiazvm.tv/truc-tiep/udinese-vs-como-luc-2330-ngay-22-08-2026/",
-            "status": "MATCH_URL_CONFIRMED",
-            "attempts": 1,
-            "liveAttempts": 0,
-            "lastAttemptAt": "2026-08-22T15:30:40.704Z",
-            "slotsDone": {
-              "t60": true
-            },
-            "confidence": 100
-          },
-          "xoilac": {
-            "matchUrl": null,
-            "status": "MATCH_URL_FAILED",
-            "attempts": 3,
-            "liveAttempts": 0,
-            "lastAttemptAt": "2026-08-22T16:20:03.544Z",
-            "slotsDone": {
-              "t60": true,
-              "t45": true,
-              "t30": true
-            },
-            "confidence": 0
-          },
-          "mitomtm": {
-            "matchUrl": "https://mitomtm.cc/truc-tiep/udinese-vs-como-luc-2330-ngay-22-08-2026/",
-            "status": "MATCH_URL_CONFIRMED",
-            "attempts": 1,
-            "liveAttempts": 0,
-            "lastAttemptAt": "2026-08-22T15:30:40.704Z",
-            "slotsDone": {
-              "t60": true
-            },
-            "confidence": 100
-          },
-          "socolive": {
-            "matchUrl": "https://socolivepp.tv/truc-tiep/udinese-vs-como-luc-2330-ngay-22-08-2026/",
-            "status": "MATCH_URL_CONFIRMED",
-            "attempts": 1,
-            "liveAttempts": 0,
-            "lastAttemptAt": "2026-08-22T15:30:40.704Z",
-            "slotsDone": {
-              "t60": true
-            },
-            "confidence": 100
-          }
-        }
-      },
-      "updatedAt": "2026-08-22T18:00:00.957Z"
-    },
     {
       "matchId": "valencia_celta_vigo_20260823",
       "league": "La Liga",
@@ -633,7 +64,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-22T18:00:00.957Z"
+      "updatedAt": "2026-08-22T18:35:00.293Z"
     },
     {
       "matchId": "le_mans_brest_20260823",
@@ -695,7 +126,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-22T18:00:00.957Z"
+      "updatedAt": "2026-08-22T18:35:00.293Z"
     },
     {
       "matchId": "nice_lorient_20260823",
@@ -757,7 +188,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-22T18:00:00.957Z"
+      "updatedAt": "2026-08-22T18:35:00.294Z"
     },
     {
       "matchId": "toulouse_olympique_lyonnais_20260823",
@@ -819,7 +250,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-22T18:00:00.958Z"
+      "updatedAt": "2026-08-22T18:35:00.296Z"
     },
     {
       "matchId": "troyes_paris_fc_20260823",
@@ -881,7 +312,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-22T18:00:00.958Z"
+      "updatedAt": "2026-08-22T18:35:00.296Z"
     },
     {
       "matchId": "genoa_napoli_20260823",
@@ -943,7 +374,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-22T18:00:00.958Z"
+      "updatedAt": "2026-08-22T18:35:00.296Z"
     },
     {
       "matchId": "parma_cagliari_20260823",
@@ -1005,7 +436,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-22T18:00:00.958Z"
+      "updatedAt": "2026-08-22T18:35:00.297Z"
     },
     {
       "matchId": "fluminense_remo_20260823",
@@ -1067,7 +498,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-22T18:00:00.958Z"
+      "updatedAt": "2026-08-22T18:35:00.297Z"
     },
     {
       "matchId": "espanyol_real_madrid_20260823",
@@ -1083,7 +514,7 @@
       "time": "2:00 AM",
       "kickoff": "2026-08-23T02:00:00.000+06:30",
       "timezone": "Asia/Yangon",
-      "status": "Scheduled",
+      "status": "PREPARING_STREAM",
       "fotmobMatchId": 5868025,
       "leagueId": 87,
       "leagueName": "La Liga",
@@ -1129,7 +560,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-22T18:00:00.959Z"
+      "updatedAt": "2026-08-22T18:35:00.297Z"
     },
     {
       "matchId": "internacional_atletico_mg_20260823",
@@ -1191,7 +622,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-22T18:00:00.959Z"
+      "updatedAt": "2026-08-22T18:35:00.297Z"
     },
     {
       "matchId": "cruzeiro_flamengo_20260823",
@@ -1253,7 +684,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-22T18:00:00.959Z"
+      "updatedAt": "2026-08-22T18:35:00.298Z"
     },
     {
       "matchId": "daejeon_hana_citizen_gangwon_fc_20260823",
@@ -1315,7 +746,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-22T18:00:00.959Z"
+      "updatedAt": "2026-08-22T18:35:00.298Z"
     },
     {
       "matchId": "gwangju_fc_incheon_united_20260823",
@@ -1377,7 +808,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-22T18:00:00.959Z"
+      "updatedAt": "2026-08-22T18:35:00.298Z"
     },
     {
       "matchId": "angers_lille_20260823",
@@ -1439,7 +870,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-22T18:00:00.960Z"
+      "updatedAt": "2026-08-22T18:35:00.298Z"
     },
     {
       "matchId": "brighton_and_hove_albion_aston_villa_20260823",
@@ -1501,7 +932,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-22T18:00:00.961Z"
+      "updatedAt": "2026-08-22T18:35:00.298Z"
     },
     {
       "matchId": "manchester_city_bournemouth_20260823",
@@ -1563,7 +994,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-22T18:00:00.961Z"
+      "updatedAt": "2026-08-22T18:35:00.299Z"
     },
     {
       "matchId": "atletico_madrid_villarreal_20260823",
@@ -1625,7 +1056,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-22T18:00:00.961Z"
+      "updatedAt": "2026-08-22T18:35:00.301Z"
     },
     {
       "matchId": "le_havre_as_monaco_20260823",
@@ -1687,7 +1118,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-22T18:00:00.961Z"
+      "updatedAt": "2026-08-22T18:35:00.301Z"
     },
     {
       "matchId": "newcastle_united_liverpool_20260823",
@@ -1749,7 +1180,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-22T18:00:00.962Z"
+      "updatedAt": "2026-08-22T18:35:00.301Z"
     },
     {
       "matchId": "frosinone_juventus_20260823",
@@ -1811,7 +1242,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-22T18:00:00.962Z"
+      "updatedAt": "2026-08-22T18:35:00.302Z"
     },
     {
       "matchId": "venezia_lecce_20260823",
@@ -1873,7 +1304,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-22T18:00:00.962Z"
+      "updatedAt": "2026-08-22T18:35:00.302Z"
     }
   ],
   "meta": {
@@ -1881,18 +1312,18 @@
     "sources": [],
     "adminApplied": true,
     "sync": {
-      "removedExpired": 0,
+      "removedExpired": 3,
       "streamsAdded": 0,
       "matchesAdded": 0
     },
-    "liveCount": 3,
-    "scheduledCount": 13,
-    "endedCount": 1,
+    "liveCount": 1,
+    "scheduledCount": 12,
+    "endedCount": 0,
     "manualStreamCount": 0,
     "highlightCount": 10,
     "channelCount": 0,
-    "checksum": "1bd9cb5c5cb91dd306684787842a5cfe193b8709342d430a284519344aa755d7",
-    "cachedAt": "2026-08-22T18:00:00.980Z",
+    "checksum": "f86384799bfcb47ce8fdf8400f4ba9fbb8a9b50b9dc81cfba7069540e207bef5",
+    "cachedAt": "2026-08-22T18:35:00.321Z",
     "feed": "matches"
   }
 }
