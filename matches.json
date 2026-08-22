@@ -1,485 +1,9 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-22T00:25:44.509+06:30",
+  "generatedAt": "2026-08-22T09:44:59.041+06:30",
   "timezone": "Asia/Yangon",
-  "matchCount": 39,
+  "matchCount": 35,
   "matches": [
-    {
-      "matchId": "real_zaragoza_athletic_bilbao_20260822",
-      "league": "Club Friendlies",
-      "leagueIcon": "https://images.fotmob.com/image_resources/logo/leaguelogo/489.png",
-      "homeTeam": "Real Zaragoza",
-      "awayTeam": "Athletic Bilbao",
-      "homeTeamId": 8394,
-      "awayTeamId": 8315,
-      "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/8394.png",
-      "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/8315.png",
-      "date": "2026-08-22",
-      "time": "12:00 AM",
-      "kickoff": "2026-08-22T00:00:00.000+06:30",
-      "timezone": "Asia/Yangon",
-      "status": "LIVE",
-      "fotmobMatchId": 6000974,
-      "leagueId": 915708,
-      "leagueName": "Club Friendlies",
-      "source": "fotmob",
-      "manual": false,
-      "statusLocked": false,
-      "pinned": false,
-      "featured": false,
-      "hasStreams": true,
-      "streamCount": 3,
-      "originalNames": {
-        "fotmob": {
-          "league": "INT Club Friendlies",
-          "country": "INT",
-          "leagueId": 915708,
-          "homeTeam": "Real Zaragoza",
-          "awayTeam": "Athletic Club"
-        }
-      },
-      "sourcePages": {
-        "cakhia": "https://cakhiazvm.tv/truc-tiep/real-zaragoza-vs-athletic-bilbao-luc-0030-ngay-22-08-2026/",
-        "mitomtm": "https://mitomtm.cc/truc-tiep/real-zaragoza-vs-athletic-bilbao-luc-0030-ngay-22-08-2026/",
-        "socolive": "https://socolivepp.tv/truc-tiep/real-zaragoza-vs-athletic-bilbao-luc-0030-ngay-22-08-2026/"
-      },
-      "streams": [
-        {
-          "source": "mitomtm",
-          "type": "m3u8",
-          "quality": "TONI",
-          "name": "Mitomtm · TONI",
-          "url": "https://live2.livefeedtextbox.com/live/channel9.m3u8",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 13; Mobile) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36",
-            "Referer": "https://soco.textliveupdaterz.com/"
-          },
-          "streamHeaders": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 13; Mobile) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36",
-            "Referer": "https://soco.textliveupdaterz.com/"
-          },
-          "active": true,
-          "checkedAt": "2026-08-21T17:00:44.326Z"
-        },
-        {
-          "source": "cakhia",
-          "type": "m3u8",
-          "quality": "TONI",
-          "name": "Cakhia · TONI",
-          "url": "https://live2.livefeedtextbox.com/live/channel9.m3u8",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 13; Mobile) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36",
-            "Referer": "https://soco.textliveupdaterz.com/"
-          },
-          "streamHeaders": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 13; Mobile) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36",
-            "Referer": "https://soco.textliveupdaterz.com/"
-          },
-          "active": true,
-          "checkedAt": "2026-08-21T17:00:45.016Z"
-        },
-        {
-          "source": "socolive",
-          "type": "m3u8",
-          "quality": "TONI",
-          "name": "Socolive · TONI",
-          "url": "https://live2.livefeedtextbox.com/live/channel9.m3u8",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 13; Mobile) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36",
-            "Referer": "https://soco.textliveupdaterz.com/"
-          },
-          "streamHeaders": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 13; Mobile) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36",
-            "Referer": "https://soco.textliveupdaterz.com/"
-          },
-          "active": true,
-          "checkedAt": "2026-08-21T17:00:48.962Z"
-        }
-      ],
-      "streamAttempts": {
-        "t30": true,
-        "t15": true,
-        "t5": true,
-        "t0": true,
-        "tP5": true,
-        "tP10": true
-      },
-      "matchUrl": "https://cakhiazvm.tv/truc-tiep/real-zaragoza-vs-athletic-bilbao-luc-0030-ngay-22-08-2026/",
-      "matchUrlStatus": "MATCH_URL_CONFIRMED",
-      "matchUrlAttempts": 3,
-      "lastMatchUrlAttemptAt": "2026-08-21T17:45:37.616Z",
-      "matchUrlSource": "cakhia",
-      "streamUrl": "https://live2.livefeedtextbox.com/live/channel9.m3u8",
-      "streamHeaders": {
-        "User-Agent": "Mozilla/5.0 (Linux; Android 13; Mobile) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36",
-        "Referer": "https://soco.textliveupdaterz.com/"
-      },
-      "streamStatus": "AVAILABLE",
-      "attempts": 3,
-      "validationStatus": null,
-      "validationReason": null,
-      "lastAttemptAt": "2026-08-21T17:45:50.589Z",
-      "streamSearch": {
-        "started": true,
-        "stopped": true,
-        "stopTime": "2026-08-22T00:15:53.165+06:30",
-        "slotsDone": {
-          "t30": true,
-          "t15": true,
-          "t5": true,
-          "tP5": true,
-          "tP10": true
-        },
-        "sources": {
-          "cakhia": {
-            "status": "AVAILABLE",
-            "attempts": 9,
-            "postKickoffAttempts": 3,
-            "lastError": null,
-            "lastAttemptAt": "2026-08-21T17:45:43.558Z",
-            "updatedAt": "2026-08-21T17:45:43.558Z",
-            "slotsDone": {
-              "t30": true,
-              "t15": true,
-              "t5": true,
-              "tP5": true,
-              "tP10": true,
-              "catchup": true
-            },
-            "extractionMethod": "axios"
-          },
-          "mitomtm": {
-            "status": "AVAILABLE",
-            "attempts": 9,
-            "postKickoffAttempts": 3,
-            "lastError": null,
-            "lastAttemptAt": "2026-08-21T17:45:46.830Z",
-            "updatedAt": "2026-08-21T17:45:46.830Z",
-            "slotsDone": {
-              "t30": true,
-              "t15": true,
-              "t5": true,
-              "tP5": true,
-              "tP10": true,
-              "catchup": true
-            },
-            "extractionMethod": "axios"
-          },
-          "socolive": {
-            "status": "AVAILABLE",
-            "attempts": 9,
-            "postKickoffAttempts": 3,
-            "lastError": null,
-            "lastAttemptAt": "2026-08-21T17:45:50.589Z",
-            "updatedAt": "2026-08-21T17:45:50.589Z",
-            "slotsDone": {
-              "t30": true,
-              "t15": true,
-              "t5": true,
-              "tP5": true,
-              "tP10": true,
-              "catchup": true
-            },
-            "extractionMethod": "axios"
-          }
-        }
-      },
-      "matchUrlSearch": {
-        "slotsDone": {
-          "t60": true,
-          "t45": true,
-          "t30": true,
-          "tLive": true
-        },
-        "sources": {
-          "cakhia": {
-            "matchUrl": "https://cakhiazvm.tv/truc-tiep/real-zaragoza-vs-athletic-bilbao-luc-0030-ngay-22-08-2026/",
-            "status": "MATCH_URL_CONFIRMED",
-            "attempts": 1,
-            "liveAttempts": 0,
-            "lastAttemptAt": "2026-08-21T16:41:28.518Z",
-            "slotsDone": {
-              "t60": true
-            },
-            "confidence": 100
-          },
-          "xoilac": {
-            "matchUrl": null,
-            "status": "MATCH_URL_FAILED",
-            "attempts": 3,
-            "liveAttempts": 3,
-            "lastAttemptAt": "2026-08-21T17:45:37.616Z",
-            "slotsDone": {
-              "t60": true,
-              "t45": true,
-              "t30": true,
-              "tLive": true
-            },
-            "confidence": 0
-          },
-          "mitomtm": {
-            "matchUrl": "https://mitomtm.cc/truc-tiep/real-zaragoza-vs-athletic-bilbao-luc-0030-ngay-22-08-2026/",
-            "status": "MATCH_URL_CONFIRMED",
-            "attempts": 1,
-            "liveAttempts": 0,
-            "lastAttemptAt": "2026-08-21T16:41:28.518Z",
-            "slotsDone": {
-              "t60": true
-            },
-            "confidence": 100
-          },
-          "socolive": {
-            "matchUrl": "https://socolivepp.tv/truc-tiep/real-zaragoza-vs-athletic-bilbao-luc-0030-ngay-22-08-2026/",
-            "status": "MATCH_URL_CONFIRMED",
-            "attempts": 1,
-            "liveAttempts": 0,
-            "lastAttemptAt": "2026-08-21T16:41:28.518Z",
-            "slotsDone": {
-              "t60": true
-            },
-            "confidence": 100
-          }
-        }
-      },
-      "updatedAt": "2026-08-21T17:55:44.501Z"
-    },
-    {
-      "matchId": "olympique_marseille_strasbourg_20260822",
-      "league": "Ligue 1",
-      "leagueIcon": "https://images.fotmob.com/image_resources/logo/leaguelogo/53.png",
-      "homeTeam": "Olympique Marseille",
-      "awayTeam": "Strasbourg",
-      "homeTeamId": 8592,
-      "awayTeamId": 9848,
-      "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/8592.png",
-      "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/9848.png",
-      "date": "2026-08-22",
-      "time": "1:15 AM",
-      "kickoff": "2026-08-22T01:15:00.000+06:30",
-      "timezone": "Asia/Yangon",
-      "status": "PREPARING_STREAM",
-      "fotmobMatchId": 5802905,
-      "leagueId": 53,
-      "leagueName": "Ligue 1",
-      "source": "fotmob",
-      "manual": false,
-      "statusLocked": false,
-      "pinned": false,
-      "featured": false,
-      "hasStreams": false,
-      "streamCount": 0,
-      "originalNames": {
-        "fotmob": {
-          "league": "FRA Ligue 1",
-          "country": "FRA",
-          "leagueId": 53,
-          "homeTeam": "Marseille",
-          "awayTeam": "Strasbourg"
-        }
-      },
-      "sourcePages": {
-        "cakhia": "https://cakhiazvm.tv/truc-tiep/marseille-vs-strasbourg-luc-0145-ngay-22-08-2026/",
-        "mitomtm": "https://mitomtm.cc/truc-tiep/marseille-vs-strasbourg-luc-0145-ngay-22-08-2026/",
-        "socolive": "https://socolivepp.tv/truc-tiep/marseille-vs-strasbourg-luc-0145-ngay-22-08-2026/"
-      },
-      "streams": [],
-      "streamAttempts": {},
-      "matchUrl": "https://cakhiazvm.tv/truc-tiep/marseille-vs-strasbourg-luc-0145-ngay-22-08-2026/",
-      "matchUrlStatus": "MATCH_URL_CONFIRMED",
-      "matchUrlAttempts": 3,
-      "lastMatchUrlAttemptAt": "2026-08-21T17:55:44.317Z",
-      "matchUrlSource": "cakhia",
-      "streamUrl": null,
-      "streamHeaders": null,
-      "streamStatus": "PREPARING_STREAM",
-      "attempts": 0,
-      "validationStatus": null,
-      "validationReason": null,
-      "lastAttemptAt": null,
-      "streamSearch": {
-        "started": false,
-        "stopped": false,
-        "stopTime": null,
-        "slotsDone": {},
-        "sources": {}
-      },
-      "matchUrlSearch": {
-        "slotsDone": {
-          "t60": true
-        },
-        "sources": {
-          "cakhia": {
-            "matchUrl": "https://cakhiazvm.tv/truc-tiep/marseille-vs-strasbourg-luc-0145-ngay-22-08-2026/",
-            "status": "MATCH_URL_CONFIRMED",
-            "attempts": 1,
-            "liveAttempts": 0,
-            "lastAttemptAt": "2026-08-21T17:45:37.639Z",
-            "slotsDone": {
-              "t60": true
-            },
-            "confidence": 100
-          },
-          "xoilac": {
-            "matchUrl": null,
-            "status": "MATCH_URL_FAILED",
-            "attempts": 3,
-            "liveAttempts": 0,
-            "lastAttemptAt": "2026-08-21T17:55:44.317Z",
-            "slotsDone": {
-              "t60": true
-            },
-            "confidence": 0
-          },
-          "mitomtm": {
-            "matchUrl": "https://mitomtm.cc/truc-tiep/marseille-vs-strasbourg-luc-0145-ngay-22-08-2026/",
-            "status": "MATCH_URL_CONFIRMED",
-            "attempts": 1,
-            "liveAttempts": 0,
-            "lastAttemptAt": "2026-08-21T17:45:37.639Z",
-            "slotsDone": {
-              "t60": true
-            },
-            "confidence": 100
-          },
-          "socolive": {
-            "matchUrl": "https://socolivepp.tv/truc-tiep/marseille-vs-strasbourg-luc-0145-ngay-22-08-2026/",
-            "status": "MATCH_URL_CONFIRMED",
-            "attempts": 1,
-            "liveAttempts": 0,
-            "lastAttemptAt": "2026-08-21T17:45:37.639Z",
-            "slotsDone": {
-              "t60": true
-            },
-            "confidence": 100
-          }
-        }
-      },
-      "updatedAt": "2026-08-21T17:55:44.501Z"
-    },
-    {
-      "matchId": "arsenal_coventry_city_20260822",
-      "league": "English Premier League (EPL)",
-      "leagueIcon": "https://images.fotmob.com/image_resources/logo/leaguelogo/47.png",
-      "homeTeam": "Arsenal",
-      "awayTeam": "Coventry City",
-      "homeTeamId": 9825,
-      "awayTeamId": 8669,
-      "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/9825.png",
-      "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/8669.png",
-      "date": "2026-08-22",
-      "time": "1:30 AM",
-      "kickoff": "2026-08-22T01:30:00.000+06:30",
-      "timezone": "Asia/Yangon",
-      "status": "Scheduled",
-      "fotmobMatchId": 5795363,
-      "leagueId": 47,
-      "leagueName": "English Premier League (EPL)",
-      "source": "fotmob",
-      "manual": false,
-      "statusLocked": false,
-      "pinned": false,
-      "featured": false,
-      "hasStreams": false,
-      "streamCount": 0,
-      "originalNames": {
-        "fotmob": {
-          "league": "ENG Premier League",
-          "country": "ENG",
-          "leagueId": 47,
-          "homeTeam": "Arsenal",
-          "awayTeam": "Coventry"
-        }
-      },
-      "sourcePages": {},
-      "streams": [],
-      "streamAttempts": {},
-      "matchUrl": null,
-      "matchUrlStatus": "MATCH_URL_PENDING",
-      "matchUrlAttempts": 0,
-      "lastMatchUrlAttemptAt": null,
-      "matchUrlSource": null,
-      "streamUrl": null,
-      "streamHeaders": null,
-      "streamStatus": "PREPARING_STREAM",
-      "attempts": 0,
-      "validationStatus": null,
-      "validationReason": null,
-      "lastAttemptAt": null,
-      "streamSearch": {
-        "started": false,
-        "stopped": false,
-        "stopTime": null,
-        "slotsDone": {},
-        "sources": {}
-      },
-      "matchUrlSearch": {
-        "slotsDone": {},
-        "sources": {}
-      },
-      "updatedAt": "2026-08-21T17:55:44.502Z"
-    },
-    {
-      "matchId": "real_betis_real_sociedad_20260822",
-      "league": "La Liga",
-      "leagueIcon": "https://images.fotmob.com/image_resources/logo/leaguelogo/87.png",
-      "homeTeam": "Real Betis",
-      "awayTeam": "Real Sociedad",
-      "homeTeamId": 8603,
-      "awayTeamId": 8560,
-      "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/8603.png",
-      "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/8560.png",
-      "date": "2026-08-22",
-      "time": "1:30 AM",
-      "kickoff": "2026-08-22T01:30:00.000+06:30",
-      "timezone": "Asia/Yangon",
-      "status": "Scheduled",
-      "fotmobMatchId": 5868023,
-      "leagueId": 87,
-      "leagueName": "La Liga",
-      "source": "fotmob",
-      "manual": false,
-      "statusLocked": false,
-      "pinned": false,
-      "featured": false,
-      "hasStreams": false,
-      "streamCount": 0,
-      "originalNames": {
-        "fotmob": {
-          "league": "ESP LaLiga",
-          "country": "ESP",
-          "leagueId": 87,
-          "homeTeam": "Real Betis",
-          "awayTeam": "Real Sociedad"
-        }
-      },
-      "sourcePages": {},
-      "streams": [],
-      "streamAttempts": {},
-      "matchUrl": null,
-      "matchUrlStatus": "MATCH_URL_PENDING",
-      "matchUrlAttempts": 0,
-      "lastMatchUrlAttemptAt": null,
-      "matchUrlSource": null,
-      "streamUrl": null,
-      "streamHeaders": null,
-      "streamStatus": "PREPARING_STREAM",
-      "attempts": 0,
-      "validationStatus": null,
-      "validationReason": null,
-      "lastAttemptAt": null,
-      "streamSearch": {
-        "started": false,
-        "stopped": false,
-        "stopTime": null,
-        "slotsDone": {},
-        "sources": {}
-      },
-      "matchUrlSearch": {
-        "slotsDone": {},
-        "sources": {}
-      },
-      "updatedAt": "2026-08-21T17:55:44.502Z"
-    },
     {
       "matchId": "bucheon_fc_1995_pohang_steelers_20260822",
       "league": "K League 1 (KOR D1)",
@@ -540,7 +64,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-21T17:55:44.502Z"
+      "updatedAt": "2026-08-22T03:14:59.028Z"
     },
     {
       "matchId": "fc_anyang_fc_seoul_20260822",
@@ -602,7 +126,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-21T17:55:44.502Z"
+      "updatedAt": "2026-08-22T03:14:59.028Z"
     },
     {
       "matchId": "jeju_united_gimcheon_sangmu_20260822",
@@ -664,7 +188,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-21T17:55:44.502Z"
+      "updatedAt": "2026-08-22T03:14:59.028Z"
     },
     {
       "matchId": "jeonbuk_hyundai_motors_ulsan_hd_fc_20260822",
@@ -726,7 +250,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-21T17:55:44.503Z"
+      "updatedAt": "2026-08-22T03:14:59.029Z"
     },
     {
       "matchId": "hull_city_manchester_united_20260822",
@@ -788,7 +312,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-21T17:55:44.503Z"
+      "updatedAt": "2026-08-22T03:14:59.030Z"
     },
     {
       "matchId": "thailand_vietnam_20260822",
@@ -850,7 +374,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-21T17:55:44.503Z"
+      "updatedAt": "2026-08-22T03:14:59.030Z"
     },
     {
       "matchId": "everton_crystal_palace_20260822",
@@ -912,7 +436,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-21T17:55:44.503Z"
+      "updatedAt": "2026-08-22T03:14:59.030Z"
     },
     {
       "matchId": "ipswich_town_sunderland_20260822",
@@ -974,7 +498,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-21T17:55:44.503Z"
+      "updatedAt": "2026-08-22T03:14:59.031Z"
     },
     {
       "matchId": "nottingham_forest_leeds_united_20260822",
@@ -1036,7 +560,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-21T17:55:44.504Z"
+      "updatedAt": "2026-08-22T03:14:59.031Z"
     },
     {
       "matchId": "athletic_bilbao_sevilla_20260822",
@@ -1098,7 +622,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-21T17:55:44.504Z"
+      "updatedAt": "2026-08-22T03:14:59.031Z"
     },
     {
       "matchId": "lens_auxerre_20260822",
@@ -1160,7 +684,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-21T17:55:44.504Z"
+      "updatedAt": "2026-08-22T03:14:59.032Z"
     },
     {
       "matchId": "brentford_tottenham_hotspur_20260822",
@@ -1222,7 +746,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-21T17:55:44.504Z"
+      "updatedAt": "2026-08-22T03:14:59.032Z"
     },
     {
       "matchId": "inter_milan_monza_20260822",
@@ -1284,7 +808,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-21T17:55:44.504Z"
+      "updatedAt": "2026-08-22T03:14:59.032Z"
     },
     {
       "matchId": "udinese_como_20260822",
@@ -1346,7 +870,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-21T17:55:44.504Z"
+      "updatedAt": "2026-08-22T03:14:59.033Z"
     },
     {
       "matchId": "valencia_celta_vigo_20260823",
@@ -1408,7 +932,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-21T17:55:44.505Z"
+      "updatedAt": "2026-08-22T03:14:59.033Z"
     },
     {
       "matchId": "le_mans_brest_20260823",
@@ -1470,7 +994,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-21T17:55:44.505Z"
+      "updatedAt": "2026-08-22T03:14:59.034Z"
     },
     {
       "matchId": "nice_lorient_20260823",
@@ -1532,7 +1056,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-21T17:55:44.505Z"
+      "updatedAt": "2026-08-22T03:14:59.034Z"
     },
     {
       "matchId": "toulouse_olympique_lyonnais_20260823",
@@ -1594,7 +1118,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-21T17:55:44.505Z"
+      "updatedAt": "2026-08-22T03:14:59.034Z"
     },
     {
       "matchId": "troyes_paris_fc_20260823",
@@ -1656,7 +1180,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-21T17:55:44.505Z"
+      "updatedAt": "2026-08-22T03:14:59.034Z"
     },
     {
       "matchId": "genoa_napoli_20260823",
@@ -1718,7 +1242,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-21T17:55:44.506Z"
+      "updatedAt": "2026-08-22T03:14:59.035Z"
     },
     {
       "matchId": "parma_cagliari_20260823",
@@ -1780,7 +1304,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-21T17:55:44.506Z"
+      "updatedAt": "2026-08-22T03:14:59.035Z"
     },
     {
       "matchId": "fluminense_remo_20260823",
@@ -1842,7 +1366,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-21T17:55:44.506Z"
+      "updatedAt": "2026-08-22T03:14:59.035Z"
     },
     {
       "matchId": "espanyol_real_madrid_20260823",
@@ -1904,7 +1428,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-21T17:55:44.506Z"
+      "updatedAt": "2026-08-22T03:14:59.037Z"
     },
     {
       "matchId": "internacional_atletico_mg_20260823",
@@ -1966,7 +1490,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-21T17:55:44.506Z"
+      "updatedAt": "2026-08-22T03:14:59.037Z"
     },
     {
       "matchId": "cruzeiro_flamengo_20260823",
@@ -2028,7 +1552,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-21T17:55:44.507Z"
+      "updatedAt": "2026-08-22T03:14:59.037Z"
     },
     {
       "matchId": "daejeon_hana_citizen_gangwon_fc_20260823",
@@ -2090,7 +1614,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-21T17:55:44.507Z"
+      "updatedAt": "2026-08-22T03:14:59.038Z"
     },
     {
       "matchId": "gwangju_fc_incheon_united_20260823",
@@ -2152,7 +1676,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-21T17:55:44.507Z"
+      "updatedAt": "2026-08-22T03:14:59.038Z"
     },
     {
       "matchId": "angers_lille_20260823",
@@ -2214,7 +1738,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-21T17:55:44.507Z"
+      "updatedAt": "2026-08-22T03:14:59.038Z"
     },
     {
       "matchId": "brighton_and_hove_albion_aston_villa_20260823",
@@ -2276,7 +1800,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-21T17:55:44.507Z"
+      "updatedAt": "2026-08-22T03:14:59.039Z"
     },
     {
       "matchId": "manchester_city_bournemouth_20260823",
@@ -2338,7 +1862,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-21T17:55:44.508Z"
+      "updatedAt": "2026-08-22T03:14:59.039Z"
     },
     {
       "matchId": "atletico_madrid_villarreal_20260823",
@@ -2400,7 +1924,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-21T17:55:44.508Z"
+      "updatedAt": "2026-08-22T03:14:59.039Z"
     },
     {
       "matchId": "le_havre_as_monaco_20260823",
@@ -2462,7 +1986,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-21T17:55:44.508Z"
+      "updatedAt": "2026-08-22T03:14:59.040Z"
     },
     {
       "matchId": "newcastle_united_liverpool_20260823",
@@ -2524,7 +2048,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-21T17:55:44.508Z"
+      "updatedAt": "2026-08-22T03:14:59.040Z"
     },
     {
       "matchId": "frosinone_juventus_20260823",
@@ -2586,7 +2110,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-21T17:55:44.508Z"
+      "updatedAt": "2026-08-22T03:14:59.040Z"
     },
     {
       "matchId": "venezia_lecce_20260823",
@@ -2648,33 +2172,26 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-21T17:55:44.509Z"
+      "updatedAt": "2026-08-22T03:14:59.041Z"
     }
   ],
   "meta": {
-    "configOrigin": "local+github",
-    "sources": [
-      "cakhia",
-      "xoilac",
-      "mitomtm",
-      "socolive",
-      "highlight",
-      "myanmartv"
-    ],
+    "configOrigin": "expire",
+    "sources": [],
     "adminApplied": true,
     "sync": {
-      "removedExpired": 10,
+      "removedExpired": 4,
       "streamsAdded": 0,
-      "matchesAdded": 10
+      "matchesAdded": 0
     },
-    "liveCount": 1,
-    "scheduledCount": 37,
+    "liveCount": 0,
+    "scheduledCount": 35,
     "endedCount": 0,
     "manualStreamCount": 0,
     "highlightCount": 10,
     "channelCount": 0,
-    "checksum": "b616a049b194a0cb5aeb7991866cdc69ee2169bda9bafbec7f2c4708877013af",
-    "cachedAt": "2026-08-21T17:55:44.527Z",
+    "checksum": "4be14584f63f6f3f93b174978583058627cd5e550aeed0e135b8d82f40da1327",
+    "cachedAt": "2026-08-22T03:14:59.065Z",
     "feed": "matches"
   }
 }
