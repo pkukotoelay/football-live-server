@@ -1,71 +1,9 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-23T23:45:01.005+06:30",
+  "generatedAt": "2026-08-23T23:45:02.769+06:30",
   "timezone": "Asia/Yangon",
-  "matchCount": 4,
+  "matchCount": 3,
   "matches": [
-    {
-      "matchId": "le_havre_as_monaco_20260823",
-      "league": "Ligue 1",
-      "leagueIcon": "https://images.fotmob.com/image_resources/logo/leaguelogo/53.png",
-      "homeTeam": "Le Havre",
-      "awayTeam": "AS Monaco",
-      "homeTeamId": 9746,
-      "awayTeamId": 9829,
-      "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/9746.png",
-      "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/9829.png",
-      "date": "2026-08-23",
-      "time": "9:45 PM",
-      "kickoff": "2026-08-23T21:45:00.000+06:30",
-      "timezone": "Asia/Yangon",
-      "status": "END",
-      "fotmobMatchId": 5802902,
-      "leagueId": 53,
-      "leagueName": "Ligue 1",
-      "source": "fotmob",
-      "manual": false,
-      "statusLocked": false,
-      "pinned": false,
-      "featured": false,
-      "hasStreams": false,
-      "streamCount": 0,
-      "originalNames": {
-        "fotmob": {
-          "league": "FRA Ligue 1",
-          "country": "FRA",
-          "leagueId": 53,
-          "homeTeam": "Le Havre",
-          "awayTeam": "Monaco"
-        }
-      },
-      "sourcePages": {},
-      "streams": [],
-      "streamAttempts": {},
-      "matchUrl": null,
-      "matchUrlStatus": "MATCH_URL_PENDING",
-      "matchUrlAttempts": 0,
-      "lastMatchUrlAttemptAt": null,
-      "matchUrlSource": null,
-      "streamUrl": null,
-      "streamHeaders": null,
-      "streamStatus": "PREPARING_STREAM",
-      "attempts": 0,
-      "validationStatus": null,
-      "validationReason": null,
-      "lastAttemptAt": null,
-      "streamSearch": {
-        "started": false,
-        "stopped": false,
-        "stopTime": null,
-        "slotsDone": {},
-        "sources": {}
-      },
-      "matchUrlSearch": {
-        "slotsDone": {},
-        "sources": {}
-      },
-      "updatedAt": "2026-08-23T17:15:01.004Z"
-    },
     {
       "matchId": "newcastle_united_liverpool_20260823",
       "league": "English Premier League (EPL)",
@@ -126,7 +64,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-23T17:15:01.004Z"
+      "updatedAt": "2026-08-23T17:15:02.769Z"
     },
     {
       "matchId": "frosinone_juventus_20260823",
@@ -188,7 +126,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-23T17:15:01.004Z"
+      "updatedAt": "2026-08-23T17:15:02.769Z"
     },
     {
       "matchId": "venezia_lecce_20260823",
@@ -250,7 +188,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-23T17:15:01.005Z"
+      "updatedAt": "2026-08-23T17:15:02.769Z"
     }
   ],
   "meta": {
@@ -258,18 +196,18 @@
     "sources": [],
     "adminApplied": true,
     "sync": {
-      "removedExpired": 0,
+      "removedExpired": 1,
       "streamsAdded": 0,
       "matchesAdded": 0
     },
     "liveCount": 3,
     "scheduledCount": 0,
-    "endedCount": 1,
+    "endedCount": 0,
     "manualStreamCount": 0,
     "highlightCount": 10,
     "channelCount": 0,
-    "checksum": "58110fc465c0f10cef5d93f39f9e9a55199ff714abc4a4d453fcbfcaa86d28e8",
-    "cachedAt": "2026-08-23T17:15:01.010Z",
+    "checksum": "62b761ddd57450ed935fa248800ff31bb6befbae6480902429a22be7d5499c93",
+    "cachedAt": "2026-08-23T17:15:02.776Z",
     "feed": "matches"
   }
 }
