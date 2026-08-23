@@ -1,71 +1,9 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-24T00:00:00.612+06:30",
+  "generatedAt": "2026-08-24T00:00:02.239+06:30",
   "timezone": "Asia/Yangon",
-  "matchCount": 3,
+  "matchCount": 2,
   "matches": [
-    {
-      "matchId": "newcastle_united_liverpool_20260823",
-      "league": "English Premier League (EPL)",
-      "leagueIcon": "https://images.fotmob.com/image_resources/logo/leaguelogo/47.png",
-      "homeTeam": "Newcastle United",
-      "awayTeam": "Liverpool",
-      "homeTeamId": 10261,
-      "awayTeamId": 8650,
-      "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/10261.png",
-      "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/8650.png",
-      "date": "2026-08-23",
-      "time": "10:00 PM",
-      "kickoff": "2026-08-23T22:00:00.000+06:30",
-      "timezone": "Asia/Yangon",
-      "status": "END",
-      "fotmobMatchId": 5795371,
-      "leagueId": 47,
-      "leagueName": "English Premier League (EPL)",
-      "source": "fotmob",
-      "manual": false,
-      "statusLocked": false,
-      "pinned": false,
-      "featured": false,
-      "hasStreams": false,
-      "streamCount": 0,
-      "originalNames": {
-        "fotmob": {
-          "league": "ENG Premier League",
-          "country": "ENG",
-          "leagueId": 47,
-          "homeTeam": "Newcastle",
-          "awayTeam": "Liverpool"
-        }
-      },
-      "sourcePages": {},
-      "streams": [],
-      "streamAttempts": {},
-      "matchUrl": null,
-      "matchUrlStatus": "MATCH_URL_PENDING",
-      "matchUrlAttempts": 0,
-      "lastMatchUrlAttemptAt": null,
-      "matchUrlSource": null,
-      "streamUrl": null,
-      "streamHeaders": null,
-      "streamStatus": "PREPARING_STREAM",
-      "attempts": 0,
-      "validationStatus": null,
-      "validationReason": null,
-      "lastAttemptAt": null,
-      "streamSearch": {
-        "started": false,
-        "stopped": false,
-        "stopTime": null,
-        "slotsDone": {},
-        "sources": {}
-      },
-      "matchUrlSearch": {
-        "slotsDone": {},
-        "sources": {}
-      },
-      "updatedAt": "2026-08-23T17:30:00.611Z"
-    },
     {
       "matchId": "frosinone_juventus_20260823",
       "league": "Serie A",
@@ -126,7 +64,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-23T17:30:00.612Z"
+      "updatedAt": "2026-08-23T17:30:02.238Z"
     },
     {
       "matchId": "venezia_lecce_20260823",
@@ -188,7 +126,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-23T17:30:00.612Z"
+      "updatedAt": "2026-08-23T17:30:02.239Z"
     }
   ],
   "meta": {
@@ -196,18 +134,18 @@
     "sources": [],
     "adminApplied": true,
     "sync": {
-      "removedExpired": 0,
+      "removedExpired": 1,
       "streamsAdded": 0,
       "matchesAdded": 0
     },
     "liveCount": 2,
     "scheduledCount": 0,
-    "endedCount": 1,
+    "endedCount": 0,
     "manualStreamCount": 0,
     "highlightCount": 10,
     "channelCount": 0,
-    "checksum": "be82c46acd17cfd9cbea572ad7a28bc7eb915e2d791e7fd2d7e26f01709f12c7",
-    "cachedAt": "2026-08-23T17:30:00.623Z",
+    "checksum": "4d5eb84be46620dd0ab44d4e4a4d297b1ddc44ffbc1cc048ba0924fa6a35951f",
+    "cachedAt": "2026-08-23T17:30:02.249Z",
     "feed": "matches"
   }
 }
