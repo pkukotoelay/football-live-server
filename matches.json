@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-23T23:00:00.258+06:30",
+  "generatedAt": "2026-08-23T23:30:00.413+06:30",
   "timezone": "Asia/Yangon",
   "matchCount": 5,
   "matches": [
@@ -18,7 +18,7 @@
       "time": "9:30 PM",
       "kickoff": "2026-08-23T21:30:00.000+06:30",
       "timezone": "Asia/Yangon",
-      "status": "LIVE",
+      "status": "END",
       "fotmobMatchId": 5868022,
       "leagueId": 87,
       "leagueName": "La Liga",
@@ -64,7 +64,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-23T16:30:00.257Z"
+      "updatedAt": "2026-08-23T17:00:00.412Z"
     },
     {
       "matchId": "le_havre_as_monaco_20260823",
@@ -126,7 +126,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-23T16:30:00.257Z"
+      "updatedAt": "2026-08-23T17:00:00.412Z"
     },
     {
       "matchId": "newcastle_united_liverpool_20260823",
@@ -188,7 +188,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-23T16:30:00.257Z"
+      "updatedAt": "2026-08-23T17:00:00.412Z"
     },
     {
       "matchId": "frosinone_juventus_20260823",
@@ -250,7 +250,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-23T16:30:00.258Z"
+      "updatedAt": "2026-08-23T17:00:00.412Z"
     },
     {
       "matchId": "venezia_lecce_20260823",
@@ -312,7 +312,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-23T16:30:00.258Z"
+      "updatedAt": "2026-08-23T17:00:00.413Z"
     }
   ],
   "meta": {
@@ -324,14 +324,14 @@
       "streamsAdded": 0,
       "matchesAdded": 0
     },
-    "liveCount": 5,
+    "liveCount": 4,
     "scheduledCount": 0,
-    "endedCount": 0,
+    "endedCount": 1,
     "manualStreamCount": 0,
     "highlightCount": 10,
     "channelCount": 0,
-    "checksum": "24904784fb8e398d347cdeb791622622c2a6bbd6dd014cac2eb9880871f6ed14",
-    "cachedAt": "2026-08-23T16:30:00.264Z",
+    "checksum": "c06e3bc2596b99be9b570b0b364a42afd51ab9c5383d07d6f3cd6396a167b3e3",
+    "cachedAt": "2026-08-23T17:00:00.418Z",
     "feed": "matches"
   }
 }
