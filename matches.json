@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-23T22:00:00.715+06:30",
+  "generatedAt": "2026-08-23T23:00:00.258+06:30",
   "timezone": "Asia/Yangon",
   "matchCount": 5,
   "matches": [
@@ -64,7 +64,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-23T15:30:00.714Z"
+      "updatedAt": "2026-08-23T16:30:00.257Z"
     },
     {
       "matchId": "le_havre_as_monaco_20260823",
@@ -126,7 +126,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-23T15:30:00.714Z"
+      "updatedAt": "2026-08-23T16:30:00.257Z"
     },
     {
       "matchId": "newcastle_united_liverpool_20260823",
@@ -188,7 +188,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-23T15:30:00.714Z"
+      "updatedAt": "2026-08-23T16:30:00.257Z"
     },
     {
       "matchId": "frosinone_juventus_20260823",
@@ -204,7 +204,7 @@
       "time": "11:00 PM",
       "kickoff": "2026-08-23T23:00:00.000+06:30",
       "timezone": "Asia/Yangon",
-      "status": "PREPARING_STREAM",
+      "status": "LIVE",
       "fotmobMatchId": 5749643,
       "leagueId": 55,
       "leagueName": "Serie A",
@@ -250,7 +250,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-23T15:30:00.714Z"
+      "updatedAt": "2026-08-23T16:30:00.258Z"
     },
     {
       "matchId": "venezia_lecce_20260823",
@@ -266,7 +266,7 @@
       "time": "11:00 PM",
       "kickoff": "2026-08-23T23:00:00.000+06:30",
       "timezone": "Asia/Yangon",
-      "status": "PREPARING_STREAM",
+      "status": "LIVE",
       "fotmobMatchId": 5749649,
       "leagueId": 55,
       "leagueName": "Serie A",
@@ -312,7 +312,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-23T15:30:00.715Z"
+      "updatedAt": "2026-08-23T16:30:00.258Z"
     }
   ],
   "meta": {
@@ -324,14 +324,14 @@
       "streamsAdded": 0,
       "matchesAdded": 0
     },
-    "liveCount": 3,
+    "liveCount": 5,
     "scheduledCount": 0,
     "endedCount": 0,
     "manualStreamCount": 0,
     "highlightCount": 10,
     "channelCount": 0,
-    "checksum": "28cae3dec3df2a7511fb94dd5c7b3d77ac3109d8ec78fb884fec98f4a7b4d4fe",
-    "cachedAt": "2026-08-23T15:30:00.720Z",
+    "checksum": "24904784fb8e398d347cdeb791622622c2a6bbd6dd014cac2eb9880871f6ed14",
+    "cachedAt": "2026-08-23T16:30:00.264Z",
     "feed": "matches"
   }
 }
