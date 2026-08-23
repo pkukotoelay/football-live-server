@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-23T23:45:02.769+06:30",
+  "generatedAt": "2026-08-24T00:00:00.612+06:30",
   "timezone": "Asia/Yangon",
   "matchCount": 3,
   "matches": [
@@ -18,7 +18,7 @@
       "time": "10:00 PM",
       "kickoff": "2026-08-23T22:00:00.000+06:30",
       "timezone": "Asia/Yangon",
-      "status": "LIVE",
+      "status": "END",
       "fotmobMatchId": 5795371,
       "leagueId": 47,
       "leagueName": "English Premier League (EPL)",
@@ -64,7 +64,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-23T17:15:02.769Z"
+      "updatedAt": "2026-08-23T17:30:00.611Z"
     },
     {
       "matchId": "frosinone_juventus_20260823",
@@ -126,7 +126,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-23T17:15:02.769Z"
+      "updatedAt": "2026-08-23T17:30:00.612Z"
     },
     {
       "matchId": "venezia_lecce_20260823",
@@ -188,7 +188,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-23T17:15:02.769Z"
+      "updatedAt": "2026-08-23T17:30:00.612Z"
     }
   ],
   "meta": {
@@ -196,18 +196,18 @@
     "sources": [],
     "adminApplied": true,
     "sync": {
-      "removedExpired": 1,
+      "removedExpired": 0,
       "streamsAdded": 0,
       "matchesAdded": 0
     },
-    "liveCount": 3,
+    "liveCount": 2,
     "scheduledCount": 0,
-    "endedCount": 0,
+    "endedCount": 1,
     "manualStreamCount": 0,
     "highlightCount": 10,
     "channelCount": 0,
-    "checksum": "62b761ddd57450ed935fa248800ff31bb6befbae6480902429a22be7d5499c93",
-    "cachedAt": "2026-08-23T17:15:02.776Z",
+    "checksum": "be82c46acd17cfd9cbea572ad7a28bc7eb915e2d791e7fd2d7e26f01709f12c7",
+    "cachedAt": "2026-08-23T17:30:00.623Z",
     "feed": "matches"
   }
 }
