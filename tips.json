@@ -1,76 +1,14 @@
 {
   "source": "https://www.predictz.com/",
-  "scraped_at": "2026-08-23T19:33:48.967Z",
+  "scraped_at": "2026-08-23T21:58:55.644Z",
   "timezone": "Asia/Yangon",
   "today": {
     "day": "today",
     "date": "2026-08-24",
     "label": "Football Tips Tonight - Sunday, August 23rd, 2026",
     "pageUrl": "https://www.predictz.com/predictions/",
-    "count": 21,
+    "count": 3,
     "tips": [
-      {
-        "id": "1180250",
-        "day": "today",
-        "date": "2026-08-24",
-        "league": "Chile Primera B",
-        "homeTeam": "Antofagasta",
-        "awayTeam": "Deportes Temuco",
-        "match": "Antofagasta v Deportes Temuco",
-        "prediction": "Draw 2-2",
-        "predictionSide": "draw",
-        "odds": {
-          "home": "1.86",
-          "draw": "3.55",
-          "away": "3.85"
-        },
-        "homeForm": [
-          "L",
-          "W",
-          "W",
-          "D",
-          "D"
-        ],
-        "awayForm": [
-          "L",
-          "L",
-          "L",
-          "D",
-          "D"
-        ],
-        "url": "https://www.predictz.com/predictions/chile/primera-b/1180250/"
-      },
-      {
-        "id": "1215163",
-        "day": "today",
-        "date": "2026-08-24",
-        "league": "Argentina Liga Profesional",
-        "homeTeam": "Belgrano",
-        "awayTeam": "Defensa Y Justicia",
-        "match": "Belgrano v Defensa Y Justicia",
-        "prediction": "Home 3-2",
-        "predictionSide": "home",
-        "odds": {
-          "home": "1.79",
-          "draw": "3.25",
-          "away": "5.00"
-        },
-        "homeForm": [
-          "W",
-          "L",
-          "D",
-          "W",
-          "W"
-        ],
-        "awayForm": [
-          "D",
-          "W",
-          "L",
-          "W",
-          "D"
-        ],
-        "url": "https://www.predictz.com/predictions/argentina/liga-profesional/1215163/"
-      },
       {
         "id": "1215167",
         "day": "today",
@@ -83,8 +21,8 @@
         "predictionSide": "away",
         "odds": {
           "home": "1.66",
-          "draw": "3.30",
-          "away": "6.00"
+          "draw": "3.25",
+          "away": "6.25"
         },
         "homeForm": [
           "L",
@@ -101,99 +39,6 @@
           "D"
         ],
         "url": "https://www.predictz.com/predictions/argentina/liga-profesional/1215167/"
-      },
-      {
-        "id": "1218822",
-        "day": "today",
-        "date": "2026-08-24",
-        "league": "Bolivia Primera Division",
-        "homeTeam": "Guabira",
-        "awayTeam": "Blooming",
-        "match": "Guabira v Blooming",
-        "prediction": "Home 2-0",
-        "predictionSide": "home",
-        "odds": {
-          "home": "2.10",
-          "draw": "3.90",
-          "away": "2.82"
-        },
-        "homeForm": [
-          "W",
-          "D",
-          "W",
-          "W",
-          "W"
-        ],
-        "awayForm": [
-          "D",
-          "L",
-          "D",
-          "L",
-          "W"
-        ],
-        "url": "https://www.predictz.com/predictions/bolivia/primera-division/1218822/"
-      },
-      {
-        "id": "1170825",
-        "day": "today",
-        "date": "2026-08-24",
-        "league": "Brazil Serie A",
-        "homeTeam": "Chapecoense",
-        "awayTeam": "Sao Paulo",
-        "match": "Chapecoense v Sao Paulo",
-        "prediction": "Away 0-2",
-        "predictionSide": "away",
-        "odds": {
-          "home": "3.90",
-          "draw": "3.20",
-          "away": "2.05"
-        },
-        "homeForm": [
-          "L",
-          "L",
-          "D",
-          "L",
-          "D"
-        ],
-        "awayForm": [
-          "L",
-          "L",
-          "D",
-          "L",
-          "D"
-        ],
-        "url": "https://www.predictz.com/predictions/brazil/serie-a/1170825/"
-      },
-      {
-        "id": "1170822",
-        "day": "today",
-        "date": "2026-08-24",
-        "league": "Brazil Serie A",
-        "homeTeam": "Santos",
-        "awayTeam": "Mirassol",
-        "match": "Santos v Mirassol",
-        "prediction": "Home 1-0",
-        "predictionSide": "home",
-        "odds": {
-          "home": "1.76",
-          "draw": "3.70",
-          "away": "4.33"
-        },
-        "homeForm": [
-          "W",
-          "L",
-          "D",
-          "L",
-          "W"
-        ],
-        "awayForm": [
-          "W",
-          "D",
-          "W",
-          "L",
-          "L"
-        ],
-        "url": "https://www.predictz.com/predictions/brazil/serie-a/1170822/"
       },
       {
         "id": "1170823",
@@ -225,407 +70,6 @@
           "L"
         ],
         "url": "https://www.predictz.com/predictions/brazil/serie-a/1170823/"
-      },
-      {
-        "id": "1183521",
-        "day": "today",
-        "date": "2026-08-24",
-        "league": "Brazil Serie B",
-        "homeTeam": "Operario",
-        "awayTeam": "Vila Nova",
-        "match": "Operario v Vila Nova",
-        "prediction": "Draw 2-2",
-        "predictionSide": "draw",
-        "odds": {
-          "home": "2.35",
-          "draw": "3.10",
-          "away": "3.20"
-        },
-        "homeForm": [
-          "W",
-          "L",
-          "L",
-          "L",
-          "L"
-        ],
-        "awayForm": [
-          "W",
-          "L",
-          "L",
-          "W",
-          "W"
-        ],
-        "url": "https://www.predictz.com/predictions/brazil/serie-b/1183521/"
-      },
-      {
-        "id": "1183518",
-        "day": "today",
-        "date": "2026-08-24",
-        "league": "Brazil Serie B",
-        "homeTeam": "Criciuma SC",
-        "awayTeam": "Fortaleza CE",
-        "match": "Criciuma SC v Fortaleza CE",
-        "prediction": "Home 1-0",
-        "predictionSide": "home",
-        "odds": {
-          "home": "1.86",
-          "draw": "3.20",
-          "away": "4.33"
-        },
-        "homeForm": [
-          "W",
-          "D",
-          "L",
-          "W",
-          "D"
-        ],
-        "awayForm": [
-          "L",
-          "W",
-          "D",
-          "D",
-          "D"
-        ],
-        "url": "https://www.predictz.com/predictions/brazil/serie-b/1183518/"
-      },
-      {
-        "id": "1185925",
-        "day": "today",
-        "date": "2026-08-24",
-        "league": "Brazil Serie C",
-        "homeTeam": "Maranhao",
-        "awayTeam": "Itabaiana",
-        "match": "Maranhao v Itabaiana",
-        "prediction": "Draw 1-1",
-        "predictionSide": "draw",
-        "odds": {
-          "home": "2.04",
-          "draw": "3.00",
-          "away": "3.70"
-        },
-        "homeForm": [
-          "L",
-          "W",
-          "D",
-          "W",
-          "W"
-        ],
-        "awayForm": [
-          "W",
-          "W",
-          "D",
-          "L",
-          "L"
-        ],
-        "url": "https://www.predictz.com/predictions/brazil/serie-c/1185925/"
-      },
-      {
-        "id": "1184533",
-        "day": "today",
-        "date": "2026-08-24",
-        "league": "Brazil Serie C",
-        "homeTeam": "Ypiranga",
-        "awayTeam": "Ferroviaria",
-        "match": "Ypiranga v Ferroviaria",
-        "prediction": "Draw 2-2",
-        "predictionSide": "draw",
-        "odds": {
-          "home": "2.30",
-          "draw": "3.00",
-          "away": "3.05"
-        },
-        "homeForm": [
-          "W",
-          "L",
-          "W",
-          "W",
-          "D"
-        ],
-        "awayForm": [
-          "L",
-          "W",
-          "D",
-          "D",
-          "W"
-        ],
-        "url": "https://www.predictz.com/predictions/brazil/serie-c/1184533/"
-      },
-      {
-        "id": "1219711",
-        "day": "today",
-        "date": "2026-08-24",
-        "league": "Brazil Serie D Finals",
-        "homeTeam": "ASA",
-        "awayTeam": "Gama",
-        "match": "ASA v Gama",
-        "prediction": "Draw 2-2",
-        "predictionSide": "draw",
-        "odds": {
-          "home": "2.27",
-          "draw": "2.72",
-          "away": "3.25"
-        },
-        "homeForm": [
-          "W",
-          "W",
-          "W",
-          "D",
-          "D"
-        ],
-        "awayForm": [
-          "W",
-          "L",
-          "W",
-          "D",
-          "W"
-        ],
-        "url": "https://www.predictz.com/predictions/brazil/serie-d-finals/1219711/"
-      },
-      {
-        "id": "1182620",
-        "day": "today",
-        "date": "2026-08-24",
-        "league": "Ecuador Serie A",
-        "homeTeam": "Delfin",
-        "awayTeam": "Aucas",
-        "match": "Delfin v Aucas",
-        "prediction": "Away 0-1",
-        "predictionSide": "away",
-        "odds": {
-          "home": "3.40",
-          "draw": "3.00",
-          "away": "2.20"
-        },
-        "homeForm": [
-          "L",
-          "L",
-          "L",
-          "D",
-          "L"
-        ],
-        "awayForm": [
-          "L",
-          "L",
-          "W",
-          "W",
-          "L"
-        ],
-        "url": "https://www.predictz.com/predictions/ecuador/serie-a/1182620/"
-      },
-      {
-        "id": "1219565",
-        "day": "today",
-        "date": "2026-08-24",
-        "league": "Uruguay Primera Division",
-        "homeTeam": "Club Nacional",
-        "awayTeam": "Progreso",
-        "match": "Club Nacional v Progreso",
-        "prediction": "Home 3-0",
-        "predictionSide": "home",
-        "odds": {
-          "home": "1.38",
-          "draw": "4.20",
-          "away": "6.25"
-        },
-        "homeForm": [
-          "D",
-          "L",
-          "W",
-          "L",
-          "L"
-        ],
-        "awayForm": [
-          "L",
-          "W",
-          "L",
-          "L",
-          "L"
-        ],
-        "url": "https://www.predictz.com/predictions/uruguay/primera-division/1219565/"
-      },
-      {
-        "id": "1219107",
-        "day": "today",
-        "date": "2026-08-24",
-        "league": "Venezuela Primera Division",
-        "homeTeam": "Trujillanos",
-        "awayTeam": "Monagas SC",
-        "match": "Trujillanos v Monagas SC",
-        "prediction": "Away 0-1",
-        "predictionSide": "away",
-        "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
-        },
-        "homeForm": [
-          "W",
-          "L",
-          "L",
-          "L",
-          "D"
-        ],
-        "awayForm": [
-          "L",
-          "L",
-          "W",
-          "L",
-          "D"
-        ],
-        "url": "https://www.predictz.com/predictions/venezuela/primera-division/1219107/"
-      },
-      {
-        "id": "1182885",
-        "day": "today",
-        "date": "2026-08-24",
-        "league": "Canada Premier League",
-        "homeTeam": "Inter Toronto",
-        "awayTeam": "Supra du Quebec",
-        "match": "Inter Toronto v Supra du Quebec",
-        "prediction": "Home 2-0",
-        "predictionSide": "home",
-        "odds": {
-          "home": "3.15",
-          "draw": "3.75",
-          "away": "1.95"
-        },
-        "homeForm": [
-          "D",
-          "L",
-          "L",
-          "D",
-          "W"
-        ],
-        "awayForm": [
-          "L",
-          "W",
-          "D",
-          "L",
-          "L"
-        ],
-        "url": "https://www.predictz.com/predictions/canada/premier-league/1182885/"
-      },
-      {
-        "id": "1171786",
-        "day": "today",
-        "date": "2026-08-24",
-        "league": "USA Major League Soccer",
-        "homeTeam": "New England Revolution",
-        "awayTeam": "New York City FC",
-        "match": "New England Revolution v New York City FC",
-        "prediction": "Draw 1-1",
-        "predictionSide": "draw",
-        "odds": {
-          "home": "2.15",
-          "draw": "3.70",
-          "away": "3.00"
-        },
-        "homeForm": [
-          "W",
-          "D",
-          "L",
-          "L",
-          "W"
-        ],
-        "awayForm": [
-          "W",
-          "W",
-          "D",
-          "L",
-          "L"
-        ],
-        "url": "https://www.predictz.com/predictions/usa/major-league-soccer/1171786/"
-      },
-      {
-        "id": "1194035",
-        "day": "today",
-        "date": "2026-08-24",
-        "league": "Costa Rica Primera Division",
-        "homeTeam": "Inter San Carlos",
-        "awayTeam": "Saprissa",
-        "match": "Inter San Carlos v Saprissa",
-        "prediction": "Draw 0-0",
-        "predictionSide": "draw",
-        "odds": {
-          "home": "5.00",
-          "draw": "3.25",
-          "away": "1.65"
-        },
-        "homeForm": [
-          "L",
-          "D",
-          "W"
-        ],
-        "awayForm": [
-          "L",
-          "W",
-          "W",
-          "W",
-          "W"
-        ],
-        "url": "https://www.predictz.com/predictions/costa-rica/primera-division/1194035/"
-      },
-      {
-        "id": "1214107",
-        "day": "today",
-        "date": "2026-08-24",
-        "league": "Honduras Liga Nacional",
-        "homeTeam": "Marathon",
-        "awayTeam": "Real Espana",
-        "match": "Marathon v Real Espana",
-        "prediction": "Draw 2-2",
-        "predictionSide": "draw",
-        "odds": {
-          "home": "2.23",
-          "draw": "3.05",
-          "away": "3.15"
-        },
-        "homeForm": [
-          "D",
-          "D",
-          "W",
-          "D",
-          "W"
-        ],
-        "awayForm": [
-          "L",
-          "D",
-          "W",
-          "W",
-          "D"
-        ],
-        "url": "https://www.predictz.com/predictions/honduras/liga-nacional/1214107/"
-      },
-      {
-        "id": "1208304",
-        "day": "today",
-        "date": "2026-08-24",
-        "league": "Nicaragua Liga Primera",
-        "homeTeam": "Municipal Jalapa",
-        "awayTeam": "Matagalpa",
-        "match": "Municipal Jalapa v Matagalpa",
-        "prediction": "Home 1-0",
-        "predictionSide": "home",
-        "odds": {
-          "home": "1.86",
-          "draw": "3.40",
-          "away": "3.75"
-        },
-        "homeForm": [
-          "W",
-          "L",
-          "L",
-          "L",
-          "L"
-        ],
-        "awayForm": [
-          "L",
-          "L",
-          "L",
-          "L",
-          "W"
-        ],
-        "url": "https://www.predictz.com/predictions/nicaragua/liga-primera/1208304/"
       },
       {
         "id": "1208305",
@@ -709,7 +153,7 @@
         "prediction": "Home 2-1",
         "predictionSide": "home",
         "odds": {
-          "home": "1.83",
+          "home": "1.84",
           "draw": "3.60",
           "away": "4.45"
         },
@@ -740,9 +184,9 @@
         "prediction": "Draw 1-1",
         "predictionSide": "draw",
         "odds": {
-          "home": "2.50",
-          "draw": "2.96",
-          "away": "3.20"
+          "home": "2.47",
+          "draw": "2.97",
+          "away": "3.25"
         },
         "homeForm": [
           "W",
@@ -1103,7 +547,7 @@
         "predictionSide": "draw",
         "odds": {
           "home": "3.15",
-          "draw": "2.98",
+          "draw": "2.97",
           "away": "2.35"
         },
         "homeForm": [
@@ -1133,9 +577,9 @@
         "prediction": "Draw 1-1",
         "predictionSide": "draw",
         "odds": {
-          "home": "2.25",
+          "home": "2.26",
           "draw": "3.15",
-          "away": "3.50"
+          "away": "3.45"
         },
         "homeForm": [
           "L",
@@ -1164,9 +608,9 @@
         "prediction": "Home 3-0",
         "predictionSide": "home",
         "odds": {
-          "home": "1.70",
+          "home": "1.73",
           "draw": "3.75",
-          "away": "5.00"
+          "away": "4.90"
         },
         "homeForm": [
           "W",
@@ -1197,7 +641,7 @@
         "odds": {
           "home": "1.88",
           "draw": "3.80",
-          "away": "3.80"
+          "away": "3.75"
         },
         "homeForm": [
           "D",
@@ -1288,9 +732,9 @@
         "prediction": "Home 1-0",
         "predictionSide": "home",
         "odds": {
-          "home": "1.76",
-          "draw": "3.45",
-          "away": "4.75"
+          "home": "1.78",
+          "draw": "3.40",
+          "away": "4.55"
         },
         "homeForm": [
           "W",
@@ -1383,7 +827,7 @@
         "odds": {
           "home": "1.44",
           "draw": "4.85",
-          "away": "6.25"
+          "away": "6.30"
         },
         "homeForm": [
           "D",
@@ -1567,7 +1011,7 @@
         "prediction": "Home 1-0",
         "predictionSide": "home",
         "odds": {
-          "home": "1.75",
+          "home": "1.74",
           "draw": "3.50",
           "away": "5.20"
         },
@@ -1753,9 +1197,9 @@
         "prediction": "Home 3-0",
         "predictionSide": "home",
         "odds": {
-          "home": "1.58",
-          "draw": "3.50",
-          "away": "5.05"
+          "home": "1.60",
+          "draw": "3.45",
+          "away": "5.00"
         },
         "homeForm": [
           "W",
@@ -1877,8 +1321,8 @@
         "predictionSide": "home",
         "odds": {
           "home": "1.50",
-          "draw": "4.10",
-          "away": "5.25"
+          "draw": "4.20",
+          "away": "5.15"
         },
         "homeForm": [
           "W",
@@ -1969,9 +1413,9 @@
         "prediction": "Away 0-1",
         "predictionSide": "away",
         "odds": {
-          "home": "2.32",
+          "home": "2.36",
           "draw": "3.40",
-          "away": "2.88"
+          "away": "2.83"
         },
         "homeForm": [
           "L",
@@ -2279,8 +1723,8 @@
         "prediction": "Away 0-3",
         "predictionSide": "away",
         "odds": {
-          "home": "5.00",
-          "draw": "4.15",
+          "home": "5.05",
+          "draw": "4.20",
           "away": "1.56"
         },
         "homeForm": [
@@ -2496,9 +1940,9 @@
         "prediction": "Home 2-1",
         "predictionSide": "home",
         "odds": {
-          "home": "1.24",
+          "home": "1.23",
           "draw": "5.60",
-          "away": "10.50"
+          "away": "11.00"
         },
         "homeForm": [
           "W",
@@ -2527,9 +1971,9 @@
         "prediction": "Home 1-0",
         "predictionSide": "home",
         "odds": {
-          "home": "1.70",
+          "home": "1.68",
           "draw": "4.15",
-          "away": "4.55"
+          "away": "4.60"
         },
         "homeForm": [
           "D",
@@ -2558,9 +2002,9 @@
         "prediction": "Home 3-0",
         "predictionSide": "home",
         "odds": {
-          "home": "1.52",
-          "draw": "4.10",
-          "away": "5.60"
+          "home": "1.50",
+          "draw": "4.15",
+          "away": "5.70"
         },
         "homeForm": [
           "L",
@@ -2589,9 +2033,9 @@
         "prediction": "Draw 2-2",
         "predictionSide": "draw",
         "odds": {
-          "home": "3.25",
+          "home": "3.40",
           "draw": "3.20",
-          "away": "2.08"
+          "away": "2.04"
         },
         "homeForm": [
           "L",
@@ -2682,9 +2126,9 @@
         "prediction": "Draw 2-2",
         "predictionSide": "draw",
         "odds": {
-          "home": "2.18",
-          "draw": "3.40",
-          "away": "2.88"
+          "home": "1.92",
+          "draw": "3.55",
+          "away": "3.40"
         },
         "homeForm": [
           "L",
@@ -3021,7 +2465,7 @@
         "predictionSide": "draw",
         "odds": {
           "home": "1.52",
-          "draw": "4.60",
+          "draw": "4.55",
           "away": "5.20"
         },
         "homeForm": [
@@ -3135,5 +2579,5 @@
       }
     ]
   },
-  "count": 101
+  "count": 83
 }
