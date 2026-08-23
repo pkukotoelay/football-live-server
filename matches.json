@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-23T21:00:01.017+06:30",
+  "generatedAt": "2026-08-23T21:30:00.341+06:30",
   "timezone": "Asia/Yangon",
   "matchCount": 8,
   "matches": [
@@ -18,7 +18,7 @@
       "time": "7:30 PM",
       "kickoff": "2026-08-23T19:30:00.000+06:30",
       "timezone": "Asia/Yangon",
-      "status": "LIVE",
+      "status": "END",
       "fotmobMatchId": 5802901,
       "leagueId": 53,
       "leagueName": "Ligue 1",
@@ -64,7 +64,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-23T14:30:01.014Z"
+      "updatedAt": "2026-08-23T15:00:00.340Z"
     },
     {
       "matchId": "brighton_and_hove_albion_aston_villa_20260823",
@@ -80,7 +80,7 @@
       "time": "7:30 PM",
       "kickoff": "2026-08-23T19:30:00.000+06:30",
       "timezone": "Asia/Yangon",
-      "status": "LIVE",
+      "status": "END",
       "fotmobMatchId": 5795369,
       "leagueId": 47,
       "leagueName": "English Premier League (EPL)",
@@ -126,7 +126,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-23T14:30:01.015Z"
+      "updatedAt": "2026-08-23T15:00:00.340Z"
     },
     {
       "matchId": "manchester_city_bournemouth_20260823",
@@ -142,7 +142,7 @@
       "time": "7:30 PM",
       "kickoff": "2026-08-23T19:30:00.000+06:30",
       "timezone": "Asia/Yangon",
-      "status": "LIVE",
+      "status": "END",
       "fotmobMatchId": 5795370,
       "leagueId": 47,
       "leagueName": "English Premier League (EPL)",
@@ -188,7 +188,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-23T14:30:01.016Z"
+      "updatedAt": "2026-08-23T15:00:00.340Z"
     },
     {
       "matchId": "atletico_madrid_villarreal_20260823",
@@ -204,7 +204,7 @@
       "time": "9:30 PM",
       "kickoff": "2026-08-23T21:30:00.000+06:30",
       "timezone": "Asia/Yangon",
-      "status": "PREPARING_STREAM",
+      "status": "LIVE",
       "fotmobMatchId": 5868022,
       "leagueId": 87,
       "leagueName": "La Liga",
@@ -250,7 +250,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-23T14:30:01.016Z"
+      "updatedAt": "2026-08-23T15:00:00.340Z"
     },
     {
       "matchId": "le_havre_as_monaco_20260823",
@@ -312,7 +312,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-23T14:30:01.016Z"
+      "updatedAt": "2026-08-23T15:00:00.340Z"
     },
     {
       "matchId": "newcastle_united_liverpool_20260823",
@@ -374,7 +374,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-23T14:30:01.016Z"
+      "updatedAt": "2026-08-23T15:00:00.341Z"
     },
     {
       "matchId": "frosinone_juventus_20260823",
@@ -436,7 +436,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-23T14:30:01.017Z"
+      "updatedAt": "2026-08-23T15:00:00.341Z"
     },
     {
       "matchId": "venezia_lecce_20260823",
@@ -498,7 +498,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-23T14:30:01.017Z"
+      "updatedAt": "2026-08-23T15:00:00.341Z"
     }
   ],
   "meta": {
@@ -510,14 +510,14 @@
       "streamsAdded": 0,
       "matchesAdded": 0
     },
-    "liveCount": 3,
+    "liveCount": 1,
     "scheduledCount": 2,
-    "endedCount": 0,
+    "endedCount": 3,
     "manualStreamCount": 0,
     "highlightCount": 10,
     "channelCount": 0,
-    "checksum": "aeabf2d31b43147fd7ab5f1cd178b19f7019a3e998455b84c897d1e2220e9ff5",
-    "cachedAt": "2026-08-23T14:30:01.022Z",
+    "checksum": "ce84f02351fcc61437c5d408f4df87c5e782c9fc185baef83f4a38fa1ea55538",
+    "cachedAt": "2026-08-23T15:00:00.347Z",
     "feed": "matches"
   }
 }
