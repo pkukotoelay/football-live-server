@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-23T23:30:02.221+06:30",
+  "generatedAt": "2026-08-23T23:45:01.005+06:30",
   "timezone": "Asia/Yangon",
   "matchCount": 4,
   "matches": [
@@ -18,7 +18,7 @@
       "time": "9:45 PM",
       "kickoff": "2026-08-23T21:45:00.000+06:30",
       "timezone": "Asia/Yangon",
-      "status": "LIVE",
+      "status": "END",
       "fotmobMatchId": 5802902,
       "leagueId": 53,
       "leagueName": "Ligue 1",
@@ -64,7 +64,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-23T17:00:02.209Z"
+      "updatedAt": "2026-08-23T17:15:01.004Z"
     },
     {
       "matchId": "newcastle_united_liverpool_20260823",
@@ -126,7 +126,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-23T17:00:02.214Z"
+      "updatedAt": "2026-08-23T17:15:01.004Z"
     },
     {
       "matchId": "frosinone_juventus_20260823",
@@ -188,7 +188,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-23T17:00:02.215Z"
+      "updatedAt": "2026-08-23T17:15:01.004Z"
     },
     {
       "matchId": "venezia_lecce_20260823",
@@ -250,7 +250,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-23T17:00:02.221Z"
+      "updatedAt": "2026-08-23T17:15:01.005Z"
     }
   ],
   "meta": {
@@ -258,18 +258,18 @@
     "sources": [],
     "adminApplied": true,
     "sync": {
-      "removedExpired": 1,
+      "removedExpired": 0,
       "streamsAdded": 0,
       "matchesAdded": 0
     },
-    "liveCount": 4,
+    "liveCount": 3,
     "scheduledCount": 0,
-    "endedCount": 0,
+    "endedCount": 1,
     "manualStreamCount": 0,
     "highlightCount": 10,
     "channelCount": 0,
-    "checksum": "01f0463a13390117d7c183c7c1c0776294f15ba148b09241b468d8be51489de3",
-    "cachedAt": "2026-08-23T17:00:02.226Z",
+    "checksum": "58110fc465c0f10cef5d93f39f9e9a55199ff714abc4a4d453fcbfcaa86d28e8",
+    "cachedAt": "2026-08-23T17:15:01.010Z",
     "feed": "matches"
   }
 }
