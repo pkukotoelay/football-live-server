@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-23T21:30:02.395+06:30",
+  "generatedAt": "2026-08-23T21:45:00.197+06:30",
   "timezone": "Asia/Yangon",
   "matchCount": 5,
   "matches": [
@@ -64,7 +64,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-23T15:00:02.391Z"
+      "updatedAt": "2026-08-23T15:15:00.195Z"
     },
     {
       "matchId": "le_havre_as_monaco_20260823",
@@ -80,7 +80,7 @@
       "time": "9:45 PM",
       "kickoff": "2026-08-23T21:45:00.000+06:30",
       "timezone": "Asia/Yangon",
-      "status": "PREPARING_STREAM",
+      "status": "LIVE",
       "fotmobMatchId": 5802902,
       "leagueId": 53,
       "leagueName": "Ligue 1",
@@ -126,7 +126,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-23T15:00:02.392Z"
+      "updatedAt": "2026-08-23T15:15:00.196Z"
     },
     {
       "matchId": "newcastle_united_liverpool_20260823",
@@ -188,7 +188,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-23T15:00:02.392Z"
+      "updatedAt": "2026-08-23T15:15:00.196Z"
     },
     {
       "matchId": "frosinone_juventus_20260823",
@@ -250,7 +250,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-23T15:00:02.395Z"
+      "updatedAt": "2026-08-23T15:15:00.197Z"
     },
     {
       "matchId": "venezia_lecce_20260823",
@@ -312,7 +312,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-23T15:00:02.395Z"
+      "updatedAt": "2026-08-23T15:15:00.197Z"
     }
   ],
   "meta": {
@@ -320,18 +320,18 @@
     "sources": [],
     "adminApplied": true,
     "sync": {
-      "removedExpired": 3,
+      "removedExpired": 0,
       "streamsAdded": 0,
       "matchesAdded": 0
     },
-    "liveCount": 1,
+    "liveCount": 2,
     "scheduledCount": 2,
     "endedCount": 0,
     "manualStreamCount": 0,
     "highlightCount": 10,
     "channelCount": 0,
-    "checksum": "4010703c9190749d263749986a956f05d397e1642e4024e477d14db7e02666cc",
-    "cachedAt": "2026-08-23T15:00:02.447Z",
+    "checksum": "55ecfa24dec95de324988640bcfb5ad4fd34d82db688e539079c82690e090ef1",
+    "cachedAt": "2026-08-23T15:15:00.204Z",
     "feed": "matches"
   }
 }
