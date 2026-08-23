@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-23T06:00:02.575+06:30",
+  "generatedAt": "2026-08-23T08:00:00.556+06:30",
   "timezone": "Asia/Yangon",
   "matchCount": 11,
   "matches": [
@@ -18,7 +18,7 @@
       "time": "6:00 AM",
       "kickoff": "2026-08-23T06:00:00.000+06:30",
       "timezone": "Asia/Yangon",
-      "status": "LIVE",
+      "status": "END",
       "fotmobMatchId": 5103599,
       "leagueId": 268,
       "leagueName": "Brazil Serie A (BRA D1)",
@@ -64,7 +64,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-22T23:30:02.564Z"
+      "updatedAt": "2026-08-23T01:30:00.553Z"
     },
     {
       "matchId": "daejeon_hana_citizen_gangwon_fc_20260823",
@@ -126,7 +126,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-22T23:30:02.564Z"
+      "updatedAt": "2026-08-23T01:30:00.554Z"
     },
     {
       "matchId": "gwangju_fc_incheon_united_20260823",
@@ -188,7 +188,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-22T23:30:02.564Z"
+      "updatedAt": "2026-08-23T01:30:00.554Z"
     },
     {
       "matchId": "angers_lille_20260823",
@@ -250,7 +250,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-22T23:30:02.573Z"
+      "updatedAt": "2026-08-23T01:30:00.554Z"
     },
     {
       "matchId": "brighton_and_hove_albion_aston_villa_20260823",
@@ -312,7 +312,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-22T23:30:02.574Z"
+      "updatedAt": "2026-08-23T01:30:00.554Z"
     },
     {
       "matchId": "manchester_city_bournemouth_20260823",
@@ -374,7 +374,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-22T23:30:02.574Z"
+      "updatedAt": "2026-08-23T01:30:00.554Z"
     },
     {
       "matchId": "atletico_madrid_villarreal_20260823",
@@ -436,7 +436,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-22T23:30:02.574Z"
+      "updatedAt": "2026-08-23T01:30:00.554Z"
     },
     {
       "matchId": "le_havre_as_monaco_20260823",
@@ -498,7 +498,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-22T23:30:02.574Z"
+      "updatedAt": "2026-08-23T01:30:00.555Z"
     },
     {
       "matchId": "newcastle_united_liverpool_20260823",
@@ -560,7 +560,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-22T23:30:02.574Z"
+      "updatedAt": "2026-08-23T01:30:00.555Z"
     },
     {
       "matchId": "frosinone_juventus_20260823",
@@ -622,7 +622,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-22T23:30:02.574Z"
+      "updatedAt": "2026-08-23T01:30:00.556Z"
     },
     {
       "matchId": "venezia_lecce_20260823",
@@ -684,7 +684,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-22T23:30:02.575Z"
+      "updatedAt": "2026-08-23T01:30:00.556Z"
     }
   ],
   "meta": {
@@ -692,18 +692,18 @@
     "sources": [],
     "adminApplied": true,
     "sync": {
-      "removedExpired": 1,
+      "removedExpired": 0,
       "streamsAdded": 0,
       "matchesAdded": 0
     },
-    "liveCount": 1,
+    "liveCount": 0,
     "scheduledCount": 10,
-    "endedCount": 0,
+    "endedCount": 1,
     "manualStreamCount": 0,
     "highlightCount": 10,
     "channelCount": 0,
-    "checksum": "f02cf9dd1746797bb51ac653a84cfb057932119d31cf317d228c0756f69c909e",
-    "cachedAt": "2026-08-22T23:30:02.628Z",
+    "checksum": "f2a887c1d71d13a33155f62aa43c19d23f96e4b7fcbd98ae878ca441357bd976",
+    "cachedAt": "2026-08-23T01:30:00.563Z",
     "feed": "matches"
   }
 }
