@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-23T21:45:00.197+06:30",
+  "generatedAt": "2026-08-23T22:00:00.715+06:30",
   "timezone": "Asia/Yangon",
   "matchCount": 5,
   "matches": [
@@ -64,7 +64,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-23T15:15:00.195Z"
+      "updatedAt": "2026-08-23T15:30:00.714Z"
     },
     {
       "matchId": "le_havre_as_monaco_20260823",
@@ -126,7 +126,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-23T15:15:00.196Z"
+      "updatedAt": "2026-08-23T15:30:00.714Z"
     },
     {
       "matchId": "newcastle_united_liverpool_20260823",
@@ -142,7 +142,7 @@
       "time": "10:00 PM",
       "kickoff": "2026-08-23T22:00:00.000+06:30",
       "timezone": "Asia/Yangon",
-      "status": "PREPARING_STREAM",
+      "status": "LIVE",
       "fotmobMatchId": 5795371,
       "leagueId": 47,
       "leagueName": "English Premier League (EPL)",
@@ -188,7 +188,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-23T15:15:00.196Z"
+      "updatedAt": "2026-08-23T15:30:00.714Z"
     },
     {
       "matchId": "frosinone_juventus_20260823",
@@ -204,7 +204,7 @@
       "time": "11:00 PM",
       "kickoff": "2026-08-23T23:00:00.000+06:30",
       "timezone": "Asia/Yangon",
-      "status": "Scheduled",
+      "status": "PREPARING_STREAM",
       "fotmobMatchId": 5749643,
       "leagueId": 55,
       "leagueName": "Serie A",
@@ -250,7 +250,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-23T15:15:00.197Z"
+      "updatedAt": "2026-08-23T15:30:00.714Z"
     },
     {
       "matchId": "venezia_lecce_20260823",
@@ -266,7 +266,7 @@
       "time": "11:00 PM",
       "kickoff": "2026-08-23T23:00:00.000+06:30",
       "timezone": "Asia/Yangon",
-      "status": "Scheduled",
+      "status": "PREPARING_STREAM",
       "fotmobMatchId": 5749649,
       "leagueId": 55,
       "leagueName": "Serie A",
@@ -312,7 +312,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-23T15:15:00.197Z"
+      "updatedAt": "2026-08-23T15:30:00.715Z"
     }
   ],
   "meta": {
@@ -324,14 +324,14 @@
       "streamsAdded": 0,
       "matchesAdded": 0
     },
-    "liveCount": 2,
-    "scheduledCount": 2,
+    "liveCount": 3,
+    "scheduledCount": 0,
     "endedCount": 0,
     "manualStreamCount": 0,
     "highlightCount": 10,
     "channelCount": 0,
-    "checksum": "55ecfa24dec95de324988640bcfb5ad4fd34d82db688e539079c82690e090ef1",
-    "cachedAt": "2026-08-23T15:15:00.204Z",
+    "checksum": "28cae3dec3df2a7511fb94dd5c7b3d77ac3109d8ec78fb884fec98f4a7b4d4fe",
+    "cachedAt": "2026-08-23T15:30:00.720Z",
     "feed": "matches"
   }
 }
