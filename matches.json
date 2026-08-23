@@ -1,195 +1,9 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-23T21:30:00.341+06:30",
+  "generatedAt": "2026-08-23T21:30:02.395+06:30",
   "timezone": "Asia/Yangon",
-  "matchCount": 8,
+  "matchCount": 5,
   "matches": [
-    {
-      "matchId": "angers_lille_20260823",
-      "league": "Ligue 1",
-      "leagueIcon": "https://images.fotmob.com/image_resources/logo/leaguelogo/53.png",
-      "homeTeam": "Angers",
-      "awayTeam": "Lille",
-      "homeTeamId": 8121,
-      "awayTeamId": 8639,
-      "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/8121.png",
-      "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/8639.png",
-      "date": "2026-08-23",
-      "time": "7:30 PM",
-      "kickoff": "2026-08-23T19:30:00.000+06:30",
-      "timezone": "Asia/Yangon",
-      "status": "END",
-      "fotmobMatchId": 5802901,
-      "leagueId": 53,
-      "leagueName": "Ligue 1",
-      "source": "fotmob",
-      "manual": false,
-      "statusLocked": false,
-      "pinned": false,
-      "featured": false,
-      "hasStreams": false,
-      "streamCount": 0,
-      "originalNames": {
-        "fotmob": {
-          "league": "FRA Ligue 1",
-          "country": "FRA",
-          "leagueId": 53,
-          "homeTeam": "Angers",
-          "awayTeam": "Lille"
-        }
-      },
-      "sourcePages": {},
-      "streams": [],
-      "streamAttempts": {},
-      "matchUrl": null,
-      "matchUrlStatus": "MATCH_URL_PENDING",
-      "matchUrlAttempts": 0,
-      "lastMatchUrlAttemptAt": null,
-      "matchUrlSource": null,
-      "streamUrl": null,
-      "streamHeaders": null,
-      "streamStatus": "PREPARING_STREAM",
-      "attempts": 0,
-      "validationStatus": null,
-      "validationReason": null,
-      "lastAttemptAt": null,
-      "streamSearch": {
-        "started": false,
-        "stopped": false,
-        "stopTime": null,
-        "slotsDone": {},
-        "sources": {}
-      },
-      "matchUrlSearch": {
-        "slotsDone": {},
-        "sources": {}
-      },
-      "updatedAt": "2026-08-23T15:00:00.340Z"
-    },
-    {
-      "matchId": "brighton_and_hove_albion_aston_villa_20260823",
-      "league": "English Premier League (EPL)",
-      "leagueIcon": "https://images.fotmob.com/image_resources/logo/leaguelogo/47.png",
-      "homeTeam": "Brighton & Hove Albion",
-      "awayTeam": "Aston Villa",
-      "homeTeamId": 10204,
-      "awayTeamId": 10252,
-      "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/10204.png",
-      "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/10252.png",
-      "date": "2026-08-23",
-      "time": "7:30 PM",
-      "kickoff": "2026-08-23T19:30:00.000+06:30",
-      "timezone": "Asia/Yangon",
-      "status": "END",
-      "fotmobMatchId": 5795369,
-      "leagueId": 47,
-      "leagueName": "English Premier League (EPL)",
-      "source": "fotmob",
-      "manual": false,
-      "statusLocked": false,
-      "pinned": false,
-      "featured": false,
-      "hasStreams": false,
-      "streamCount": 0,
-      "originalNames": {
-        "fotmob": {
-          "league": "ENG Premier League",
-          "country": "ENG",
-          "leagueId": 47,
-          "homeTeam": "Brighton",
-          "awayTeam": "Aston Villa"
-        }
-      },
-      "sourcePages": {},
-      "streams": [],
-      "streamAttempts": {},
-      "matchUrl": null,
-      "matchUrlStatus": "MATCH_URL_PENDING",
-      "matchUrlAttempts": 0,
-      "lastMatchUrlAttemptAt": null,
-      "matchUrlSource": null,
-      "streamUrl": null,
-      "streamHeaders": null,
-      "streamStatus": "PREPARING_STREAM",
-      "attempts": 0,
-      "validationStatus": null,
-      "validationReason": null,
-      "lastAttemptAt": null,
-      "streamSearch": {
-        "started": false,
-        "stopped": false,
-        "stopTime": null,
-        "slotsDone": {},
-        "sources": {}
-      },
-      "matchUrlSearch": {
-        "slotsDone": {},
-        "sources": {}
-      },
-      "updatedAt": "2026-08-23T15:00:00.340Z"
-    },
-    {
-      "matchId": "manchester_city_bournemouth_20260823",
-      "league": "English Premier League (EPL)",
-      "leagueIcon": "https://images.fotmob.com/image_resources/logo/leaguelogo/47.png",
-      "homeTeam": "Manchester City",
-      "awayTeam": "Bournemouth",
-      "homeTeamId": 8456,
-      "awayTeamId": 8678,
-      "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/8456.png",
-      "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/8678.png",
-      "date": "2026-08-23",
-      "time": "7:30 PM",
-      "kickoff": "2026-08-23T19:30:00.000+06:30",
-      "timezone": "Asia/Yangon",
-      "status": "END",
-      "fotmobMatchId": 5795370,
-      "leagueId": 47,
-      "leagueName": "English Premier League (EPL)",
-      "source": "fotmob",
-      "manual": false,
-      "statusLocked": false,
-      "pinned": false,
-      "featured": false,
-      "hasStreams": false,
-      "streamCount": 0,
-      "originalNames": {
-        "fotmob": {
-          "league": "ENG Premier League",
-          "country": "ENG",
-          "leagueId": 47,
-          "homeTeam": "Man City",
-          "awayTeam": "Bournemouth"
-        }
-      },
-      "sourcePages": {},
-      "streams": [],
-      "streamAttempts": {},
-      "matchUrl": null,
-      "matchUrlStatus": "MATCH_URL_PENDING",
-      "matchUrlAttempts": 0,
-      "lastMatchUrlAttemptAt": null,
-      "matchUrlSource": null,
-      "streamUrl": null,
-      "streamHeaders": null,
-      "streamStatus": "PREPARING_STREAM",
-      "attempts": 0,
-      "validationStatus": null,
-      "validationReason": null,
-      "lastAttemptAt": null,
-      "streamSearch": {
-        "started": false,
-        "stopped": false,
-        "stopTime": null,
-        "slotsDone": {},
-        "sources": {}
-      },
-      "matchUrlSearch": {
-        "slotsDone": {},
-        "sources": {}
-      },
-      "updatedAt": "2026-08-23T15:00:00.340Z"
-    },
     {
       "matchId": "atletico_madrid_villarreal_20260823",
       "league": "La Liga",
@@ -250,7 +64,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-23T15:00:00.340Z"
+      "updatedAt": "2026-08-23T15:00:02.391Z"
     },
     {
       "matchId": "le_havre_as_monaco_20260823",
@@ -312,7 +126,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-23T15:00:00.340Z"
+      "updatedAt": "2026-08-23T15:00:02.392Z"
     },
     {
       "matchId": "newcastle_united_liverpool_20260823",
@@ -374,7 +188,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-23T15:00:00.341Z"
+      "updatedAt": "2026-08-23T15:00:02.392Z"
     },
     {
       "matchId": "frosinone_juventus_20260823",
@@ -436,7 +250,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-23T15:00:00.341Z"
+      "updatedAt": "2026-08-23T15:00:02.395Z"
     },
     {
       "matchId": "venezia_lecce_20260823",
@@ -498,7 +312,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-23T15:00:00.341Z"
+      "updatedAt": "2026-08-23T15:00:02.395Z"
     }
   ],
   "meta": {
@@ -506,18 +320,18 @@
     "sources": [],
     "adminApplied": true,
     "sync": {
-      "removedExpired": 0,
+      "removedExpired": 3,
       "streamsAdded": 0,
       "matchesAdded": 0
     },
     "liveCount": 1,
     "scheduledCount": 2,
-    "endedCount": 3,
+    "endedCount": 0,
     "manualStreamCount": 0,
     "highlightCount": 10,
     "channelCount": 0,
-    "checksum": "ce84f02351fcc61437c5d408f4df87c5e782c9fc185baef83f4a38fa1ea55538",
-    "cachedAt": "2026-08-23T15:00:00.347Z",
+    "checksum": "4010703c9190749d263749986a956f05d397e1642e4024e477d14db7e02666cc",
+    "cachedAt": "2026-08-23T15:00:02.447Z",
     "feed": "matches"
   }
 }
