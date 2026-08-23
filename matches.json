@@ -1,71 +1,9 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-23T08:00:00.556+06:30",
+  "generatedAt": "2026-08-23T08:00:02.634+06:30",
   "timezone": "Asia/Yangon",
-  "matchCount": 11,
+  "matchCount": 10,
   "matches": [
-    {
-      "matchId": "cruzeiro_flamengo_20260823",
-      "league": "Brazil Serie A (BRA D1)",
-      "leagueIcon": "https://images.fotmob.com/image_resources/logo/leaguelogo/268.png",
-      "homeTeam": "Cruzeiro",
-      "awayTeam": "Flamengo",
-      "homeTeamId": 9781,
-      "awayTeamId": 9770,
-      "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/9781.png",
-      "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/9770.png",
-      "date": "2026-08-23",
-      "time": "6:00 AM",
-      "kickoff": "2026-08-23T06:00:00.000+06:30",
-      "timezone": "Asia/Yangon",
-      "status": "END",
-      "fotmobMatchId": 5103599,
-      "leagueId": 268,
-      "leagueName": "Brazil Serie A (BRA D1)",
-      "source": "fotmob",
-      "manual": false,
-      "statusLocked": false,
-      "pinned": false,
-      "featured": false,
-      "hasStreams": false,
-      "streamCount": 0,
-      "originalNames": {
-        "fotmob": {
-          "league": "BRA Série A",
-          "country": "BRA",
-          "leagueId": 268,
-          "homeTeam": "Cruzeiro",
-          "awayTeam": "Flamengo"
-        }
-      },
-      "sourcePages": {},
-      "streams": [],
-      "streamAttempts": {},
-      "matchUrl": null,
-      "matchUrlStatus": "MATCH_URL_PENDING",
-      "matchUrlAttempts": 0,
-      "lastMatchUrlAttemptAt": null,
-      "matchUrlSource": null,
-      "streamUrl": null,
-      "streamHeaders": null,
-      "streamStatus": "PREPARING_STREAM",
-      "attempts": 0,
-      "validationStatus": null,
-      "validationReason": null,
-      "lastAttemptAt": null,
-      "streamSearch": {
-        "started": false,
-        "stopped": false,
-        "stopTime": null,
-        "slotsDone": {},
-        "sources": {}
-      },
-      "matchUrlSearch": {
-        "slotsDone": {},
-        "sources": {}
-      },
-      "updatedAt": "2026-08-23T01:30:00.553Z"
-    },
     {
       "matchId": "daejeon_hana_citizen_gangwon_fc_20260823",
       "league": "K League 1 (KOR D1)",
@@ -126,7 +64,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-23T01:30:00.554Z"
+      "updatedAt": "2026-08-23T01:30:02.626Z"
     },
     {
       "matchId": "gwangju_fc_incheon_united_20260823",
@@ -188,7 +126,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-23T01:30:00.554Z"
+      "updatedAt": "2026-08-23T01:30:02.632Z"
     },
     {
       "matchId": "angers_lille_20260823",
@@ -250,7 +188,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-23T01:30:00.554Z"
+      "updatedAt": "2026-08-23T01:30:02.633Z"
     },
     {
       "matchId": "brighton_and_hove_albion_aston_villa_20260823",
@@ -312,7 +250,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-23T01:30:00.554Z"
+      "updatedAt": "2026-08-23T01:30:02.633Z"
     },
     {
       "matchId": "manchester_city_bournemouth_20260823",
@@ -374,7 +312,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-23T01:30:00.554Z"
+      "updatedAt": "2026-08-23T01:30:02.633Z"
     },
     {
       "matchId": "atletico_madrid_villarreal_20260823",
@@ -436,7 +374,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-23T01:30:00.554Z"
+      "updatedAt": "2026-08-23T01:30:02.633Z"
     },
     {
       "matchId": "le_havre_as_monaco_20260823",
@@ -498,7 +436,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-23T01:30:00.555Z"
+      "updatedAt": "2026-08-23T01:30:02.633Z"
     },
     {
       "matchId": "newcastle_united_liverpool_20260823",
@@ -560,7 +498,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-23T01:30:00.555Z"
+      "updatedAt": "2026-08-23T01:30:02.633Z"
     },
     {
       "matchId": "frosinone_juventus_20260823",
@@ -622,7 +560,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-23T01:30:00.556Z"
+      "updatedAt": "2026-08-23T01:30:02.634Z"
     },
     {
       "matchId": "venezia_lecce_20260823",
@@ -684,7 +622,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-23T01:30:00.556Z"
+      "updatedAt": "2026-08-23T01:30:02.634Z"
     }
   ],
   "meta": {
@@ -692,18 +630,18 @@
     "sources": [],
     "adminApplied": true,
     "sync": {
-      "removedExpired": 0,
+      "removedExpired": 1,
       "streamsAdded": 0,
       "matchesAdded": 0
     },
     "liveCount": 0,
     "scheduledCount": 10,
-    "endedCount": 1,
+    "endedCount": 0,
     "manualStreamCount": 0,
     "highlightCount": 10,
     "channelCount": 0,
-    "checksum": "f2a887c1d71d13a33155f62aa43c19d23f96e4b7fcbd98ae878ca441357bd976",
-    "cachedAt": "2026-08-23T01:30:00.563Z",
+    "checksum": "002a84f8cb2b441930cbe673ad089046a52f977f5f959f12e6c0d66fd90cedae",
+    "cachedAt": "2026-08-23T01:30:02.681Z",
     "feed": "matches"
   }
 }
