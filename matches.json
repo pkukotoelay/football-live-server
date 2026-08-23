@@ -1,71 +1,9 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-23T23:30:00.413+06:30",
+  "generatedAt": "2026-08-23T23:30:02.221+06:30",
   "timezone": "Asia/Yangon",
-  "matchCount": 5,
+  "matchCount": 4,
   "matches": [
-    {
-      "matchId": "atletico_madrid_villarreal_20260823",
-      "league": "La Liga",
-      "leagueIcon": "https://images.fotmob.com/image_resources/logo/leaguelogo/87.png",
-      "homeTeam": "Atletico Madrid",
-      "awayTeam": "Villarreal",
-      "homeTeamId": 9906,
-      "awayTeamId": 10205,
-      "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/9906.png",
-      "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/10205.png",
-      "date": "2026-08-23",
-      "time": "9:30 PM",
-      "kickoff": "2026-08-23T21:30:00.000+06:30",
-      "timezone": "Asia/Yangon",
-      "status": "END",
-      "fotmobMatchId": 5868022,
-      "leagueId": 87,
-      "leagueName": "La Liga",
-      "source": "fotmob",
-      "manual": false,
-      "statusLocked": false,
-      "pinned": false,
-      "featured": false,
-      "hasStreams": false,
-      "streamCount": 0,
-      "originalNames": {
-        "fotmob": {
-          "league": "ESP LaLiga",
-          "country": "ESP",
-          "leagueId": 87,
-          "homeTeam": "Atletico Madrid",
-          "awayTeam": "Villarreal"
-        }
-      },
-      "sourcePages": {},
-      "streams": [],
-      "streamAttempts": {},
-      "matchUrl": null,
-      "matchUrlStatus": "MATCH_URL_PENDING",
-      "matchUrlAttempts": 0,
-      "lastMatchUrlAttemptAt": null,
-      "matchUrlSource": null,
-      "streamUrl": null,
-      "streamHeaders": null,
-      "streamStatus": "PREPARING_STREAM",
-      "attempts": 0,
-      "validationStatus": null,
-      "validationReason": null,
-      "lastAttemptAt": null,
-      "streamSearch": {
-        "started": false,
-        "stopped": false,
-        "stopTime": null,
-        "slotsDone": {},
-        "sources": {}
-      },
-      "matchUrlSearch": {
-        "slotsDone": {},
-        "sources": {}
-      },
-      "updatedAt": "2026-08-23T17:00:00.412Z"
-    },
     {
       "matchId": "le_havre_as_monaco_20260823",
       "league": "Ligue 1",
@@ -126,7 +64,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-23T17:00:00.412Z"
+      "updatedAt": "2026-08-23T17:00:02.209Z"
     },
     {
       "matchId": "newcastle_united_liverpool_20260823",
@@ -188,7 +126,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-23T17:00:00.412Z"
+      "updatedAt": "2026-08-23T17:00:02.214Z"
     },
     {
       "matchId": "frosinone_juventus_20260823",
@@ -250,7 +188,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-23T17:00:00.412Z"
+      "updatedAt": "2026-08-23T17:00:02.215Z"
     },
     {
       "matchId": "venezia_lecce_20260823",
@@ -312,7 +250,7 @@
         "slotsDone": {},
         "sources": {}
       },
-      "updatedAt": "2026-08-23T17:00:00.413Z"
+      "updatedAt": "2026-08-23T17:00:02.221Z"
     }
   ],
   "meta": {
@@ -320,18 +258,18 @@
     "sources": [],
     "adminApplied": true,
     "sync": {
-      "removedExpired": 0,
+      "removedExpired": 1,
       "streamsAdded": 0,
       "matchesAdded": 0
     },
     "liveCount": 4,
     "scheduledCount": 0,
-    "endedCount": 1,
+    "endedCount": 0,
     "manualStreamCount": 0,
     "highlightCount": 10,
     "channelCount": 0,
-    "checksum": "c06e3bc2596b99be9b570b0b364a42afd51ab9c5383d07d6f3cd6396a167b3e3",
-    "cachedAt": "2026-08-23T17:00:00.418Z",
+    "checksum": "01f0463a13390117d7c183c7c1c0776294f15ba148b09241b468d8be51489de3",
+    "cachedAt": "2026-08-23T17:00:02.226Z",
     "feed": "matches"
   }
 }
