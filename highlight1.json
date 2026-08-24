@@ -1,8 +1,22 @@
 {
   "source": "https://hoofoot.com/",
-  "scraped_at": "2026-08-24T17:09:29.711Z",
-  "count": 35,
+  "scraped_at": "2026-08-24T19:50:22.698Z",
+  "count": 34,
   "highlights": [
+    {
+      "id": "37988",
+      "title": "Bologna v Lazio",
+      "img": "https://th.hoofoot.com/pics/37816.jpg",
+      "url": "https://hoofoot.com/?match=Bologna_v_Lazio_2026_08_24",
+      "match_date": "2026-08-24",
+      "embed_url": "https://app.videas.fr/embed/media/3588c568-3bb7-4db4-93cd-95bd7a652fba/?title=false&logo=false",
+      "m3u8": "https://cdn.videas.fr/v-medias/s5/hlsv1/33/13/3313e57c-b034-4d06-a000-5c684ac2eeb1/playlist.m3u8",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+        "Referer": "https://app.videas.fr/embed/media/3588c568-3bb7-4db4-93cd-95bd7a652fba/?title=false&logo=false"
+      },
+      "source": "highlight1"
+    },
     {
       "id": "37987",
       "title": "Elche v Barcelona",
@@ -447,34 +461,6 @@
       "headers": {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
         "Referer": "https://app.videas.fr/embed/media/4d0480af-d567-4915-bab2-9ddb2c539c6f/?title=false&logo=false"
-      },
-      "source": "highlight1"
-    },
-    {
-      "id": "37945",
-      "title": "Fenerbahce v Lyon",
-      "img": "https://th.hoofoot.com/pics/37773.jpg",
-      "url": "https://hoofoot.com/?match=Fenerbahce_v_Olympique_Lyonnais_2026_08_18",
-      "match_date": "2026-08-18",
-      "embed_url": "https://app.videas.fr/embed/media/c784f4ed-c03a-4b29-983c-5f9ab12af83d/?title=false&logo=false",
-      "m3u8": "https://cdn.videas.fr/v-medias/s5/hlsv1/b7/e9/b7e95d52-4319-45b2-85d3-b3e716693910/playlist.m3u8",
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
-        "Referer": "https://app.videas.fr/embed/media/c784f4ed-c03a-4b29-983c-5f9ab12af83d/?title=false&logo=false"
-      },
-      "source": "highlight1"
-    },
-    {
-      "id": "37944",
-      "title": "Heidenheim v Bayern Munich",
-      "img": "https://th.hoofoot.com/pics/37772.jpg",
-      "url": "https://hoofoot.com/?match=Heidenheim_v_Bayern_Munich_2026_08_18",
-      "match_date": "2026-08-18",
-      "embed_url": "https://app.videas.fr/embed/media/a219bacd-41f5-40f3-8e3b-f4792e7dfd7b/?title=false&logo=false",
-      "m3u8": "https://cdn.videas.fr/v-medias/s5/hlsv1/27/22/2722450d-48ec-42af-84be-e145d464c9c0/playlist.m3u8",
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
-        "Referer": "https://app.videas.fr/embed/media/a219bacd-41f5-40f3-8e3b-f4792e7dfd7b/?title=false&logo=false"
       },
       "source": "highlight1"
     }
