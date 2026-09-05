@@ -1,7 +1,7 @@
 {
   "source": "https://socolivepp.tv/",
-  "scraped_at": "2026-09-05T18:40:12.804Z",
-  "count": 15,
+  "scraped_at": "2026-09-05T21:34:33.779Z",
+  "count": 16,
   "highlights": [
     {
       "id": "highlight2:vfb-stuttgart-vs-fc-koln-0130-05-09",
@@ -42,6 +42,20 @@
       "headers": {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
         "Referer": "https://app.videas.fr/embed/media/4864dcf1-dc2f-4edc-ba7b-d139240a7024/?title=false&logo=false"
+      },
+      "source": "highlight2"
+    },
+    {
+      "id": "highlight2:manchester-city-vs-coventry-city-2100-05-09",
+      "title": "Manchester City vs Coventry City (21:00 – 05/09)",
+      "img": "https://cdn.socoliveza.tv/2026/09/MC.png",
+      "url": "https://socoliveza.tv/video-highlight/manchester-city-vs-coventry-city-2100-05-09/",
+      "match_date": "2026-09-05",
+      "embed_url": "https://app.videas.fr/embed/media/106505df-162c-4ef3-b43a-730f8a9d7d50/?title=false&logo=false",
+      "m3u8": "https://cdn.videas.fr/v-medias/s5/hlsv1/bd/c3/bdc3a47a-d64d-404a-82d4-44443ef55900/playlist.m3u8",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+        "Referer": "https://app.videas.fr/embed/media/106505df-162c-4ef3-b43a-730f8a9d7d50/?title=false&logo=false"
       },
       "source": "highlight2"
     },
