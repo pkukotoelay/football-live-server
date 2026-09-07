@@ -1,508 +1,14 @@
 {
   "source": "https://www.predictz.com/",
-  "scraped_at": "2026-09-07T18:41:37.290Z",
+  "scraped_at": "2026-09-07T21:38:40.531Z",
   "timezone": "Asia/Yangon",
   "today": {
     "day": "today",
     "date": "2026-09-08",
-    "label": "Football Tips Tonight - Monday, September 7th, 2026",
+    "label": "www.predictz.com",
     "pageUrl": "https://www.predictz.com/predictions/",
-    "count": 16,
-    "tips": [
-      {
-        "id": "1200453",
-        "day": "today",
-        "date": "2026-09-08",
-        "league": "England League One",
-        "homeTeam": "Bromley",
-        "awayTeam": "AFC Wimbledon",
-        "match": "Bromley v AFC Wimbledon",
-        "prediction": "Draw 0-0",
-        "predictionSide": "draw",
-        "odds": {
-          "home": "2.32",
-          "draw": "3.30",
-          "away": "2.75"
-        },
-        "homeForm": [
-          "W",
-          "W",
-          "D",
-          "L",
-          "L"
-        ],
-        "awayForm": [
-          "L",
-          "L",
-          "D",
-          "W",
-          "L"
-        ],
-        "url": "https://www.predictz.com/predictions/england/league-one/1200453/"
-      },
-      {
-        "id": "1202576",
-        "day": "today",
-        "date": "2026-09-08",
-        "league": "Spain La Liga",
-        "homeTeam": "Elche",
-        "awayTeam": "Real Sociedad",
-        "match": "Elche v Real Sociedad",
-        "prediction": "Draw 1-1",
-        "predictionSide": "draw",
-        "odds": {
-          "home": "3.50",
-          "draw": "3.50",
-          "away": "2.05"
-        },
-        "homeForm": [
-          "W",
-          "D",
-          "D",
-          "L",
-          "L"
-        ],
-        "awayForm": [
-          "D",
-          "L",
-          "L",
-          "W",
-          "D"
-        ],
-        "url": "https://www.predictz.com/predictions/spain/la-liga/1202576/"
-      },
-      {
-        "id": "1215532",
-        "day": "today",
-        "date": "2026-09-08",
-        "league": "Italy Serie C",
-        "homeTeam": "Alcione Milano",
-        "awayTeam": "Treviso",
-        "match": "Alcione Milano v Treviso",
-        "prediction": "Draw 1-1",
-        "predictionSide": "draw",
-        "odds": {
-          "home": "2.28",
-          "draw": "2.98",
-          "away": "3.25"
-        },
-        "homeForm": [
-          "D",
-          "W",
-          "D",
-          "W",
-          "D"
-        ],
-        "awayForm": [
-          "L",
-          "W",
-          "W",
-          "L",
-          "W"
-        ],
-        "url": "https://www.predictz.com/predictions/italy/serie-c/1215532/"
-      },
-      {
-        "id": "1215527",
-        "day": "today",
-        "date": "2026-09-08",
-        "league": "Italy Serie C",
-        "homeTeam": "AZ Picerno",
-        "awayTeam": "Inter Milan U23",
-        "match": "AZ Picerno v Inter Milan U23",
-        "prediction": "Draw 1-1",
-        "predictionSide": "draw",
-        "odds": {
-          "home": "2.28",
-          "draw": "3.05",
-          "away": "3.20"
-        },
-        "homeForm": [
-          "W",
-          "L",
-          "D",
-          "W",
-          "W"
-        ],
-        "awayForm": [
-          "L",
-          "L",
-          "L",
-          "W",
-          "D"
-        ],
-        "url": "https://www.predictz.com/predictions/italy/serie-c/1215527/"
-      },
-      {
-        "id": "1218139",
-        "day": "today",
-        "date": "2026-09-08",
-        "league": "Italy Serie C",
-        "homeTeam": "Pro Vercelli",
-        "awayTeam": "Folgore Caratese",
-        "match": "Pro Vercelli v Folgore Caratese",
-        "prediction": "Draw 1-1",
-        "predictionSide": "draw",
-        "odds": {
-          "home": "2.16",
-          "draw": "3.10",
-          "away": "3.40"
-        },
-        "homeForm": [
-          "L",
-          "W",
-          "L",
-          "D",
-          "L"
-        ],
-        "awayForm": [
-          "L",
-          "D"
-        ],
-        "url": "https://www.predictz.com/predictions/italy/serie-c/1218139/"
-      },
-      {
-        "id": "1215523",
-        "day": "today",
-        "date": "2026-09-08",
-        "league": "Italy Serie C",
-        "homeTeam": "Renate",
-        "awayTeam": "Novara",
-        "match": "Renate v Novara",
-        "prediction": "Draw 1-1",
-        "predictionSide": "draw",
-        "odds": {
-          "home": "2.28",
-          "draw": "2.98",
-          "away": "3.25"
-        },
-        "homeForm": [
-          "W",
-          "W",
-          "L",
-          "L",
-          "L"
-        ],
-        "awayForm": [
-          "L",
-          "L",
-          "W",
-          "L",
-          "D"
-        ],
-        "url": "https://www.predictz.com/predictions/italy/serie-c/1215523/"
-      },
-      {
-        "id": "1215529",
-        "day": "today",
-        "date": "2026-09-08",
-        "league": "Italy Serie C",
-        "homeTeam": "Trento",
-        "awayTeam": "Calcio Lecco",
-        "match": "Trento v Calcio Lecco",
-        "prediction": "Home 1-0",
-        "predictionSide": "home",
-        "odds": {
-          "home": "1.92",
-          "draw": "3.25",
-          "away": "3.95"
-        },
-        "homeForm": [
-          "D",
-          "D",
-          "L",
-          "W",
-          "D"
-        ],
-        "awayForm": [
-          "D",
-          "D",
-          "D",
-          "D",
-          "L"
-        ],
-        "url": "https://www.predictz.com/predictions/italy/serie-c/1215529/"
-      },
-      {
-        "id": "1191349",
-        "day": "today",
-        "date": "2026-09-08",
-        "league": "Italy Serie A",
-        "homeTeam": "Udinese",
-        "awayTeam": "Lazio",
-        "match": "Udinese v Lazio",
-        "prediction": "Draw 1-1",
-        "predictionSide": "draw",
-        "odds": {
-          "home": "2.75",
-          "draw": "3.20",
-          "away": "2.63"
-        },
-        "homeForm": [
-          "W",
-          "L",
-          "L",
-          "D",
-          "W"
-        ],
-        "awayForm": [
-          "L",
-          "L",
-          "W",
-          "W",
-          "W"
-        ],
-        "url": "https://www.predictz.com/predictions/italy/serie-a/1191349/"
-      },
-      {
-        "id": "1192887",
-        "day": "today",
-        "date": "2026-09-08",
-        "league": "France Ligue 2",
-        "homeTeam": "Nantes",
-        "awayTeam": "Nancy",
-        "match": "Nantes v Nancy",
-        "prediction": "Away 0-2",
-        "predictionSide": "away",
-        "odds": {
-          "home": "1.85",
-          "draw": "3.25",
-          "away": "3.75"
-        },
-        "homeForm": [
-          "D",
-          "L",
-          "L",
-          "L",
-          "D"
-        ],
-        "awayForm": [
-          "W",
-          "D",
-          "L",
-          "W",
-          "W"
-        ],
-        "url": "https://www.predictz.com/predictions/france/ligue-2/1192887/"
-      },
-      {
-        "id": "1204287",
-        "day": "today",
-        "date": "2026-09-08",
-        "league": "Portugal Primeira Liga",
-        "homeTeam": "Estoril",
-        "awayTeam": "Arouca",
-        "match": "Estoril v Arouca",
-        "prediction": "Draw 0-0",
-        "predictionSide": "draw",
-        "odds": {
-          "home": "2.57",
-          "draw": "3.40",
-          "away": "2.55"
-        },
-        "homeForm": [
-          "L",
-          "D",
-          "L",
-          "L",
-          "L"
-        ],
-        "awayForm": [
-          "W",
-          "W",
-          "W",
-          "L",
-          "W"
-        ],
-        "url": "https://www.predictz.com/predictions/portugal/primeira-liga/1204287/"
-      },
-      {
-        "id": "1215204",
-        "day": "today",
-        "date": "2026-09-08",
-        "league": "Argentina Liga Profesional",
-        "homeTeam": "Barracas Central",
-        "awayTeam": "Argentinos Juniors",
-        "match": "Barracas Central v Argentinos Juniors",
-        "prediction": "Draw 0-0",
-        "predictionSide": "draw",
-        "odds": {
-          "home": "4.50",
-          "draw": "2.85",
-          "away": "2.01"
-        },
-        "homeForm": [
-          "W",
-          "L",
-          "L",
-          "L",
-          "D"
-        ],
-        "awayForm": [
-          "W",
-          "W",
-          "L",
-          "D",
-          "W"
-        ],
-        "url": "https://www.predictz.com/predictions/argentina/liga-profesional/1215204/"
-      },
-      {
-        "id": "1202418",
-        "day": "today",
-        "date": "2026-09-08",
-        "league": "Argentina Primera B Nacional",
-        "homeTeam": "Nueva Chicago",
-        "awayTeam": "Quilmes",
-        "match": "Nueva Chicago v Quilmes",
-        "prediction": "Draw 1-1",
-        "predictionSide": "draw",
-        "odds": {
-          "home": "3.00",
-          "draw": "2.85",
-          "away": "2.40"
-        },
-        "homeForm": [
-          "W",
-          "L",
-          "L",
-          "L",
-          "L"
-        ],
-        "awayForm": [
-          "W",
-          "D",
-          "W",
-          "L",
-          "L"
-        ],
-        "url": "https://www.predictz.com/predictions/argentina/primera-b/1202418/"
-      },
-      {
-        "id": "1221697",
-        "day": "today",
-        "date": "2026-09-08",
-        "league": "Brazil Serie C Playoffs",
-        "homeTeam": "Paysandu",
-        "awayTeam": "Brusque",
-        "match": "Paysandu v Brusque",
-        "prediction": "Home 3-2",
-        "predictionSide": "home",
-        "odds": {
-          "home": "1.72",
-          "draw": "3.50",
-          "away": "4.35"
-        },
-        "homeForm": [
-          "L",
-          "W",
-          "L",
-          "W",
-          "L"
-        ],
-        "awayForm": [
-          "W",
-          "L",
-          "W",
-          "D",
-          "D"
-        ],
-        "url": "https://www.predictz.com/predictions/brazil/serie-c-playoffs/1221697/"
-      },
-      {
-        "id": "1213422",
-        "day": "today",
-        "date": "2026-09-08",
-        "league": "Paraguay Primera Division",
-        "homeTeam": "Club Guarani",
-        "awayTeam": "Recoleta",
-        "match": "Club Guarani v Recoleta",
-        "prediction": "Home 3-2",
-        "predictionSide": "home",
-        "odds": {
-          "home": "1.75",
-          "draw": "3.50",
-          "away": "3.90"
-        },
-        "homeForm": [
-          "D",
-          "L",
-          "D",
-          "D",
-          "D"
-        ],
-        "awayForm": [
-          "W",
-          "L",
-          "L",
-          "L",
-          "L"
-        ],
-        "url": "https://www.predictz.com/predictions/paraguay/primera-division/1213422/"
-      },
-      {
-        "id": "1213421",
-        "day": "today",
-        "date": "2026-09-08",
-        "league": "Paraguay Primera Division",
-        "homeTeam": "Cerro Porteno",
-        "awayTeam": "Nacional Asuncion",
-        "match": "Cerro Porteno v Nacional Asuncion",
-        "prediction": "Draw 2-2",
-        "predictionSide": "draw",
-        "odds": {
-          "home": "2.20",
-          "draw": "2.90",
-          "away": "3.20"
-        },
-        "homeForm": [
-          "L",
-          "W",
-          "L",
-          "D",
-          "W"
-        ],
-        "awayForm": [
-          "D",
-          "D",
-          "W",
-          "W",
-          "W"
-        ],
-        "url": "https://www.predictz.com/predictions/paraguay/primera-division/1213421/"
-      },
-      {
-        "id": "1182893",
-        "day": "today",
-        "date": "2026-09-08",
-        "league": "Canada Premier League",
-        "homeTeam": "HFX Wanderers",
-        "awayTeam": "Cavalry",
-        "match": "HFX Wanderers v Cavalry",
-        "prediction": "Away 0-2",
-        "predictionSide": "away",
-        "odds": {
-          "home": "4.30",
-          "draw": "3.80",
-          "away": "1.67"
-        },
-        "homeForm": [
-          "D",
-          "L",
-          "L",
-          "W",
-          "L"
-        ],
-        "awayForm": [
-          "W",
-          "D",
-          "W",
-          "W",
-          "W"
-        ],
-        "url": "https://www.predictz.com/predictions/canada/premier-league/1182893/"
-      }
-    ]
+    "count": 0,
+    "tips": []
   },
   "tomorrow": {
     "day": "tomorrow",
@@ -553,9 +59,9 @@
         "prediction": "Draw 1-1",
         "predictionSide": "draw",
         "odds": {
-          "home": "2.70",
+          "home": "2.63",
           "draw": "3.75",
-          "away": "2.45"
+          "away": "2.50"
         },
         "homeForm": [
           "W",
@@ -584,9 +90,9 @@
         "prediction": "Home 2-1",
         "predictionSide": "home",
         "odds": {
-          "home": "1.73",
+          "home": "1.75",
           "draw": "4.00",
-          "away": "4.20"
+          "away": "4.00"
         },
         "homeForm": [
           "W",
@@ -677,9 +183,9 @@
         "prediction": "Home 2-1",
         "predictionSide": "home",
         "odds": {
-          "home": "1.60",
+          "home": "1.62",
           "draw": "4.33",
-          "away": "5.00"
+          "away": "4.75"
         },
         "homeForm": [
           "W",
@@ -853,37 +359,6 @@
         "url": "https://www.predictz.com/predictions/england/efl-cup/1220502/"
       },
       {
-        "id": "1220499",
-        "day": "tomorrow",
-        "date": "2026-09-09",
-        "league": "England EFL Cup",
-        "homeTeam": "Millwall",
-        "awayTeam": "Newcastle",
-        "match": "Millwall v Newcastle",
-        "prediction": "Away 1-2",
-        "predictionSide": "away",
-        "odds": {
-          "home": "5.25",
-          "draw": "4.20",
-          "away": "1.51"
-        },
-        "homeForm": [
-          "W",
-          "W",
-          "L",
-          "L",
-          "W"
-        ],
-        "awayForm": [
-          "W",
-          "L",
-          "D",
-          "W",
-          "D"
-        ],
-        "url": "https://www.predictz.com/predictions/england/efl-cup/1220499/"
-      },
-      {
         "id": "1220503",
         "day": "tomorrow",
         "date": "2026-09-09",
@@ -913,6 +388,37 @@
           "D"
         ],
         "url": "https://www.predictz.com/predictions/england/efl-cup/1220503/"
+      },
+      {
+        "id": "1220499",
+        "day": "tomorrow",
+        "date": "2026-09-09",
+        "league": "England EFL Cup",
+        "homeTeam": "Millwall",
+        "awayTeam": "Newcastle",
+        "match": "Millwall v Newcastle",
+        "prediction": "Away 1-2",
+        "predictionSide": "away",
+        "odds": {
+          "home": "5.25",
+          "draw": "4.20",
+          "away": "1.51"
+        },
+        "homeForm": [
+          "W",
+          "W",
+          "L",
+          "L",
+          "W"
+        ],
+        "awayForm": [
+          "W",
+          "L",
+          "D",
+          "W",
+          "D"
+        ],
+        "url": "https://www.predictz.com/predictions/england/efl-cup/1220499/"
       },
       {
         "id": "1199907",
@@ -2134,9 +1640,9 @@
         "prediction": "Home 3-0",
         "predictionSide": "home",
         "odds": {
-          "home": "1.50",
-          "draw": "4.10",
-          "away": "5.50"
+          "home": "1.55",
+          "draw": "4.00",
+          "away": "5.25"
         },
         "homeForm": [
           "W",
@@ -2258,9 +1764,9 @@
         "prediction": "Draw 3-3",
         "predictionSide": "draw",
         "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
+          "home": "2.58",
+          "draw": "2.93",
+          "away": "2.84"
         },
         "homeForm": [
           "L",
@@ -2290,8 +1796,8 @@
         "predictionSide": "home",
         "odds": {
           "home": "1.51",
-          "draw": "4.20",
-          "away": "5.00"
+          "draw": "4.33",
+          "away": "4.75"
         },
         "homeForm": [
           "W",
@@ -2351,9 +1857,9 @@
         "prediction": "Draw 1-1",
         "predictionSide": "draw",
         "odds": {
-          "home": "3.10",
-          "draw": "3.00",
-          "away": "2.55"
+          "home": "3.00",
+          "draw": "2.85",
+          "away": "2.57"
         },
         "homeForm": [
           "W",
@@ -2382,9 +1888,9 @@
         "prediction": "Draw 0-0",
         "predictionSide": "draw",
         "odds": {
-          "home": "2.10",
-          "draw": "3.30",
-          "away": "3.50"
+          "home": "2.15",
+          "draw": "3.25",
+          "away": "3.40"
         },
         "homeForm": [
           "L",
@@ -2444,9 +1950,9 @@
         "prediction": "Home 2-0",
         "predictionSide": "home",
         "odds": {
-          "home": "1.56",
-          "draw": "3.50",
-          "away": "5.75"
+          "home": "1.61",
+          "draw": "3.40",
+          "away": "5.50"
         },
         "homeForm": [
           "D",
@@ -2475,9 +1981,9 @@
         "prediction": "Away 0-1",
         "predictionSide": "away",
         "odds": {
-          "home": "1.96",
-          "draw": "3.20",
-          "away": "3.80"
+          "home": "2.05",
+          "draw": "3.10",
+          "away": "3.50"
         },
         "homeForm": [
           "W",
@@ -2869,9 +2375,9 @@
         "prediction": "Home 1-0",
         "predictionSide": "home",
         "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
+          "home": "1.83",
+          "draw": "3.10",
+          "away": "4.40"
         },
         "homeForm": [
           "L",
@@ -2922,5 +2428,5 @@
       }
     ]
   },
-  "count": 94
+  "count": 78
 }
