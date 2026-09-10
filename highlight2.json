@@ -1,7 +1,7 @@
 {
   "source": "https://socolivepp.tv/",
-  "scraped_at": "2026-09-10T18:40:57.122Z",
-  "count": 26,
+  "scraped_at": "2026-09-10T21:37:02.737Z",
+  "count": 27,
   "highlights": [
     {
       "id": "highlight2:sporting-cp-vs-galatasaray-0200-10-09",
@@ -56,6 +56,20 @@
       "headers": {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
         "Referer": "https://app.videas.fr/embed/media/d58090af-4914-41ca-ab03-cc85ebf1f083/?title=false&logo=false"
+      },
+      "source": "highlight2"
+    },
+    {
+      "id": "highlight2:fenerbahce-vs-as-roma-2345-10-09",
+      "title": "Fenerbahce vs AS Roma (23:45 – 10/09)",
+      "img": "https://cdn.socolivezh.tv/2026/09/Fenerbahce--768x513.png",
+      "url": "https://socolivezh.tv/video-highlight/fenerbahce-vs-as-roma-2345-10-09/",
+      "match_date": "2026-09-10",
+      "embed_url": "https://app.videas.fr/embed/media/1099711d-d64b-4a3d-b023-2ffceaa3a3e0/?title=false&logo=false",
+      "m3u8": "https://cdn.videas.fr/v-medias/s5/hlsv1/64/ba/64ba7407-4d6c-45f2-83cc-31d39fe2dba6/playlist.m3u8",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+        "Referer": "https://app.videas.fr/embed/media/1099711d-d64b-4a3d-b023-2ffceaa3a3e0/?title=false&logo=false"
       },
       "source": "highlight2"
     },
