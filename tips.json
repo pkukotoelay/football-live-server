@@ -1,13 +1,13 @@
 {
   "source": "https://www.predictz.com/",
-  "scraped_at": "2026-09-10T00:42:31.080Z",
+  "scraped_at": "2026-09-10T03:40:10.217Z",
   "timezone": "Asia/Yangon",
   "today": {
     "day": "today",
     "date": "2026-09-10",
     "label": "Football Tips Today - Thursday, September 10th, 2026",
     "pageUrl": "https://www.predictz.com/predictions/",
-    "count": 60,
+    "count": 56,
     "tips": [
       {
         "id": "1220873",
@@ -876,130 +876,6 @@
           "L"
         ],
         "url": "https://www.predictz.com/predictions/brazil/serie-b/1183550/"
-      },
-      {
-        "id": "1171831",
-        "day": "today",
-        "date": "2026-09-10",
-        "league": "USA Major League Soccer",
-        "homeTeam": "Los Angeles FC",
-        "awayTeam": "New York Red Bulls",
-        "match": "Los Angeles FC v New York Red Bulls",
-        "prediction": "Home 1-0",
-        "predictionSide": "home",
-        "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
-        },
-        "homeForm": [
-          "L",
-          "L",
-          "D",
-          "D",
-          "D"
-        ],
-        "awayForm": [
-          "L",
-          "L",
-          "D",
-          "L",
-          "D"
-        ],
-        "url": "https://www.predictz.com/predictions/usa/major-league-soccer/1171831/"
-      },
-      {
-        "id": "1171828",
-        "day": "today",
-        "date": "2026-09-10",
-        "league": "USA Major League Soccer",
-        "homeTeam": "Portland Timbers",
-        "awayTeam": "St Louis City SC",
-        "match": "Portland Timbers v St Louis City SC",
-        "prediction": "Home 2-1",
-        "predictionSide": "home",
-        "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
-        },
-        "homeForm": [
-          "L",
-          "W",
-          "D",
-          "L",
-          "W"
-        ],
-        "awayForm": [
-          "W",
-          "D",
-          "W",
-          "D",
-          "W"
-        ],
-        "url": "https://www.predictz.com/predictions/usa/major-league-soccer/1171828/"
-      },
-      {
-        "id": "1171832",
-        "day": "today",
-        "date": "2026-09-10",
-        "league": "USA Major League Soccer",
-        "homeTeam": "San Diego FC",
-        "awayTeam": "San Jose Earthquakes",
-        "match": "San Diego FC v San Jose Earthquakes",
-        "prediction": "Draw 1-1",
-        "predictionSide": "draw",
-        "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
-        },
-        "homeForm": [
-          "W",
-          "L",
-          "W",
-          "W",
-          "L"
-        ],
-        "awayForm": [
-          "L",
-          "L",
-          "L",
-          "D",
-          "D"
-        ],
-        "url": "https://www.predictz.com/predictions/usa/major-league-soccer/1171832/"
-      },
-      {
-        "id": "1171830",
-        "day": "today",
-        "date": "2026-09-10",
-        "league": "USA Major League Soccer",
-        "homeTeam": "Vancouver Whitecaps",
-        "awayTeam": "LA Galaxy",
-        "match": "Vancouver Whitecaps v LA Galaxy",
-        "prediction": "Home 2-0",
-        "predictionSide": "home",
-        "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
-        },
-        "homeForm": [
-          "W",
-          "L",
-          "W",
-          "W",
-          "L"
-        ],
-        "awayForm": [
-          "L",
-          "W",
-          "D",
-          "L",
-          "W"
-        ],
-        "url": "https://www.predictz.com/predictions/usa/major-league-soccer/1171830/"
       },
       {
         "id": "1208301",
@@ -6443,5 +6319,5 @@
       }
     ]
   },
-  "count": 208
+  "count": 204
 }
