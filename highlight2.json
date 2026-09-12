@@ -1,7 +1,7 @@
 {
   "source": "https://socolivepp.tv/",
-  "scraped_at": "2026-09-12T18:38:07.672Z",
-  "count": 27,
+  "scraped_at": "2026-09-12T21:35:57.203Z",
+  "count": 28,
   "highlights": [
     {
       "id": "highlight2:venezia-vs-fiorentina-0145-12-09",
@@ -56,6 +56,20 @@
       "headers": {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
         "Referer": "https://app.videas.fr/embed/media/0ce1a313-321b-449a-8b2a-fd923c6c1c47/?title=false&logo=false"
+      },
+      "source": "highlight2"
+    },
+    {
+      "id": "highlight2:racing-santander-vs-alaves-1900-12-09",
+      "title": "Racing Santander vs Alavés (19:00 – 12/09)",
+      "img": "https://cdn.socolivezh.tv/2026/09/Racing-Santander-768x437.jpg",
+      "url": "https://socolivezh.tv/video-highlight/racing-santander-vs-alaves-1900-12-09/",
+      "match_date": "2026-09-12",
+      "embed_url": "https://app.videas.fr/embed/media/0ac70320-c6a9-4684-92c3-de4e7b806337/?title=false&logo=false",
+      "m3u8": "https://cdn.videas.fr/v-medias/s5/hlsv1/bc/34/bc347d08-2c25-4e0f-8807-2fa3947ca36a/playlist.m3u8",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+        "Referer": "https://app.videas.fr/embed/media/0ac70320-c6a9-4684-92c3-de4e7b806337/?title=false&logo=false"
       },
       "source": "highlight2"
     },
