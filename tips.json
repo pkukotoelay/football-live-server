@@ -1,6 +1,6 @@
 {
   "source": "https://www.predictz.com/",
-  "scraped_at": "2026-09-13T03:38:25.927Z",
+  "scraped_at": "2026-09-13T06:42:40.955Z",
   "timezone": "Asia/Yangon",
   "today": {
     "day": "today",
@@ -977,7 +977,7 @@
     "date": "2026-09-14",
     "label": "Football Tips Tomorrow - Monday, September 14th, 2026",
     "pageUrl": "https://www.predictz.com/predictions/tomorrow/",
-    "count": 70,
+    "count": 71,
     "tips": [
       {
         "id": "1196784",
@@ -2839,6 +2839,37 @@
         "url": "https://www.predictz.com/predictions/usa/major-league-soccer/1171847/"
       },
       {
+        "id": "1194048",
+        "day": "tomorrow",
+        "date": "2026-09-14",
+        "league": "Costa Rica Primera Division",
+        "homeTeam": "Cartagines",
+        "awayTeam": "Alajuelense",
+        "match": "Cartagines v Alajuelense",
+        "prediction": "Draw 2-2",
+        "predictionSide": "draw",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [
+          "W",
+          "L",
+          "W",
+          "W",
+          "W"
+        ],
+        "awayForm": [
+          "W",
+          "W",
+          "L",
+          "D",
+          "L"
+        ],
+        "url": "https://www.predictz.com/predictions/costa-rica/primera-division/1194048/"
+      },
+      {
         "id": "1221789",
         "day": "tomorrow",
         "date": "2026-09-14",
@@ -3148,5 +3179,5 @@
       }
     ]
   },
-  "count": 101
+  "count": 102
 }
