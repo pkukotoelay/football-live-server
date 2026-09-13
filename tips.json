@@ -1,13 +1,13 @@
 {
   "source": "https://www.predictz.com/",
-  "scraped_at": "2026-09-13T10:03:28.593Z",
+  "scraped_at": "2026-09-13T12:40:53.343Z",
   "timezone": "Asia/Yangon",
   "today": {
     "day": "today",
     "date": "2026-09-13",
     "label": "Football Tips Today - Sunday, September 13th, 2026",
     "pageUrl": "https://www.predictz.com/predictions/",
-    "count": 31,
+    "count": 26,
     "tips": [
       {
         "id": "1196782",
@@ -70,99 +70,6 @@
           "W"
         ],
         "url": "https://www.predictz.com/predictions/england/premier-league/1196785/"
-      },
-      {
-        "id": "1199916",
-        "day": "today",
-        "date": "2026-09-13",
-        "league": "England Championship",
-        "homeTeam": "Sheff Utd",
-        "awayTeam": "Wolves",
-        "match": "Sheff Utd v Wolves",
-        "prediction": "Draw 2-2",
-        "predictionSide": "draw",
-        "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
-        },
-        "homeForm": [
-          "D",
-          "D",
-          "W",
-          "L",
-          "W"
-        ],
-        "awayForm": [
-          "D",
-          "W",
-          "W",
-          "L",
-          "D"
-        ],
-        "url": "https://www.predictz.com/predictions/england/championship/1199916/"
-      },
-      {
-        "id": "1219675",
-        "day": "today",
-        "date": "2026-09-13",
-        "league": "Scottish League Cup",
-        "homeTeam": "Rangers",
-        "awayTeam": "Celtic",
-        "match": "Rangers v Celtic",
-        "prediction": "Draw 2-2",
-        "predictionSide": "draw",
-        "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
-        },
-        "homeForm": [
-          "L",
-          "W",
-          "W",
-          "W",
-          "W"
-        ],
-        "awayForm": [
-          "W",
-          "W",
-          "W",
-          "W",
-          "W"
-        ],
-        "url": "https://www.predictz.com/predictions/scotland/scottish-league-cup/1219675/"
-      },
-      {
-        "id": "1202581",
-        "day": "today",
-        "date": "2026-09-13",
-        "league": "Spain La Liga",
-        "homeTeam": "Celta Vigo",
-        "awayTeam": "Malaga",
-        "match": "Celta Vigo v Malaga",
-        "prediction": "Draw 0-0",
-        "predictionSide": "draw",
-        "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
-        },
-        "homeForm": [
-          "D",
-          "L",
-          "L",
-          "D",
-          "D"
-        ],
-        "awayForm": [
-          "W",
-          "L",
-          "D",
-          "L",
-          "D"
-        ],
-        "url": "https://www.predictz.com/predictions/spain/la-liga/1202581/"
       },
       {
         "id": "1202587",
@@ -504,68 +411,6 @@
           "L"
         ],
         "url": "https://www.predictz.com/predictions/france/ligue-1/1192580/"
-      },
-      {
-        "id": "1191909",
-        "day": "today",
-        "date": "2026-09-13",
-        "league": "Netherlands Eredivisie",
-        "homeTeam": "Excelsior Rotterdam",
-        "awayTeam": "FC Utrecht",
-        "match": "Excelsior Rotterdam v FC Utrecht",
-        "prediction": "Home 2-0",
-        "predictionSide": "home",
-        "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
-        },
-        "homeForm": [
-          "W",
-          "L",
-          "W",
-          "W",
-          "D"
-        ],
-        "awayForm": [
-          "D",
-          "L",
-          "L",
-          "D",
-          "L"
-        ],
-        "url": "https://www.predictz.com/predictions/netherlands/eredivisie/1191909/"
-      },
-      {
-        "id": "1191908",
-        "day": "today",
-        "date": "2026-09-13",
-        "league": "Netherlands Eredivisie",
-        "homeTeam": "Heerenveen",
-        "awayTeam": "Telstar",
-        "match": "Heerenveen v Telstar",
-        "prediction": "Home 1-0",
-        "predictionSide": "home",
-        "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
-        },
-        "homeForm": [
-          "W",
-          "D",
-          "L",
-          "D",
-          "L"
-        ],
-        "awayForm": [
-          "W",
-          "L",
-          "L",
-          "D",
-          "L"
-        ],
-        "url": "https://www.predictz.com/predictions/netherlands/eredivisie/1191908/"
       },
       {
         "id": "1191912",
@@ -3179,5 +3024,5 @@
       }
     ]
   },
-  "count": 102
+  "count": 97
 }
