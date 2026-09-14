@@ -1,13 +1,13 @@
 {
   "source": "https://www.predictz.com/",
-  "scraped_at": "2026-09-14T00:43:58.636Z",
+  "scraped_at": "2026-09-14T03:40:46.657Z",
   "timezone": "Asia/Yangon",
   "today": {
     "day": "today",
     "date": "2026-09-14",
     "label": "Football Tips Today - Monday, September 14th, 2026",
     "pageUrl": "https://www.predictz.com/predictions/",
-    "count": 64,
+    "count": 61,
     "tips": [
       {
         "id": "1196784",
@@ -1681,99 +1681,6 @@
           "W"
         ],
         "url": "https://www.predictz.com/predictions/uruguay/primera-division/1221763/"
-      },
-      {
-        "id": "1171847",
-        "day": "today",
-        "date": "2026-09-14",
-        "league": "USA Major League Soccer",
-        "homeTeam": "San Diego FC",
-        "awayTeam": "Philadelphia Union",
-        "match": "San Diego FC v Philadelphia Union",
-        "prediction": "Draw 2-2",
-        "predictionSide": "draw",
-        "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
-        },
-        "homeForm": [
-          "L",
-          "W",
-          "W",
-          "L",
-          "L"
-        ],
-        "awayForm": [
-          "D",
-          "D",
-          "W",
-          "W",
-          "W"
-        ],
-        "url": "https://www.predictz.com/predictions/usa/major-league-soccer/1171847/"
-      },
-      {
-        "id": "1221790",
-        "day": "today",
-        "date": "2026-09-14",
-        "league": "Honduras Liga Nacional",
-        "homeTeam": "Independiente Siguatepeque",
-        "awayTeam": "Juticalpa",
-        "match": "Independiente Siguatepeque v Juticalpa",
-        "prediction": "Home 1-0",
-        "predictionSide": "home",
-        "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
-        },
-        "homeForm": [
-          "W",
-          "D",
-          "D",
-          "L",
-          "D"
-        ],
-        "awayForm": [
-          "L",
-          "L",
-          "L",
-          "W",
-          "L"
-        ],
-        "url": "https://www.predictz.com/predictions/honduras/liga-nacional/1221790/"
-      },
-      {
-        "id": "1208538",
-        "day": "today",
-        "date": "2026-09-14",
-        "league": "Mexico Liga MX",
-        "homeTeam": "Santos Laguna",
-        "awayTeam": "Juarez",
-        "match": "Santos Laguna v Juarez",
-        "prediction": "Draw 2-2",
-        "predictionSide": "draw",
-        "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
-        },
-        "homeForm": [
-          "L",
-          "L",
-          "L",
-          "D",
-          "L"
-        ],
-        "awayForm": [
-          "L",
-          "L",
-          "L",
-          "L",
-          "L"
-        ],
-        "url": "https://www.predictz.com/predictions/mexico/la-division/1208538/"
       },
       {
         "id": "1218655",
@@ -4940,5 +4847,5 @@
       }
     ]
   },
-  "count": 159
+  "count": 156
 }
