@@ -1,13 +1,13 @@
 {
   "source": "https://www.predictz.com/",
-  "scraped_at": "2026-09-15T12:42:52.670Z",
+  "scraped_at": "2026-09-15T15:39:22.759Z",
   "timezone": "Asia/Yangon",
   "today": {
     "day": "today",
     "date": "2026-09-15",
-    "label": "Football Tips Today - Tuesday, September 15th, 2026",
+    "label": "Football Tips Tonight - Tuesday, September 15th, 2026",
     "pageUrl": "https://www.predictz.com/predictions/",
-    "count": 91,
+    "count": 86,
     "tips": [
       {
         "id": "1219818",
@@ -783,6 +783,37 @@
           "D"
         ],
         "url": "https://www.predictz.com/predictions/scotland/league-one/1195993/"
+      },
+      {
+        "id": "1212574",
+        "day": "today",
+        "date": "2026-09-15",
+        "league": "Scottish Challenge Cup",
+        "homeTeam": "East Fife",
+        "awayTeam": "Motherwell",
+        "match": "East Fife v Motherwell",
+        "prediction": "Home 2-0",
+        "predictionSide": "home",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [
+          "L",
+          "D",
+          "D",
+          "D",
+          "D"
+        ],
+        "awayForm": [
+          "W",
+          "D",
+          "D",
+          "W",
+          "L"
+        ],
+        "url": "https://www.predictz.com/predictions/scotland/scottish-challenge-cup/1212574/"
       },
       {
         "id": "1205848",
@@ -1589,37 +1620,6 @@
           "W"
         ],
         "url": "https://www.predictz.com/predictions/germany/regionalliga-northeast/1207745/"
-      },
-      {
-        "id": "1209019",
-        "day": "today",
-        "date": "2026-09-15",
-        "league": "Germany Regionalliga Bayern",
-        "homeTeam": "Nurnberg II",
-        "awayTeam": "Schwaben Augsburg",
-        "match": "Nurnberg II v Schwaben Augsburg",
-        "prediction": "Home 3-0",
-        "predictionSide": "home",
-        "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
-        },
-        "homeForm": [
-          "L",
-          "D",
-          "W",
-          "W",
-          "L"
-        ],
-        "awayForm": [
-          "W",
-          "L",
-          "W",
-          "L",
-          "L"
-        ],
-        "url": "https://www.predictz.com/predictions/germany/regionalliga-bayern/1209019/"
       },
       {
         "id": "1209016",
@@ -2643,67 +2643,6 @@
         "url": "https://www.predictz.com/predictions/brazil/serie-b/1183558/"
       },
       {
-        "id": "1219012",
-        "day": "today",
-        "date": "2026-09-15",
-        "league": "Egypt Premier League",
-        "homeTeam": "Asyut Petroleum",
-        "awayTeam": "Future",
-        "match": "Asyut Petroleum v Future",
-        "prediction": "Away 0-1",
-        "predictionSide": "away",
-        "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
-        },
-        "homeForm": [
-          "D",
-          "D",
-          "L",
-          "L"
-        ],
-        "awayForm": [
-          "L",
-          "D",
-          "W",
-          "L",
-          "W"
-        ],
-        "url": "https://www.predictz.com/predictions/egypt/premier-league/1219012/"
-      },
-      {
-        "id": "1218884",
-        "day": "today",
-        "date": "2026-09-15",
-        "league": "Egypt Premier League",
-        "homeTeam": "Wadi Degla",
-        "awayTeam": "Al Moqawloon Al Arab",
-        "match": "Wadi Degla v Al Moqawloon Al Arab",
-        "prediction": "Home 3-0",
-        "predictionSide": "home",
-        "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
-        },
-        "homeForm": [
-          "W",
-          "D",
-          "W",
-          "D",
-          "L"
-        ],
-        "awayForm": [
-          "D",
-          "W",
-          "L",
-          "L",
-          "W"
-        ],
-        "url": "https://www.predictz.com/predictions/egypt/premier-league/1218884/"
-      },
-      {
         "id": "1214703",
         "day": "today",
         "date": "2026-09-15",
@@ -2733,96 +2672,6 @@
           "L"
         ],
         "url": "https://www.predictz.com/predictions/tanzania/premier-league/1214703/"
-      },
-      {
-        "id": "1221228",
-        "day": "today",
-        "date": "2026-09-15",
-        "league": "Uganda Premier League",
-        "homeTeam": "BUL",
-        "awayTeam": "Blacks Power",
-        "match": "BUL v Blacks Power",
-        "prediction": "Home 1-0",
-        "predictionSide": "home",
-        "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
-        },
-        "homeForm": [
-          "L",
-          "W",
-          "W",
-          "W",
-          "W"
-        ],
-        "awayForm": [
-          "L",
-          "W",
-          "W",
-          "W",
-          "W"
-        ],
-        "url": "https://www.predictz.com/predictions/uganda/premier-league/1221228/"
-      },
-      {
-        "id": "1221229",
-        "day": "today",
-        "date": "2026-09-15",
-        "league": "Uganda Premier League",
-        "homeTeam": "NEC FC",
-        "awayTeam": "Uganda Revenue Authority",
-        "match": "NEC FC v Uganda Revenue Authority",
-        "prediction": "Draw 2-2",
-        "predictionSide": "draw",
-        "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
-        },
-        "homeForm": [
-          "L",
-          "W",
-          "W",
-          "D",
-          "D"
-        ],
-        "awayForm": [
-          "D",
-          "W",
-          "W",
-          "W",
-          "L"
-        ],
-        "url": "https://www.predictz.com/predictions/uganda/premier-league/1221229/"
-      },
-      {
-        "id": "1221231",
-        "day": "today",
-        "date": "2026-09-15",
-        "league": "Uganda Premier League",
-        "homeTeam": "SC Villa",
-        "awayTeam": "Kigezi Homeboyz",
-        "match": "SC Villa v Kigezi Homeboyz",
-        "prediction": "Home 1-0",
-        "predictionSide": "home",
-        "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
-        },
-        "homeForm": [
-          "W",
-          "W",
-          "D",
-          "W",
-          "W"
-        ],
-        "awayForm": [
-          "L",
-          "D"
-        ],
-        "url": "https://www.predictz.com/predictions/uganda/premier-league/1221231/"
       }
     ]
   },
@@ -3517,5 +3366,5 @@
       }
     ]
   },
-  "count": 113
+  "count": 108
 }
