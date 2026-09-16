@@ -1,13 +1,13 @@
 {
   "source": "https://www.predictz.com/",
-  "scraped_at": "2026-09-16T09:39:19.092Z",
+  "scraped_at": "2026-09-16T12:42:59.912Z",
   "timezone": "Asia/Yangon",
   "today": {
     "day": "today",
     "date": "2026-09-16",
     "label": "Football Tips Today - Wednesday, September 16th, 2026",
     "pageUrl": "https://www.predictz.com/predictions/",
-    "count": 97,
+    "count": 95,
     "tips": [
       {
         "id": "1220709",
@@ -845,37 +845,6 @@
           "W"
         ],
         "url": "https://www.predictz.com/predictions/germany/3-liga/1207035/"
-      },
-      {
-        "id": "1207433",
-        "day": "today",
-        "date": "2026-09-16",
-        "league": "Germany Regionalliga North",
-        "homeTeam": "Hamburg II",
-        "awayTeam": "St Pauli II",
-        "match": "Hamburg II v St Pauli II",
-        "prediction": "Away 0-1",
-        "predictionSide": "away",
-        "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
-        },
-        "homeForm": [
-          "L",
-          "W",
-          "L",
-          "W",
-          "L"
-        ],
-        "awayForm": [
-          "W",
-          "L",
-          "D",
-          "L",
-          "W"
-        ],
-        "url": "https://www.predictz.com/predictions/germany/regionalliga-north/1207433/"
       },
       {
         "id": "1207435",
@@ -2207,37 +2176,6 @@
           "W"
         ],
         "url": "https://www.predictz.com/predictions/russia/premier-league/1199452/"
-      },
-      {
-        "id": "1206594",
-        "day": "today",
-        "date": "2026-09-16",
-        "league": "Russia FNL",
-        "homeTeam": "Yenisey Krasnoyarsk",
-        "awayTeam": "Arsenal Tula",
-        "match": "Yenisey Krasnoyarsk v Arsenal Tula",
-        "prediction": "Home 1-0",
-        "predictionSide": "home",
-        "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
-        },
-        "homeForm": [
-          "D",
-          "L",
-          "D",
-          "L",
-          "L"
-        ],
-        "awayForm": [
-          "W",
-          "L",
-          "D",
-          "L",
-          "D"
-        ],
-        "url": "https://www.predictz.com/predictions/russia/fnl/1206594/"
       },
       {
         "id": "1206592",
@@ -4781,5 +4719,5 @@
       }
     ]
   },
-  "count": 154
+  "count": 152
 }
