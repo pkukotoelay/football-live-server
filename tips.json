@@ -1,6 +1,6 @@
 {
   "source": "https://www.predictz.com/",
-  "scraped_at": "2026-09-17T03:39:58.304Z",
+  "scraped_at": "2026-09-17T06:43:37.823Z",
   "timezone": "Asia/Yangon",
   "today": {
     "day": "today",
@@ -15,7 +15,7 @@
     "date": "2026-09-18",
     "label": "Football Tips Tomorrow - Friday, September 18th, 2026",
     "pageUrl": "https://www.predictz.com/predictions/tomorrow/",
-    "count": 132,
+    "count": 134,
     "tips": [
       {
         "id": "1220020",
@@ -3304,6 +3304,68 @@
         "url": "https://www.predictz.com/predictions/brazil/serie-b/1183570/"
       },
       {
+        "id": "1222803",
+        "day": "tomorrow",
+        "date": "2026-09-18",
+        "league": "Colombia Categoria Primera A",
+        "homeTeam": "Atletico Bucaramanga",
+        "awayTeam": "Medellin",
+        "match": "Atletico Bucaramanga v Medellin",
+        "prediction": "Away 0-2",
+        "predictionSide": "away",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [
+          "D",
+          "W",
+          "D",
+          "D",
+          "W"
+        ],
+        "awayForm": [
+          "W",
+          "L",
+          "W",
+          "W",
+          "L"
+        ],
+        "url": "https://www.predictz.com/predictions/colombia/categoria-primera-a/1222803/"
+      },
+      {
+        "id": "1222816",
+        "day": "tomorrow",
+        "date": "2026-09-18",
+        "league": "Colombia Categoria Primera A",
+        "homeTeam": "Aguilas Doradas",
+        "awayTeam": "Pereira",
+        "match": "Aguilas Doradas v Pereira",
+        "prediction": "Home 2-0",
+        "predictionSide": "home",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [
+          "D",
+          "D",
+          "D",
+          "D",
+          "L"
+        ],
+        "awayForm": [
+          "D",
+          "W",
+          "L",
+          "D",
+          "L"
+        ],
+        "url": "https://www.predictz.com/predictions/colombia/categoria-primera-a/1222816/"
+      },
+      {
         "id": "1213437",
         "day": "tomorrow",
         "date": "2026-09-18",
@@ -4108,5 +4170,5 @@
       }
     ]
   },
-  "count": 132
+  "count": 134
 }
