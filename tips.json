@@ -1,14 +1,2340 @@
 {
   "source": "https://www.predictz.com/",
-  "scraped_at": "2026-09-19T09:37:20.066Z",
+  "scraped_at": "2026-09-19T12:40:22.825Z",
   "timezone": "Asia/Yangon",
   "today": {
     "day": "today",
     "date": "2026-09-19",
-    "label": "www.predictz.com",
+    "label": "Football Tips Today - Saturday, September 19th, 2026",
     "pageUrl": "https://www.predictz.com/predictions/",
-    "count": 0,
-    "tips": []
+    "count": 75,
+    "tips": [
+      {
+        "id": "1196793",
+        "day": "today",
+        "date": "2026-09-19",
+        "league": "England Premier League",
+        "homeTeam": "Brighton",
+        "awayTeam": "Arsenal",
+        "match": "Brighton v Arsenal",
+        "prediction": "Draw 2-2",
+        "predictionSide": "draw",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [
+          "L",
+          "W",
+          "L",
+          "D",
+          "W"
+        ],
+        "awayForm": [
+          "W",
+          "W",
+          "W",
+          "W",
+          "W"
+        ],
+        "url": "https://www.predictz.com/predictions/england/premier-league/1196793/"
+      },
+      {
+        "id": "1196798",
+        "day": "today",
+        "date": "2026-09-19",
+        "league": "England Premier League",
+        "homeTeam": "Everton",
+        "awayTeam": "Ipswich",
+        "match": "Everton v Ipswich",
+        "prediction": "Away 1-2",
+        "predictionSide": "away",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [
+          "L",
+          "W",
+          "D",
+          "D",
+          "D"
+        ],
+        "awayForm": [
+          "W",
+          "W",
+          "L",
+          "L",
+          "W"
+        ],
+        "url": "https://www.predictz.com/predictions/england/premier-league/1196798/"
+      },
+      {
+        "id": "1196796",
+        "day": "today",
+        "date": "2026-09-19",
+        "league": "England Premier League",
+        "homeTeam": "Newcastle",
+        "awayTeam": "Hull",
+        "match": "Newcastle v Hull",
+        "prediction": "Home 2-1",
+        "predictionSide": "home",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [
+          "L",
+          "D",
+          "W",
+          "D",
+          "L"
+        ],
+        "awayForm": [
+          "W",
+          "W",
+          "W",
+          "D",
+          "D"
+        ],
+        "url": "https://www.predictz.com/predictions/england/premier-league/1196796/"
+      },
+      {
+        "id": "1196791",
+        "day": "today",
+        "date": "2026-09-19",
+        "league": "England Premier League",
+        "homeTeam": "Nottingham Forest",
+        "awayTeam": "Coventry",
+        "match": "Nottingham Forest v Coventry",
+        "prediction": "Draw 2-2",
+        "predictionSide": "draw",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [
+          "D",
+          "L",
+          "D",
+          "D",
+          "W"
+        ],
+        "awayForm": [
+          "W",
+          "L",
+          "L",
+          "L",
+          "L"
+        ],
+        "url": "https://www.predictz.com/predictions/england/premier-league/1196791/"
+      },
+      {
+        "id": "1199930",
+        "day": "today",
+        "date": "2026-09-19",
+        "league": "England Championship",
+        "homeTeam": "Birmingham",
+        "awayTeam": "Middlesbrough",
+        "match": "Birmingham v Middlesbrough",
+        "prediction": "Draw 1-1",
+        "predictionSide": "draw",
+        "odds": {
+          "home": "165",
+          "draw": "260",
+          "away": "140"
+        },
+        "homeForm": [
+          "W",
+          "D",
+          "D",
+          "L",
+          "W"
+        ],
+        "awayForm": [
+          "W",
+          "D",
+          "W",
+          "W",
+          "D"
+        ],
+        "url": "https://www.predictz.com/predictions/england/championship/1199930/"
+      },
+      {
+        "id": "1199929",
+        "day": "today",
+        "date": "2026-09-19",
+        "league": "England Championship",
+        "homeTeam": "Burnley",
+        "awayTeam": "Derby",
+        "match": "Burnley v Derby",
+        "prediction": "Away 0-1",
+        "predictionSide": "away",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [
+          "L",
+          "D",
+          "L",
+          "D",
+          "L"
+        ],
+        "awayForm": [
+          "L",
+          "W",
+          "L",
+          "L",
+          "L"
+        ],
+        "url": "https://www.predictz.com/predictions/england/championship/1199929/"
+      },
+      {
+        "id": "1199936",
+        "day": "today",
+        "date": "2026-09-19",
+        "league": "England Championship",
+        "homeTeam": "Lincoln City",
+        "awayTeam": "Swansea",
+        "match": "Lincoln City v Swansea",
+        "prediction": "Away 0-2",
+        "predictionSide": "away",
+        "odds": {
+          "home": "210",
+          "draw": "220",
+          "away": "132"
+        },
+        "homeForm": [
+          "W",
+          "D",
+          "D",
+          "W",
+          "W"
+        ],
+        "awayForm": [
+          "W",
+          "W",
+          "D",
+          "L",
+          "W"
+        ],
+        "url": "https://www.predictz.com/predictions/england/championship/1199936/"
+      },
+      {
+        "id": "1199927",
+        "day": "today",
+        "date": "2026-09-19",
+        "league": "England Championship",
+        "homeTeam": "Portsmouth",
+        "awayTeam": "Blackburn",
+        "match": "Portsmouth v Blackburn",
+        "prediction": "Home 1-0",
+        "predictionSide": "home",
+        "odds": {
+          "home": "110",
+          "draw": "250",
+          "away": "240"
+        },
+        "homeForm": [
+          "W",
+          "L",
+          "L",
+          "W",
+          "D"
+        ],
+        "awayForm": [
+          "L",
+          "D",
+          "L",
+          "L",
+          "W"
+        ],
+        "url": "https://www.predictz.com/predictions/england/championship/1199927/"
+      },
+      {
+        "id": "1199926",
+        "day": "today",
+        "date": "2026-09-19",
+        "league": "England Championship",
+        "homeTeam": "QPR",
+        "awayTeam": "Preston",
+        "match": "QPR v Preston",
+        "prediction": "Home 1-0",
+        "predictionSide": "home",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [
+          "W",
+          "W",
+          "L",
+          "D",
+          "D"
+        ],
+        "awayForm": [
+          "L",
+          "L",
+          "W",
+          "L",
+          "L"
+        ],
+        "url": "https://www.predictz.com/predictions/england/championship/1199926/"
+      },
+      {
+        "id": "1199935",
+        "day": "today",
+        "date": "2026-09-19",
+        "league": "England Championship",
+        "homeTeam": "Wrexham",
+        "awayTeam": "Southampton",
+        "match": "Wrexham v Southampton",
+        "prediction": "Away 0-2",
+        "predictionSide": "away",
+        "odds": {
+          "home": "170",
+          "draw": "260",
+          "away": "135"
+        },
+        "homeForm": [
+          "L",
+          "W",
+          "D",
+          "D",
+          "L"
+        ],
+        "awayForm": [
+          "W",
+          "D",
+          "D",
+          "W",
+          "W"
+        ],
+        "url": "https://www.predictz.com/predictions/england/championship/1199935/"
+      },
+      {
+        "id": "1200471",
+        "day": "today",
+        "date": "2026-09-19",
+        "league": "England League One",
+        "homeTeam": "Blackpool",
+        "awayTeam": "Plymouth",
+        "match": "Blackpool v Plymouth",
+        "prediction": "Home 3-1",
+        "predictionSide": "home",
+        "odds": {
+          "home": "210",
+          "draw": "240",
+          "away": "110"
+        },
+        "homeForm": [
+          "W",
+          "W",
+          "L",
+          "L",
+          "D"
+        ],
+        "awayForm": [
+          "D",
+          "W",
+          "L",
+          "W",
+          "W"
+        ],
+        "url": "https://www.predictz.com/predictions/england/league-one/1200471/"
+      },
+      {
+        "id": "1200476",
+        "day": "today",
+        "date": "2026-09-19",
+        "league": "England League One",
+        "homeTeam": "Bromley",
+        "awayTeam": "Huddersfield",
+        "match": "Bromley v Huddersfield",
+        "prediction": "Away 0-2",
+        "predictionSide": "away",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [
+          "D",
+          "L",
+          "L",
+          "L",
+          "D"
+        ],
+        "awayForm": [
+          "D",
+          "W",
+          "W",
+          "D",
+          "D"
+        ],
+        "url": "https://www.predictz.com/predictions/england/league-one/1200476/"
+      },
+      {
+        "id": "1200473",
+        "day": "today",
+        "date": "2026-09-19",
+        "league": "England League One",
+        "homeTeam": "Leyton Orient",
+        "awayTeam": "Stevenage",
+        "match": "Leyton Orient v Stevenage",
+        "prediction": "Away 0-2",
+        "predictionSide": "away",
+        "odds": {
+          "home": "135",
+          "draw": "225",
+          "away": "182"
+        },
+        "homeForm": [
+          "W",
+          "L",
+          "W",
+          "D",
+          "L"
+        ],
+        "awayForm": [
+          "L",
+          "D",
+          "D",
+          "W",
+          "W"
+        ],
+        "url": "https://www.predictz.com/predictions/england/league-one/1200473/"
+      },
+      {
+        "id": "1200472",
+        "day": "today",
+        "date": "2026-09-19",
+        "league": "England League One",
+        "homeTeam": "Luton",
+        "awayTeam": "Bradford",
+        "match": "Luton v Bradford",
+        "prediction": "Home 2-0",
+        "predictionSide": "home",
+        "odds": {
+          "home": "105",
+          "draw": "225",
+          "away": "240"
+        },
+        "homeForm": [
+          "D",
+          "L",
+          "W",
+          "D",
+          "L"
+        ],
+        "awayForm": [
+          "W",
+          "L",
+          "L",
+          "W",
+          "W"
+        ],
+        "url": "https://www.predictz.com/predictions/england/league-one/1200472/"
+      },
+      {
+        "id": "1200474",
+        "day": "today",
+        "date": "2026-09-19",
+        "league": "England League One",
+        "homeTeam": "Oxford Utd",
+        "awayTeam": "Cambridge Utd",
+        "match": "Oxford Utd v Cambridge Utd",
+        "prediction": "Draw 2-2",
+        "predictionSide": "draw",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [
+          "D",
+          "W",
+          "L",
+          "W",
+          "W"
+        ],
+        "awayForm": [
+          "D",
+          "L",
+          "W",
+          "D",
+          "W"
+        ],
+        "url": "https://www.predictz.com/predictions/england/league-one/1200474/"
+      },
+      {
+        "id": "1200470",
+        "day": "today",
+        "date": "2026-09-19",
+        "league": "England League One",
+        "homeTeam": "Peterborough",
+        "awayTeam": "Doncaster",
+        "match": "Peterborough v Doncaster",
+        "prediction": "Away 0-1",
+        "predictionSide": "away",
+        "odds": {
+          "home": "155",
+          "draw": "260",
+          "away": "145"
+        },
+        "homeForm": [
+          "W",
+          "L",
+          "D",
+          "L",
+          "D"
+        ],
+        "awayForm": [
+          "D",
+          "D",
+          "D",
+          "L",
+          "L"
+        ],
+        "url": "https://www.predictz.com/predictions/england/league-one/1200470/"
+      },
+      {
+        "id": "1200468",
+        "day": "today",
+        "date": "2026-09-19",
+        "league": "England League One",
+        "homeTeam": "Reading",
+        "awayTeam": "Notts County",
+        "match": "Reading v Notts County",
+        "prediction": "Home 3-1",
+        "predictionSide": "home",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [
+          "L",
+          "D",
+          "W",
+          "W",
+          "L"
+        ],
+        "awayForm": [
+          "D",
+          "W",
+          "D",
+          "D",
+          "L"
+        ],
+        "url": "https://www.predictz.com/predictions/england/league-one/1200468/"
+      },
+      {
+        "id": "1200466",
+        "day": "today",
+        "date": "2026-09-19",
+        "league": "England League One",
+        "homeTeam": "Sheffield Wednesday",
+        "awayTeam": "Stockport",
+        "match": "Sheffield Wednesday v Stockport",
+        "prediction": "Draw 2-2",
+        "predictionSide": "draw",
+        "odds": {
+          "home": "210",
+          "draw": "260",
+          "away": "105"
+        },
+        "homeForm": [
+          "L",
+          "W",
+          "W",
+          "W",
+          "D"
+        ],
+        "awayForm": [
+          "L",
+          "W",
+          "L",
+          "W",
+          "L"
+        ],
+        "url": "https://www.predictz.com/predictions/england/league-one/1200466/"
+      },
+      {
+        "id": "1200469",
+        "day": "today",
+        "date": "2026-09-19",
+        "league": "England League One",
+        "homeTeam": "Wigan",
+        "awayTeam": "Wycombe",
+        "match": "Wigan v Wycombe",
+        "prediction": "Draw 1-1",
+        "predictionSide": "draw",
+        "odds": {
+          "home": "115",
+          "draw": "240",
+          "away": "210"
+        },
+        "homeForm": [
+          "L",
+          "L",
+          "W",
+          "L",
+          "D"
+        ],
+        "awayForm": [
+          "D",
+          "L",
+          "L",
+          "D",
+          "W"
+        ],
+        "url": "https://www.predictz.com/predictions/england/league-one/1200469/"
+      },
+      {
+        "id": "1201028",
+        "day": "today",
+        "date": "2026-09-19",
+        "league": "England League Two",
+        "homeTeam": "Accrington Stanley",
+        "awayTeam": "Newport County",
+        "match": "Accrington Stanley v Newport County",
+        "prediction": "Draw 3-3",
+        "predictionSide": "draw",
+        "odds": {
+          "home": "110",
+          "draw": "225",
+          "away": "230"
+        },
+        "homeForm": [
+          "L",
+          "L",
+          "D",
+          "W",
+          "L"
+        ],
+        "awayForm": [
+          "L",
+          "D",
+          "L",
+          "L",
+          "D"
+        ],
+        "url": "https://www.predictz.com/predictions/england/league-two/1201028/"
+      },
+      {
+        "id": "1201025",
+        "day": "today",
+        "date": "2026-09-19",
+        "league": "England League Two",
+        "homeTeam": "Barnet",
+        "awayTeam": "Fleetwood Town",
+        "match": "Barnet v Fleetwood Town",
+        "prediction": "Draw 2-2",
+        "predictionSide": "draw",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [
+          "W",
+          "D",
+          "D",
+          "D",
+          "W"
+        ],
+        "awayForm": [
+          "D",
+          "D",
+          "D",
+          "W",
+          "D"
+        ],
+        "url": "https://www.predictz.com/predictions/england/league-two/1201025/"
+      },
+      {
+        "id": "1201024",
+        "day": "today",
+        "date": "2026-09-19",
+        "league": "England League Two",
+        "homeTeam": "Chesterfield",
+        "awayTeam": "York",
+        "match": "Chesterfield v York",
+        "prediction": "Home 2-1",
+        "predictionSide": "home",
+        "odds": {
+          "home": "150",
+          "draw": "230",
+          "away": "157"
+        },
+        "homeForm": [
+          "W",
+          "L",
+          "D",
+          "D",
+          "W"
+        ],
+        "awayForm": [
+          "D",
+          "W",
+          "L",
+          "D",
+          "W"
+        ],
+        "url": "https://www.predictz.com/predictions/england/league-two/1201024/"
+      },
+      {
+        "id": "1201023",
+        "day": "today",
+        "date": "2026-09-19",
+        "league": "England League Two",
+        "homeTeam": "Colchester",
+        "awayTeam": "Cheltenham",
+        "match": "Colchester v Cheltenham",
+        "prediction": "Home 3-2",
+        "predictionSide": "home",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [
+          "W",
+          "W",
+          "L",
+          "L",
+          "D"
+        ],
+        "awayForm": [
+          "L",
+          "D",
+          "W",
+          "D",
+          "W"
+        ],
+        "url": "https://www.predictz.com/predictions/england/league-two/1201023/"
+      },
+      {
+        "id": "1201019",
+        "day": "today",
+        "date": "2026-09-19",
+        "league": "England League Two",
+        "homeTeam": "Crewe",
+        "awayTeam": "Shrewsbury",
+        "match": "Crewe v Shrewsbury",
+        "prediction": "Home 3-0",
+        "predictionSide": "home",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [
+          "W",
+          "D",
+          "D",
+          "D",
+          "D"
+        ],
+        "awayForm": [
+          "L",
+          "W",
+          "L",
+          "L",
+          "W"
+        ],
+        "url": "https://www.predictz.com/predictions/england/league-two/1201019/"
+      },
+      {
+        "id": "1201026",
+        "day": "today",
+        "date": "2026-09-19",
+        "league": "England League Two",
+        "homeTeam": "Exeter",
+        "awayTeam": "Tranmere",
+        "match": "Exeter v Tranmere",
+        "prediction": "Draw 0-0",
+        "predictionSide": "draw",
+        "odds": {
+          "home": "110",
+          "draw": "240",
+          "away": "220"
+        },
+        "homeForm": [
+          "W",
+          "L",
+          "D",
+          "D",
+          "L"
+        ],
+        "awayForm": [
+          "D",
+          "D",
+          "D",
+          "W",
+          "L"
+        ],
+        "url": "https://www.predictz.com/predictions/england/league-two/1201026/"
+      },
+      {
+        "id": "1201020",
+        "day": "today",
+        "date": "2026-09-19",
+        "league": "England League Two",
+        "homeTeam": "Gillingham",
+        "awayTeam": "Bristol Rovers",
+        "match": "Gillingham v Bristol Rovers",
+        "prediction": "Away 0-3",
+        "predictionSide": "away",
+        "odds": {
+          "home": "240",
+          "draw": "230",
+          "away": "105"
+        },
+        "homeForm": [
+          "D",
+          "D",
+          "D",
+          "W",
+          "W"
+        ],
+        "awayForm": [
+          "W",
+          "W",
+          "W",
+          "W",
+          "L"
+        ],
+        "url": "https://www.predictz.com/predictions/england/league-two/1201020/"
+      },
+      {
+        "id": "1201018",
+        "day": "today",
+        "date": "2026-09-19",
+        "league": "England League Two",
+        "homeTeam": "Grimsby",
+        "awayTeam": "Crawley Town",
+        "match": "Grimsby v Crawley Town",
+        "prediction": "Home 2-0",
+        "predictionSide": "home",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [
+          "D",
+          "D",
+          "D",
+          "D",
+          "W"
+        ],
+        "awayForm": [
+          "W",
+          "L",
+          "D",
+          "L",
+          "L"
+        ],
+        "url": "https://www.predictz.com/predictions/england/league-two/1201018/"
+      },
+      {
+        "id": "1201022",
+        "day": "today",
+        "date": "2026-09-19",
+        "league": "England League Two",
+        "homeTeam": "Northampton",
+        "awayTeam": "Rotherham",
+        "match": "Northampton v Rotherham",
+        "prediction": "Draw 0-0",
+        "predictionSide": "draw",
+        "odds": {
+          "home": "150",
+          "draw": "230",
+          "away": "150"
+        },
+        "homeForm": [
+          "L",
+          "D",
+          "D",
+          "W",
+          "L"
+        ],
+        "awayForm": [
+          "D",
+          "W",
+          "D",
+          "L",
+          "D"
+        ],
+        "url": "https://www.predictz.com/predictions/england/league-two/1201022/"
+      },
+      {
+        "id": "1201029",
+        "day": "today",
+        "date": "2026-09-19",
+        "league": "England League Two",
+        "homeTeam": "Salford City",
+        "awayTeam": "Swindon",
+        "match": "Salford City v Swindon",
+        "prediction": "Home 2-0",
+        "predictionSide": "home",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [
+          "L",
+          "L",
+          "W",
+          "W",
+          "D"
+        ],
+        "awayForm": [
+          "W",
+          "L",
+          "W",
+          "W",
+          "L"
+        ],
+        "url": "https://www.predictz.com/predictions/england/league-two/1201029/"
+      },
+      {
+        "id": "1209390",
+        "day": "today",
+        "date": "2026-09-19",
+        "league": "England National League",
+        "homeTeam": "AFC Fylde",
+        "awayTeam": "Altrincham",
+        "match": "AFC Fylde v Altrincham",
+        "prediction": "Home 3-0",
+        "predictionSide": "home",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [
+          "W",
+          "W",
+          "D",
+          "W",
+          "W"
+        ],
+        "awayForm": [
+          "W",
+          "W",
+          "W",
+          "L",
+          "W"
+        ],
+        "url": "https://www.predictz.com/predictions/england/national-league/1209390/"
+      },
+      {
+        "id": "1209385",
+        "day": "today",
+        "date": "2026-09-19",
+        "league": "England National League",
+        "homeTeam": "Barrow",
+        "awayTeam": "Aldershot",
+        "match": "Barrow v Aldershot",
+        "prediction": "Draw 1-1",
+        "predictionSide": "draw",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [
+          "L",
+          "D",
+          "W",
+          "D",
+          "L"
+        ],
+        "awayForm": [
+          "W",
+          "D",
+          "W",
+          "W",
+          "D"
+        ],
+        "url": "https://www.predictz.com/predictions/england/national-league/1209385/"
+      },
+      {
+        "id": "1209389",
+        "day": "today",
+        "date": "2026-09-19",
+        "league": "England National League",
+        "homeTeam": "Boreham Wood",
+        "awayTeam": "Harrogate Town",
+        "match": "Boreham Wood v Harrogate Town",
+        "prediction": "Home 3-2",
+        "predictionSide": "home",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [
+          "W",
+          "W",
+          "W",
+          "D",
+          "W"
+        ],
+        "awayForm": [
+          "L",
+          "W",
+          "W",
+          "W",
+          "L"
+        ],
+        "url": "https://www.predictz.com/predictions/england/national-league/1209389/"
+      },
+      {
+        "id": "1209388",
+        "day": "today",
+        "date": "2026-09-19",
+        "league": "England National League",
+        "homeTeam": "Eastleigh",
+        "awayTeam": "Carlisle",
+        "match": "Eastleigh v Carlisle",
+        "prediction": "Draw 1-1",
+        "predictionSide": "draw",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [
+          "W",
+          "D",
+          "L",
+          "D",
+          "L"
+        ],
+        "awayForm": [
+          "D",
+          "W",
+          "L",
+          "D",
+          "D"
+        ],
+        "url": "https://www.predictz.com/predictions/england/national-league/1209388/"
+      },
+      {
+        "id": "1209384",
+        "day": "today",
+        "date": "2026-09-19",
+        "league": "England National League",
+        "homeTeam": "Forest Green",
+        "awayTeam": "Boston Utd",
+        "match": "Forest Green v Boston Utd",
+        "prediction": "Draw 1-1",
+        "predictionSide": "draw",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [
+          "L",
+          "L",
+          "W",
+          "W",
+          "D"
+        ],
+        "awayForm": [
+          "L",
+          "L",
+          "D",
+          "L",
+          "D"
+        ],
+        "url": "https://www.predictz.com/predictions/england/national-league/1209384/"
+      },
+      {
+        "id": "1209387",
+        "day": "today",
+        "date": "2026-09-19",
+        "league": "England National League",
+        "homeTeam": "Gateshead",
+        "awayTeam": "Southend",
+        "match": "Gateshead v Southend",
+        "prediction": "Away 0-2",
+        "predictionSide": "away",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [
+          "L",
+          "L",
+          "D",
+          "L",
+          "L"
+        ],
+        "awayForm": [
+          "L",
+          "D",
+          "W",
+          "D",
+          "W"
+        ],
+        "url": "https://www.predictz.com/predictions/england/national-league/1209387/"
+      },
+      {
+        "id": "1209383",
+        "day": "today",
+        "date": "2026-09-19",
+        "league": "England National League",
+        "homeTeam": "Halifax",
+        "awayTeam": "Sutton Utd",
+        "match": "Halifax v Sutton Utd",
+        "prediction": "Home 3-0",
+        "predictionSide": "home",
+        "odds": {
+          "home": "115",
+          "draw": "260",
+          "away": "190"
+        },
+        "homeForm": [
+          "L",
+          "W",
+          "L",
+          "W",
+          "W"
+        ],
+        "awayForm": [
+          "W",
+          "L",
+          "L",
+          "L",
+          "W"
+        ],
+        "url": "https://www.predictz.com/predictions/england/national-league/1209383/"
+      },
+      {
+        "id": "1209386",
+        "day": "today",
+        "date": "2026-09-19",
+        "league": "England National League",
+        "homeTeam": "Woking",
+        "awayTeam": "Kidderminster",
+        "match": "Woking v Kidderminster",
+        "prediction": "Draw 2-2",
+        "predictionSide": "draw",
+        "odds": {
+          "home": "125",
+          "draw": "240",
+          "away": "180"
+        },
+        "homeForm": [
+          "L",
+          "D",
+          "L",
+          "W",
+          "D"
+        ],
+        "awayForm": [
+          "W",
+          "D",
+          "W",
+          "W",
+          "W"
+        ],
+        "url": "https://www.predictz.com/predictions/england/national-league/1209386/"
+      },
+      {
+        "id": "1209391",
+        "day": "today",
+        "date": "2026-09-19",
+        "league": "England National League",
+        "homeTeam": "AFC Hornchurch",
+        "awayTeam": "Scunthorpe",
+        "match": "AFC Hornchurch v Scunthorpe",
+        "prediction": "Draw 2-2",
+        "predictionSide": "draw",
+        "odds": {
+          "home": "140",
+          "draw": "250",
+          "away": "155"
+        },
+        "homeForm": [
+          "W",
+          "W",
+          "L",
+          "L",
+          "L"
+        ],
+        "awayForm": [
+          "W",
+          "L",
+          "L",
+          "W",
+          "L"
+        ],
+        "url": "https://www.predictz.com/predictions/england/national-league/1209391/"
+      },
+      {
+        "id": "1195538",
+        "day": "today",
+        "date": "2026-09-19",
+        "league": "Scotland Premiership",
+        "homeTeam": "Dundee",
+        "awayTeam": "Motherwell",
+        "match": "Dundee v Motherwell",
+        "prediction": "Home 2-0",
+        "predictionSide": "home",
+        "odds": {
+          "home": "182",
+          "draw": "250",
+          "away": "130"
+        },
+        "homeForm": [
+          "W",
+          "W",
+          "L",
+          "D",
+          "L"
+        ],
+        "awayForm": [
+          "D",
+          "D",
+          "W",
+          "L",
+          "L"
+        ],
+        "url": "https://www.predictz.com/predictions/scotland/premiership/1195538/"
+      },
+      {
+        "id": "1195537",
+        "day": "today",
+        "date": "2026-09-19",
+        "league": "Scotland Premiership",
+        "homeTeam": "Hibernian",
+        "awayTeam": "Aberdeen",
+        "match": "Hibernian v Aberdeen",
+        "prediction": "Away 0-1",
+        "predictionSide": "away",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [
+          "W",
+          "W",
+          "L",
+          "L",
+          "L"
+        ],
+        "awayForm": [
+          "L",
+          "L",
+          "L",
+          "D",
+          "W"
+        ],
+        "url": "https://www.predictz.com/predictions/scotland/premiership/1195537/"
+      },
+      {
+        "id": "1195536",
+        "day": "today",
+        "date": "2026-09-19",
+        "league": "Scotland Premiership",
+        "homeTeam": "St Johnstone",
+        "awayTeam": "Falkirk",
+        "match": "St Johnstone v Falkirk",
+        "prediction": "Home 2-0",
+        "predictionSide": "home",
+        "odds": {
+          "home": "105",
+          "draw": "240",
+          "away": "250"
+        },
+        "homeForm": [
+          "L",
+          "L",
+          "D",
+          "W",
+          "L"
+        ],
+        "awayForm": [
+          "D",
+          "L",
+          "L",
+          "D",
+          "W"
+        ],
+        "url": "https://www.predictz.com/predictions/scotland/premiership/1195536/"
+      },
+      {
+        "id": "1195539",
+        "day": "today",
+        "date": "2026-09-19",
+        "league": "Scotland Premiership",
+        "homeTeam": "St Mirren",
+        "awayTeam": "Dundee Utd",
+        "match": "St Mirren v Dundee Utd",
+        "prediction": "Home 2-0",
+        "predictionSide": "home",
+        "odds": {
+          "home": "125",
+          "draw": "260",
+          "away": "182"
+        },
+        "homeForm": [
+          "W",
+          "D",
+          "W",
+          "L",
+          "L"
+        ],
+        "awayForm": [
+          "L",
+          "L",
+          "W",
+          "L",
+          "D"
+        ],
+        "url": "https://www.predictz.com/predictions/scotland/premiership/1195539/"
+      },
+      {
+        "id": "1195535",
+        "day": "today",
+        "date": "2026-09-19",
+        "league": "Scotland Premiership",
+        "homeTeam": "Kilmarnock",
+        "awayTeam": "Hearts",
+        "match": "Kilmarnock v Hearts",
+        "prediction": "Away 0-2",
+        "predictionSide": "away",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [
+          "L",
+          "L",
+          "L",
+          "D",
+          "W"
+        ],
+        "awayForm": [
+          "W",
+          "W",
+          "W",
+          "W",
+          "L"
+        ],
+        "url": "https://www.predictz.com/predictions/scotland/premiership/1195535/"
+      },
+      {
+        "id": "1202603",
+        "day": "today",
+        "date": "2026-09-19",
+        "league": "Spain La Liga",
+        "homeTeam": "Athletic Bilbao",
+        "awayTeam": "Alaves",
+        "match": "Athletic Bilbao v Alaves",
+        "prediction": "Home 2-1",
+        "predictionSide": "home",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [
+          "L",
+          "L",
+          "W",
+          "W",
+          "D"
+        ],
+        "awayForm": [
+          "D",
+          "W",
+          "W",
+          "L",
+          "L"
+        ],
+        "url": "https://www.predictz.com/predictions/spain/la-liga/1202603/"
+      },
+      {
+        "id": "1202602",
+        "day": "today",
+        "date": "2026-09-19",
+        "league": "Spain La Liga",
+        "homeTeam": "Celta Vigo",
+        "awayTeam": "Racing Santander",
+        "match": "Celta Vigo v Racing Santander",
+        "prediction": "Draw 0-0",
+        "predictionSide": "draw",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [
+          "L",
+          "L",
+          "D",
+          "D",
+          "D"
+        ],
+        "awayForm": [
+          "L",
+          "W",
+          "L",
+          "W",
+          "L"
+        ],
+        "url": "https://www.predictz.com/predictions/spain/la-liga/1202602/"
+      },
+      {
+        "id": "1202606",
+        "day": "today",
+        "date": "2026-09-19",
+        "league": "Spain La Liga",
+        "homeTeam": "Sevilla",
+        "awayTeam": "Barcelona",
+        "match": "Sevilla v Barcelona",
+        "prediction": "Away 0-3",
+        "predictionSide": "away",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [
+          "W",
+          "L",
+          "D",
+          "W",
+          "W"
+        ],
+        "awayForm": [
+          "W",
+          "W",
+          "W",
+          "W",
+          "W"
+        ],
+        "url": "https://www.predictz.com/predictions/spain/la-liga/1202606/"
+      },
+      {
+        "id": "1204883",
+        "day": "today",
+        "date": "2026-09-19",
+        "league": "Germany Bundesliga",
+        "homeTeam": "Borussia Monchengladbach",
+        "awayTeam": "Mainz",
+        "match": "Borussia Monchengladbach v Mainz",
+        "prediction": "Draw 1-1",
+        "predictionSide": "draw",
+        "odds": {
+          "home": "210",
+          "draw": "290",
+          "away": "110"
+        },
+        "homeForm": [
+          "L",
+          "W",
+          "L",
+          "L",
+          "L"
+        ],
+        "awayForm": [
+          "L",
+          "W",
+          "D",
+          "W",
+          "L"
+        ],
+        "url": "https://www.predictz.com/predictions/germany/bundesliga/1204883/"
+      },
+      {
+        "id": "1204888",
+        "day": "today",
+        "date": "2026-09-19",
+        "league": "Germany Bundesliga",
+        "homeTeam": "Eintracht Frankfurt",
+        "awayTeam": "Freiburg",
+        "match": "Eintracht Frankfurt v Freiburg",
+        "prediction": "Home 2-1",
+        "predictionSide": "home",
+        "odds": {
+          "home": "155",
+          "draw": "275",
+          "away": "155"
+        },
+        "homeForm": [
+          "L",
+          "D",
+          "D",
+          "L",
+          "W"
+        ],
+        "awayForm": [
+          "L",
+          "W",
+          "W",
+          "W",
+          "W"
+        ],
+        "url": "https://www.predictz.com/predictions/germany/bundesliga/1204888/"
+      },
+      {
+        "id": "1204889",
+        "day": "today",
+        "date": "2026-09-19",
+        "league": "Germany Bundesliga",
+        "homeTeam": "Hamburg",
+        "awayTeam": "FC Koln",
+        "match": "Hamburg v FC Koln",
+        "prediction": "Home 1-0",
+        "predictionSide": "home",
+        "odds": {
+          "home": "162",
+          "draw": "250",
+          "away": "155"
+        },
+        "homeForm": [
+          "W",
+          "D",
+          "L",
+          "L",
+          "L"
+        ],
+        "awayForm": [
+          "L",
+          "L",
+          "W",
+          "L",
+          "D"
+        ],
+        "url": "https://www.predictz.com/predictions/germany/bundesliga/1204889/"
+      },
+      {
+        "id": "1204885",
+        "day": "today",
+        "date": "2026-09-19",
+        "league": "Germany Bundesliga",
+        "homeTeam": "Werder Bremen",
+        "awayTeam": "Augsburg",
+        "match": "Werder Bremen v Augsburg",
+        "prediction": "Draw 0-0",
+        "predictionSide": "draw",
+        "odds": {
+          "home": "130",
+          "draw": "275",
+          "away": "180"
+        },
+        "homeForm": [
+          "L",
+          "L",
+          "L",
+          "W",
+          "D"
+        ],
+        "awayForm": [
+          "W",
+          "L",
+          "W",
+          "W",
+          "D"
+        ],
+        "url": "https://www.predictz.com/predictions/germany/bundesliga/1204885/"
+      },
+      {
+        "id": "1204890",
+        "day": "today",
+        "date": "2026-09-19",
+        "league": "Germany Bundesliga",
+        "homeTeam": "VfB Stuttgart",
+        "awayTeam": "Borussia Dortmund",
+        "match": "VfB Stuttgart v Borussia Dortmund",
+        "prediction": "Draw 1-1",
+        "predictionSide": "draw",
+        "odds": {
+          "home": "140",
+          "draw": "290",
+          "away": "162"
+        },
+        "homeForm": [
+          "W",
+          "D",
+          "L",
+          "W",
+          "L"
+        ],
+        "awayForm": [
+          "W",
+          "W",
+          "W",
+          "W",
+          "W"
+        ],
+        "url": "https://www.predictz.com/predictions/germany/bundesliga/1204890/"
+      },
+      {
+        "id": "1191365",
+        "day": "today",
+        "date": "2026-09-19",
+        "league": "Italy Serie A",
+        "homeTeam": "Bologna",
+        "awayTeam": "Torino",
+        "match": "Bologna v Torino",
+        "prediction": "Home 2-0",
+        "predictionSide": "home",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [
+          "D",
+          "L",
+          "L",
+          "D",
+          "L"
+        ],
+        "awayForm": [
+          "D",
+          "L",
+          "L",
+          "W",
+          "L"
+        ],
+        "url": "https://www.predictz.com/predictions/italy/serie-a/1191365/"
+      },
+      {
+        "id": "1191371",
+        "day": "today",
+        "date": "2026-09-19",
+        "league": "Italy Serie A",
+        "homeTeam": "Udinese",
+        "awayTeam": "Cagliari",
+        "match": "Udinese v Cagliari",
+        "prediction": "Draw 1-1",
+        "predictionSide": "draw",
+        "odds": {
+          "home": "120",
+          "draw": "230",
+          "away": "250"
+        },
+        "homeForm": [
+          "L",
+          "D",
+          "W",
+          "L",
+          "L"
+        ],
+        "awayForm": [
+          "W",
+          "W",
+          "L",
+          "W",
+          "W"
+        ],
+        "url": "https://www.predictz.com/predictions/italy/serie-a/1191371/"
+      },
+      {
+        "id": "1191372",
+        "day": "today",
+        "date": "2026-09-19",
+        "league": "Italy Serie A",
+        "homeTeam": "Roma",
+        "awayTeam": "Inter Milan",
+        "match": "Roma v Inter Milan",
+        "prediction": "Draw 2-2",
+        "predictionSide": "draw",
+        "odds": {
+          "home": "175",
+          "draw": "240",
+          "away": "150"
+        },
+        "homeForm": [
+          "W",
+          "W",
+          "W",
+          "W",
+          "W"
+        ],
+        "awayForm": [
+          "D",
+          "W",
+          "W",
+          "W",
+          "W"
+        ],
+        "url": "https://www.predictz.com/predictions/italy/serie-a/1191372/"
+      },
+      {
+        "id": "1191367",
+        "day": "today",
+        "date": "2026-09-19",
+        "league": "Italy Serie A",
+        "homeTeam": "Venezia",
+        "awayTeam": "Lazio",
+        "match": "Venezia v Lazio",
+        "prediction": "Draw 1-1",
+        "predictionSide": "draw",
+        "odds": {
+          "home": "250",
+          "draw": "250",
+          "away": "105"
+        },
+        "homeForm": [
+          "W",
+          "L",
+          "L",
+          "L",
+          "L"
+        ],
+        "awayForm": [
+          "W",
+          "W",
+          "W",
+          "W",
+          "D"
+        ],
+        "url": "https://www.predictz.com/predictions/italy/serie-a/1191367/"
+      },
+      {
+        "id": "1192590",
+        "day": "today",
+        "date": "2026-09-19",
+        "league": "France Ligue 1",
+        "homeTeam": "Paris",
+        "awayTeam": "Strasbourg",
+        "match": "Paris v Strasbourg",
+        "prediction": "Draw 2-2",
+        "predictionSide": "draw",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [
+          "W",
+          "D",
+          "W",
+          "W",
+          "D"
+        ],
+        "awayForm": [
+          "W",
+          "L",
+          "W",
+          "W",
+          "D"
+        ],
+        "url": "https://www.predictz.com/predictions/france/ligue-1/1192590/"
+      },
+      {
+        "id": "1192589",
+        "day": "today",
+        "date": "2026-09-19",
+        "league": "France Ligue 1",
+        "homeTeam": "Angers",
+        "awayTeam": "Troyes",
+        "match": "Angers v Troyes",
+        "prediction": "Away 0-2",
+        "predictionSide": "away",
+        "odds": {
+          "home": "105",
+          "draw": "250",
+          "away": "260"
+        },
+        "homeForm": [
+          "D",
+          "L",
+          "W",
+          "L",
+          "D"
+        ],
+        "awayForm": [
+          "L",
+          "D",
+          "W",
+          "L",
+          "L"
+        ],
+        "url": "https://www.predictz.com/predictions/france/ligue-1/1192589/"
+      },
+      {
+        "id": "1192587",
+        "day": "today",
+        "date": "2026-09-19",
+        "league": "France Ligue 1",
+        "homeTeam": "Le Mans",
+        "awayTeam": "Lorient",
+        "match": "Le Mans v Lorient",
+        "prediction": "Home 2-1",
+        "predictionSide": "home",
+        "odds": {
+          "home": "187",
+          "draw": "220",
+          "away": "160"
+        },
+        "homeForm": [
+          "W",
+          "D",
+          "L",
+          "D",
+          "D"
+        ],
+        "awayForm": [
+          "L",
+          "D",
+          "L",
+          "W",
+          "D"
+        ],
+        "url": "https://www.predictz.com/predictions/france/ligue-1/1192587/"
+      },
+      {
+        "id": "1192584",
+        "day": "today",
+        "date": "2026-09-19",
+        "league": "France Ligue 1",
+        "homeTeam": "Lyon",
+        "awayTeam": "Rennes",
+        "match": "Lyon v Rennes",
+        "prediction": "Draw 2-2",
+        "predictionSide": "draw",
+        "odds": {
+          "home": "115",
+          "draw": "270",
+          "away": "210"
+        },
+        "homeForm": [
+          "L",
+          "W",
+          "D",
+          "W",
+          "D"
+        ],
+        "awayForm": [
+          "L",
+          "D",
+          "W",
+          "W",
+          "W"
+        ],
+        "url": "https://www.predictz.com/predictions/france/ligue-1/1192584/"
+      },
+      {
+        "id": "1192588",
+        "day": "today",
+        "date": "2026-09-19",
+        "league": "France Ligue 1",
+        "homeTeam": "Toulouse",
+        "awayTeam": "Le Havre",
+        "match": "Toulouse v Le Havre",
+        "prediction": "Home 2-0",
+        "predictionSide": "home",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [
+          "D",
+          "L",
+          "D",
+          "L",
+          "D"
+        ],
+        "awayForm": [
+          "W",
+          "L",
+          "D",
+          "L",
+          "D"
+        ],
+        "url": "https://www.predictz.com/predictions/france/ligue-1/1192588/"
+      },
+      {
+        "id": "1191915",
+        "day": "today",
+        "date": "2026-09-19",
+        "league": "Netherlands Eredivisie",
+        "homeTeam": "ADO Den Haag",
+        "awayTeam": "Cambuur Leeuwarden",
+        "match": "ADO Den Haag v Cambuur Leeuwarden",
+        "prediction": "Home 1-0",
+        "predictionSide": "home",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [
+          "L",
+          "L",
+          "D",
+          "L",
+          "L"
+        ],
+        "awayForm": [
+          "L",
+          "L",
+          "L",
+          "D",
+          "W"
+        ],
+        "url": "https://www.predictz.com/predictions/netherlands/eredivisie/1191915/"
+      },
+      {
+        "id": "1191914",
+        "day": "today",
+        "date": "2026-09-19",
+        "league": "Netherlands Eredivisie",
+        "homeTeam": "Sparta",
+        "awayTeam": "Heerenveen",
+        "match": "Sparta v Heerenveen",
+        "prediction": "Draw 0-0",
+        "predictionSide": "draw",
+        "odds": {
+          "home": "137",
+          "draw": "290",
+          "away": "170"
+        },
+        "homeForm": [
+          "W",
+          "D",
+          "L",
+          "D",
+          "L"
+        ],
+        "awayForm": [
+          "D",
+          "L",
+          "D",
+          "L",
+          "D"
+        ],
+        "url": "https://www.predictz.com/predictions/netherlands/eredivisie/1191914/"
+      },
+      {
+        "id": "1191917",
+        "day": "today",
+        "date": "2026-09-19",
+        "league": "Netherlands Eredivisie",
+        "homeTeam": "Ajax",
+        "awayTeam": "Excelsior Rotterdam",
+        "match": "Ajax v Excelsior Rotterdam",
+        "prediction": "Home 3-1",
+        "predictionSide": "home",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [
+          "D",
+          "W",
+          "L",
+          "W",
+          "W"
+        ],
+        "awayForm": [
+          "L",
+          "W",
+          "W",
+          "D",
+          "L"
+        ],
+        "url": "https://www.predictz.com/predictions/netherlands/eredivisie/1191917/"
+      },
+      {
+        "id": "1191918",
+        "day": "today",
+        "date": "2026-09-19",
+        "league": "Netherlands Eredivisie",
+        "homeTeam": "Willem II",
+        "awayTeam": "Fortuna Sittard",
+        "match": "Willem II v Fortuna Sittard",
+        "prediction": "Away 0-2",
+        "predictionSide": "away",
+        "odds": {
+          "home": "155",
+          "draw": "270",
+          "away": "160"
+        },
+        "homeForm": [
+          "L",
+          "D",
+          "L",
+          "D",
+          "L"
+        ],
+        "awayForm": [
+          "W",
+          "L",
+          "W",
+          "W",
+          "L"
+        ],
+        "url": "https://www.predictz.com/predictions/netherlands/eredivisie/1191918/"
+      },
+      {
+        "id": "1204301",
+        "day": "today",
+        "date": "2026-09-19",
+        "league": "Portugal Primeira Liga",
+        "homeTeam": "Gil Vicente",
+        "awayTeam": "Maritimo",
+        "match": "Gil Vicente v Maritimo",
+        "prediction": "Home 2-1",
+        "predictionSide": "home",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [
+          "W",
+          "W",
+          "D",
+          "L",
+          "L"
+        ],
+        "awayForm": [
+          "W",
+          "D",
+          "L",
+          "L",
+          "L"
+        ],
+        "url": "https://www.predictz.com/predictions/portugal/primeira-liga/1204301/"
+      },
+      {
+        "id": "1204304",
+        "day": "today",
+        "date": "2026-09-19",
+        "league": "Portugal Primeira Liga",
+        "homeTeam": "Nacional",
+        "awayTeam": "Famalicao",
+        "match": "Nacional v Famalicao",
+        "prediction": "Home 1-0",
+        "predictionSide": "home",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [
+          "W",
+          "L",
+          "L",
+          "L",
+          "L"
+        ],
+        "awayForm": [
+          "L",
+          "L",
+          "D",
+          "D",
+          "D"
+        ],
+        "url": "https://www.predictz.com/predictions/portugal/primeira-liga/1204304/"
+      },
+      {
+        "id": "1204303",
+        "day": "today",
+        "date": "2026-09-19",
+        "league": "Portugal Primeira Liga",
+        "homeTeam": "Alverca",
+        "awayTeam": "Rio Ave",
+        "match": "Alverca v Rio Ave",
+        "prediction": "Home 1-0",
+        "predictionSide": "home",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [
+          "D",
+          "L",
+          "D",
+          "L",
+          "W"
+        ],
+        "awayForm": [
+          "L",
+          "W",
+          "L",
+          "L",
+          "D"
+        ],
+        "url": "https://www.predictz.com/predictions/portugal/primeira-liga/1204303/"
+      },
+      {
+        "id": "1204298",
+        "day": "today",
+        "date": "2026-09-19",
+        "league": "Portugal Primeira Liga",
+        "homeTeam": "Sporting Lisbon",
+        "awayTeam": "Arouca",
+        "match": "Sporting Lisbon v Arouca",
+        "prediction": "Home 3-0",
+        "predictionSide": "home",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [
+          "W",
+          "W",
+          "W",
+          "W",
+          "D"
+        ],
+        "awayForm": [
+          "W",
+          "L",
+          "W",
+          "D",
+          "L"
+        ],
+        "url": "https://www.predictz.com/predictions/portugal/primeira-liga/1204298/"
+      },
+      {
+        "id": "1215237",
+        "day": "today",
+        "date": "2026-09-19",
+        "league": "Argentina Liga Profesional",
+        "homeTeam": "Gimnasia Mendoza",
+        "awayTeam": "Deportivo Riestra",
+        "match": "Gimnasia Mendoza v Deportivo Riestra",
+        "prediction": "Home 3-0",
+        "predictionSide": "home",
+        "odds": {
+          "home": "130",
+          "draw": "175",
+          "away": "270"
+        },
+        "homeForm": [
+          "W",
+          "W",
+          "W",
+          "D",
+          "L"
+        ],
+        "awayForm": [
+          "L",
+          "D",
+          "D",
+          "D",
+          "L"
+        ],
+        "url": "https://www.predictz.com/predictions/argentina/liga-profesional/1215237/"
+      },
+      {
+        "id": "1215226",
+        "day": "today",
+        "date": "2026-09-19",
+        "league": "Argentina Liga Profesional",
+        "homeTeam": "Gimnasia Plata",
+        "awayTeam": "Banfield",
+        "match": "Gimnasia Plata v Banfield",
+        "prediction": "Home 3-0",
+        "predictionSide": "home",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [
+          "L",
+          "L",
+          "W",
+          "W",
+          "D"
+        ],
+        "awayForm": [
+          "W",
+          "L",
+          "L",
+          "L",
+          "D"
+        ],
+        "url": "https://www.predictz.com/predictions/argentina/liga-profesional/1215226/"
+      },
+      {
+        "id": "1215225",
+        "day": "today",
+        "date": "2026-09-19",
+        "league": "Argentina Liga Profesional",
+        "homeTeam": "Union",
+        "awayTeam": "Independiente",
+        "match": "Union v Independiente",
+        "prediction": "Draw 2-2",
+        "predictionSide": "draw",
+        "odds": {
+          "home": "150",
+          "draw": "185",
+          "away": "210"
+        },
+        "homeForm": [
+          "L",
+          "W",
+          "W",
+          "W",
+          "L"
+        ],
+        "awayForm": [
+          "W",
+          "D",
+          "L",
+          "W",
+          "D"
+        ],
+        "url": "https://www.predictz.com/predictions/argentina/liga-profesional/1215225/"
+      },
+      {
+        "id": "1215228",
+        "day": "today",
+        "date": "2026-09-19",
+        "league": "Argentina Liga Profesional",
+        "homeTeam": "River Plate",
+        "awayTeam": "Huracan",
+        "match": "River Plate v Huracan",
+        "prediction": "Draw 1-1",
+        "predictionSide": "draw",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [
+          "W",
+          "D",
+          "W",
+          "W",
+          "W"
+        ],
+        "awayForm": [
+          "L",
+          "D",
+          "D",
+          "D",
+          "W"
+        ],
+        "url": "https://www.predictz.com/predictions/argentina/liga-profesional/1215228/"
+      },
+      {
+        "id": "1170860",
+        "day": "today",
+        "date": "2026-09-19",
+        "league": "Brazil Serie A",
+        "homeTeam": "Atletico Mineiro",
+        "awayTeam": "Chapecoense",
+        "match": "Atletico Mineiro v Chapecoense",
+        "prediction": "Home 4-0",
+        "predictionSide": "home",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [
+          "W",
+          "D",
+          "W",
+          "L",
+          "W"
+        ],
+        "awayForm": [
+          "D",
+          "W",
+          "L",
+          "W",
+          "L"
+        ],
+        "url": "https://www.predictz.com/predictions/brazil/serie-a/1170860/"
+      },
+      {
+        "id": "1170865",
+        "day": "today",
+        "date": "2026-09-19",
+        "league": "Brazil Serie A",
+        "homeTeam": "Mirassol",
+        "awayTeam": "Botafogo",
+        "match": "Mirassol v Botafogo",
+        "prediction": "Home 1-0",
+        "predictionSide": "home",
+        "odds": {
+          "home": "101",
+          "draw": "260",
+          "away": "260"
+        },
+        "homeForm": [
+          "D",
+          "D",
+          "L",
+          "W",
+          "D"
+        ],
+        "awayForm": [
+          "L",
+          "L",
+          "D",
+          "D",
+          "W"
+        ],
+        "url": "https://www.predictz.com/predictions/brazil/serie-a/1170865/"
+      },
+      {
+        "id": "1170862",
+        "day": "today",
+        "date": "2026-09-19",
+        "league": "Brazil Serie A",
+        "homeTeam": "Remo",
+        "awayTeam": "Santos",
+        "match": "Remo v Santos",
+        "prediction": "Away 0-2",
+        "predictionSide": "away",
+        "odds": {
+          "home": "185",
+          "draw": "220",
+          "away": "145"
+        },
+        "homeForm": [
+          "D",
+          "L",
+          "L",
+          "L",
+          "L"
+        ],
+        "awayForm": [
+          "W",
+          "D",
+          "W",
+          "W",
+          "W"
+        ],
+        "url": "https://www.predictz.com/predictions/brazil/serie-a/1170862/"
+      }
+    ]
   },
   "tomorrow": {
     "day": "tomorrow",
@@ -216,7 +2542,7 @@
         "odds": {
           "home": "115",
           "draw": "270",
-          "away": "210"
+          "away": "200"
         },
         "homeForm": [
           "W",
@@ -1052,7 +3378,7 @@
         "predictionSide": "draw",
         "odds": {
           "home": "320",
-          "draw": "210",
+          "draw": "200",
           "away": "101"
         },
         "homeForm": [
@@ -1083,7 +3409,7 @@
         "predictionSide": "draw",
         "odds": {
           "home": "115",
-          "draw": "200",
+          "draw": "185",
           "away": "290"
         },
         "homeForm": [
@@ -1485,9 +3811,9 @@
         "prediction": "Away 0-1",
         "predictionSide": "away",
         "odds": {
-          "home": "210",
+          "home": "200",
           "draw": "280",
-          "away": "110"
+          "away": "115"
         },
         "homeForm": [
           "L",
@@ -1786,5 +4112,5 @@
       }
     ]
   },
-  "count": 57
+  "count": 132
 }
