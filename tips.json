@@ -1,6 +1,6 @@
 {
   "source": "https://www.predictz.com/",
-  "scraped_at": "2026-09-22T05:18:45.340Z",
+  "scraped_at": "2026-09-22T12:00:43.277Z",
   "timezone": "Asia/Yangon",
   "today": {
     "day": "today",
@@ -15,7 +15,7 @@
     "date": "2026-09-23",
     "label": "Football Tips Tomorrow - Wednesday, September 23rd, 2026",
     "pageUrl": "https://www.predictz.com/predictions/tomorrow/",
-    "count": 17,
+    "count": 19,
     "tips": [
       {
         "id": "1223027",
@@ -78,6 +78,68 @@
           "L"
         ],
         "url": "https://www.predictz.com/predictions/international/international-friendly/1223019/"
+      },
+      {
+        "id": "1215453",
+        "day": "tomorrow",
+        "date": "2026-09-23",
+        "league": "CONCACAF Nations League",
+        "homeTeam": "Turks and Caicos Islands",
+        "awayTeam": "Montserrat",
+        "match": "Turks and Caicos Islands v Montserrat",
+        "prediction": "Away 0-2",
+        "predictionSide": "away",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [
+          "D",
+          "L",
+          "L",
+          "W",
+          "L"
+        ],
+        "awayForm": [
+          "L",
+          "L",
+          "L",
+          "W",
+          "L"
+        ],
+        "url": "https://www.predictz.com/predictions/international/concacaf-nations-league/1215453/"
+      },
+      {
+        "id": "1215454",
+        "day": "tomorrow",
+        "date": "2026-09-23",
+        "league": "CONCACAF Nations League",
+        "homeTeam": "Bahamas",
+        "awayTeam": "Saint Martin",
+        "match": "Bahamas v Saint Martin",
+        "prediction": "Draw 1-1",
+        "predictionSide": "draw",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [
+          "L",
+          "L",
+          "L",
+          "L",
+          "L"
+        ],
+        "awayForm": [
+          "L",
+          "W",
+          "W",
+          "L",
+          "W"
+        ],
+        "url": "https://www.predictz.com/predictions/international/concacaf-nations-league/1215454/"
       },
       {
         "id": "1212562",
@@ -153,8 +215,8 @@
         "predictionSide": "draw",
         "odds": {
           "home": "115",
-          "draw": "210",
-          "away": "260"
+          "draw": "220",
+          "away": "250"
         },
         "homeForm": [
           "D",
@@ -183,8 +245,8 @@
         "prediction": "Draw 0-0",
         "predictionSide": "draw",
         "odds": {
-          "home": "200",
-          "draw": "230",
+          "home": "210",
+          "draw": "240",
           "away": "115"
         },
         "homeForm": [
@@ -544,5 +606,5 @@
       }
     ]
   },
-  "count": 17
+  "count": 19
 }
