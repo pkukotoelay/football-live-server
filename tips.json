@@ -1,6 +1,6 @@
 {
   "source": "https://www.predictz.com/",
-  "scraped_at": "2026-09-24T12:02:58.642Z",
+  "scraped_at": "2026-09-24T17:26:05.232Z",
   "timezone": "Asia/Yangon",
   "today": {
     "day": "today",
@@ -17,6 +17,37 @@
     "pageUrl": "https://www.predictz.com/predictions/tomorrow/",
     "count": 64,
     "tips": [
+      {
+        "id": "1222873",
+        "day": "tomorrow",
+        "date": "2026-09-25",
+        "league": "Africa Cup Of Nations",
+        "homeTeam": "Sudan",
+        "awayTeam": "Ethiopia",
+        "match": "Sudan v Ethiopia",
+        "prediction": "Draw 1-1",
+        "predictionSide": "draw",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [
+          "L",
+          "L",
+          "W",
+          "L",
+          "L"
+        ],
+        "awayForm": [
+          "L",
+          "W",
+          "W",
+          "W",
+          "D"
+        ],
+        "url": "https://www.predictz.com/predictions/international/africa-cup-of-nations/1222873/"
+      },
       {
         "id": "1222875",
         "day": "tomorrow",
@@ -202,37 +233,6 @@
           "W"
         ],
         "url": "https://www.predictz.com/predictions/international/africa-cup-of-nations/1220440/"
-      },
-      {
-        "id": "1222873",
-        "day": "tomorrow",
-        "date": "2026-09-25",
-        "league": "Africa Cup Of Nations",
-        "homeTeam": "Sudan",
-        "awayTeam": "Ethiopia",
-        "match": "Sudan v Ethiopia",
-        "prediction": "Draw 1-1",
-        "predictionSide": "draw",
-        "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
-        },
-        "homeForm": [
-          "L",
-          "L",
-          "W",
-          "L",
-          "L"
-        ],
-        "awayForm": [
-          "L",
-          "W",
-          "W",
-          "W",
-          "D"
-        ],
-        "url": "https://www.predictz.com/predictions/international/africa-cup-of-nations/1222873/"
       },
       {
         "id": "1222870",
@@ -586,9 +586,9 @@
         "prediction": "Draw 1-1",
         "predictionSide": "draw",
         "odds": {
-          "home": "120",
+          "home": "125",
           "draw": "250",
-          "away": "220"
+          "away": "210"
         },
         "homeForm": [
           "L",
@@ -865,9 +865,9 @@
         "prediction": "Draw 1-1",
         "predictionSide": "draw",
         "odds": {
-          "home": "210",
+          "home": "162",
           "draw": "200",
-          "away": "110"
+          "away": "145"
         },
         "homeForm": [
           "L",
