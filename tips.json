@@ -1,18 +1,174 @@
 {
   "source": "https://www.predictz.com/",
-  "scraped_at": "2026-09-26T16:34:27.635Z",
+  "scraped_at": "2026-09-26T21:22:15.458Z",
   "timezone": "Asia/Yangon",
   "today": {
     "day": "today",
-    "date": "2026-09-26",
-    "label": "www.predictz.com",
+    "date": "2026-09-27",
+    "label": "Football Tips Tonight - Saturday, September 26th, 2026",
     "pageUrl": "https://www.predictz.com/predictions/",
-    "count": 0,
-    "tips": []
+    "count": 5,
+    "tips": [
+      {
+        "id": "1183575",
+        "day": "today",
+        "date": "2026-09-27",
+        "league": "Brazil Serie B",
+        "homeTeam": "Goias",
+        "awayTeam": "Atletico Goianiense",
+        "match": "Goias v Atletico Goianiense",
+        "prediction": "Draw 2-2",
+        "predictionSide": "draw",
+        "odds": {
+          "home": "165",
+          "draw": "210",
+          "away": "165"
+        },
+        "homeForm": [
+          "W",
+          "L",
+          "L",
+          "W",
+          "W"
+        ],
+        "awayForm": [
+          "W",
+          "D",
+          "W",
+          "W",
+          "L"
+        ],
+        "url": "https://www.predictz.com/predictions/brazil/serie-b/1183575/"
+      },
+      {
+        "id": "1221669",
+        "day": "today",
+        "date": "2026-09-27",
+        "league": "Brazil Serie C",
+        "homeTeam": "Internacional Limeira",
+        "awayTeam": "Paysandu",
+        "match": "Internacional Limeira v Paysandu",
+        "prediction": "Home 1-0",
+        "predictionSide": "home",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [
+          "D",
+          "D",
+          "D",
+          "D",
+          "D"
+        ],
+        "awayForm": [
+          "W",
+          "L",
+          "L",
+          "L",
+          "D"
+        ],
+        "url": "https://www.predictz.com/predictions/brazil/serie-c/1221669/"
+      },
+      {
+        "id": "1223654",
+        "day": "today",
+        "date": "2026-09-27",
+        "league": "Uruguay Primera Division",
+        "homeTeam": "Penarol",
+        "awayTeam": "Boston River",
+        "match": "Penarol v Boston River",
+        "prediction": "Home 2-0",
+        "predictionSide": "home",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [
+          "D",
+          "L",
+          "W",
+          "W",
+          "W"
+        ],
+        "awayForm": [
+          "W",
+          "D",
+          "L",
+          "L",
+          "L"
+        ],
+        "url": "https://www.predictz.com/predictions/uruguay/primera-division/1223654/"
+      },
+      {
+        "id": "1203867",
+        "day": "today",
+        "date": "2026-09-27",
+        "league": "Mexico Liga MX",
+        "homeTeam": "Cruz Azul",
+        "awayTeam": "Toluca",
+        "match": "Cruz Azul v Toluca",
+        "prediction": "Draw 2-2",
+        "predictionSide": "draw",
+        "odds": {
+          "home": "157",
+          "draw": "250",
+          "away": "150"
+        },
+        "homeForm": [
+          "L",
+          "W",
+          "W",
+          "W",
+          "L"
+        ],
+        "awayForm": [
+          "W",
+          "W",
+          "W",
+          "W",
+          "L"
+        ],
+        "url": "https://www.predictz.com/predictions/mexico/la-division/1203867/"
+      },
+      {
+        "id": "1210232",
+        "day": "today",
+        "date": "2026-09-27",
+        "league": "Mexico Liga de Expansion MX",
+        "homeTeam": "Tlaxcala",
+        "awayTeam": "Cancun",
+        "match": "Tlaxcala v Cancun",
+        "prediction": "Away 0-2",
+        "predictionSide": "away",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [
+          "L",
+          "W",
+          "D",
+          "W",
+          "L"
+        ],
+        "awayForm": [
+          "L",
+          "W",
+          "D",
+          "D",
+          "W"
+        ],
+        "url": "https://www.predictz.com/predictions/mexico/liga-de-expansion-mx/1210232/"
+      }
+    ]
   },
   "tomorrow": {
     "day": "tomorrow",
-    "date": "2026-09-27",
+    "date": "2026-09-28",
     "label": "Football Tips Tomorrow - Sunday, September 27th, 2026",
     "pageUrl": "https://www.predictz.com/predictions/tomorrow/",
     "count": 24,
@@ -20,7 +176,7 @@
       {
         "id": "1218778",
         "day": "tomorrow",
-        "date": "2026-09-27",
+        "date": "2026-09-28",
         "league": "International Friendly",
         "homeTeam": "Canada",
         "awayTeam": "Chile",
@@ -51,7 +207,7 @@
       {
         "id": "1221750",
         "day": "tomorrow",
-        "date": "2026-09-27",
+        "date": "2026-09-28",
         "league": "International Friendly",
         "homeTeam": "Mexico",
         "awayTeam": "Colombia",
@@ -59,9 +215,9 @@
         "prediction": "Draw 1-1",
         "predictionSide": "draw",
         "odds": {
-          "home": "155",
-          "draw": "230",
-          "away": "170"
+          "home": "160",
+          "draw": "240",
+          "away": "155"
         },
         "homeForm": [
           "W",
@@ -82,7 +238,7 @@
       {
         "id": "1223017",
         "day": "tomorrow",
-        "date": "2026-09-27",
+        "date": "2026-09-28",
         "league": "International Friendly",
         "homeTeam": "Malta",
         "awayTeam": "Liechtenstein",
@@ -113,7 +269,7 @@
       {
         "id": "1185073",
         "day": "tomorrow",
-        "date": "2026-09-27",
+        "date": "2026-09-28",
         "league": "UEFA Nations League",
         "homeTeam": "Lithuania",
         "awayTeam": "Azerbaijan",
@@ -121,9 +277,9 @@
         "prediction": "Draw 1-1",
         "predictionSide": "draw",
         "odds": {
-          "home": "137",
+          "home": "135",
           "draw": "220",
-          "away": "190"
+          "away": "200"
         },
         "homeForm": [
           "L",
@@ -144,7 +300,7 @@
       {
         "id": "1185071",
         "day": "tomorrow",
-        "date": "2026-09-27",
+        "date": "2026-09-28",
         "league": "UEFA Nations League",
         "homeTeam": "Austria",
         "awayTeam": "Kosovo",
@@ -175,7 +331,7 @@
       {
         "id": "1185072",
         "day": "tomorrow",
-        "date": "2026-09-27",
+        "date": "2026-09-28",
         "league": "UEFA Nations League",
         "homeTeam": "Denmark",
         "awayTeam": "Wales",
@@ -206,7 +362,7 @@
       {
         "id": "1189249",
         "day": "tomorrow",
-        "date": "2026-09-27",
+        "date": "2026-09-28",
         "league": "UEFA Nations League",
         "homeTeam": "Gibraltar",
         "awayTeam": "Andorra",
@@ -214,9 +370,9 @@
         "prediction": "Draw 1-1",
         "predictionSide": "draw",
         "odds": {
-          "home": "250",
+          "home": "240",
           "draw": "190",
-          "away": "130"
+          "away": "135"
         },
         "homeForm": [
           "L",
@@ -237,7 +393,7 @@
       {
         "id": "1185070",
         "day": "tomorrow",
-        "date": "2026-09-27",
+        "date": "2026-09-28",
         "league": "UEFA Nations League",
         "homeTeam": "Serbia",
         "awayTeam": "Netherlands",
@@ -268,7 +424,7 @@
       {
         "id": "1185067",
         "day": "tomorrow",
-        "date": "2026-09-27",
+        "date": "2026-09-28",
         "league": "UEFA Nations League",
         "homeTeam": "Germany",
         "awayTeam": "Greece",
@@ -299,7 +455,7 @@
       {
         "id": "1185069",
         "day": "tomorrow",
-        "date": "2026-09-27",
+        "date": "2026-09-28",
         "league": "UEFA Nations League",
         "homeTeam": "Israel",
         "awayTeam": "Rep of Ireland",
@@ -307,9 +463,9 @@
         "prediction": "Draw 1-1",
         "predictionSide": "draw",
         "odds": {
-          "home": "200",
-          "draw": "230",
-          "away": "135"
+          "home": "155",
+          "draw": "225",
+          "away": "175"
         },
         "homeForm": [
           "L",
@@ -330,7 +486,7 @@
       {
         "id": "1185068",
         "day": "tomorrow",
-        "date": "2026-09-27",
+        "date": "2026-09-28",
         "league": "UEFA Nations League",
         "homeTeam": "Norway",
         "awayTeam": "Portugal",
@@ -338,9 +494,9 @@
         "prediction": "Home 2-1",
         "predictionSide": "home",
         "odds": {
-          "home": "150",
+          "home": "145",
           "draw": "260",
-          "away": "170"
+          "away": "162"
         },
         "homeForm": [
           "W",
@@ -361,7 +517,7 @@
       {
         "id": "1171866",
         "day": "tomorrow",
-        "date": "2026-09-27",
+        "date": "2026-09-28",
         "league": "USA Major League Soccer",
         "homeTeam": "Atlanta United",
         "awayTeam": "New York City FC",
@@ -369,9 +525,9 @@
         "prediction": "Away 0-1",
         "predictionSide": "away",
         "odds": {
-          "home": "120",
+          "home": "155",
           "draw": "260",
-          "away": "200"
+          "away": "150"
         },
         "homeForm": [
           "L",
@@ -392,7 +548,7 @@
       {
         "id": "1171864",
         "day": "tomorrow",
-        "date": "2026-09-27",
+        "date": "2026-09-28",
         "league": "USA Major League Soccer",
         "homeTeam": "CF Montreal",
         "awayTeam": "FC Cincinnati",
@@ -400,9 +556,9 @@
         "prediction": "Draw 0-0",
         "predictionSide": "draw",
         "odds": {
-          "home": "165",
-          "draw": "280",
-          "away": "135"
+          "home": "175",
+          "draw": "275",
+          "away": "130"
         },
         "homeForm": [
           "L",
@@ -423,7 +579,7 @@
       {
         "id": "1171867",
         "day": "tomorrow",
-        "date": "2026-09-27",
+        "date": "2026-09-28",
         "league": "USA Major League Soccer",
         "homeTeam": "Charlotte FC",
         "awayTeam": "Chicago Fire",
@@ -431,9 +587,9 @@
         "prediction": "Draw 2-2",
         "predictionSide": "draw",
         "odds": {
-          "home": "105",
+          "home": "115",
           "draw": "280",
-          "away": "220"
+          "away": "185"
         },
         "homeForm": [
           "W",
@@ -454,7 +610,7 @@
       {
         "id": "1171865",
         "day": "tomorrow",
-        "date": "2026-09-27",
+        "date": "2026-09-28",
         "league": "USA Major League Soccer",
         "homeTeam": "Philadelphia Union",
         "awayTeam": "Orlando City",
@@ -485,7 +641,7 @@
       {
         "id": "1171872",
         "day": "tomorrow",
-        "date": "2026-09-27",
+        "date": "2026-09-28",
         "league": "USA Major League Soccer",
         "homeTeam": "Austin FC",
         "awayTeam": "San Diego FC",
@@ -493,9 +649,9 @@
         "prediction": "Away 0-1",
         "predictionSide": "away",
         "odds": {
-          "home": "140",
-          "draw": "275",
-          "away": "165"
+          "home": "150",
+          "draw": "270",
+          "away": "145"
         },
         "homeForm": [
           "W",
@@ -516,7 +672,7 @@
       {
         "id": "1171869",
         "day": "tomorrow",
-        "date": "2026-09-27",
+        "date": "2026-09-28",
         "league": "USA Major League Soccer",
         "homeTeam": "FC Dallas",
         "awayTeam": "Los Angeles FC",
@@ -525,8 +681,8 @@
         "predictionSide": "draw",
         "odds": {
           "home": "125",
-          "draw": "275",
-          "away": "182"
+          "draw": "250",
+          "away": "200"
         },
         "homeForm": [
           "D",
@@ -547,7 +703,7 @@
       {
         "id": "1171868",
         "day": "tomorrow",
-        "date": "2026-09-27",
+        "date": "2026-09-28",
         "league": "USA Major League Soccer",
         "homeTeam": "Houston Dynamo",
         "awayTeam": "Sporting Kansas City",
@@ -578,7 +734,7 @@
       {
         "id": "1171871",
         "day": "tomorrow",
-        "date": "2026-09-27",
+        "date": "2026-09-28",
         "league": "USA Major League Soccer",
         "homeTeam": "Nashville SC",
         "awayTeam": "Toronto FC",
@@ -609,7 +765,7 @@
       {
         "id": "1171870",
         "day": "tomorrow",
-        "date": "2026-09-27",
+        "date": "2026-09-28",
         "league": "USA Major League Soccer",
         "homeTeam": "Seattle Sounders",
         "awayTeam": "Minnesota United",
@@ -617,9 +773,9 @@
         "prediction": "Draw 2-2",
         "predictionSide": "draw",
         "odds": {
-          "home": "120",
+          "home": "101",
           "draw": "270",
-          "away": "200"
+          "away": "240"
         },
         "homeForm": [
           "D",
@@ -640,7 +796,7 @@
       {
         "id": "1171873",
         "day": "tomorrow",
-        "date": "2026-09-27",
+        "date": "2026-09-28",
         "league": "USA Major League Soccer",
         "homeTeam": "Real Salt Lake",
         "awayTeam": "New England Revolution",
@@ -648,9 +804,9 @@
         "prediction": "Away 0-2",
         "predictionSide": "away",
         "odds": {
-          "home": "165",
-          "draw": "260",
-          "away": "145"
+          "home": "110",
+          "draw": "270",
+          "away": "210"
         },
         "homeForm": [
           "D",
@@ -671,7 +827,7 @@
       {
         "id": "1171874",
         "day": "tomorrow",
-        "date": "2026-09-27",
+        "date": "2026-09-28",
         "league": "USA Major League Soccer",
         "homeTeam": "LA Galaxy",
         "awayTeam": "Colorado Rapids",
@@ -679,9 +835,9 @@
         "prediction": "Draw 0-0",
         "predictionSide": "draw",
         "odds": {
-          "home": "115",
-          "draw": "300",
-          "away": "185"
+          "home": "110",
+          "draw": "280",
+          "away": "200"
         },
         "homeForm": [
           "L",
@@ -702,7 +858,7 @@
       {
         "id": "1171875",
         "day": "tomorrow",
-        "date": "2026-09-27",
+        "date": "2026-09-28",
         "league": "USA Major League Soccer",
         "homeTeam": "San Jose Earthquakes",
         "awayTeam": "Portland Timbers",
@@ -733,7 +889,7 @@
       {
         "id": "1171876",
         "day": "tomorrow",
-        "date": "2026-09-27",
+        "date": "2026-09-28",
         "league": "USA Major League Soccer",
         "homeTeam": "Vancouver Whitecaps",
         "awayTeam": "DC United",
@@ -763,5 +919,5 @@
       }
     ]
   },
-  "count": 24
+  "count": 29
 }
