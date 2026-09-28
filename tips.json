@@ -1,6 +1,6 @@
 {
   "source": "https://www.predictz.com/",
-  "scraped_at": "2026-09-28T05:41:18.257Z",
+  "scraped_at": "2026-09-28T14:18:00.262Z",
   "timezone": "Asia/Yangon",
   "today": {
     "day": "today",
@@ -15,7 +15,7 @@
     "date": "2026-09-29",
     "label": "Football Tips Tomorrow - Tuesday, September 29th, 2026",
     "pageUrl": "https://www.predictz.com/predictions/tomorrow/",
-    "count": 46,
+    "count": 50,
     "tips": [
       {
         "id": "1222859",
@@ -586,9 +586,9 @@
         "prediction": "Draw 1-1",
         "predictionSide": "draw",
         "odds": {
-          "home": "180",
+          "home": "187",
           "draw": "187",
-          "away": "180"
+          "away": "175"
         },
         "homeForm": [
           "L",
@@ -853,6 +853,130 @@
           "W"
         ],
         "url": "https://www.predictz.com/predictions/international/uefa-nations-league/1185056/"
+      },
+      {
+        "id": "1215430",
+        "day": "tomorrow",
+        "date": "2026-09-29",
+        "league": "CONCACAF Nations League",
+        "homeTeam": "Jamaica",
+        "awayTeam": "Honduras",
+        "match": "Jamaica v Honduras",
+        "prediction": "Draw 1-1",
+        "predictionSide": "draw",
+        "odds": {
+          "home": "110",
+          "draw": "225",
+          "away": "200"
+        },
+        "homeForm": [
+          "L",
+          "W",
+          "L",
+          "L",
+          "W"
+        ],
+        "awayForm": [
+          "L",
+          "D",
+          "D",
+          "L",
+          "L"
+        ],
+        "url": "https://www.predictz.com/predictions/international/concacaf-nations-league/1215430/"
+      },
+      {
+        "id": "1215425",
+        "day": "tomorrow",
+        "date": "2026-09-29",
+        "league": "CONCACAF Nations League",
+        "homeTeam": "Saint Kitts and Nevis",
+        "awayTeam": "Grenada",
+        "match": "Saint Kitts and Nevis v Grenada",
+        "prediction": "Away 0-1",
+        "predictionSide": "away",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [
+          "L",
+          "D",
+          "L",
+          "L",
+          "W"
+        ],
+        "awayForm": [
+          "W",
+          "L",
+          "L",
+          "L",
+          "L"
+        ],
+        "url": "https://www.predictz.com/predictions/international/concacaf-nations-league/1215425/"
+      },
+      {
+        "id": "1215424",
+        "day": "tomorrow",
+        "date": "2026-09-29",
+        "league": "CONCACAF Nations League",
+        "homeTeam": "Saint Lucia",
+        "awayTeam": "Bermuda",
+        "match": "Saint Lucia v Bermuda",
+        "prediction": "Draw 1-1",
+        "predictionSide": "draw",
+        "odds": {
+          "home": "170",
+          "draw": "230",
+          "away": "125"
+        },
+        "homeForm": [
+          "W",
+          "L",
+          "L",
+          "L",
+          "L"
+        ],
+        "awayForm": [
+          "L",
+          "L",
+          "D",
+          "L",
+          "L"
+        ],
+        "url": "https://www.predictz.com/predictions/international/concacaf-nations-league/1215424/"
+      },
+      {
+        "id": "1215428",
+        "day": "tomorrow",
+        "date": "2026-09-29",
+        "league": "CONCACAF Nations League",
+        "homeTeam": "Guatemala",
+        "awayTeam": "El Salvador",
+        "match": "Guatemala v El Salvador",
+        "prediction": "Home 2-1",
+        "predictionSide": "home",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [
+          "L",
+          "L",
+          "L",
+          "L",
+          "L"
+        ],
+        "awayForm": [
+          "D",
+          "W",
+          "L",
+          "D",
+          "W"
+        ],
+        "url": "https://www.predictz.com/predictions/international/concacaf-nations-league/1215428/"
       },
       {
         "id": "1209413",
@@ -1445,5 +1569,5 @@
       }
     ]
   },
-  "count": 46
+  "count": 50
 }
