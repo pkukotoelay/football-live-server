@@ -1,10 +1,10 @@
 {
   "source": "https://www.predictz.com/",
-  "scraped_at": "2026-09-29T10:02:00.377Z",
+  "scraped_at": "2026-09-29T18:12:00.947Z",
   "timezone": "Asia/Yangon",
   "today": {
     "day": "today",
-    "date": "2026-09-29",
+    "date": "2026-09-30",
     "label": "www.predictz.com",
     "pageUrl": "https://www.predictz.com/predictions/",
     "count": 0,
@@ -12,15 +12,15 @@
   },
   "tomorrow": {
     "day": "tomorrow",
-    "date": "2026-09-30",
+    "date": "2026-10-01",
     "label": "Football Tips Tomorrow - Wednesday, September 30th, 2026",
     "pageUrl": "https://www.predictz.com/predictions/tomorrow/",
-    "count": 18,
+    "count": 19,
     "tips": [
       {
         "id": "1222841",
         "day": "tomorrow",
-        "date": "2026-09-30",
+        "date": "2026-10-01",
         "league": "Africa Cup Of Nations",
         "homeTeam": "Eritrea",
         "awayTeam": "South Africa",
@@ -28,9 +28,9 @@
         "prediction": "Away 0-1",
         "predictionSide": "away",
         "odds": {
-          "home": "10.50",
-          "draw": "6.80",
-          "away": "1.22"
+          "home": null,
+          "draw": null,
+          "away": null
         },
         "homeForm": [
           "W",
@@ -51,7 +51,7 @@
       {
         "id": "1219216",
         "day": "tomorrow",
-        "date": "2026-09-30",
+        "date": "2026-10-01",
         "league": "International Friendly",
         "homeTeam": "USA",
         "awayTeam": "Chile",
@@ -59,9 +59,9 @@
         "prediction": "Home 2-1",
         "predictionSide": "home",
         "odds": {
-          "home": "1.40",
-          "draw": "4.20",
-          "away": "7.00"
+          "home": null,
+          "draw": null,
+          "away": null
         },
         "homeForm": [
           "W",
@@ -82,7 +82,7 @@
       {
         "id": "1221749",
         "day": "tomorrow",
-        "date": "2026-09-30",
+        "date": "2026-10-01",
         "league": "International Friendly",
         "homeTeam": "Mexico",
         "awayTeam": "Peru",
@@ -90,9 +90,9 @@
         "prediction": "Home 2-1",
         "predictionSide": "home",
         "odds": {
-          "home": "1.44",
-          "draw": "3.90",
-          "away": "7.50"
+          "home": null,
+          "draw": null,
+          "away": null
         },
         "homeForm": [
           "W",
@@ -111,9 +111,40 @@
         "url": "https://www.predictz.com/predictions/international/international-friendly/1221749/"
       },
       {
+        "id": "1215426",
+        "day": "tomorrow",
+        "date": "2026-10-01",
+        "league": "CONCACAF Nations League",
+        "homeTeam": "Belize",
+        "awayTeam": "Saint Vincent and the Grenadines",
+        "match": "Belize v Saint Vincent and the Grenadines",
+        "prediction": "Draw 1-1",
+        "predictionSide": "draw",
+        "odds": {
+          "home": "150",
+          "draw": "230",
+          "away": "140"
+        },
+        "homeForm": [
+          "W",
+          "W",
+          "L",
+          "L",
+          "W"
+        ],
+        "awayForm": [
+          "L",
+          "W",
+          "L",
+          "W",
+          "W"
+        ],
+        "url": "https://www.predictz.com/predictions/international/concacaf-nations-league/1215426/"
+      },
+      {
         "id": "1209415",
         "day": "tomorrow",
-        "date": "2026-09-30",
+        "date": "2026-10-01",
         "league": "England National League",
         "homeTeam": "Eastleigh",
         "awayTeam": "Southend",
@@ -121,9 +152,9 @@
         "prediction": "Draw 2-2",
         "predictionSide": "draw",
         "odds": {
-          "home": "4.10",
-          "draw": "3.80",
-          "away": "1.70"
+          "home": null,
+          "draw": null,
+          "away": null
         },
         "homeForm": [
           "L",
@@ -144,7 +175,7 @@
       {
         "id": "1209414",
         "day": "tomorrow",
-        "date": "2026-09-30",
+        "date": "2026-10-01",
         "league": "England National League",
         "homeTeam": "Tamworth",
         "awayTeam": "Sutton Utd",
@@ -152,9 +183,9 @@
         "prediction": "Draw 0-0",
         "predictionSide": "draw",
         "odds": {
-          "home": "2.25",
-          "draw": "3.60",
-          "away": "2.70"
+          "home": "125",
+          "draw": "260",
+          "away": "170"
         },
         "homeForm": [
           "D",
@@ -175,7 +206,7 @@
       {
         "id": "1211460",
         "day": "tomorrow",
-        "date": "2026-09-30",
+        "date": "2026-10-01",
         "league": "Germany Regionalliga West",
         "homeTeam": "Wiedenbruck",
         "awayTeam": "Sportfreunde Siegen",
@@ -206,7 +237,7 @@
       {
         "id": "1198848",
         "day": "tomorrow",
-        "date": "2026-09-30",
+        "date": "2026-10-01",
         "league": "Montenegro Second League",
         "homeTeam": "Budva",
         "awayTeam": "Lovcen",
@@ -237,7 +268,7 @@
       {
         "id": "1198847",
         "day": "tomorrow",
-        "date": "2026-09-30",
+        "date": "2026-10-01",
         "league": "Montenegro Second League",
         "homeTeam": "FK Podgorica",
         "awayTeam": "Jedinstvo",
@@ -268,7 +299,7 @@
       {
         "id": "1198846",
         "day": "tomorrow",
-        "date": "2026-09-30",
+        "date": "2026-10-01",
         "league": "Montenegro Second League",
         "homeTeam": "Iskra",
         "awayTeam": "Grbalj",
@@ -299,7 +330,7 @@
       {
         "id": "1198844",
         "day": "tomorrow",
-        "date": "2026-09-30",
+        "date": "2026-10-01",
         "league": "Montenegro Second League",
         "homeTeam": "Rudar",
         "awayTeam": "Berane",
@@ -330,7 +361,7 @@
       {
         "id": "1198845",
         "day": "tomorrow",
-        "date": "2026-09-30",
+        "date": "2026-10-01",
         "league": "Montenegro Second League",
         "homeTeam": "Zeta",
         "awayTeam": "Kom",
@@ -361,7 +392,7 @@
       {
         "id": "1180272",
         "day": "tomorrow",
-        "date": "2026-09-30",
+        "date": "2026-10-01",
         "league": "Chile Primera B",
         "homeTeam": "Union San Felipe",
         "awayTeam": "San Luis",
@@ -369,9 +400,9 @@
         "prediction": "Away 0-2",
         "predictionSide": "away",
         "odds": {
-          "home": "3.40",
-          "draw": "3.25",
-          "away": "2.10"
+          "home": null,
+          "draw": null,
+          "away": null
         },
         "homeForm": [
           "L",
@@ -392,7 +423,7 @@
       {
         "id": "1219567",
         "day": "tomorrow",
-        "date": "2026-09-30",
+        "date": "2026-10-01",
         "league": "Peru Primera Division",
         "homeTeam": "Cienciano",
         "awayTeam": "Chankas",
@@ -400,9 +431,9 @@
         "prediction": "Home 1-0",
         "predictionSide": "home",
         "odds": {
-          "home": "1.40",
-          "draw": "4.75",
-          "away": "6.00"
+          "home": null,
+          "draw": null,
+          "away": null
         },
         "homeForm": [
           "D",
@@ -423,7 +454,7 @@
       {
         "id": "1221930",
         "day": "tomorrow",
-        "date": "2026-09-30",
+        "date": "2026-10-01",
         "league": "Ghana Premier League",
         "homeTeam": "Medeama",
         "awayTeam": "Port City",
@@ -452,7 +483,7 @@
       {
         "id": "1221680",
         "day": "tomorrow",
-        "date": "2026-09-30",
+        "date": "2026-10-01",
         "league": "Nigeria NPFL",
         "homeTeam": "Enyimba",
         "awayTeam": "Shooting Stars",
@@ -483,7 +514,7 @@
       {
         "id": "1221685",
         "day": "tomorrow",
-        "date": "2026-09-30",
+        "date": "2026-10-01",
         "league": "Nigeria NPFL",
         "homeTeam": "Katsina United",
         "awayTeam": "Rivers United",
@@ -514,7 +545,7 @@
       {
         "id": "1221686",
         "day": "tomorrow",
-        "date": "2026-09-30",
+        "date": "2026-10-01",
         "league": "Nigeria NPFL",
         "homeTeam": "Sporting Lagos",
         "awayTeam": "Ikorodu City",
@@ -545,7 +576,7 @@
       {
         "id": "1221682",
         "day": "tomorrow",
-        "date": "2026-09-30",
+        "date": "2026-10-01",
         "league": "Nigeria NPFL",
         "homeTeam": "Warri Wolves",
         "awayTeam": "Enugu Rangers",
@@ -575,5 +606,5 @@
       }
     ]
   },
-  "count": 18
+  "count": 19
 }
