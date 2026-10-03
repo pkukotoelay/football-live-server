@@ -1,6 +1,6 @@
 {
   "source": "https://www.predictz.com/",
-  "scraped_at": "2026-10-03T09:20:46.766Z",
+  "scraped_at": "2026-10-03T14:22:46.249Z",
   "timezone": "Asia/Yangon",
   "today": {
     "day": "today",
@@ -15,7 +15,7 @@
     "date": "2026-10-04",
     "label": "Football Tips Tomorrow - Sunday, October 4th, 2026",
     "pageUrl": "https://www.predictz.com/predictions/tomorrow/",
-    "count": 106,
+    "count": 104,
     "tips": [
       {
         "id": "1185026",
@@ -59,9 +59,9 @@
         "prediction": "Away 0-2",
         "predictionSide": "away",
         "odds": {
-          "home": "240",
+          "home": "230",
           "draw": "240",
-          "away": "110"
+          "away": "115"
         },
         "homeForm": [
           "L",
@@ -214,9 +214,9 @@
         "prediction": "Home 2-0",
         "predictionSide": "home",
         "odds": {
-          "home": "115",
+          "home": "110",
           "draw": "230",
-          "away": "240"
+          "away": "250"
         },
         "homeForm": [
           "W",
@@ -400,9 +400,9 @@
         "prediction": "Home 2-1",
         "predictionSide": "home",
         "odds": {
-          "home": "100",
-          "draw": "275",
-          "away": "187"
+          "home": null,
+          "draw": null,
+          "away": null
         },
         "homeForm": [
           "L",
@@ -833,9 +833,9 @@
         "prediction": "Home 3-0",
         "predictionSide": "home",
         "odds": {
-          "home": "115",
+          "home": "125",
           "draw": "230",
-          "away": "220"
+          "away": "210"
         },
         "homeForm": [
           "W",
@@ -1504,68 +1504,6 @@
         "url": "https://www.predictz.com/predictions/montenegro/second-league/1198853/"
       },
       {
-        "id": "1198852",
-        "day": "tomorrow",
-        "date": "2026-10-04",
-        "league": "Montenegro Second League",
-        "homeTeam": "FK Podgorica",
-        "awayTeam": "Lovcen",
-        "match": "FK Podgorica v Lovcen",
-        "prediction": "Draw 2-2",
-        "predictionSide": "draw",
-        "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
-        },
-        "homeForm": [
-          "D",
-          "D",
-          "W",
-          "W",
-          "D"
-        ],
-        "awayForm": [
-          "D",
-          "L",
-          "W",
-          "L",
-          "W"
-        ],
-        "url": "https://www.predictz.com/predictions/montenegro/second-league/1198852/"
-      },
-      {
-        "id": "1198851",
-        "day": "tomorrow",
-        "date": "2026-10-04",
-        "league": "Montenegro Second League",
-        "homeTeam": "Iskra",
-        "awayTeam": "Rudar",
-        "match": "Iskra v Rudar",
-        "prediction": "Home 1-0",
-        "predictionSide": "home",
-        "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
-        },
-        "homeForm": [
-          "D",
-          "L",
-          "L",
-          "W",
-          "L"
-        ],
-        "awayForm": [
-          "D",
-          "W",
-          "D",
-          "L",
-          "W"
-        ],
-        "url": "https://www.predictz.com/predictions/montenegro/second-league/1198851/"
-      },
-      {
         "id": "1198850",
         "day": "tomorrow",
         "date": "2026-10-04",
@@ -2227,9 +2165,9 @@
         "prediction": "Away 0-1",
         "predictionSide": "away",
         "odds": {
-          "home": "115",
+          "home": "120",
           "draw": "220",
-          "away": "240"
+          "away": "230"
         },
         "homeForm": [
           "L",
@@ -3289,5 +3227,5 @@
       }
     ]
   },
-  "count": 106
+  "count": 104
 }
