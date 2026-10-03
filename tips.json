@@ -1,6 +1,6 @@
 {
   "source": "https://www.predictz.com/",
-  "scraped_at": "2026-10-03T00:36:33.012Z",
+  "scraped_at": "2026-10-03T09:20:46.766Z",
   "timezone": "Asia/Yangon",
   "today": {
     "day": "today",
@@ -15,7 +15,7 @@
     "date": "2026-10-04",
     "label": "Football Tips Tomorrow - Sunday, October 4th, 2026",
     "pageUrl": "https://www.predictz.com/predictions/tomorrow/",
-    "count": 99,
+    "count": 106,
     "tips": [
       {
         "id": "1185026",
@@ -29,8 +29,8 @@
         "predictionSide": "draw",
         "odds": {
           "home": "130",
-          "draw": "190",
-          "away": "220"
+          "draw": "200",
+          "away": "225"
         },
         "homeForm": [
           "W",
@@ -214,9 +214,9 @@
         "prediction": "Home 2-0",
         "predictionSide": "home",
         "odds": {
-          "home": "105",
+          "home": "115",
           "draw": "230",
-          "away": "275"
+          "away": "240"
         },
         "homeForm": [
           "W",
@@ -264,6 +264,223 @@
           "W"
         ],
         "url": "https://www.predictz.com/predictions/international/uefa-nations-league/1185024/"
+      },
+      {
+        "id": "1215403",
+        "day": "tomorrow",
+        "date": "2026-10-04",
+        "league": "CONCACAF Nations League",
+        "homeTeam": "Belize",
+        "awayTeam": "French Guiana",
+        "match": "Belize v French Guiana",
+        "prediction": "Draw 1-1",
+        "predictionSide": "draw",
+        "odds": {
+          "home": "175",
+          "draw": "225",
+          "away": "125"
+        },
+        "homeForm": [
+          "W",
+          "L",
+          "L",
+          "W",
+          "L"
+        ],
+        "awayForm": [
+          "L",
+          "L",
+          "D",
+          "L",
+          "W"
+        ],
+        "url": "https://www.predictz.com/predictions/international/concacaf-nations-league/1215403/"
+      },
+      {
+        "id": "1215399",
+        "day": "tomorrow",
+        "date": "2026-10-04",
+        "league": "CONCACAF Nations League",
+        "homeTeam": "Aruba",
+        "awayTeam": "Anguilla",
+        "match": "Aruba v Anguilla",
+        "prediction": "Draw 1-1",
+        "predictionSide": "draw",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [
+          "W",
+          "W",
+          "L",
+          "W",
+          "W"
+        ],
+        "awayForm": [
+          "L",
+          "L",
+          "L",
+          "L",
+          "L"
+        ],
+        "url": "https://www.predictz.com/predictions/international/concacaf-nations-league/1215399/"
+      },
+      {
+        "id": "1215394",
+        "day": "tomorrow",
+        "date": "2026-10-04",
+        "league": "CONCACAF Nations League",
+        "homeTeam": "Guyana",
+        "awayTeam": "Dominica",
+        "match": "Guyana v Dominica",
+        "prediction": "Home 3-0",
+        "predictionSide": "home",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [
+          "W",
+          "W",
+          "W",
+          "W",
+          "W"
+        ],
+        "awayForm": [
+          "D",
+          "W",
+          "D",
+          "L",
+          "L"
+        ],
+        "url": "https://www.predictz.com/predictions/international/concacaf-nations-league/1215394/"
+      },
+      {
+        "id": "1215398",
+        "day": "tomorrow",
+        "date": "2026-10-04",
+        "league": "CONCACAF Nations League",
+        "homeTeam": "Bahamas",
+        "awayTeam": "US Virgin Islands",
+        "match": "Bahamas v US Virgin Islands",
+        "prediction": "Away 0-2",
+        "predictionSide": "away",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [
+          "L",
+          "L",
+          "L",
+          "L",
+          "L"
+        ],
+        "awayForm": [
+          "L",
+          "L",
+          "W",
+          "W",
+          "L"
+        ],
+        "url": "https://www.predictz.com/predictions/international/concacaf-nations-league/1215398/"
+      },
+      {
+        "id": "1215395",
+        "day": "tomorrow",
+        "date": "2026-10-04",
+        "league": "CONCACAF Nations League",
+        "homeTeam": "Turks and Caicos Islands",
+        "awayTeam": "British Virgin Islands",
+        "match": "Turks and Caicos Islands v British Virgin Islands",
+        "prediction": "Home 2-1",
+        "predictionSide": "home",
+        "odds": {
+          "home": "100",
+          "draw": "275",
+          "away": "187"
+        },
+        "homeForm": [
+          "L",
+          "W",
+          "L",
+          "L",
+          "W"
+        ],
+        "awayForm": [
+          "W",
+          "L",
+          "L",
+          "L",
+          "L"
+        ],
+        "url": "https://www.predictz.com/predictions/international/concacaf-nations-league/1215395/"
+      },
+      {
+        "id": "1215396",
+        "day": "tomorrow",
+        "date": "2026-10-04",
+        "league": "CONCACAF Nations League",
+        "homeTeam": "Puerto Rico",
+        "awayTeam": "Cayman Islands",
+        "match": "Puerto Rico v Cayman Islands",
+        "prediction": "Home 3-0",
+        "predictionSide": "home",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [
+          "W",
+          "L",
+          "L",
+          "W",
+          "W"
+        ],
+        "awayForm": [
+          "W",
+          "L",
+          "D",
+          "L",
+          "L"
+        ],
+        "url": "https://www.predictz.com/predictions/international/concacaf-nations-league/1215396/"
+      },
+      {
+        "id": "1215400",
+        "day": "tomorrow",
+        "date": "2026-10-04",
+        "league": "CONCACAF Nations League",
+        "homeTeam": "Trinidad and Tobago",
+        "awayTeam": "Curacao",
+        "match": "Trinidad and Tobago v Curacao",
+        "prediction": "Away 0-2",
+        "predictionSide": "away",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [
+          "L",
+          "L",
+          "L",
+          "L",
+          "L"
+        ],
+        "awayForm": [
+          "D",
+          "L",
+          "W",
+          "W",
+          "W"
+        ],
+        "url": "https://www.predictz.com/predictions/international/concacaf-nations-league/1215400/"
       },
       {
         "id": "1218452",
@@ -1628,37 +1845,6 @@
         "url": "https://www.predictz.com/predictions/slovenia/2-snl/1198004/"
       },
       {
-        "id": "1197999",
-        "day": "tomorrow",
-        "date": "2026-10-04",
-        "league": "Slovenia 2. SNL",
-        "homeTeam": "Bilje",
-        "awayTeam": "Jadran",
-        "match": "Bilje v Jadran",
-        "prediction": "Draw 0-0",
-        "predictionSide": "draw",
-        "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
-        },
-        "homeForm": [
-          "L",
-          "W",
-          "W",
-          "L",
-          "L"
-        ],
-        "awayForm": [
-          "D",
-          "D",
-          "D",
-          "W",
-          "W"
-        ],
-        "url": "https://www.predictz.com/predictions/slovenia/2-snl/1197999/"
-      },
-      {
         "id": "1198002",
         "day": "tomorrow",
         "date": "2026-10-04",
@@ -1721,37 +1907,6 @@
         "url": "https://www.predictz.com/predictions/slovenia/2-snl/1197998/"
       },
       {
-        "id": "1206095",
-        "day": "tomorrow",
-        "date": "2026-10-04",
-        "league": "Ukraine Persha Liga",
-        "homeTeam": "Agrobiznes Volochisk",
-        "awayTeam": "UCSA Tarasivka",
-        "match": "Agrobiznes Volochisk v UCSA Tarasivka",
-        "prediction": "Draw 1-1",
-        "predictionSide": "draw",
-        "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
-        },
-        "homeForm": [
-          "L",
-          "W",
-          "L",
-          "W",
-          "D"
-        ],
-        "awayForm": [
-          "L",
-          "L",
-          "W",
-          "L",
-          "D"
-        ],
-        "url": "https://www.predictz.com/predictions/ukraine/persha-liga/1206095/"
-      },
-      {
         "id": "1206100",
         "day": "tomorrow",
         "date": "2026-10-04",
@@ -1781,6 +1936,37 @@
           "D"
         ],
         "url": "https://www.predictz.com/predictions/ukraine/persha-liga/1206100/"
+      },
+      {
+        "id": "1206095",
+        "day": "tomorrow",
+        "date": "2026-10-04",
+        "league": "Ukraine Persha Liga",
+        "homeTeam": "Agrobiznes Volochisk",
+        "awayTeam": "UCSA Tarasivka",
+        "match": "Agrobiznes Volochisk v UCSA Tarasivka",
+        "prediction": "Draw 1-1",
+        "predictionSide": "draw",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [
+          "L",
+          "W",
+          "L",
+          "W",
+          "D"
+        ],
+        "awayForm": [
+          "L",
+          "L",
+          "W",
+          "L",
+          "D"
+        ],
+        "url": "https://www.predictz.com/predictions/ukraine/persha-liga/1206095/"
       },
       {
         "id": "1206099",
@@ -1979,7 +2165,7 @@
         "prediction": "Away 0-1",
         "predictionSide": "away",
         "odds": {
-          "home": "155",
+          "home": "157",
           "draw": "200",
           "away": "200"
         },
@@ -2091,6 +2277,37 @@
           "L"
         ],
         "url": "https://www.predictz.com/predictions/colombia/categoria-primera-a/1201621/"
+      },
+      {
+        "id": "1222337",
+        "day": "tomorrow",
+        "date": "2026-10-04",
+        "league": "Colombia Categoria Primera A",
+        "homeTeam": "Internacional de Bogota",
+        "awayTeam": "Once Caldas",
+        "match": "Internacional de Bogota v Once Caldas",
+        "prediction": "Draw 0-0",
+        "predictionSide": "draw",
+        "odds": {
+          "home": "180",
+          "draw": "210",
+          "away": "160"
+        },
+        "homeForm": [
+          "D",
+          "W",
+          "L",
+          "L",
+          "D"
+        ],
+        "awayForm": [
+          "L",
+          "L",
+          "W",
+          "L",
+          "L"
+        ],
+        "url": "https://www.predictz.com/predictions/colombia/categoria-primera-a/1222337/"
       },
       {
         "id": "1223707",
@@ -3072,5 +3289,5 @@
       }
     ]
   },
-  "count": 99
+  "count": 106
 }
