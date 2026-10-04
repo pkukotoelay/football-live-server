@@ -1,6 +1,6 @@
 {
   "source": "https://www.predictz.com/",
-  "scraped_at": "2026-10-04T06:08:55.885Z",
+  "scraped_at": "2026-10-04T12:41:19.595Z",
   "timezone": "Asia/Yangon",
   "today": {
     "day": "today",
@@ -15,7 +15,7 @@
     "date": "2026-10-05",
     "label": "Football Tips Tomorrow - Monday, October 5th, 2026",
     "pageUrl": "https://www.predictz.com/predictions/tomorrow/",
-    "count": 18,
+    "count": 19,
     "tips": [
       {
         "id": "1215399",
@@ -337,9 +337,9 @@
         "prediction": "Away 0-1",
         "predictionSide": "away",
         "odds": {
-          "home": "310",
+          "home": "300",
           "draw": "210",
-          "away": "101"
+          "away": "105"
         },
         "homeForm": [
           "D",
@@ -451,6 +451,37 @@
         "url": "https://www.predictz.com/predictions/argentina/liga-profesional/1215240/"
       },
       {
+        "id": "1206454",
+        "day": "tomorrow",
+        "date": "2026-10-05",
+        "league": "Argentina Primera B Nacional",
+        "homeTeam": "Nueva Chicago",
+        "awayTeam": "Maipu",
+        "match": "Nueva Chicago v Maipu",
+        "prediction": "Draw 2-2",
+        "predictionSide": "draw",
+        "odds": {
+          "home": "115",
+          "draw": "182",
+          "away": "270"
+        },
+        "homeForm": [
+          "L",
+          "W",
+          "L",
+          "D",
+          "W"
+        ],
+        "awayForm": [
+          "L",
+          "D",
+          "D",
+          "D",
+          "W"
+        ],
+        "url": "https://www.predictz.com/predictions/argentina/primera-b/1206454/"
+      },
+      {
         "id": "1201622",
         "day": "tomorrow",
         "date": "2026-10-05",
@@ -461,9 +492,9 @@
         "prediction": "Home 3-1",
         "predictionSide": "home",
         "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
+          "home": "105",
+          "draw": "230",
+          "away": "260"
         },
         "homeForm": [
           "D",
@@ -492,9 +523,9 @@
         "prediction": "Draw 2-2",
         "predictionSide": "draw",
         "odds": {
-          "home": "250",
+          "home": "240",
           "draw": "210",
-          "away": "120"
+          "away": "125"
         },
         "homeForm": [
           "L",
@@ -576,5 +607,5 @@
       }
     ]
   },
-  "count": 18
+  "count": 19
 }
