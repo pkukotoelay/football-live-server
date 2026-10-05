@@ -1,21 +1,642 @@
 {
   "source": "https://www.predictz.com/",
-  "scraped_at": "2026-10-05T06:01:14.871Z",
+  "scraped_at": "2026-10-05T15:05:52.085Z",
   "timezone": "Asia/Yangon",
   "today": {
     "day": "today",
     "date": "2026-10-05",
-    "label": "www.predictz.com",
+    "label": "Football Tips Tonight - Monday, October 5th, 2026",
     "pageUrl": "https://www.predictz.com/predictions/",
-    "count": 0,
-    "tips": []
+    "count": 20,
+    "tips": [
+      {
+        "id": "1189241",
+        "day": "today",
+        "date": "2026-10-05",
+        "league": "UEFA Nations League",
+        "homeTeam": "Cyprus",
+        "awayTeam": "Latvia",
+        "match": "Cyprus v Latvia",
+        "prediction": "Home 2-1",
+        "predictionSide": "home",
+        "odds": {
+          "home": "1.53",
+          "draw": "3.75",
+          "away": "7.00"
+        },
+        "homeForm": [
+          "D",
+          "W",
+          "L",
+          "D",
+          "W"
+        ],
+        "awayForm": [
+          "W",
+          "W",
+          "L",
+          "D",
+          "L"
+        ],
+        "url": "https://www.predictz.com/predictions/international/uefa-nations-league/1189241/"
+      },
+      {
+        "id": "1185019",
+        "day": "today",
+        "date": "2026-10-05",
+        "league": "UEFA Nations League",
+        "homeTeam": "Bosnia-Herzegovina",
+        "awayTeam": "Poland",
+        "match": "Bosnia-Herzegovina v Poland",
+        "prediction": "Draw 1-1",
+        "predictionSide": "draw",
+        "odds": {
+          "home": "2.70",
+          "draw": "3.30",
+          "away": "2.55"
+        },
+        "homeForm": [
+          "W",
+          "L",
+          "D",
+          "W",
+          "D"
+        ],
+        "awayForm": [
+          "L",
+          "D",
+          "D",
+          "L",
+          "W"
+        ],
+        "url": "https://www.predictz.com/predictions/international/uefa-nations-league/1185019/"
+      },
+      {
+        "id": "1185654",
+        "day": "today",
+        "date": "2026-10-05",
+        "league": "UEFA Nations League",
+        "homeTeam": "France",
+        "awayTeam": "Belgium",
+        "match": "France v Belgium",
+        "prediction": "Home 2-1",
+        "predictionSide": "home",
+        "odds": {
+          "home": "1.48",
+          "draw": "4.50",
+          "away": "6.00"
+        },
+        "homeForm": [
+          "L",
+          "L",
+          "W",
+          "W",
+          "D"
+        ],
+        "awayForm": [
+          "W",
+          "L",
+          "W",
+          "L",
+          "W"
+        ],
+        "url": "https://www.predictz.com/predictions/international/uefa-nations-league/1185654/"
+      },
+      {
+        "id": "1185017",
+        "day": "today",
+        "date": "2026-10-05",
+        "league": "UEFA Nations League",
+        "homeTeam": "Italy",
+        "awayTeam": "Turkey",
+        "match": "Italy v Turkey",
+        "prediction": "Home 3-1",
+        "predictionSide": "home",
+        "odds": {
+          "home": "1.36",
+          "draw": "5.25",
+          "away": "7.50"
+        },
+        "homeForm": [
+          "W",
+          "W",
+          "L",
+          "W",
+          "D"
+        ],
+        "awayForm": [
+          "L",
+          "W",
+          "L",
+          "L",
+          "L"
+        ],
+        "url": "https://www.predictz.com/predictions/international/uefa-nations-league/1185017/"
+      },
+      {
+        "id": "1185015",
+        "day": "today",
+        "date": "2026-10-05",
+        "league": "UEFA Nations League",
+        "homeTeam": "Montenegro",
+        "awayTeam": "Armenia",
+        "match": "Montenegro v Armenia",
+        "prediction": "Home 2-0",
+        "predictionSide": "home",
+        "odds": {
+          "home": "1.40",
+          "draw": "5.00",
+          "away": "7.00"
+        },
+        "homeForm": [
+          "W",
+          "D",
+          "W",
+          "W",
+          "W"
+        ],
+        "awayForm": [
+          "D",
+          "D",
+          "W",
+          "L",
+          "L"
+        ],
+        "url": "https://www.predictz.com/predictions/international/uefa-nations-league/1185015/"
+      },
+      {
+        "id": "1185016",
+        "day": "today",
+        "date": "2026-10-05",
+        "league": "UEFA Nations League",
+        "homeTeam": "Northern Ireland",
+        "awayTeam": "Georgia",
+        "match": "Northern Ireland v Georgia",
+        "prediction": "Draw 1-1",
+        "predictionSide": "draw",
+        "odds": {
+          "home": "2.40",
+          "draw": "2.88",
+          "away": "3.30"
+        },
+        "homeForm": [
+          "W",
+          "L",
+          "W",
+          "D",
+          "W"
+        ],
+        "awayForm": [
+          "D",
+          "W",
+          "L",
+          "D",
+          "L"
+        ],
+        "url": "https://www.predictz.com/predictions/international/uefa-nations-league/1185016/"
+      },
+      {
+        "id": "1185020",
+        "day": "today",
+        "date": "2026-10-05",
+        "league": "UEFA Nations League",
+        "homeTeam": "Romania",
+        "awayTeam": "Sweden",
+        "match": "Romania v Sweden",
+        "prediction": "Away 1-2",
+        "predictionSide": "away",
+        "odds": {
+          "home": "4.50",
+          "draw": "4.10",
+          "away": "1.67"
+        },
+        "homeForm": [
+          "D",
+          "W",
+          "L",
+          "L",
+          "L"
+        ],
+        "awayForm": [
+          "D",
+          "L",
+          "W",
+          "W",
+          "D"
+        ],
+        "url": "https://www.predictz.com/predictions/international/uefa-nations-league/1185020/"
+      },
+      {
+        "id": "1185018",
+        "day": "today",
+        "date": "2026-10-05",
+        "league": "UEFA Nations League",
+        "homeTeam": "Ukraine",
+        "awayTeam": "Hungary",
+        "match": "Ukraine v Hungary",
+        "prediction": "Draw 1-1",
+        "predictionSide": "draw",
+        "odds": {
+          "home": "2.63",
+          "draw": "3.00",
+          "away": "2.90"
+        },
+        "homeForm": [
+          "W",
+          "L",
+          "W",
+          "D",
+          "L"
+        ],
+        "awayForm": [
+          "W",
+          "W",
+          "L",
+          "D",
+          "W"
+        ],
+        "url": "https://www.predictz.com/predictions/international/uefa-nations-league/1185018/"
+      },
+      {
+        "id": "1222481",
+        "day": "today",
+        "date": "2026-10-05",
+        "league": "CONCACAF Nations League",
+        "homeTeam": "Guadeloupe",
+        "awayTeam": "Saint Lucia",
+        "match": "Guadeloupe v Saint Lucia",
+        "prediction": "Away 1-2",
+        "predictionSide": "away",
+        "odds": {
+          "home": "3.90",
+          "draw": "4.00",
+          "away": "1.65"
+        },
+        "homeForm": [
+          "L",
+          "L",
+          "W",
+          "D",
+          "L"
+        ],
+        "awayForm": [
+          "L",
+          "L",
+          "L",
+          "W",
+          "W"
+        ],
+        "url": "https://www.predictz.com/predictions/international/concacaf-nations-league/1222481/"
+      },
+      {
+        "id": "1215392",
+        "day": "today",
+        "date": "2026-10-05",
+        "league": "CONCACAF Nations League",
+        "homeTeam": "Cuba",
+        "awayTeam": "Saint Kitts and Nevis",
+        "match": "Cuba v Saint Kitts and Nevis",
+        "prediction": "Home 2-1",
+        "predictionSide": "home",
+        "odds": {
+          "home": "1.73",
+          "draw": "4.50",
+          "away": "3.30"
+        },
+        "homeForm": [
+          "D",
+          "D",
+          "W",
+          "W",
+          "D"
+        ],
+        "awayForm": [
+          "L",
+          "L",
+          "W",
+          "W",
+          "D"
+        ],
+        "url": "https://www.predictz.com/predictions/international/concacaf-nations-league/1215392/"
+      },
+      {
+        "id": "1215386",
+        "day": "today",
+        "date": "2026-10-05",
+        "league": "CONCACAF Nations League",
+        "homeTeam": "Martinique",
+        "awayTeam": "El Salvador",
+        "match": "Martinique v El Salvador",
+        "prediction": "Draw 1-1",
+        "predictionSide": "draw",
+        "odds": {
+          "home": "2.30",
+          "draw": "3.50",
+          "away": "2.55"
+        },
+        "homeForm": [
+          "D",
+          "L",
+          "L",
+          "L",
+          "W"
+        ],
+        "awayForm": [
+          "L",
+          "D",
+          "W",
+          "L",
+          "L"
+        ],
+        "url": "https://www.predictz.com/predictions/international/concacaf-nations-league/1215386/"
+      },
+      {
+        "id": "1203459",
+        "day": "today",
+        "date": "2026-10-05",
+        "league": "Spain Segunda Division",
+        "homeTeam": "Cordoba",
+        "awayTeam": "Tenerife",
+        "match": "Cordoba v Tenerife",
+        "prediction": "Draw 0-0",
+        "predictionSide": "draw",
+        "odds": {
+          "home": "1.81",
+          "draw": "3.50",
+          "away": "4.10"
+        },
+        "homeForm": [
+          "L",
+          "L",
+          "L",
+          "W",
+          "L"
+        ],
+        "awayForm": [
+          "L",
+          "D",
+          "W",
+          "L",
+          "D"
+        ],
+        "url": "https://www.predictz.com/predictions/spain/segunda-division/1203459/"
+      },
+      {
+        "id": "1173467",
+        "day": "today",
+        "date": "2026-10-05",
+        "league": "Norway 1. Division",
+        "homeTeam": "Moss",
+        "awayTeam": "Kongsvinger",
+        "match": "Moss v Kongsvinger",
+        "prediction": "Away 0-2",
+        "predictionSide": "away",
+        "odds": {
+          "home": "4.00",
+          "draw": "4.50",
+          "away": "1.65"
+        },
+        "homeForm": [
+          "D",
+          "L",
+          "W",
+          "L",
+          "W"
+        ],
+        "awayForm": [
+          "W",
+          "D",
+          "W",
+          "D",
+          "W"
+        ],
+        "url": "https://www.predictz.com/predictions/norway/1-division/1173467/"
+      },
+      {
+        "id": "1195088",
+        "day": "today",
+        "date": "2026-10-05",
+        "league": "Serbia Prva Liga",
+        "homeTeam": "Backa Topola",
+        "awayTeam": "Graficar Beograd",
+        "match": "Backa Topola v Graficar Beograd",
+        "prediction": "Home 2-0",
+        "predictionSide": "home",
+        "odds": {
+          "home": "1.30",
+          "draw": "4.90",
+          "away": "8.00"
+        },
+        "homeForm": [
+          "W",
+          "W",
+          "D",
+          "D",
+          "D"
+        ],
+        "awayForm": [
+          "L",
+          "L",
+          "W",
+          "L",
+          "W"
+        ],
+        "url": "https://www.predictz.com/predictions/serbia/prva-liga/1195088/"
+      },
+      {
+        "id": "1215251",
+        "day": "today",
+        "date": "2026-10-05",
+        "league": "Argentina Liga Profesional",
+        "homeTeam": "Deportivo Riestra",
+        "awayTeam": "Central Cordoba SdE",
+        "match": "Deportivo Riestra v Central Cordoba SdE",
+        "prediction": "Away 0-1",
+        "predictionSide": "away",
+        "odds": {
+          "home": "1.81",
+          "draw": "3.25",
+          "away": "4.75"
+        },
+        "homeForm": [
+          "D",
+          "D",
+          "D",
+          "L",
+          "D"
+        ],
+        "awayForm": [
+          "L",
+          "D",
+          "L",
+          "L",
+          "D"
+        ],
+        "url": "https://www.predictz.com/predictions/argentina/liga-profesional/1215251/"
+      },
+      {
+        "id": "1215239",
+        "day": "today",
+        "date": "2026-10-05",
+        "league": "Argentina Liga Profesional",
+        "homeTeam": "Estudiantes",
+        "awayTeam": "Gimnasia Mendoza",
+        "match": "Estudiantes v Gimnasia Mendoza",
+        "prediction": "Home 3-2",
+        "predictionSide": "home",
+        "odds": {
+          "home": "1.62",
+          "draw": "3.50",
+          "away": "6.00"
+        },
+        "homeForm": [
+          "L",
+          "D",
+          "L",
+          "W",
+          "L"
+        ],
+        "awayForm": [
+          "W",
+          "W",
+          "D",
+          "L",
+          "D"
+        ],
+        "url": "https://www.predictz.com/predictions/argentina/liga-profesional/1215239/"
+      },
+      {
+        "id": "1215240",
+        "day": "today",
+        "date": "2026-10-05",
+        "league": "Argentina Liga Profesional",
+        "homeTeam": "Velez Sarsfield",
+        "awayTeam": "CA Platense",
+        "match": "Velez Sarsfield v CA Platense",
+        "prediction": "Home 2-1",
+        "predictionSide": "home",
+        "odds": {
+          "home": "1.81",
+          "draw": "3.00",
+          "away": "5.25"
+        },
+        "homeForm": [
+          "D",
+          "D",
+          "W",
+          "D",
+          "W"
+        ],
+        "awayForm": [
+          "W",
+          "L",
+          "D",
+          "L",
+          "L"
+        ],
+        "url": "https://www.predictz.com/predictions/argentina/liga-profesional/1215240/"
+      },
+      {
+        "id": "1206454",
+        "day": "today",
+        "date": "2026-10-05",
+        "league": "Argentina Primera B Nacional",
+        "homeTeam": "Nueva Chicago",
+        "awayTeam": "Maipu",
+        "match": "Nueva Chicago v Maipu",
+        "prediction": "Draw 2-2",
+        "predictionSide": "draw",
+        "odds": {
+          "home": "2.40",
+          "draw": "2.75",
+          "away": "3.20"
+        },
+        "homeForm": [
+          "L",
+          "W",
+          "L",
+          "D",
+          "W"
+        ],
+        "awayForm": [
+          "L",
+          "D",
+          "D",
+          "D",
+          "W"
+        ],
+        "url": "https://www.predictz.com/predictions/argentina/primera-b/1206454/"
+      },
+      {
+        "id": "1213448",
+        "day": "today",
+        "date": "2026-10-05",
+        "league": "Paraguay Primera Division",
+        "homeTeam": "Sportivo Trinidense",
+        "awayTeam": "Sportivo Luqueno",
+        "match": "Sportivo Trinidense v Sportivo Luqueno",
+        "prediction": "Home 2-0",
+        "predictionSide": "home",
+        "odds": {
+          "home": "1.75",
+          "draw": "3.30",
+          "away": "4.00"
+        },
+        "homeForm": [
+          "L",
+          "W",
+          "L",
+          "W",
+          "L"
+        ],
+        "awayForm": [
+          "D",
+          "L",
+          "L",
+          "W",
+          "L"
+        ],
+        "url": "https://www.predictz.com/predictions/paraguay/primera-division/1213448/"
+      },
+      {
+        "id": "1213445",
+        "day": "today",
+        "date": "2026-10-05",
+        "league": "Paraguay Primera Division",
+        "homeTeam": "Cerro Porteno",
+        "awayTeam": "2 de Mayo",
+        "match": "Cerro Porteno v 2 de Mayo",
+        "prediction": "Home 2-0",
+        "predictionSide": "home",
+        "odds": {
+          "home": "1.53",
+          "draw": "3.50",
+          "away": "5.50"
+        },
+        "homeForm": [
+          "D",
+          "W",
+          "W",
+          "D",
+          "W"
+        ],
+        "awayForm": [
+          "D",
+          "W",
+          "L",
+          "L",
+          "D"
+        ],
+        "url": "https://www.predictz.com/predictions/paraguay/primera-division/1213445/"
+      }
+    ]
   },
   "tomorrow": {
     "day": "tomorrow",
     "date": "2026-10-06",
     "label": "Football Tips Tomorrow - Tuesday, October 6th, 2026",
     "pageUrl": "https://www.predictz.com/predictions/tomorrow/",
-    "count": 21,
+    "count": 35,
     "tips": [
       {
         "id": "1222840",
@@ -28,9 +649,9 @@
         "prediction": "Home 2-0",
         "predictionSide": "home",
         "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
+          "home": "1.38",
+          "draw": "4.30",
+          "away": "9.30"
         },
         "homeForm": [
           "D",
@@ -49,6 +670,440 @@
         "url": "https://www.predictz.com/predictions/international/africa-cup-of-nations/1222840/"
       },
       {
+        "id": "1185013",
+        "day": "tomorrow",
+        "date": "2026-10-06",
+        "league": "UEFA Nations League",
+        "homeTeam": "Kazakhstan",
+        "awayTeam": "Faroe Islands",
+        "match": "Kazakhstan v Faroe Islands",
+        "prediction": "Draw 1-1",
+        "predictionSide": "draw",
+        "odds": {
+          "home": "2.38",
+          "draw": "3.10",
+          "away": "3.25"
+        },
+        "homeForm": [
+          "D",
+          "L",
+          "D",
+          "L",
+          "L"
+        ],
+        "awayForm": [
+          "W",
+          "W",
+          "D",
+          "D",
+          "D"
+        ],
+        "url": "https://www.predictz.com/predictions/international/uefa-nations-league/1185013/"
+      },
+      {
+        "id": "1185014",
+        "day": "tomorrow",
+        "date": "2026-10-06",
+        "league": "UEFA Nations League",
+        "homeTeam": "Albania",
+        "awayTeam": "San Marino",
+        "match": "Albania v San Marino",
+        "prediction": "Home 3-0",
+        "predictionSide": "home",
+        "odds": {
+          "home": "1.03",
+          "draw": "15.00",
+          "away": "34.00"
+        },
+        "homeForm": [
+          "L",
+          "L",
+          "W",
+          "W",
+          "L"
+        ],
+        "awayForm": [
+          "L",
+          "L",
+          "L",
+          "L",
+          "L"
+        ],
+        "url": "https://www.predictz.com/predictions/international/uefa-nations-league/1185014/"
+      },
+      {
+        "id": "1185008",
+        "day": "tomorrow",
+        "date": "2026-10-06",
+        "league": "UEFA Nations League",
+        "homeTeam": "Belarus",
+        "awayTeam": "Finland",
+        "match": "Belarus v Finland",
+        "prediction": "Away 0-1",
+        "predictionSide": "away",
+        "odds": {
+          "home": "4.00",
+          "draw": "3.30",
+          "away": "1.95"
+        },
+        "homeForm": [
+          "W",
+          "D",
+          "L",
+          "D",
+          "W"
+        ],
+        "awayForm": [
+          "L",
+          "L",
+          "W",
+          "D",
+          "W"
+        ],
+        "url": "https://www.predictz.com/predictions/international/uefa-nations-league/1185008/"
+      },
+      {
+        "id": "1185009",
+        "day": "tomorrow",
+        "date": "2026-10-06",
+        "league": "UEFA Nations League",
+        "homeTeam": "Croatia",
+        "awayTeam": "Spain",
+        "match": "Croatia v Spain",
+        "prediction": "Away 1-4",
+        "predictionSide": "away",
+        "odds": {
+          "home": "9.00",
+          "draw": "6.25",
+          "away": "1.27"
+        },
+        "homeForm": [
+          "W",
+          "L",
+          "W",
+          "L",
+          "L"
+        ],
+        "awayForm": [
+          "W",
+          "D",
+          "W",
+          "W",
+          "W"
+        ],
+        "url": "https://www.predictz.com/predictions/international/uefa-nations-league/1185009/"
+      },
+      {
+        "id": "1185010",
+        "day": "tomorrow",
+        "date": "2026-10-06",
+        "league": "UEFA Nations League",
+        "homeTeam": "England",
+        "awayTeam": "Czech Republic",
+        "match": "England v Czech Republic",
+        "prediction": "Home 3-0",
+        "predictionSide": "home",
+        "odds": {
+          "home": "1.11",
+          "draw": "8.50",
+          "away": "21.00"
+        },
+        "homeForm": [
+          "L",
+          "W",
+          "L",
+          "W",
+          "W"
+        ],
+        "awayForm": [
+          "D",
+          "L",
+          "L",
+          "L",
+          "L"
+        ],
+        "url": "https://www.predictz.com/predictions/international/uefa-nations-league/1185010/"
+      },
+      {
+        "id": "1185007",
+        "day": "tomorrow",
+        "date": "2026-10-06",
+        "league": "UEFA Nations League",
+        "homeTeam": "Estonia",
+        "awayTeam": "Iceland",
+        "match": "Estonia v Iceland",
+        "prediction": "Away 1-2",
+        "predictionSide": "away",
+        "odds": {
+          "home": "5.50",
+          "draw": "4.00",
+          "away": "1.57"
+        },
+        "homeForm": [
+          "W",
+          "D",
+          "D",
+          "D",
+          "W"
+        ],
+        "awayForm": [
+          "L",
+          "L",
+          "D",
+          "W",
+          "W"
+        ],
+        "url": "https://www.predictz.com/predictions/international/uefa-nations-league/1185007/"
+      },
+      {
+        "id": "1189242",
+        "day": "tomorrow",
+        "date": "2026-10-06",
+        "league": "UEFA Nations League",
+        "homeTeam": "Luxembourg",
+        "awayTeam": "Bulgaria",
+        "match": "Luxembourg v Bulgaria",
+        "prediction": "Home 1-0",
+        "predictionSide": "home",
+        "odds": {
+          "home": "2.10",
+          "draw": "3.30",
+          "away": "3.25"
+        },
+        "homeForm": [
+          "L",
+          "W",
+          "W",
+          "L",
+          "L"
+        ],
+        "awayForm": [
+          "L",
+          "D",
+          "L",
+          "D",
+          "L"
+        ],
+        "url": "https://www.predictz.com/predictions/international/uefa-nations-league/1189242/"
+      },
+      {
+        "id": "1185006",
+        "day": "tomorrow",
+        "date": "2026-10-06",
+        "league": "UEFA Nations League",
+        "homeTeam": "Moldova",
+        "awayTeam": "Slovakia",
+        "match": "Moldova v Slovakia",
+        "prediction": "Away 0-2",
+        "predictionSide": "away",
+        "odds": {
+          "home": "7.50",
+          "draw": "4.50",
+          "away": "1.42"
+        },
+        "homeForm": [
+          "D",
+          "D",
+          "L",
+          "D",
+          "W"
+        ],
+        "awayForm": [
+          "W",
+          "D",
+          "W",
+          "W",
+          "D"
+        ],
+        "url": "https://www.predictz.com/predictions/international/uefa-nations-league/1185006/"
+      },
+      {
+        "id": "1185012",
+        "day": "tomorrow",
+        "date": "2026-10-06",
+        "league": "UEFA Nations League",
+        "homeTeam": "Scotland",
+        "awayTeam": "Slovenia",
+        "match": "Scotland v Slovenia",
+        "prediction": "Home 2-0",
+        "predictionSide": "home",
+        "odds": {
+          "home": "1.75",
+          "draw": "3.50",
+          "away": "4.75"
+        },
+        "homeForm": [
+          "L",
+          "L",
+          "D",
+          "L",
+          "W"
+        ],
+        "awayForm": [
+          "D",
+          "L",
+          "D",
+          "W",
+          "L"
+        ],
+        "url": "https://www.predictz.com/predictions/international/uefa-nations-league/1185012/"
+      },
+      {
+        "id": "1185011",
+        "day": "tomorrow",
+        "date": "2026-10-06",
+        "league": "UEFA Nations League",
+        "homeTeam": "Switzerland",
+        "awayTeam": "North Macedonia",
+        "match": "Switzerland v North Macedonia",
+        "prediction": "Home 3-0",
+        "predictionSide": "home",
+        "odds": {
+          "home": "1.08",
+          "draw": "10.00",
+          "away": "23.00"
+        },
+        "homeForm": [
+          "D",
+          "D",
+          "W",
+          "W",
+          "W"
+        ],
+        "awayForm": [
+          "D",
+          "L",
+          "L",
+          "L",
+          "L"
+        ],
+        "url": "https://www.predictz.com/predictions/international/uefa-nations-league/1185011/"
+      },
+      {
+        "id": "1222480",
+        "day": "tomorrow",
+        "date": "2026-10-06",
+        "league": "CONCACAF Nations League",
+        "homeTeam": "Bermuda",
+        "awayTeam": "Barbados",
+        "match": "Bermuda v Barbados",
+        "prediction": "Away 1-2",
+        "predictionSide": "away",
+        "odds": {
+          "home": "4.20",
+          "draw": "4.20",
+          "away": "1.57"
+        },
+        "homeForm": [
+          "D",
+          "L",
+          "L",
+          "L",
+          "L"
+        ],
+        "awayForm": [
+          "L",
+          "L",
+          "W",
+          "D",
+          "W"
+        ],
+        "url": "https://www.predictz.com/predictions/international/concacaf-nations-league/1222480/"
+      },
+      {
+        "id": "1215388",
+        "day": "tomorrow",
+        "date": "2026-10-06",
+        "league": "CONCACAF Nations League",
+        "homeTeam": "Grenada",
+        "awayTeam": "Bonaire",
+        "match": "Grenada v Bonaire",
+        "prediction": "Home 2-0",
+        "predictionSide": "home",
+        "odds": {
+          "home": "1.50",
+          "draw": "3.90",
+          "away": "5.25"
+        },
+        "homeForm": [
+          "L",
+          "L",
+          "L",
+          "L",
+          "W"
+        ],
+        "awayForm": [
+          "L",
+          "W",
+          "L",
+          "L",
+          "L"
+        ],
+        "url": "https://www.predictz.com/predictions/international/concacaf-nations-league/1215388/"
+      },
+      {
+        "id": "1215390",
+        "day": "tomorrow",
+        "date": "2026-10-06",
+        "league": "CONCACAF Nations League",
+        "homeTeam": "Guatemala",
+        "awayTeam": "Suriname",
+        "match": "Guatemala v Suriname",
+        "prediction": "Draw 1-1",
+        "predictionSide": "draw",
+        "odds": {
+          "home": "2.05",
+          "draw": "3.25",
+          "away": "3.10"
+        },
+        "homeForm": [
+          "L",
+          "L",
+          "L",
+          "W",
+          "D"
+        ],
+        "awayForm": [
+          "L",
+          "L",
+          "W",
+          "W",
+          "D"
+        ],
+        "url": "https://www.predictz.com/predictions/international/concacaf-nations-league/1215390/"
+      },
+      {
+        "id": "1215391",
+        "day": "tomorrow",
+        "date": "2026-10-06",
+        "league": "CONCACAF Nations League",
+        "homeTeam": "Honduras",
+        "awayTeam": "Jamaica",
+        "match": "Honduras v Jamaica",
+        "prediction": "Home 2-1",
+        "predictionSide": "home",
+        "odds": {
+          "home": "1.95",
+          "draw": "3.30",
+          "away": "3.30"
+        },
+        "homeForm": [
+          "D",
+          "L",
+          "L",
+          "W",
+          "L"
+        ],
+        "awayForm": [
+          "L",
+          "L",
+          "W",
+          "L",
+          "W"
+        ],
+        "url": "https://www.predictz.com/predictions/international/concacaf-nations-league/1215391/"
+      },
+      {
         "id": "1210913",
         "day": "tomorrow",
         "date": "2026-10-06",
@@ -59,9 +1114,9 @@
         "prediction": "Home 1-0",
         "predictionSide": "home",
         "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
+          "home": "1.77",
+          "draw": "4.00",
+          "away": "3.75"
         },
         "homeForm": [
           "L",
@@ -90,9 +1145,9 @@
         "prediction": "Draw 1-1",
         "predictionSide": "draw",
         "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
+          "home": "1.92",
+          "draw": "3.65",
+          "away": "3.50"
         },
         "homeForm": [
           "W",
@@ -121,9 +1176,9 @@
         "prediction": "Home 2-0",
         "predictionSide": "home",
         "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
+          "home": "3.50",
+          "draw": "3.75",
+          "away": "1.88"
         },
         "homeForm": [
           "W",
@@ -214,9 +1269,9 @@
         "prediction": "Draw 0-0",
         "predictionSide": "draw",
         "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
+          "home": "3.50",
+          "draw": "3.50",
+          "away": "1.90"
         },
         "homeForm": [
           "L",
@@ -245,9 +1300,9 @@
         "prediction": "Away 0-2",
         "predictionSide": "away",
         "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
+          "home": "4.50",
+          "draw": "3.25",
+          "away": "1.86"
         },
         "homeForm": [
           "L",
@@ -276,9 +1331,9 @@
         "prediction": "Draw 2-2",
         "predictionSide": "draw",
         "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
+          "home": "1.79",
+          "draw": "3.60",
+          "away": "4.20"
         },
         "homeForm": [
           "W",
@@ -307,9 +1362,9 @@
         "prediction": "Home 3-2",
         "predictionSide": "home",
         "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
+          "home": "1.95",
+          "draw": "3.25",
+          "away": "4.10"
         },
         "homeForm": [
           "L",
@@ -338,9 +1393,9 @@
         "prediction": "Home 2-0",
         "predictionSide": "home",
         "odds": {
-          "home": "115",
-          "draw": "210",
-          "away": "200"
+          "home": "2.15",
+          "draw": "3.10",
+          "away": "3.00"
         },
         "homeForm": [
           "L",
@@ -369,9 +1424,9 @@
         "prediction": "Draw 1-1",
         "predictionSide": "draw",
         "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
+          "home": "1.90",
+          "draw": "3.20",
+          "away": "3.50"
         },
         "homeForm": [
           "D",
@@ -400,9 +1455,9 @@
         "prediction": "Away 2-3",
         "predictionSide": "away",
         "odds": {
-          "home": "105",
-          "draw": "260",
-          "away": "200"
+          "home": "2.05",
+          "draw": "3.70",
+          "away": "2.90"
         },
         "homeForm": [
           "W",
@@ -648,9 +1703,9 @@
         "prediction": "Draw 0-0",
         "predictionSide": "draw",
         "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
+          "home": "1.88",
+          "draw": "3.05",
+          "away": "4.25"
         },
         "homeForm": [
           "W",
@@ -666,5 +1721,5 @@
       }
     ]
   },
-  "count": 21
+  "count": 55
 }
