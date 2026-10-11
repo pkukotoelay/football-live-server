@@ -1,21 +1,1138 @@
 {
   "source": "https://www.predictz.com/",
-  "scraped_at": "2026-10-11T00:18:28.459Z",
+  "scraped_at": "2026-10-11T06:07:20.658Z",
   "timezone": "Asia/Yangon",
   "today": {
     "day": "today",
     "date": "2026-10-11",
-    "label": "www.predictz.com",
+    "label": "Football Tips Today - Sunday, October 11th, 2026",
     "pageUrl": "https://www.predictz.com/predictions/",
-    "count": 0,
-    "tips": []
+    "count": 36,
+    "tips": [
+      {
+        "id": "1196801",
+        "day": "today",
+        "date": "2026-10-11",
+        "league": "England Premier League",
+        "homeTeam": "Crystal Palace",
+        "awayTeam": "Nottingham Forest",
+        "match": "Crystal Palace v Nottingham Forest",
+        "prediction": "Away 0-2",
+        "predictionSide": "away",
+        "odds": {
+          "home": "2.80",
+          "draw": "3.30",
+          "away": "2.55"
+        },
+        "homeForm": [
+          "L",
+          "L",
+          "W",
+          "L",
+          "D"
+        ],
+        "awayForm": [
+          "L",
+          "D",
+          "D",
+          "W",
+          "L"
+        ],
+        "url": "https://www.predictz.com/predictions/england/premier-league/1196801/"
+      },
+      {
+        "id": "1196810",
+        "day": "today",
+        "date": "2026-10-11",
+        "league": "England Premier League",
+        "homeTeam": "Hull",
+        "awayTeam": "Everton",
+        "match": "Hull v Everton",
+        "prediction": "Home 1-0",
+        "predictionSide": "home",
+        "odds": {
+          "home": "3.70",
+          "draw": "3.30",
+          "away": "2.10"
+        },
+        "homeForm": [
+          "W",
+          "W",
+          "D",
+          "D",
+          "L"
+        ],
+        "awayForm": [
+          "W",
+          "D",
+          "D",
+          "D",
+          "W"
+        ],
+        "url": "https://www.predictz.com/predictions/england/premier-league/1196810/"
+      },
+      {
+        "id": "1196809",
+        "day": "today",
+        "date": "2026-10-11",
+        "league": "England Premier League",
+        "homeTeam": "Liverpool",
+        "awayTeam": "Man City",
+        "match": "Liverpool v Man City",
+        "prediction": "Away 1-2",
+        "predictionSide": "away",
+        "odds": {
+          "home": "3.00",
+          "draw": "3.60",
+          "away": "2.25"
+        },
+        "homeForm": [
+          "D",
+          "D",
+          "W",
+          "D",
+          "W"
+        ],
+        "awayForm": [
+          "W",
+          "W",
+          "W",
+          "W",
+          "W"
+        ],
+        "url": "https://www.predictz.com/predictions/england/premier-league/1196809/"
+      },
+      {
+        "id": "1199946",
+        "day": "today",
+        "date": "2026-10-11",
+        "league": "England Championship",
+        "homeTeam": "Southampton",
+        "awayTeam": "Portsmouth",
+        "match": "Southampton v Portsmouth",
+        "prediction": "Home 3-1",
+        "predictionSide": "home",
+        "odds": {
+          "home": "1.53",
+          "draw": "3.90",
+          "away": "5.50"
+        },
+        "homeForm": [
+          "D",
+          "D",
+          "W",
+          "W",
+          "L"
+        ],
+        "awayForm": [
+          "L",
+          "L",
+          "W",
+          "D",
+          "D"
+        ],
+        "url": "https://www.predictz.com/predictions/england/championship/1199946/"
+      },
+      {
+        "id": "1195541",
+        "day": "today",
+        "date": "2026-10-11",
+        "league": "Scotland Premiership",
+        "homeTeam": "Motherwell",
+        "awayTeam": "Celtic",
+        "match": "Motherwell v Celtic",
+        "prediction": "Draw 2-2",
+        "predictionSide": "draw",
+        "odds": {
+          "home": "4.75",
+          "draw": "4.50",
+          "away": "1.51"
+        },
+        "homeForm": [
+          "D",
+          "W",
+          "L",
+          "L",
+          "L"
+        ],
+        "awayForm": [
+          "W",
+          "W",
+          "W",
+          "W",
+          "L"
+        ],
+        "url": "https://www.predictz.com/predictions/scotland/premiership/1195541/"
+      },
+      {
+        "id": "1195545",
+        "day": "today",
+        "date": "2026-10-11",
+        "league": "Scotland Premiership",
+        "homeTeam": "Aberdeen",
+        "awayTeam": "St Johnstone",
+        "match": "Aberdeen v St Johnstone",
+        "prediction": "Draw 0-0",
+        "predictionSide": "draw",
+        "odds": {
+          "home": "2.05",
+          "draw": "3.40",
+          "away": "3.30"
+        },
+        "homeForm": [
+          "L",
+          "L",
+          "D",
+          "W",
+          "D"
+        ],
+        "awayForm": [
+          "L",
+          "D",
+          "W",
+          "L",
+          "D"
+        ],
+        "url": "https://www.predictz.com/predictions/scotland/premiership/1195545/"
+      },
+      {
+        "id": "1202616",
+        "day": "today",
+        "date": "2026-10-11",
+        "league": "Spain La Liga",
+        "homeTeam": "Elche",
+        "awayTeam": "Celta Vigo",
+        "match": "Elche v Celta Vigo",
+        "prediction": "Away 0-1",
+        "predictionSide": "away",
+        "odds": {
+          "home": "3.00",
+          "draw": "3.20",
+          "away": "2.40"
+        },
+        "homeForm": [
+          "L",
+          "L",
+          "D",
+          "L",
+          "W"
+        ],
+        "awayForm": [
+          "L",
+          "D",
+          "D",
+          "D",
+          "W"
+        ],
+        "url": "https://www.predictz.com/predictions/spain/la-liga/1202616/"
+      },
+      {
+        "id": "1202612",
+        "day": "today",
+        "date": "2026-10-11",
+        "league": "Spain La Liga",
+        "homeTeam": "Real Sociedad",
+        "awayTeam": "Deportivo La Coruna",
+        "match": "Real Sociedad v Deportivo La Coruna",
+        "prediction": "Away 0-1",
+        "predictionSide": "away",
+        "odds": {
+          "home": "1.62",
+          "draw": "4.05",
+          "away": "5.40"
+        },
+        "homeForm": [
+          "W",
+          "D",
+          "W",
+          "L",
+          "W"
+        ],
+        "awayForm": [
+          "W",
+          "W",
+          "D",
+          "L",
+          "D"
+        ],
+        "url": "https://www.predictz.com/predictions/spain/la-liga/1202612/"
+      },
+      {
+        "id": "1202609",
+        "day": "today",
+        "date": "2026-10-11",
+        "league": "Spain La Liga",
+        "homeTeam": "Real Betis",
+        "awayTeam": "Osasuna",
+        "match": "Real Betis v Osasuna",
+        "prediction": "Home 1-0",
+        "predictionSide": "home",
+        "odds": {
+          "home": "1.53",
+          "draw": "4.10",
+          "away": "6.50"
+        },
+        "homeForm": [
+          "L",
+          "W",
+          "W",
+          "W",
+          "D"
+        ],
+        "awayForm": [
+          "W",
+          "L",
+          "L",
+          "L",
+          "D"
+        ],
+        "url": "https://www.predictz.com/predictions/spain/la-liga/1202609/"
+      },
+      {
+        "id": "1202615",
+        "day": "today",
+        "date": "2026-10-11",
+        "league": "Spain La Liga",
+        "homeTeam": "Racing Santander",
+        "awayTeam": "Valencia",
+        "match": "Racing Santander v Valencia",
+        "prediction": "Home 2-0",
+        "predictionSide": "home",
+        "odds": {
+          "home": "2.20",
+          "draw": "3.50",
+          "away": "3.20"
+        },
+        "homeForm": [
+          "W",
+          "L",
+          "W",
+          "L",
+          "L"
+        ],
+        "awayForm": [
+          "L",
+          "L",
+          "L",
+          "W",
+          "L"
+        ],
+        "url": "https://www.predictz.com/predictions/spain/la-liga/1202615/"
+      },
+      {
+        "id": "1204898",
+        "day": "today",
+        "date": "2026-10-11",
+        "league": "Germany Bundesliga",
+        "homeTeam": "FC Koln",
+        "awayTeam": "Borussia Monchengladbach",
+        "match": "FC Koln v Borussia Monchengladbach",
+        "prediction": "Home 1-0",
+        "predictionSide": "home",
+        "odds": {
+          "home": "2.05",
+          "draw": "3.80",
+          "away": "3.25"
+        },
+        "homeForm": [
+          "L",
+          "W",
+          "L",
+          "D",
+          "L"
+        ],
+        "awayForm": [
+          "W",
+          "L",
+          "L",
+          "L",
+          "L"
+        ],
+        "url": "https://www.predictz.com/predictions/germany/bundesliga/1204898/"
+      },
+      {
+        "id": "1204892",
+        "day": "today",
+        "date": "2026-10-11",
+        "league": "Germany Bundesliga",
+        "homeTeam": "Freiburg",
+        "awayTeam": "Schalke 04",
+        "match": "Freiburg v Schalke 04",
+        "prediction": "Draw 2-2",
+        "predictionSide": "draw",
+        "odds": {
+          "home": "1.62",
+          "draw": "4.00",
+          "away": "5.25"
+        },
+        "homeForm": [
+          "W",
+          "W",
+          "W",
+          "W",
+          "D"
+        ],
+        "awayForm": [
+          "W",
+          "L",
+          "D",
+          "W",
+          "D"
+        ],
+        "url": "https://www.predictz.com/predictions/germany/bundesliga/1204892/"
+      },
+      {
+        "id": "1191380",
+        "day": "today",
+        "date": "2026-10-11",
+        "league": "Italy Serie A",
+        "homeTeam": "Como",
+        "awayTeam": "Roma",
+        "match": "Como v Roma",
+        "prediction": "Draw 2-2",
+        "predictionSide": "draw",
+        "odds": {
+          "home": "2.50",
+          "draw": "3.50",
+          "away": "2.75"
+        },
+        "homeForm": [
+          "D",
+          "W",
+          "W",
+          "W",
+          "L"
+        ],
+        "awayForm": [
+          "W",
+          "W",
+          "W",
+          "W",
+          "D"
+        ],
+        "url": "https://www.predictz.com/predictions/italy/serie-a/1191380/"
+      },
+      {
+        "id": "1191379",
+        "day": "today",
+        "date": "2026-10-11",
+        "league": "Italy Serie A",
+        "homeTeam": "Lazio",
+        "awayTeam": "Monza",
+        "match": "Lazio v Monza",
+        "prediction": "Home 1-0",
+        "predictionSide": "home",
+        "odds": {
+          "home": "1.67",
+          "draw": "3.80",
+          "away": "5.25"
+        },
+        "homeForm": [
+          "W",
+          "W",
+          "W",
+          "D",
+          "W"
+        ],
+        "awayForm": [
+          "L",
+          "L",
+          "D",
+          "L",
+          "W"
+        ],
+        "url": "https://www.predictz.com/predictions/italy/serie-a/1191379/"
+      },
+      {
+        "id": "1191376",
+        "day": "today",
+        "date": "2026-10-11",
+        "league": "Italy Serie A",
+        "homeTeam": "Lecce",
+        "awayTeam": "Bologna",
+        "match": "Lecce v Bologna",
+        "prediction": "Away 0-1",
+        "predictionSide": "away",
+        "odds": {
+          "home": "4.33",
+          "draw": "3.30",
+          "away": "1.91"
+        },
+        "homeForm": [
+          "W",
+          "L",
+          "L",
+          "W",
+          "L"
+        ],
+        "awayForm": [
+          "L",
+          "L",
+          "D",
+          "L",
+          "D"
+        ],
+        "url": "https://www.predictz.com/predictions/italy/serie-a/1191376/"
+      },
+      {
+        "id": "1191384",
+        "day": "today",
+        "date": "2026-10-11",
+        "league": "Italy Serie A",
+        "homeTeam": "Sassuolo",
+        "awayTeam": "AC Milan",
+        "match": "Sassuolo v AC Milan",
+        "prediction": "Home 2-1",
+        "predictionSide": "home",
+        "odds": {
+          "home": "4.20",
+          "draw": "3.60",
+          "away": "1.85"
+        },
+        "homeForm": [
+          "L",
+          "W",
+          "D",
+          "W",
+          "L"
+        ],
+        "awayForm": [
+          "W",
+          "W",
+          "D",
+          "D",
+          "W"
+        ],
+        "url": "https://www.predictz.com/predictions/italy/serie-a/1191384/"
+      },
+      {
+        "id": "1191383",
+        "day": "today",
+        "date": "2026-10-11",
+        "league": "Italy Serie A",
+        "homeTeam": "Cagliari",
+        "awayTeam": "Juventus",
+        "match": "Cagliari v Juventus",
+        "prediction": "Draw 0-0",
+        "predictionSide": "draw",
+        "odds": {
+          "home": "7.00",
+          "draw": "3.80",
+          "away": "1.57"
+        },
+        "homeForm": [
+          "W",
+          "L",
+          "W",
+          "W",
+          "W"
+        ],
+        "awayForm": [
+          "W",
+          "W",
+          "D",
+          "L",
+          "W"
+        ],
+        "url": "https://www.predictz.com/predictions/italy/serie-a/1191383/"
+      },
+      {
+        "id": "1192598",
+        "day": "today",
+        "date": "2026-10-11",
+        "league": "France Ligue 1",
+        "homeTeam": "Nice",
+        "awayTeam": "Strasbourg",
+        "match": "Nice v Strasbourg",
+        "prediction": "Away 0-3",
+        "predictionSide": "away",
+        "odds": {
+          "home": "2.30",
+          "draw": "3.60",
+          "away": "2.90"
+        },
+        "homeForm": [
+          "D",
+          "L",
+          "D",
+          "L",
+          "W"
+        ],
+        "awayForm": [
+          "L",
+          "W",
+          "W",
+          "D",
+          "L"
+        ],
+        "url": "https://www.predictz.com/predictions/france/ligue-1/1192598/"
+      },
+      {
+        "id": "1192597",
+        "day": "today",
+        "date": "2026-10-11",
+        "league": "France Ligue 1",
+        "homeTeam": "Rennes",
+        "awayTeam": "Auxerre",
+        "match": "Rennes v Auxerre",
+        "prediction": "Home 4-0",
+        "predictionSide": "home",
+        "odds": {
+          "home": "1.44",
+          "draw": "4.50",
+          "away": "7.00"
+        },
+        "homeForm": [
+          "D",
+          "W",
+          "W",
+          "W",
+          "L"
+        ],
+        "awayForm": [
+          "L",
+          "L",
+          "L",
+          "W",
+          "W"
+        ],
+        "url": "https://www.predictz.com/predictions/france/ligue-1/1192597/"
+      },
+      {
+        "id": "1192594",
+        "day": "today",
+        "date": "2026-10-11",
+        "league": "France Ligue 1",
+        "homeTeam": "Troyes",
+        "awayTeam": "Marseille",
+        "match": "Troyes v Marseille",
+        "prediction": "Away 0-1",
+        "predictionSide": "away",
+        "odds": {
+          "home": "3.60",
+          "draw": "3.75",
+          "away": "1.95"
+        },
+        "homeForm": [
+          "D",
+          "W",
+          "L",
+          "L",
+          "L"
+        ],
+        "awayForm": [
+          "W",
+          "L",
+          "L",
+          "L",
+          "L"
+        ],
+        "url": "https://www.predictz.com/predictions/france/ligue-1/1192594/"
+      },
+      {
+        "id": "1191928",
+        "day": "today",
+        "date": "2026-10-11",
+        "league": "Netherlands Eredivisie",
+        "homeTeam": "FC Utrecht",
+        "awayTeam": "Willem II",
+        "match": "FC Utrecht v Willem II",
+        "prediction": "Draw 0-0",
+        "predictionSide": "draw",
+        "odds": {
+          "home": "1.50",
+          "draw": "4.33",
+          "away": "6.00"
+        },
+        "homeForm": [
+          "L",
+          "D",
+          "L",
+          "W",
+          "L"
+        ],
+        "awayForm": [
+          "D",
+          "L",
+          "D",
+          "L",
+          "L"
+        ],
+        "url": "https://www.predictz.com/predictions/netherlands/eredivisie/1191928/"
+      },
+      {
+        "id": "1191929",
+        "day": "today",
+        "date": "2026-10-11",
+        "league": "Netherlands Eredivisie",
+        "homeTeam": "FC Zwolle",
+        "awayTeam": "Cambuur Leeuwarden",
+        "match": "FC Zwolle v Cambuur Leeuwarden",
+        "prediction": "Away 0-1",
+        "predictionSide": "away",
+        "odds": {
+          "home": "2.10",
+          "draw": "3.70",
+          "away": "3.20"
+        },
+        "homeForm": [
+          "W",
+          "L",
+          "D",
+          "L",
+          "L"
+        ],
+        "awayForm": [
+          "L",
+          "L",
+          "D",
+          "W",
+          "D"
+        ],
+        "url": "https://www.predictz.com/predictions/netherlands/eredivisie/1191929/"
+      },
+      {
+        "id": "1191930",
+        "day": "today",
+        "date": "2026-10-11",
+        "league": "Netherlands Eredivisie",
+        "homeTeam": "Telstar",
+        "awayTeam": "ADO Den Haag",
+        "match": "Telstar v ADO Den Haag",
+        "prediction": "Draw 0-0",
+        "predictionSide": "draw",
+        "odds": {
+          "home": "2.00",
+          "draw": "3.80",
+          "away": "3.30"
+        },
+        "homeForm": [
+          "L",
+          "D",
+          "L",
+          "D",
+          "L"
+        ],
+        "awayForm": [
+          "L",
+          "D",
+          "L",
+          "L",
+          "D"
+        ],
+        "url": "https://www.predictz.com/predictions/netherlands/eredivisie/1191930/"
+      },
+      {
+        "id": "1191931",
+        "day": "today",
+        "date": "2026-10-11",
+        "league": "Netherlands Eredivisie",
+        "homeTeam": "Excelsior Rotterdam",
+        "awayTeam": "FC Groningen",
+        "match": "Excelsior Rotterdam v FC Groningen",
+        "prediction": "Home 2-1",
+        "predictionSide": "home",
+        "odds": {
+          "home": "2.55",
+          "draw": "3.60",
+          "away": "2.55"
+        },
+        "homeForm": [
+          "W",
+          "W",
+          "D",
+          "L",
+          "D"
+        ],
+        "awayForm": [
+          "L",
+          "L",
+          "D",
+          "D",
+          "W"
+        ],
+        "url": "https://www.predictz.com/predictions/netherlands/eredivisie/1191931/"
+      },
+      {
+        "id": "1204312",
+        "day": "today",
+        "date": "2026-10-11",
+        "league": "Portugal Primeira Liga",
+        "homeTeam": "Rio Ave",
+        "awayTeam": "Nacional",
+        "match": "Rio Ave v Nacional",
+        "prediction": "Draw 0-0",
+        "predictionSide": "draw",
+        "odds": {
+          "home": "2.15",
+          "draw": "3.25",
+          "away": "3.25"
+        },
+        "homeForm": [
+          "W",
+          "L",
+          "L",
+          "D",
+          "L"
+        ],
+        "awayForm": [
+          "L",
+          "L",
+          "L",
+          "L",
+          "L"
+        ],
+        "url": "https://www.predictz.com/predictions/portugal/primeira-liga/1204312/"
+      },
+      {
+        "id": "1204308",
+        "day": "today",
+        "date": "2026-10-11",
+        "league": "Portugal Primeira Liga",
+        "homeTeam": "Benfica",
+        "awayTeam": "Guimaraes",
+        "match": "Benfica v Guimaraes",
+        "prediction": "Home 3-0",
+        "predictionSide": "home",
+        "odds": {
+          "home": "1.17",
+          "draw": "6.25",
+          "away": "15.00"
+        },
+        "homeForm": [
+          "W",
+          "W",
+          "W",
+          "W",
+          "L"
+        ],
+        "awayForm": [
+          "W",
+          "L",
+          "D",
+          "L",
+          "D"
+        ],
+        "url": "https://www.predictz.com/predictions/portugal/primeira-liga/1204308/"
+      },
+      {
+        "id": "1204313",
+        "day": "today",
+        "date": "2026-10-11",
+        "league": "Portugal Primeira Liga",
+        "homeTeam": "Arouca",
+        "awayTeam": "Estrela Amadora",
+        "match": "Arouca v Estrela Amadora",
+        "prediction": "Home 3-0",
+        "predictionSide": "home",
+        "odds": {
+          "home": "2.01",
+          "draw": "3.40",
+          "away": "3.70"
+        },
+        "homeForm": [
+          "L",
+          "W",
+          "D",
+          "L",
+          "D"
+        ],
+        "awayForm": [
+          "W",
+          "D",
+          "W",
+          "D",
+          "L"
+        ],
+        "url": "https://www.predictz.com/predictions/portugal/primeira-liga/1204313/"
+      },
+      {
+        "id": "1215253",
+        "day": "today",
+        "date": "2026-10-11",
+        "league": "Argentina Liga Profesional",
+        "homeTeam": "San Lorenzo",
+        "awayTeam": "Deportivo Riestra",
+        "match": "San Lorenzo v Deportivo Riestra",
+        "prediction": "Draw 0-0",
+        "predictionSide": "draw",
+        "odds": {
+          "home": "2.35",
+          "draw": "2.75",
+          "away": "3.50"
+        },
+        "homeForm": [
+          "L",
+          "W",
+          "D",
+          "L",
+          "L"
+        ],
+        "awayForm": [
+          "D",
+          "D",
+          "L",
+          "D",
+          "D"
+        ],
+        "url": "https://www.predictz.com/predictions/argentina/liga-profesional/1215253/"
+      },
+      {
+        "id": "1215264",
+        "day": "today",
+        "date": "2026-10-11",
+        "league": "Argentina Liga Profesional",
+        "homeTeam": "CA Platense",
+        "awayTeam": "Argentinos Juniors",
+        "match": "CA Platense v Argentinos Juniors",
+        "prediction": "Draw 0-0",
+        "predictionSide": "draw",
+        "odds": {
+          "home": "3.20",
+          "draw": "2.85",
+          "away": "2.45"
+        },
+        "homeForm": [
+          "L",
+          "D",
+          "L",
+          "L",
+          "D"
+        ],
+        "awayForm": [
+          "W",
+          "D",
+          "D",
+          "L",
+          "W"
+        ],
+        "url": "https://www.predictz.com/predictions/argentina/liga-profesional/1215264/"
+      },
+      {
+        "id": "1215259",
+        "day": "today",
+        "date": "2026-10-11",
+        "league": "Argentina Liga Profesional",
+        "homeTeam": "Rosario Central",
+        "awayTeam": "Independiente Rivadavia",
+        "match": "Rosario Central v Independiente Rivadavia",
+        "prediction": "Home 2-0",
+        "predictionSide": "home",
+        "odds": {
+          "home": "1.96",
+          "draw": "3.10",
+          "away": "4.20"
+        },
+        "homeForm": [
+          "L",
+          "D",
+          "W",
+          "W",
+          "D"
+        ],
+        "awayForm": [
+          "W",
+          "L",
+          "W",
+          "W",
+          "D"
+        ],
+        "url": "https://www.predictz.com/predictions/argentina/liga-profesional/1215259/"
+      },
+      {
+        "id": "1215258",
+        "day": "today",
+        "date": "2026-10-11",
+        "league": "Argentina Liga Profesional",
+        "homeTeam": "Racing Club",
+        "awayTeam": "Belgrano",
+        "match": "Racing Club v Belgrano",
+        "prediction": "Away 0-1",
+        "predictionSide": "away",
+        "odds": {
+          "home": "2.30",
+          "draw": "2.85",
+          "away": "3.40"
+        },
+        "homeForm": [
+          "L",
+          "L",
+          "L",
+          "W",
+          "W"
+        ],
+        "awayForm": [
+          "D",
+          "D",
+          "D",
+          "W",
+          "W"
+        ],
+        "url": "https://www.predictz.com/predictions/argentina/liga-profesional/1215258/"
+      },
+      {
+        "id": "1170879",
+        "day": "today",
+        "date": "2026-10-11",
+        "league": "Brazil Serie A",
+        "homeTeam": "Atletico Mineiro",
+        "awayTeam": "Santos",
+        "match": "Atletico Mineiro v Santos",
+        "prediction": "Draw 2-2",
+        "predictionSide": "draw",
+        "odds": {
+          "home": "2.10",
+          "draw": "3.40",
+          "away": "3.40"
+        },
+        "homeForm": [
+          "L",
+          "W",
+          "D",
+          "W",
+          "D"
+        ],
+        "awayForm": [
+          "W",
+          "W",
+          "W",
+          "W",
+          "D"
+        ],
+        "url": "https://www.predictz.com/predictions/brazil/serie-a/1170879/"
+      },
+      {
+        "id": "1170884",
+        "day": "today",
+        "date": "2026-10-11",
+        "league": "Brazil Serie A",
+        "homeTeam": "Flamengo",
+        "awayTeam": "Fluminense",
+        "match": "Flamengo v Fluminense",
+        "prediction": "Home 3-2",
+        "predictionSide": "home",
+        "odds": {
+          "home": "1.45",
+          "draw": "4.20",
+          "away": "7.00"
+        },
+        "homeForm": [
+          "W",
+          "W",
+          "W",
+          "W",
+          "D"
+        ],
+        "awayForm": [
+          "D",
+          "W",
+          "L",
+          "W",
+          "W"
+        ],
+        "url": "https://www.predictz.com/predictions/brazil/serie-a/1170884/"
+      },
+      {
+        "id": "1170883",
+        "day": "today",
+        "date": "2026-10-11",
+        "league": "Brazil Serie A",
+        "homeTeam": "Gremio",
+        "awayTeam": "Internacional",
+        "match": "Gremio v Internacional",
+        "prediction": "Draw 1-1",
+        "predictionSide": "draw",
+        "odds": {
+          "home": "2.82",
+          "draw": "3.25",
+          "away": "2.50"
+        },
+        "homeForm": [
+          "L",
+          "L",
+          "L",
+          "D",
+          "D"
+        ],
+        "awayForm": [
+          "L",
+          "L",
+          "W",
+          "L",
+          "W"
+        ],
+        "url": "https://www.predictz.com/predictions/brazil/serie-a/1170883/"
+      },
+      {
+        "id": "1170877",
+        "day": "today",
+        "date": "2026-10-11",
+        "league": "Brazil Serie A",
+        "homeTeam": "Palmeiras",
+        "awayTeam": "Corinthians",
+        "match": "Palmeiras v Corinthians",
+        "prediction": "Home 3-1",
+        "predictionSide": "home",
+        "odds": {
+          "home": "1.61",
+          "draw": "3.75",
+          "away": "5.75"
+        },
+        "homeForm": [
+          "D",
+          "D",
+          "W",
+          "D",
+          "W"
+        ],
+        "awayForm": [
+          "L",
+          "L",
+          "L",
+          "L",
+          "L"
+        ],
+        "url": "https://www.predictz.com/predictions/brazil/serie-a/1170877/"
+      },
+      {
+        "id": "1170876",
+        "day": "today",
+        "date": "2026-10-11",
+        "league": "Brazil Serie A",
+        "homeTeam": "Bahia",
+        "awayTeam": "Mirassol",
+        "match": "Bahia v Mirassol",
+        "prediction": "Home 2-0",
+        "predictionSide": "home",
+        "odds": {
+          "home": "1.68",
+          "draw": "3.70",
+          "away": "5.00"
+        },
+        "homeForm": [
+          "W",
+          "W",
+          "W",
+          "L",
+          "L"
+        ],
+        "awayForm": [
+          "L",
+          "W",
+          "D",
+          "W",
+          "D"
+        ],
+        "url": "https://www.predictz.com/predictions/brazil/serie-a/1170876/"
+      }
+    ]
   },
   "tomorrow": {
     "day": "tomorrow",
     "date": "2026-10-12",
     "label": "Football Tips Tomorrow - Monday, October 12th, 2026",
     "pageUrl": "https://www.predictz.com/predictions/tomorrow/",
-    "count": 80,
+    "count": 82,
     "tips": [
       {
         "id": "1196802",
@@ -28,9 +1145,9 @@
         "prediction": "Away 0-1",
         "predictionSide": "away",
         "odds": {
-          "home": "220",
-          "draw": "260",
-          "away": "115"
+          "home": "3.20",
+          "draw": "3.60",
+          "away": "2.15"
         },
         "homeForm": [
           "L",
@@ -59,9 +1176,9 @@
         "prediction": "Away 0-1",
         "predictionSide": "away",
         "odds": {
-          "home": "175",
-          "draw": "225",
-          "away": "162"
+          "home": "2.75",
+          "draw": "3.25",
+          "away": "2.63"
         },
         "homeForm": [
           "D",
@@ -90,9 +1207,9 @@
         "prediction": "Home 1-0",
         "predictionSide": "home",
         "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
+          "home": "1.96",
+          "draw": "3.30",
+          "away": "3.80"
         },
         "homeForm": [
           "W",
@@ -121,9 +1238,9 @@
         "prediction": "Home 2-0",
         "predictionSide": "home",
         "odds": {
-          "home": "132",
-          "draw": "210",
-          "away": "210"
+          "home": "2.32",
+          "draw": "3.10",
+          "away": "3.10"
         },
         "homeForm": [
           "D",
@@ -152,9 +1269,9 @@
         "prediction": "Draw 2-2",
         "predictionSide": "draw",
         "odds": {
-          "home": "120",
-          "draw": "210",
-          "away": "230"
+          "home": "2.20",
+          "draw": "3.10",
+          "away": "3.30"
         },
         "homeForm": [
           "D",
@@ -183,9 +1300,9 @@
         "prediction": "Draw 2-2",
         "predictionSide": "draw",
         "odds": {
-          "home": "175",
-          "draw": "210",
-          "away": "155"
+          "home": "2.75",
+          "draw": "3.10",
+          "away": "2.55"
         },
         "homeForm": [
           "D",
@@ -245,9 +1362,9 @@
         "prediction": "Home 3-0",
         "predictionSide": "home",
         "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
+          "home": "1.88",
+          "draw": "3.30",
+          "away": "4.05"
         },
         "homeForm": [
           "L",
@@ -276,9 +1393,9 @@
         "prediction": "Draw 1-1",
         "predictionSide": "draw",
         "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
+          "home": "2.16",
+          "draw": "3.30",
+          "away": "3.15"
         },
         "homeForm": [
           "L",
@@ -307,9 +1424,9 @@
         "prediction": "Draw 1-1",
         "predictionSide": "draw",
         "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
+          "home": "1.74",
+          "draw": "3.55",
+          "away": "4.50"
         },
         "homeForm": [
           "L",
@@ -338,9 +1455,9 @@
         "prediction": "Home 1-0",
         "predictionSide": "home",
         "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
+          "home": "1.57",
+          "draw": "4.10",
+          "away": "5.75"
         },
         "homeForm": [
           "W",
@@ -369,9 +1486,9 @@
         "prediction": "Away 0-2",
         "predictionSide": "away",
         "odds": {
-          "home": "135",
-          "draw": "210",
-          "away": "225"
+          "home": "2.35",
+          "draw": "3.10",
+          "away": "3.25"
         },
         "homeForm": [
           "L",
@@ -400,9 +1517,9 @@
         "prediction": "Draw 1-1",
         "predictionSide": "draw",
         "odds": {
-          "home": "160",
-          "draw": "220",
-          "away": "137"
+          "home": "2.60",
+          "draw": "3.20",
+          "away": "2.38"
         },
         "homeForm": [
           "D",
@@ -431,9 +1548,9 @@
         "prediction": "Draw 2-2",
         "predictionSide": "draw",
         "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
+          "home": "1.46",
+          "draw": "4.00",
+          "away": "6.50"
         },
         "homeForm": [
           "W",
@@ -462,9 +1579,9 @@
         "prediction": "Home 2-1",
         "predictionSide": "home",
         "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
+          "home": "1.36",
+          "draw": "4.80",
+          "away": "7.40"
         },
         "homeForm": [
           "W",
@@ -493,9 +1610,9 @@
         "prediction": "Draw 2-2",
         "predictionSide": "draw",
         "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
+          "home": "1.67",
+          "draw": "3.50",
+          "away": "4.20"
         },
         "homeForm": [
           "L",
@@ -524,9 +1641,9 @@
         "prediction": "Home 2-0",
         "predictionSide": "home",
         "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
+          "home": "1.53",
+          "draw": "4.10",
+          "away": "5.25"
         },
         "homeForm": [
           "L",
@@ -586,9 +1703,9 @@
         "prediction": "Draw 2-2",
         "predictionSide": "draw",
         "odds": {
-          "home": "130",
-          "draw": "210",
-          "away": "187"
+          "home": "2.30",
+          "draw": "3.10",
+          "away": "2.88"
         },
         "homeForm": [
           "L",
@@ -617,9 +1734,9 @@
         "prediction": "Away 0-2",
         "predictionSide": "away",
         "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
+          "home": "4.20",
+          "draw": "3.70",
+          "away": "1.70"
         },
         "homeForm": [
           "D",
@@ -648,9 +1765,9 @@
         "prediction": "Home 3-0",
         "predictionSide": "home",
         "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
+          "home": "1.17",
+          "draw": "7.00",
+          "away": "12.00"
         },
         "homeForm": [
           "W",
@@ -679,9 +1796,9 @@
         "prediction": "Home 2-0",
         "predictionSide": "home",
         "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
+          "home": "1.40",
+          "draw": "4.00",
+          "away": "7.50"
         },
         "homeForm": [
           "W",
@@ -710,9 +1827,9 @@
         "prediction": "Draw 2-2",
         "predictionSide": "draw",
         "odds": {
-          "home": "115",
-          "draw": "240",
-          "away": "200"
+          "home": "2.15",
+          "draw": "3.40",
+          "away": "3.00"
         },
         "homeForm": [
           "D",
@@ -741,9 +1858,9 @@
         "prediction": "Away 2-3",
         "predictionSide": "away",
         "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
+          "home": "2.64",
+          "draw": "3.55",
+          "away": "2.38"
         },
         "homeForm": [
           "L",
@@ -772,9 +1889,9 @@
         "prediction": "Home 1-0",
         "predictionSide": "home",
         "odds": {
-          "home": "180",
-          "draw": "270",
-          "away": "130"
+          "home": "2.80",
+          "draw": "3.70",
+          "away": "2.30"
         },
         "homeForm": [
           "D",
@@ -803,9 +1920,9 @@
         "prediction": "Draw 0-0",
         "predictionSide": "draw",
         "odds": {
-          "home": "137",
-          "draw": "240",
-          "away": "160"
+          "home": "2.38",
+          "draw": "3.40",
+          "away": "2.60"
         },
         "homeForm": [
           "D",
@@ -834,9 +1951,9 @@
         "prediction": "Home 3-0",
         "predictionSide": "home",
         "odds": {
-          "home": "100",
-          "draw": "260",
-          "away": "210"
+          "home": "2.00",
+          "draw": "3.60",
+          "away": "3.10"
         },
         "homeForm": [
           "W",
@@ -865,9 +1982,9 @@
         "prediction": "Away 0-1",
         "predictionSide": "away",
         "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
+          "home": "1.79",
+          "draw": "3.30",
+          "away": "4.75"
         },
         "homeForm": [
           "L",
@@ -896,9 +2013,9 @@
         "prediction": "Draw 0-0",
         "predictionSide": "draw",
         "odds": {
-          "home": "115",
-          "draw": "230",
-          "away": "210"
+          "home": "2.15",
+          "draw": "3.30",
+          "away": "3.10"
         },
         "homeForm": [
           "W",
@@ -927,9 +2044,9 @@
         "prediction": "Draw 2-2",
         "predictionSide": "draw",
         "odds": {
-          "home": "145",
-          "draw": "220",
-          "away": "155"
+          "home": "2.45",
+          "draw": "3.20",
+          "away": "2.55"
         },
         "homeForm": [
           "L",
@@ -958,9 +2075,9 @@
         "prediction": "Home 3-0",
         "predictionSide": "home",
         "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
+          "home": "2.80",
+          "draw": "3.15",
+          "away": "2.46"
         },
         "homeForm": [
           "W",
@@ -1020,9 +2137,9 @@
         "prediction": "Home 2-0",
         "predictionSide": "home",
         "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
+          "home": "1.30",
+          "draw": "5.25",
+          "away": "8.00"
         },
         "homeForm": [
           "D",
@@ -1051,9 +2168,9 @@
         "prediction": "Home 2-0",
         "predictionSide": "home",
         "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
+          "home": "1.71",
+          "draw": "3.75",
+          "away": "4.33"
         },
         "homeForm": [
           "L",
@@ -1082,9 +2199,9 @@
         "prediction": "Away 0-2",
         "predictionSide": "away",
         "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
+          "home": "3.60",
+          "draw": "3.50",
+          "away": "1.91"
         },
         "homeForm": [
           "L",
@@ -1113,9 +2230,9 @@
         "prediction": "Draw 2-2",
         "predictionSide": "draw",
         "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
+          "home": "2.58",
+          "draw": "3.15",
+          "away": "2.73"
         },
         "homeForm": [
           "D",
@@ -1144,9 +2261,9 @@
         "prediction": "Away 0-2",
         "predictionSide": "away",
         "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
+          "home": "2.96",
+          "draw": "3.35",
+          "away": "2.17"
         },
         "homeForm": [
           "D",
@@ -1175,9 +2292,9 @@
         "prediction": "Draw 1-1",
         "predictionSide": "draw",
         "odds": {
-          "home": "115",
-          "draw": "250",
-          "away": "200"
+          "home": "2.15",
+          "draw": "3.60",
+          "away": "2.85"
         },
         "homeForm": [
           "W",
@@ -1206,9 +2323,9 @@
         "prediction": "Home 3-1",
         "predictionSide": "home",
         "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
+          "home": "1.49",
+          "draw": "3.90",
+          "away": "6.00"
         },
         "homeForm": [
           "W",
@@ -1237,9 +2354,9 @@
         "prediction": "Away 0-2",
         "predictionSide": "away",
         "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
+          "home": "3.10",
+          "draw": "3.35",
+          "away": "2.18"
         },
         "homeForm": [
           "L",
@@ -1268,9 +2385,9 @@
         "prediction": "Home 1-0",
         "predictionSide": "home",
         "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
+          "home": "1.58",
+          "draw": "3.80",
+          "away": "5.40"
         },
         "homeForm": [
           "W",
@@ -1299,9 +2416,9 @@
         "prediction": "Draw 1-1",
         "predictionSide": "draw",
         "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
+          "home": "1.88",
+          "draw": "3.75",
+          "away": "3.55"
         },
         "homeForm": [
           "L",
@@ -1330,9 +2447,9 @@
         "prediction": "Away 0-2",
         "predictionSide": "away",
         "odds": {
-          "home": "120",
-          "draw": "200",
-          "away": "260"
+          "home": "2.20",
+          "draw": "3.00",
+          "away": "3.60"
         },
         "homeForm": [
           "D",
@@ -1361,9 +2478,9 @@
         "prediction": "Draw 2-2",
         "predictionSide": "draw",
         "odds": {
-          "home": "125",
-          "draw": "182",
-          "away": "275"
+          "home": "2.25",
+          "draw": "2.82",
+          "away": "3.75"
         },
         "homeForm": [
           "L",
@@ -1392,9 +2509,9 @@
         "prediction": "Home 2-0",
         "predictionSide": "home",
         "odds": {
-          "home": "125",
-          "draw": "185",
-          "away": "270"
+          "home": "2.25",
+          "draw": "2.85",
+          "away": "3.70"
         },
         "homeForm": [
           "W",
@@ -1423,9 +2540,9 @@
         "prediction": "Home 3-0",
         "predictionSide": "home",
         "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
+          "home": "1.06",
+          "draw": "11.00",
+          "away": "26.00"
         },
         "homeForm": [
           "W",
@@ -1454,9 +2571,9 @@
         "prediction": "Home 1-0",
         "predictionSide": "home",
         "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
+          "home": "1.71",
+          "draw": "3.90",
+          "away": "3.80"
         },
         "homeForm": [
           "D",
@@ -1485,9 +2602,9 @@
         "prediction": "Home 3-0",
         "predictionSide": "home",
         "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
+          "home": "1.07",
+          "draw": "11.00",
+          "away": "21.00"
         },
         "homeForm": [
           "D",
@@ -1516,9 +2633,9 @@
         "prediction": "Draw 0-0",
         "predictionSide": "draw",
         "odds": {
-          "home": "157",
-          "draw": "240",
-          "away": "145"
+          "home": "2.70",
+          "draw": "3.40",
+          "away": "2.50"
         },
         "homeForm": [
           "W",
@@ -1547,9 +2664,9 @@
         "prediction": "Away 0-3",
         "predictionSide": "away",
         "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
+          "home": "4.20",
+          "draw": "3.40",
+          "away": "1.91"
         },
         "homeForm": [
           "L",
@@ -1578,9 +2695,9 @@
         "prediction": "Home 2-0",
         "predictionSide": "home",
         "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
+          "home": "1.79",
+          "draw": "3.40",
+          "away": "4.50"
         },
         "homeForm": [
           "D",
@@ -1609,9 +2726,9 @@
         "prediction": "Home 4-0",
         "predictionSide": "home",
         "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
+          "home": "1.07",
+          "draw": "9.50",
+          "away": "26.00"
         },
         "homeForm": [
           "D",
@@ -1640,9 +2757,9 @@
         "prediction": "Home 1-0",
         "predictionSide": "home",
         "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
+          "home": "1.30",
+          "draw": "4.50",
+          "away": "11.00"
         },
         "homeForm": [
           "L",
@@ -1671,9 +2788,9 @@
         "prediction": "Home 1-0",
         "predictionSide": "home",
         "odds": {
-          "home": "130",
-          "draw": "210",
-          "away": "230"
+          "home": "2.30",
+          "draw": "3.10",
+          "away": "3.40"
         },
         "homeForm": [
           "W",
@@ -1702,9 +2819,9 @@
         "prediction": "Home 2-1",
         "predictionSide": "home",
         "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
+          "home": "1.80",
+          "draw": "3.50",
+          "away": "4.50"
         },
         "homeForm": [
           "W",
@@ -1733,9 +2850,9 @@
         "prediction": "Draw 1-1",
         "predictionSide": "draw",
         "odds": {
-          "home": "155",
-          "draw": "200",
-          "away": "162"
+          "home": "2.55",
+          "draw": "3.00",
+          "away": "2.63"
         },
         "homeForm": [
           "W",
@@ -1764,9 +2881,9 @@
         "prediction": "Home 3-0",
         "predictionSide": "home",
         "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
+          "home": "1.75",
+          "draw": "3.30",
+          "away": "4.20"
         },
         "homeForm": [
           "L",
@@ -1795,9 +2912,9 @@
         "prediction": "Draw 0-0",
         "predictionSide": "draw",
         "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
+          "home": "3.00",
+          "draw": "4.00",
+          "away": "1.95"
         },
         "homeForm": [
           "L",
@@ -1826,9 +2943,9 @@
         "prediction": "Home 4-1",
         "predictionSide": "home",
         "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
+          "home": "1.37",
+          "draw": "4.80",
+          "away": "6.50"
         },
         "homeForm": [
           "W",
@@ -1857,9 +2974,9 @@
         "prediction": "Draw 2-2",
         "predictionSide": "draw",
         "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
+          "home": "3.80",
+          "draw": "3.75",
+          "away": "1.77"
         },
         "homeForm": [
           "L",
@@ -1888,9 +3005,9 @@
         "prediction": "Home 3-0",
         "predictionSide": "home",
         "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
+          "home": "1.51",
+          "draw": "4.33",
+          "away": "5.75"
         },
         "homeForm": [
           "W",
@@ -1919,9 +3036,9 @@
         "prediction": "Away 0-3",
         "predictionSide": "away",
         "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
+          "home": "5.60",
+          "draw": "4.25",
+          "away": "1.50"
         },
         "homeForm": [
           "L",
@@ -1950,9 +3067,9 @@
         "prediction": "Draw 0-0",
         "predictionSide": "draw",
         "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
+          "home": "1.54",
+          "draw": "4.20",
+          "away": "4.80"
         },
         "homeForm": [
           "D",
@@ -1971,6 +3088,68 @@
         "url": "https://www.predictz.com/predictions/honduras/liga-nacional/1222349/"
       },
       {
+        "id": "1222351",
+        "day": "tomorrow",
+        "date": "2026-10-12",
+        "league": "Honduras Liga Nacional",
+        "homeTeam": "Juticalpa",
+        "awayTeam": "Atletico Choloma",
+        "match": "Juticalpa v Atletico Choloma",
+        "prediction": "Away 0-2",
+        "predictionSide": "away",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [
+          "W",
+          "L",
+          "L",
+          "W",
+          "L"
+        ],
+        "awayForm": [
+          "L",
+          "D",
+          "L",
+          "W",
+          "L"
+        ],
+        "url": "https://www.predictz.com/predictions/honduras/liga-nacional/1222351/"
+      },
+      {
+        "id": "1222350",
+        "day": "tomorrow",
+        "date": "2026-10-12",
+        "league": "Honduras Liga Nacional",
+        "homeTeam": "Platense",
+        "awayTeam": "Motagua",
+        "match": "Platense v Motagua",
+        "prediction": "Away 0-1",
+        "predictionSide": "away",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [
+          "W",
+          "L",
+          "D",
+          "L",
+          "W"
+        ],
+        "awayForm": [
+          "W",
+          "D",
+          "W",
+          "L",
+          "W"
+        ],
+        "url": "https://www.predictz.com/predictions/honduras/liga-nacional/1222350/"
+      },
+      {
         "id": "1208550",
         "day": "tomorrow",
         "date": "2026-10-12",
@@ -1981,9 +3160,9 @@
         "prediction": "Home 1-0",
         "predictionSide": "home",
         "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
+          "home": "1.91",
+          "draw": "3.70",
+          "away": "3.75"
         },
         "homeForm": [
           "W",
@@ -2012,9 +3191,9 @@
         "prediction": "Home 2-0",
         "predictionSide": "home",
         "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
+          "home": "1.66",
+          "draw": "3.80",
+          "away": "5.00"
         },
         "homeForm": [
           "D",
@@ -2043,9 +3222,9 @@
         "prediction": "Draw 2-2",
         "predictionSide": "draw",
         "odds": {
-          "home": "240",
-          "draw": "270",
-          "away": "101"
+          "home": "3.60",
+          "draw": "3.70",
+          "away": "1.96"
         },
         "homeForm": [
           "L",
@@ -2074,9 +3253,9 @@
         "prediction": "Home 1-0",
         "predictionSide": "home",
         "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
+          "home": "2.68",
+          "draw": "3.30",
+          "away": "2.37"
         },
         "homeForm": [
           "W",
@@ -2105,9 +3284,9 @@
         "prediction": "Away 0-2",
         "predictionSide": "away",
         "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
+          "home": "2.97",
+          "draw": "3.35",
+          "away": "2.16"
         },
         "homeForm": [
           "L",
@@ -2136,9 +3315,9 @@
         "prediction": "Draw 2-2",
         "predictionSide": "draw",
         "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
+          "home": "3.20",
+          "draw": "3.40",
+          "away": "2.05"
         },
         "homeForm": [
           "D",
@@ -2167,9 +3346,9 @@
         "prediction": "Home 3-0",
         "predictionSide": "home",
         "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
+          "home": "1.19",
+          "draw": "5.80",
+          "away": "10.75"
         },
         "homeForm": [
           "W",
@@ -2198,9 +3377,9 @@
         "prediction": "Draw 0-0",
         "predictionSide": "draw",
         "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
+          "home": "4.75",
+          "draw": "3.80",
+          "away": "1.57"
         },
         "homeForm": [
           "L",
@@ -2260,9 +3439,9 @@
         "prediction": "Draw 2-2",
         "predictionSide": "draw",
         "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
+          "home": "3.70",
+          "draw": "2.76",
+          "away": "2.25"
         },
         "homeForm": [
           "L",
@@ -2290,9 +3469,9 @@
         "prediction": "Home 3-2",
         "predictionSide": "home",
         "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
+          "home": "2.54",
+          "draw": "3.05",
+          "away": "2.78"
         },
         "homeForm": [
           "W",
@@ -2321,9 +3500,9 @@
         "prediction": "Draw 1-1",
         "predictionSide": "draw",
         "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
+          "home": "3.05",
+          "draw": "2.66",
+          "away": "2.72"
         },
         "homeForm": [
           "L",
@@ -2352,9 +3531,9 @@
         "prediction": "Home 3-0",
         "predictionSide": "home",
         "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
+          "home": "2.17",
+          "draw": "2.88",
+          "away": "3.80"
         },
         "homeForm": [
           "D",
@@ -2383,9 +3562,9 @@
         "prediction": "Draw 2-2",
         "predictionSide": "draw",
         "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
+          "home": "1.58",
+          "draw": "3.90",
+          "away": "5.50"
         },
         "homeForm": [
           "W",
@@ -2414,9 +3593,9 @@
         "prediction": "Home 1-0",
         "predictionSide": "home",
         "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
+          "home": "2.25",
+          "draw": "2.68",
+          "away": "3.95"
         },
         "homeForm": [
           "L",
@@ -2498,5 +3677,5 @@
       }
     ]
   },
-  "count": 80
+  "count": 118
 }
