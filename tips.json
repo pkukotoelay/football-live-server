@@ -1,18 +1,143 @@
 {
   "source": "https://www.predictz.com/",
-  "scraped_at": "2026-10-16T16:50:52.955Z",
+  "scraped_at": "2026-10-16T21:28:34.374Z",
   "timezone": "Asia/Yangon",
   "today": {
     "day": "today",
-    "date": "2026-10-16",
-    "label": "www.predictz.com",
+    "date": "2026-10-17",
+    "label": "Football Tips Tonight - Friday, October 16th, 2026",
     "pageUrl": "https://www.predictz.com/predictions/",
-    "count": 0,
-    "tips": []
+    "count": 4,
+    "tips": [
+      {
+        "id": "1215278",
+        "day": "today",
+        "date": "2026-10-17",
+        "league": "Argentina Liga Profesional",
+        "homeTeam": "Defensa Y Justicia",
+        "awayTeam": "Instituto",
+        "match": "Defensa Y Justicia v Instituto",
+        "prediction": "Draw 2-2",
+        "predictionSide": "draw",
+        "odds": {
+          "home": "155",
+          "draw": "200",
+          "away": "200"
+        },
+        "homeForm": [
+          "L",
+          "W",
+          "D",
+          "W",
+          "W"
+        ],
+        "awayForm": [
+          "L",
+          "W",
+          "W",
+          "W",
+          "D"
+        ],
+        "url": "https://www.predictz.com/predictions/argentina/liga-profesional/1215278/"
+      },
+      {
+        "id": "1183617",
+        "day": "today",
+        "date": "2026-10-17",
+        "league": "Brazil Serie B",
+        "homeTeam": "Ponte Preta",
+        "awayTeam": "Atletico Goianiense",
+        "match": "Ponte Preta v Atletico Goianiense",
+        "prediction": "Away 0-2",
+        "predictionSide": "away",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [
+          "W",
+          "L",
+          "L",
+          "L",
+          "L"
+        ],
+        "awayForm": [
+          "L",
+          "W",
+          "W",
+          "L",
+          "D"
+        ],
+        "url": "https://www.predictz.com/predictions/brazil/serie-b/1183617/"
+      },
+      {
+        "id": "1213462",
+        "day": "today",
+        "date": "2026-10-17",
+        "league": "Paraguay Primera Division",
+        "homeTeam": "Recoleta",
+        "awayTeam": "Rubio Nu",
+        "match": "Recoleta v Rubio Nu",
+        "prediction": "Away 0-1",
+        "predictionSide": "away",
+        "odds": {
+          "home": "155",
+          "draw": "220",
+          "away": "145"
+        },
+        "homeForm": [
+          "L",
+          "L",
+          "D",
+          "D",
+          "L"
+        ],
+        "awayForm": [
+          "L",
+          "L",
+          "D",
+          "W",
+          "D"
+        ],
+        "url": "https://www.predictz.com/predictions/paraguay/primera-division/1213462/"
+      },
+      {
+        "id": "1224464",
+        "day": "today",
+        "date": "2026-10-17",
+        "league": "Uruguay Primera Division Finals",
+        "homeTeam": "Cerro",
+        "awayTeam": "Cerro Largo",
+        "match": "Cerro v Cerro Largo",
+        "prediction": "Draw 0-0",
+        "predictionSide": "draw",
+        "odds": {
+          "home": "115",
+          "draw": "200",
+          "away": "220"
+        },
+        "homeForm": [
+          "W",
+          "L",
+          "D",
+          "L",
+          "W"
+        ],
+        "awayForm": [
+          "D",
+          "L",
+          "L",
+          "L",
+          "L"
+        ],
+        "url": "https://www.predictz.com/predictions/uruguay/primera-division-finals/1224464/"
+      }
+    ]
   },
   "tomorrow": {
     "day": "tomorrow",
-    "date": "2026-10-17",
+    "date": "2026-10-18",
     "label": "Football Tips Tomorrow - Saturday, October 17th, 2026",
     "pageUrl": "https://www.predictz.com/predictions/tomorrow/",
     "count": 85,
@@ -20,7 +145,7 @@
       {
         "id": "1196818",
         "day": "tomorrow",
-        "date": "2026-10-17",
+        "date": "2026-10-18",
         "league": "England Premier League",
         "homeTeam": "Everton",
         "awayTeam": "Chelsea",
@@ -51,7 +176,7 @@
       {
         "id": "1196819",
         "day": "tomorrow",
-        "date": "2026-10-17",
+        "date": "2026-10-18",
         "league": "England Premier League",
         "homeTeam": "Brentford",
         "awayTeam": "Liverpool",
@@ -82,7 +207,7 @@
       {
         "id": "1196817",
         "day": "tomorrow",
-        "date": "2026-10-17",
+        "date": "2026-10-18",
         "league": "England Premier League",
         "homeTeam": "Fulham",
         "awayTeam": "Hull",
@@ -113,7 +238,7 @@
       {
         "id": "1196812",
         "day": "tomorrow",
-        "date": "2026-10-17",
+        "date": "2026-10-18",
         "league": "England Premier League",
         "homeTeam": "Man City",
         "awayTeam": "Ipswich",
@@ -144,7 +269,7 @@
       {
         "id": "1196816",
         "day": "tomorrow",
-        "date": "2026-10-17",
+        "date": "2026-10-18",
         "league": "England Premier League",
         "homeTeam": "Newcastle",
         "awayTeam": "Aston Villa",
@@ -175,7 +300,7 @@
       {
         "id": "1199968",
         "day": "tomorrow",
-        "date": "2026-10-17",
+        "date": "2026-10-18",
         "league": "England Championship",
         "homeTeam": "Middlesbrough",
         "awayTeam": "Cardiff",
@@ -206,7 +331,7 @@
       {
         "id": "1199966",
         "day": "tomorrow",
-        "date": "2026-10-17",
+        "date": "2026-10-18",
         "league": "England Championship",
         "homeTeam": "Millwall",
         "awayTeam": "Lincoln City",
@@ -237,7 +362,7 @@
       {
         "id": "1199965",
         "day": "tomorrow",
-        "date": "2026-10-17",
+        "date": "2026-10-18",
         "league": "England Championship",
         "homeTeam": "Watford",
         "awayTeam": "Charlton",
@@ -268,7 +393,7 @@
       {
         "id": "1199964",
         "day": "tomorrow",
-        "date": "2026-10-17",
+        "date": "2026-10-18",
         "league": "England Championship",
         "homeTeam": "Birmingham",
         "awayTeam": "QPR",
@@ -299,7 +424,7 @@
       {
         "id": "1199970",
         "day": "tomorrow",
-        "date": "2026-10-17",
+        "date": "2026-10-18",
         "league": "England Championship",
         "homeTeam": "Bristol City",
         "awayTeam": "Sheff Utd",
@@ -330,7 +455,7 @@
       {
         "id": "1199967",
         "day": "tomorrow",
-        "date": "2026-10-17",
+        "date": "2026-10-18",
         "league": "England Championship",
         "homeTeam": "Derby",
         "awayTeam": "Stoke",
@@ -361,7 +486,7 @@
       {
         "id": "1199973",
         "day": "tomorrow",
-        "date": "2026-10-17",
+        "date": "2026-10-18",
         "league": "England Championship",
         "homeTeam": "Norwich",
         "awayTeam": "Portsmouth",
@@ -392,7 +517,7 @@
       {
         "id": "1199969",
         "day": "tomorrow",
-        "date": "2026-10-17",
+        "date": "2026-10-18",
         "league": "England Championship",
         "homeTeam": "Southampton",
         "awayTeam": "Bolton",
@@ -423,7 +548,7 @@
       {
         "id": "1199972",
         "day": "tomorrow",
-        "date": "2026-10-17",
+        "date": "2026-10-18",
         "league": "England Championship",
         "homeTeam": "Swansea",
         "awayTeam": "West Ham",
@@ -454,7 +579,7 @@
       {
         "id": "1199963",
         "day": "tomorrow",
-        "date": "2026-10-17",
+        "date": "2026-10-18",
         "league": "England Championship",
         "homeTeam": "West Brom",
         "awayTeam": "Blackburn",
@@ -485,7 +610,7 @@
       {
         "id": "1199971",
         "day": "tomorrow",
-        "date": "2026-10-17",
+        "date": "2026-10-18",
         "league": "England Championship",
         "homeTeam": "Wrexham",
         "awayTeam": "Preston",
@@ -516,7 +641,7 @@
       {
         "id": "1200514",
         "day": "tomorrow",
-        "date": "2026-10-17",
+        "date": "2026-10-18",
         "league": "England League One",
         "homeTeam": "Milton Keynes Dons",
         "awayTeam": "Luton",
@@ -547,7 +672,7 @@
       {
         "id": "1200521",
         "day": "tomorrow",
-        "date": "2026-10-17",
+        "date": "2026-10-18",
         "league": "England League One",
         "homeTeam": "Peterborough",
         "awayTeam": "Burton Albion",
@@ -578,7 +703,7 @@
       {
         "id": "1200518",
         "day": "tomorrow",
-        "date": "2026-10-17",
+        "date": "2026-10-18",
         "league": "England League One",
         "homeTeam": "Barnsley",
         "awayTeam": "Cambridge Utd",
@@ -588,7 +713,7 @@
         "odds": {
           "home": "140",
           "draw": "250",
-          "away": "165"
+          "away": "157"
         },
         "homeForm": [
           "W",
@@ -609,7 +734,7 @@
       {
         "id": "1200517",
         "day": "tomorrow",
-        "date": "2026-10-17",
+        "date": "2026-10-18",
         "league": "England League One",
         "homeTeam": "Bradford",
         "awayTeam": "Stevenage",
@@ -640,7 +765,7 @@
       {
         "id": "1200519",
         "day": "tomorrow",
-        "date": "2026-10-17",
+        "date": "2026-10-18",
         "league": "England League One",
         "homeTeam": "Leicester",
         "awayTeam": "Doncaster",
@@ -671,7 +796,7 @@
       {
         "id": "1200525",
         "day": "tomorrow",
-        "date": "2026-10-17",
+        "date": "2026-10-18",
         "league": "England League One",
         "homeTeam": "Leyton Orient",
         "awayTeam": "Blackpool",
@@ -702,7 +827,7 @@
       {
         "id": "1200524",
         "day": "tomorrow",
-        "date": "2026-10-17",
+        "date": "2026-10-18",
         "league": "England League One",
         "homeTeam": "Plymouth",
         "awayTeam": "Huddersfield",
@@ -710,7 +835,7 @@
         "prediction": "Home 2-1",
         "predictionSide": "home",
         "odds": {
-          "home": "155",
+          "home": "150",
           "draw": "250",
           "away": "150"
         },
@@ -733,7 +858,7 @@
       {
         "id": "1200516",
         "day": "tomorrow",
-        "date": "2026-10-17",
+        "date": "2026-10-18",
         "league": "England League One",
         "homeTeam": "Sheffield Wednesday",
         "awayTeam": "AFC Wimbledon",
@@ -764,7 +889,7 @@
       {
         "id": "1200515",
         "day": "tomorrow",
-        "date": "2026-10-17",
+        "date": "2026-10-18",
         "league": "England League One",
         "homeTeam": "Stockport",
         "awayTeam": "Bromley",
@@ -795,7 +920,7 @@
       {
         "id": "1200520",
         "day": "tomorrow",
-        "date": "2026-10-17",
+        "date": "2026-10-18",
         "league": "England League One",
         "homeTeam": "Wigan",
         "awayTeam": "Reading",
@@ -826,7 +951,7 @@
       {
         "id": "1200522",
         "day": "tomorrow",
-        "date": "2026-10-17",
+        "date": "2026-10-18",
         "league": "England League One",
         "homeTeam": "Wycombe",
         "awayTeam": "Notts County",
@@ -857,7 +982,7 @@
       {
         "id": "1201076",
         "day": "tomorrow",
-        "date": "2026-10-17",
+        "date": "2026-10-18",
         "league": "England League Two",
         "homeTeam": "Fleetwood Town",
         "awayTeam": "Rotherham",
@@ -865,9 +990,9 @@
         "prediction": "Draw 0-0",
         "predictionSide": "draw",
         "odds": {
-          "home": "110",
+          "home": "115",
           "draw": "230",
-          "away": "225"
+          "away": "220"
         },
         "homeForm": [
           "D",
@@ -888,7 +1013,7 @@
       {
         "id": "1201074",
         "day": "tomorrow",
-        "date": "2026-10-17",
+        "date": "2026-10-18",
         "league": "England League Two",
         "homeTeam": "Shrewsbury",
         "awayTeam": "Bristol Rovers",
@@ -919,7 +1044,7 @@
       {
         "id": "1201075",
         "day": "tomorrow",
-        "date": "2026-10-17",
+        "date": "2026-10-18",
         "league": "England League Two",
         "homeTeam": "Accrington Stanley",
         "awayTeam": "Gillingham",
@@ -950,7 +1075,7 @@
       {
         "id": "1201072",
         "day": "tomorrow",
-        "date": "2026-10-17",
+        "date": "2026-10-18",
         "league": "England League Two",
         "homeTeam": "Colchester",
         "awayTeam": "Exeter",
@@ -981,7 +1106,7 @@
       {
         "id": "1201067",
         "day": "tomorrow",
-        "date": "2026-10-17",
+        "date": "2026-10-18",
         "league": "England League Two",
         "homeTeam": "Crewe",
         "awayTeam": "Rochdale",
@@ -1012,7 +1137,7 @@
       {
         "id": "1201066",
         "day": "tomorrow",
-        "date": "2026-10-17",
+        "date": "2026-10-18",
         "league": "England League Two",
         "homeTeam": "Grimsby",
         "awayTeam": "Northampton",
@@ -1043,7 +1168,7 @@
       {
         "id": "1201073",
         "day": "tomorrow",
-        "date": "2026-10-17",
+        "date": "2026-10-18",
         "league": "England League Two",
         "homeTeam": "Newport County",
         "awayTeam": "York",
@@ -1074,7 +1199,7 @@
       {
         "id": "1201071",
         "day": "tomorrow",
-        "date": "2026-10-17",
+        "date": "2026-10-18",
         "league": "England League Two",
         "homeTeam": "Oldham",
         "awayTeam": "Cheltenham",
@@ -1105,7 +1230,7 @@
       {
         "id": "1201070",
         "day": "tomorrow",
-        "date": "2026-10-17",
+        "date": "2026-10-18",
         "league": "England League Two",
         "homeTeam": "Port Vale",
         "awayTeam": "Chesterfield",
@@ -1136,7 +1261,7 @@
       {
         "id": "1201077",
         "day": "tomorrow",
-        "date": "2026-10-17",
+        "date": "2026-10-18",
         "league": "England League Two",
         "homeTeam": "Salford City",
         "awayTeam": "Crawley Town",
@@ -1167,7 +1292,7 @@
       {
         "id": "1201069",
         "day": "tomorrow",
-        "date": "2026-10-17",
+        "date": "2026-10-18",
         "league": "England League Two",
         "homeTeam": "Swindon",
         "awayTeam": "Walsall",
@@ -1198,7 +1323,7 @@
       {
         "id": "1201068",
         "day": "tomorrow",
-        "date": "2026-10-17",
+        "date": "2026-10-18",
         "league": "England League Two",
         "homeTeam": "Tranmere",
         "awayTeam": "Barnet",
@@ -1229,7 +1354,7 @@
       {
         "id": "1210384",
         "day": "tomorrow",
-        "date": "2026-10-17",
+        "date": "2026-10-18",
         "league": "England National League North",
         "homeTeam": "Buxton",
         "awayTeam": "Worksop Town",
@@ -1260,7 +1385,7 @@
       {
         "id": "1210411",
         "day": "tomorrow",
-        "date": "2026-10-17",
+        "date": "2026-10-18",
         "league": "England National League North",
         "homeTeam": "Hebburn Town",
         "awayTeam": "Scarborough Athletic",
@@ -1291,7 +1416,7 @@
       {
         "id": "1210380",
         "day": "tomorrow",
-        "date": "2026-10-17",
+        "date": "2026-10-18",
         "league": "England National League North",
         "homeTeam": "Hednesford Town",
         "awayTeam": "Brackley Town",
@@ -1322,7 +1447,7 @@
       {
         "id": "1210387",
         "day": "tomorrow",
-        "date": "2026-10-17",
+        "date": "2026-10-18",
         "league": "England National League North",
         "homeTeam": "Merthyr Town",
         "awayTeam": "Kings Lynn",
@@ -1353,7 +1478,7 @@
       {
         "id": "1210377",
         "day": "tomorrow",
-        "date": "2026-10-17",
+        "date": "2026-10-18",
         "league": "England National League North",
         "homeTeam": "Southport",
         "awayTeam": "Radcliffe Borough",
@@ -1384,7 +1509,7 @@
       {
         "id": "1210379",
         "day": "tomorrow",
-        "date": "2026-10-17",
+        "date": "2026-10-18",
         "league": "England National League North",
         "homeTeam": "Telford Utd",
         "awayTeam": "Darlington",
@@ -1415,7 +1540,7 @@
       {
         "id": "1210928",
         "day": "tomorrow",
-        "date": "2026-10-17",
+        "date": "2026-10-18",
         "league": "England National League South",
         "homeTeam": "Ebbsfleet United",
         "awayTeam": "Weston Super Mare",
@@ -1446,7 +1571,7 @@
       {
         "id": "1210927",
         "day": "tomorrow",
-        "date": "2026-10-17",
+        "date": "2026-10-18",
         "league": "England National League South",
         "homeTeam": "Farnborough Town",
         "awayTeam": "Dagenham and Redbridge",
@@ -1477,7 +1602,7 @@
       {
         "id": "1210935",
         "day": "tomorrow",
-        "date": "2026-10-17",
+        "date": "2026-10-18",
         "league": "England National League South",
         "homeTeam": "Folkestone Invicta",
         "awayTeam": "AFC Totton",
@@ -1508,7 +1633,7 @@
       {
         "id": "1210934",
         "day": "tomorrow",
-        "date": "2026-10-17",
+        "date": "2026-10-18",
         "league": "England National League South",
         "homeTeam": "Maidstone Utd",
         "awayTeam": "Maidenhead Utd",
@@ -1539,7 +1664,7 @@
       {
         "id": "1210930",
         "day": "tomorrow",
-        "date": "2026-10-17",
+        "date": "2026-10-18",
         "league": "England National League South",
         "homeTeam": "Slough Town",
         "awayTeam": "Horsham",
@@ -1570,7 +1695,7 @@
       {
         "id": "1211126",
         "day": "tomorrow",
-        "date": "2026-10-17",
+        "date": "2026-10-18",
         "league": "England National League South",
         "homeTeam": "Tonbridge Angels",
         "awayTeam": "Hemel Hempstead",
@@ -1601,7 +1726,7 @@
       {
         "id": "1195551",
         "day": "tomorrow",
-        "date": "2026-10-17",
+        "date": "2026-10-18",
         "league": "Scotland Premiership",
         "homeTeam": "Aberdeen",
         "awayTeam": "St Mirren",
@@ -1632,7 +1757,7 @@
       {
         "id": "1195550",
         "day": "tomorrow",
-        "date": "2026-10-17",
+        "date": "2026-10-18",
         "league": "Scotland Premiership",
         "homeTeam": "Hibernian",
         "awayTeam": "Falkirk",
@@ -1663,7 +1788,7 @@
       {
         "id": "1195547",
         "day": "tomorrow",
-        "date": "2026-10-17",
+        "date": "2026-10-18",
         "league": "Scotland Premiership",
         "homeTeam": "Kilmarnock",
         "awayTeam": "Motherwell",
@@ -1694,7 +1819,7 @@
       {
         "id": "1195548",
         "day": "tomorrow",
-        "date": "2026-10-17",
+        "date": "2026-10-18",
         "league": "Scotland Premiership",
         "homeTeam": "St Johnstone",
         "awayTeam": "Dundee Utd",
@@ -1725,7 +1850,7 @@
       {
         "id": "1195552",
         "day": "tomorrow",
-        "date": "2026-10-17",
+        "date": "2026-10-18",
         "league": "Scotland Premiership",
         "homeTeam": "Dundee",
         "awayTeam": "Rangers",
@@ -1756,7 +1881,7 @@
       {
         "id": "1202619",
         "day": "tomorrow",
-        "date": "2026-10-17",
+        "date": "2026-10-18",
         "league": "Spain La Liga",
         "homeTeam": "Espanyol",
         "awayTeam": "Atletico Madrid",
@@ -1787,7 +1912,7 @@
       {
         "id": "1202621",
         "day": "tomorrow",
-        "date": "2026-10-17",
+        "date": "2026-10-18",
         "league": "Spain La Liga",
         "homeTeam": "Villarreal",
         "awayTeam": "Elche",
@@ -1818,7 +1943,7 @@
       {
         "id": "1202620",
         "day": "tomorrow",
-        "date": "2026-10-17",
+        "date": "2026-10-18",
         "league": "Spain La Liga",
         "homeTeam": "Real Betis",
         "awayTeam": "Barcelona",
@@ -1849,7 +1974,7 @@
       {
         "id": "1202624",
         "day": "tomorrow",
-        "date": "2026-10-17",
+        "date": "2026-10-18",
         "league": "Spain La Liga",
         "homeTeam": "Valencia",
         "awayTeam": "Athletic Bilbao",
@@ -1857,7 +1982,7 @@
         "prediction": "Draw 0-0",
         "predictionSide": "draw",
         "odds": {
-          "home": "225",
+          "home": "220",
           "draw": "225",
           "away": "130"
         },
@@ -1880,7 +2005,7 @@
       {
         "id": "1204905",
         "day": "tomorrow",
-        "date": "2026-10-17",
+        "date": "2026-10-18",
         "league": "Germany Bundesliga",
         "homeTeam": "Elversberg",
         "awayTeam": "Augsburg",
@@ -1911,7 +2036,7 @@
       {
         "id": "1204908",
         "day": "tomorrow",
-        "date": "2026-10-17",
+        "date": "2026-10-18",
         "league": "Germany Bundesliga",
         "homeTeam": "Hamburg",
         "awayTeam": "VfB Stuttgart",
@@ -1942,7 +2067,7 @@
       {
         "id": "1204902",
         "day": "tomorrow",
-        "date": "2026-10-17",
+        "date": "2026-10-18",
         "league": "Germany Bundesliga",
         "homeTeam": "Schalke 04",
         "awayTeam": "Mainz",
@@ -1950,7 +2075,7 @@
         "prediction": "Away 0-3",
         "predictionSide": "away",
         "odds": {
-          "home": "190",
+          "home": "200",
           "draw": "270",
           "away": "130"
         },
@@ -1973,7 +2098,7 @@
       {
         "id": "1204904",
         "day": "tomorrow",
-        "date": "2026-10-17",
+        "date": "2026-10-18",
         "league": "Germany Bundesliga",
         "homeTeam": "Union Berlin",
         "awayTeam": "Borussia Dortmund",
@@ -2004,7 +2129,7 @@
       {
         "id": "1204903",
         "day": "tomorrow",
-        "date": "2026-10-17",
+        "date": "2026-10-18",
         "league": "Germany Bundesliga",
         "homeTeam": "Werder Bremen",
         "awayTeam": "Paderborn",
@@ -2035,7 +2160,7 @@
       {
         "id": "1204906",
         "day": "tomorrow",
-        "date": "2026-10-17",
+        "date": "2026-10-18",
         "league": "Germany Bundesliga",
         "homeTeam": "Bayern Munich",
         "awayTeam": "RB Leipzig",
@@ -2066,7 +2191,7 @@
       {
         "id": "1191387",
         "day": "tomorrow",
-        "date": "2026-10-17",
+        "date": "2026-10-18",
         "league": "Italy Serie A",
         "homeTeam": "Venezia",
         "awayTeam": "Napoli",
@@ -2097,7 +2222,7 @@
       {
         "id": "1191385",
         "day": "tomorrow",
-        "date": "2026-10-17",
+        "date": "2026-10-18",
         "league": "Italy Serie A",
         "homeTeam": "Bologna",
         "awayTeam": "Inter Milan",
@@ -2128,7 +2253,7 @@
       {
         "id": "1191392",
         "day": "tomorrow",
-        "date": "2026-10-17",
+        "date": "2026-10-18",
         "league": "Italy Serie A",
         "homeTeam": "Roma",
         "awayTeam": "Genoa",
@@ -2159,7 +2284,7 @@
       {
         "id": "1192604",
         "day": "tomorrow",
-        "date": "2026-10-17",
+        "date": "2026-10-18",
         "league": "France Ligue 1",
         "homeTeam": "Strasbourg",
         "awayTeam": "PSG",
@@ -2190,7 +2315,7 @@
       {
         "id": "1192600",
         "day": "tomorrow",
-        "date": "2026-10-17",
+        "date": "2026-10-18",
         "league": "France Ligue 1",
         "homeTeam": "Lille",
         "awayTeam": "Brestois",
@@ -2221,7 +2346,7 @@
       {
         "id": "1192602",
         "day": "tomorrow",
-        "date": "2026-10-17",
+        "date": "2026-10-18",
         "league": "France Ligue 1",
         "homeTeam": "Troyes",
         "awayTeam": "Lens",
@@ -2252,7 +2377,7 @@
       {
         "id": "1191933",
         "day": "tomorrow",
-        "date": "2026-10-17",
+        "date": "2026-10-18",
         "league": "Netherlands Eredivisie",
         "homeTeam": "ADO Den Haag",
         "awayTeam": "PSV",
@@ -2283,7 +2408,7 @@
       {
         "id": "1191935",
         "day": "tomorrow",
-        "date": "2026-10-17",
+        "date": "2026-10-18",
         "league": "Netherlands Eredivisie",
         "homeTeam": "Telstar",
         "awayTeam": "Feyenoord",
@@ -2314,7 +2439,7 @@
       {
         "id": "1191936",
         "day": "tomorrow",
-        "date": "2026-10-17",
+        "date": "2026-10-18",
         "league": "Netherlands Eredivisie",
         "homeTeam": "Sparta",
         "awayTeam": "Willem II",
@@ -2345,7 +2470,7 @@
       {
         "id": "1215268",
         "day": "tomorrow",
-        "date": "2026-10-17",
+        "date": "2026-10-18",
         "league": "Argentina Liga Profesional",
         "homeTeam": "Boca Juniors",
         "awayTeam": "Talleres",
@@ -2376,7 +2501,7 @@
       {
         "id": "1215274",
         "day": "tomorrow",
-        "date": "2026-10-17",
+        "date": "2026-10-18",
         "league": "Argentina Liga Profesional",
         "homeTeam": "Banfield",
         "awayTeam": "Argentinos Juniors",
@@ -2384,9 +2509,9 @@
         "prediction": "Draw 1-1",
         "predictionSide": "draw",
         "odds": {
-          "home": "280",
-          "draw": "210",
-          "away": "110"
+          "home": null,
+          "draw": null,
+          "away": null
         },
         "homeForm": [
           "L",
@@ -2407,7 +2532,7 @@
       {
         "id": "1215277",
         "day": "tomorrow",
-        "date": "2026-10-17",
+        "date": "2026-10-18",
         "league": "Argentina Liga Profesional",
         "homeTeam": "CA Platense",
         "awayTeam": "Lanus",
@@ -2438,7 +2563,7 @@
       {
         "id": "1215279",
         "day": "tomorrow",
-        "date": "2026-10-17",
+        "date": "2026-10-18",
         "league": "Argentina Liga Profesional",
         "homeTeam": "Independiente Rivadavia",
         "awayTeam": "Tigre",
@@ -2469,7 +2594,7 @@
       {
         "id": "1170895",
         "day": "tomorrow",
-        "date": "2026-10-17",
+        "date": "2026-10-18",
         "league": "Brazil Serie A",
         "homeTeam": "Mirassol",
         "awayTeam": "Internacional",
@@ -2477,9 +2602,9 @@
         "prediction": "Draw 1-1",
         "predictionSide": "draw",
         "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
+          "home": "101",
+          "draw": "260",
+          "away": "250"
         },
         "homeForm": [
           "W",
@@ -2500,7 +2625,7 @@
       {
         "id": "1170888",
         "day": "tomorrow",
-        "date": "2026-10-17",
+        "date": "2026-10-18",
         "league": "Brazil Serie A",
         "homeTeam": "Botafogo",
         "awayTeam": "Chapecoense",
@@ -2531,7 +2656,7 @@
       {
         "id": "1170891",
         "day": "tomorrow",
-        "date": "2026-10-17",
+        "date": "2026-10-18",
         "league": "Brazil Serie A",
         "homeTeam": "Atletico Mineiro",
         "awayTeam": "Coritiba",
@@ -2562,7 +2687,7 @@
       {
         "id": "1170890",
         "day": "tomorrow",
-        "date": "2026-10-17",
+        "date": "2026-10-18",
         "league": "Brazil Serie A",
         "homeTeam": "Athletico Paranaense",
         "awayTeam": "Palmeiras",
@@ -2593,7 +2718,7 @@
       {
         "id": "1171908",
         "day": "tomorrow",
-        "date": "2026-10-17",
+        "date": "2026-10-18",
         "league": "USA Major League Soccer",
         "homeTeam": "Philadelphia Union",
         "awayTeam": "Charlotte FC",
@@ -2624,7 +2749,7 @@
       {
         "id": "1171909",
         "day": "tomorrow",
-        "date": "2026-10-17",
+        "date": "2026-10-18",
         "league": "USA Major League Soccer",
         "homeTeam": "Minnesota United",
         "awayTeam": "St Louis City SC",
@@ -2632,9 +2757,9 @@
         "prediction": "Draw 2-2",
         "predictionSide": "draw",
         "odds": {
-          "home": "140",
+          "home": "145",
           "draw": "275",
-          "away": "165"
+          "away": "155"
         },
         "homeForm": [
           "L",
@@ -2654,5 +2779,5 @@
       }
     ]
   },
-  "count": 85
+  "count": 89
 }
