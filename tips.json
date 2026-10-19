@@ -1,13 +1,13 @@
 {
   "source": "https://www.predictz.com/",
-  "scraped_at": "2026-10-18T23:27:12.666Z",
+  "scraped_at": "2026-10-19T05:02:11.802Z",
   "timezone": "Asia/Yangon",
   "today": {
     "day": "today",
     "date": "2026-10-19",
     "label": "Football Tips Today - Monday, October 19th, 2026",
     "pageUrl": "https://www.predictz.com/predictions/",
-    "count": 73,
+    "count": 66,
     "tips": [
       {
         "id": "1196814",
@@ -299,9 +299,9 @@
         "prediction": "Away 0-1",
         "predictionSide": "away",
         "odds": {
-          "home": "230",
+          "home": "220",
           "draw": "210",
-          "away": "135"
+          "away": "140"
         },
         "homeForm": [
           "L",
@@ -423,9 +423,9 @@
         "prediction": "Home 1-0",
         "predictionSide": "home",
         "odds": {
-          "home": "105",
-          "draw": "280",
-          "away": "210"
+          "home": null,
+          "draw": null,
+          "away": null
         },
         "homeForm": [
           "W",
@@ -1198,9 +1198,9 @@
         "prediction": "Home 3-1",
         "predictionSide": "home",
         "odds": {
-          "home": "145",
+          "home": "140",
           "draw": "250",
-          "away": "140"
+          "away": "145"
         },
         "homeForm": [
           "L",
@@ -1446,9 +1446,9 @@
         "prediction": "Draw 1-1",
         "predictionSide": "draw",
         "odds": {
-          "home": "125",
+          "home": "130",
           "draw": "185",
-          "away": "270"
+          "away": "260"
         },
         "homeForm": [
           "W",
@@ -1477,9 +1477,9 @@
         "prediction": "Draw 2-2",
         "predictionSide": "draw",
         "odds": {
-          "home": "170",
-          "draw": "157",
-          "away": "165"
+          "home": "220",
+          "draw": "105",
+          "away": "200"
         },
         "homeForm": [
           "W",
@@ -1496,37 +1496,6 @@
           "L"
         ],
         "url": "https://www.predictz.com/predictions/argentina/primera-b/1206460/"
-      },
-      {
-        "id": "1224365",
-        "day": "today",
-        "date": "2026-10-19",
-        "league": "Bolivia Primera Division",
-        "homeTeam": "Guabira",
-        "awayTeam": "Oriente Petrolero",
-        "match": "Guabira v Oriente Petrolero",
-        "prediction": "Draw 2-2",
-        "predictionSide": "draw",
-        "odds": {
-          "home": "115",
-          "draw": "240",
-          "away": "182"
-        },
-        "homeForm": [
-          "L",
-          "D",
-          "L",
-          "W",
-          "L"
-        ],
-        "awayForm": [
-          "D",
-          "L",
-          "L",
-          "W",
-          "W"
-        ],
-        "url": "https://www.predictz.com/predictions/bolivia/primera-division/1224365/"
       },
       {
         "id": "1183616",
@@ -1558,192 +1527,6 @@
           "L"
         ],
         "url": "https://www.predictz.com/predictions/brazil/serie-b/1183616/"
-      },
-      {
-        "id": "1222356",
-        "day": "today",
-        "date": "2026-10-19",
-        "league": "Honduras Liga Nacional",
-        "homeTeam": "Atletico Choloma",
-        "awayTeam": "CD Olimpia",
-        "match": "Atletico Choloma v CD Olimpia",
-        "prediction": "Away 0-3",
-        "predictionSide": "away",
-        "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
-        },
-        "homeForm": [
-          "D",
-          "L",
-          "W",
-          "L",
-          "W"
-        ],
-        "awayForm": [
-          "W",
-          "L",
-          "W",
-          "W",
-          "W"
-        ],
-        "url": "https://www.predictz.com/predictions/honduras/liga-nacional/1222356/"
-      },
-      {
-        "id": "1222359",
-        "day": "today",
-        "date": "2026-10-19",
-        "league": "Honduras Liga Nacional",
-        "homeTeam": "Motagua",
-        "awayTeam": "Marathon",
-        "match": "Motagua v Marathon",
-        "prediction": "Home 3-2",
-        "predictionSide": "home",
-        "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
-        },
-        "homeForm": [
-          "D",
-          "W",
-          "L",
-          "W",
-          "W"
-        ],
-        "awayForm": [
-          "W",
-          "W",
-          "L",
-          "D",
-          "W"
-        ],
-        "url": "https://www.predictz.com/predictions/honduras/liga-nacional/1222359/"
-      },
-      {
-        "id": "1222360",
-        "day": "today",
-        "date": "2026-10-19",
-        "league": "Honduras Liga Nacional",
-        "homeTeam": "Olancho",
-        "awayTeam": "Platense",
-        "match": "Olancho v Platense",
-        "prediction": "Home 2-0",
-        "predictionSide": "home",
-        "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
-        },
-        "homeForm": [
-          "D",
-          "D",
-          "D",
-          "D",
-          "L"
-        ],
-        "awayForm": [
-          "L",
-          "D",
-          "L",
-          "W",
-          "L"
-        ],
-        "url": "https://www.predictz.com/predictions/honduras/liga-nacional/1222360/"
-      },
-      {
-        "id": "1222357",
-        "day": "today",
-        "date": "2026-10-19",
-        "league": "Honduras Liga Nacional",
-        "homeTeam": "Real Espana",
-        "awayTeam": "Juticalpa",
-        "match": "Real Espana v Juticalpa",
-        "prediction": "Home 2-0",
-        "predictionSide": "home",
-        "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
-        },
-        "homeForm": [
-          "W",
-          "D",
-          "W",
-          "W",
-          "L"
-        ],
-        "awayForm": [
-          "L",
-          "L",
-          "W",
-          "L",
-          "L"
-        ],
-        "url": "https://www.predictz.com/predictions/honduras/liga-nacional/1222357/"
-      },
-      {
-        "id": "1208553",
-        "day": "today",
-        "date": "2026-10-19",
-        "league": "Mexico Liga MX",
-        "homeTeam": "Monterrey",
-        "awayTeam": "Pachuca",
-        "match": "Monterrey v Pachuca",
-        "prediction": "Draw 2-2",
-        "predictionSide": "draw",
-        "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
-        },
-        "homeForm": [
-          "L",
-          "D",
-          "W",
-          "L",
-          "D"
-        ],
-        "awayForm": [
-          "W",
-          "W",
-          "D",
-          "L",
-          "D"
-        ],
-        "url": "https://www.predictz.com/predictions/mexico/la-division/1208553/"
-      },
-      {
-        "id": "1221783",
-        "day": "today",
-        "date": "2026-10-19",
-        "league": "Nicaragua Liga Primera",
-        "homeTeam": "Rancho Santana FC",
-        "awayTeam": "Diriangen",
-        "match": "Rancho Santana FC v Diriangen",
-        "prediction": "Away 0-3",
-        "predictionSide": "away",
-        "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
-        },
-        "homeForm": [
-          "D",
-          "D",
-          "L",
-          "D",
-          "L"
-        ],
-        "awayForm": [
-          "W",
-          "W",
-          "W",
-          "L",
-          "W"
-        ],
-        "url": "https://www.predictz.com/predictions/nicaragua/liga-primera/1221783/"
       },
       {
         "id": "1176841",
@@ -3463,9 +3246,9 @@
         "prediction": "Draw 0-0",
         "predictionSide": "draw",
         "odds": {
-          "home": "125",
-          "draw": "182",
-          "away": "275"
+          "home": "120",
+          "draw": "185",
+          "away": "290"
         },
         "homeForm": [
           "D",
@@ -3949,37 +3732,6 @@
         "url": "https://www.predictz.com/predictions/egypt/premier-league/1218903/"
       },
       {
-        "id": "1218900",
-        "day": "tomorrow",
-        "date": "2026-10-20",
-        "league": "Egypt Premier League",
-        "homeTeam": "Wadi Degla",
-        "awayTeam": "National Bank",
-        "match": "Wadi Degla v National Bank",
-        "prediction": "Draw 0-0",
-        "predictionSide": "draw",
-        "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
-        },
-        "homeForm": [
-          "W",
-          "D",
-          "L",
-          "L",
-          "D"
-        ],
-        "awayForm": [
-          "L",
-          "W",
-          "W",
-          "L",
-          "W"
-        ],
-        "url": "https://www.predictz.com/predictions/egypt/premier-league/1218900/"
-      },
-      {
         "id": "1218901",
         "day": "tomorrow",
         "date": "2026-10-20",
@@ -4009,6 +3761,37 @@
           "W"
         ],
         "url": "https://www.predictz.com/predictions/egypt/premier-league/1218901/"
+      },
+      {
+        "id": "1218900",
+        "day": "tomorrow",
+        "date": "2026-10-20",
+        "league": "Egypt Premier League",
+        "homeTeam": "Wadi Degla",
+        "awayTeam": "National Bank",
+        "match": "Wadi Degla v National Bank",
+        "prediction": "Draw 0-0",
+        "predictionSide": "draw",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [
+          "W",
+          "D",
+          "L",
+          "L",
+          "D"
+        ],
+        "awayForm": [
+          "L",
+          "W",
+          "W",
+          "L",
+          "W"
+        ],
+        "url": "https://www.predictz.com/predictions/egypt/premier-league/1218900/"
       },
       {
         "id": "1220037",
@@ -4167,5 +3950,5 @@
       }
     ]
   },
-  "count": 134
+  "count": 127
 }
