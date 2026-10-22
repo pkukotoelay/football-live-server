@@ -1,6 +1,6 @@
 {
   "source": "https://www.predictz.com/",
-  "scraped_at": "2026-10-22T12:13:21.423Z",
+  "scraped_at": "2026-10-22T17:27:02.941Z",
   "timezone": "Asia/Yangon",
   "today": {
     "day": "today",
@@ -15,7 +15,7 @@
     "date": "2026-10-23",
     "label": "Football Tips Tomorrow - Friday, October 23rd, 2026",
     "pageUrl": "https://www.predictz.com/predictions/tomorrow/",
-    "count": 153,
+    "count": 152,
     "tips": [
       {
         "id": "1223051",
@@ -462,9 +462,9 @@
         "prediction": "Away 0-1",
         "predictionSide": "away",
         "odds": {
-          "home": "190",
-          "draw": "260",
-          "away": "110"
+          "home": "200",
+          "draw": "270",
+          "away": "115"
         },
         "homeForm": [
           "L",
@@ -493,9 +493,9 @@
         "prediction": "Away 0-3",
         "predictionSide": "away",
         "odds": {
-          "home": "200",
-          "draw": "270",
-          "away": "110"
+          "home": "210",
+          "draw": "275",
+          "away": "105"
         },
         "homeForm": [
           "W",
@@ -2851,7 +2851,7 @@
         "odds": {
           "home": "101",
           "draw": "270",
-          "away": "230"
+          "away": "225"
         },
         "homeForm": [
           "L",
@@ -3283,9 +3283,9 @@
         "prediction": "Home 2-1",
         "predictionSide": "home",
         "odds": {
-          "home": "120",
-          "draw": "185",
-          "away": "270"
+          "home": "115",
+          "draw": "200",
+          "away": "290"
         },
         "homeForm": [
           "L",
@@ -4358,6 +4358,34 @@
         "url": "https://www.predictz.com/predictions/ghana/premier-league/1221977/"
       },
       {
+        "id": "1220057",
+        "day": "tomorrow",
+        "date": "2026-10-23",
+        "league": "Kenya Premier League",
+        "homeTeam": "APS Bomet",
+        "awayTeam": "3K FC",
+        "match": "APS Bomet v 3K FC",
+        "prediction": "Home 2-0",
+        "predictionSide": "home",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [
+          "W",
+          "W",
+          "D",
+          "D",
+          "L"
+        ],
+        "awayForm": [
+          "D",
+          "D"
+        ],
+        "url": "https://www.predictz.com/predictions/kenya/premier-league/1220057/"
+      },
+      {
         "id": "1220051",
         "day": "tomorrow",
         "date": "2026-10-23",
@@ -4420,45 +4448,14 @@
         "url": "https://www.predictz.com/predictions/kenya/premier-league/1220054/"
       },
       {
-        "id": "1220071",
+        "id": "1220052",
         "day": "tomorrow",
         "date": "2026-10-23",
         "league": "Kenya Premier League",
         "homeTeam": "Kenya Commercial Bank",
-        "awayTeam": "APS Bomet",
-        "match": "Kenya Commercial Bank v APS Bomet",
-        "prediction": "Draw 2-2",
-        "predictionSide": "draw",
-        "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
-        },
-        "homeForm": [
-          "L",
-          "W",
-          "W",
-          "D",
-          "W"
-        ],
-        "awayForm": [
-          "W",
-          "W",
-          "D",
-          "D",
-          "L"
-        ],
-        "url": "https://www.predictz.com/predictions/kenya/premier-league/1220071/"
-      },
-      {
-        "id": "1220055",
-        "day": "tomorrow",
-        "date": "2026-10-23",
-        "league": "Kenya Premier League",
-        "homeTeam": "Kenya Police",
-        "awayTeam": "Ulinzi Stars",
-        "match": "Kenya Police v Ulinzi Stars",
-        "prediction": "Home 2-1",
+        "awayTeam": "Mombasa United",
+        "match": "Kenya Commercial Bank v Mombasa United",
+        "prediction": "Home 2-0",
         "predictionSide": "home",
         "odds": {
           "home": null,
@@ -4466,51 +4463,18 @@
           "away": null
         },
         "homeForm": [
+          "L",
+          "W",
+          "W",
           "D",
-          "D",
-          "D",
-          "D",
+          "W"
+        ],
+        "awayForm": [
+          "W",
+          "L",
           "L"
         ],
-        "awayForm": [
-          "W",
-          "W",
-          "W",
-          "L",
-          "D"
-        ],
-        "url": "https://www.predictz.com/predictions/kenya/premier-league/1220055/"
-      },
-      {
-        "id": "1220059",
-        "day": "tomorrow",
-        "date": "2026-10-23",
-        "league": "Kenya Premier League",
-        "homeTeam": "Mara Sugar",
-        "awayTeam": "Leopards",
-        "match": "Mara Sugar v Leopards",
-        "prediction": "Away 0-3",
-        "predictionSide": "away",
-        "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
-        },
-        "homeForm": [
-          "L",
-          "D",
-          "L",
-          "D",
-          "W"
-        ],
-        "awayForm": [
-          "W",
-          "L",
-          "L",
-          "D",
-          "W"
-        ],
-        "url": "https://www.predictz.com/predictions/kenya/premier-league/1220059/"
+        "url": "https://www.predictz.com/predictions/kenya/premier-league/1220052/"
       },
       {
         "id": "1222891",
@@ -4542,66 +4506,6 @@
           "W"
         ],
         "url": "https://www.predictz.com/predictions/kenya/premier-league/1222891/"
-      },
-      {
-        "id": "1220058",
-        "day": "tomorrow",
-        "date": "2026-10-23",
-        "league": "Kenya Premier League",
-        "homeTeam": "Muranga Seal",
-        "awayTeam": "Nairobi United",
-        "match": "Muranga Seal v Nairobi United",
-        "prediction": "Away 1-2",
-        "predictionSide": "away",
-        "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
-        },
-        "homeForm": [
-          "L",
-          "W",
-          "W",
-          "L",
-          "W"
-        ],
-        "awayForm": [
-          "D",
-          "W",
-          "D",
-          "D",
-          "D"
-        ],
-        "url": "https://www.predictz.com/predictions/kenya/premier-league/1220058/"
-      },
-      {
-        "id": "1220056",
-        "day": "tomorrow",
-        "date": "2026-10-23",
-        "league": "Kenya Premier League",
-        "homeTeam": "Shabana",
-        "awayTeam": "Migori Youth",
-        "match": "Shabana v Migori Youth",
-        "prediction": "Draw 0-0",
-        "predictionSide": "draw",
-        "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
-        },
-        "homeForm": [
-          "W",
-          "D",
-          "L",
-          "W",
-          "D"
-        ],
-        "awayForm": [
-          "D",
-          "L",
-          "D"
-        ],
-        "url": "https://www.predictz.com/predictions/kenya/premier-league/1220056/"
       },
       {
         "id": "1214726",
@@ -4757,8 +4661,70 @@
           "D"
         ],
         "url": "https://www.predictz.com/predictions/tanzania/premier-league/1214730/"
+      },
+      {
+        "id": "1224625",
+        "day": "tomorrow",
+        "date": "2026-10-23",
+        "league": "Uganda Premier League",
+        "homeTeam": "Kitara",
+        "awayTeam": "Ntugasaze",
+        "match": "Kitara v Ntugasaze",
+        "prediction": "Draw 0-0",
+        "predictionSide": "draw",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [
+          "D",
+          "D",
+          "D",
+          "W",
+          "W"
+        ],
+        "awayForm": [
+          "L",
+          "L",
+          "L",
+          "W",
+          "L"
+        ],
+        "url": "https://www.predictz.com/predictions/uganda/premier-league/1224625/"
+      },
+      {
+        "id": "1224465",
+        "day": "tomorrow",
+        "date": "2026-10-23",
+        "league": "Uganda Premier League",
+        "homeTeam": "Vipers",
+        "awayTeam": "Uganda Police",
+        "match": "Vipers v Uganda Police",
+        "prediction": "Home 1-0",
+        "predictionSide": "home",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [
+          "L",
+          "W",
+          "W",
+          "D",
+          "W"
+        ],
+        "awayForm": [
+          "L",
+          "D",
+          "W",
+          "L",
+          "L"
+        ],
+        "url": "https://www.predictz.com/predictions/uganda/premier-league/1224465/"
       }
     ]
   },
-  "count": 153
+  "count": 152
 }
