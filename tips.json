@@ -1,6 +1,6 @@
 {
   "source": "https://www.predictz.com/",
-  "scraped_at": "2026-10-29T06:09:21.578Z",
+  "scraped_at": "2026-10-29T13:28:56.675Z",
   "timezone": "Asia/Yangon",
   "today": {
     "day": "today",
@@ -15,7 +15,7 @@
     "date": "2026-10-30",
     "label": "Football Tips Tomorrow - Friday, October 30th, 2026",
     "pageUrl": "https://www.predictz.com/predictions/tomorrow/",
-    "count": 132,
+    "count": 131,
     "tips": [
       {
         "id": "1199989",
@@ -1175,9 +1175,9 @@
         "prediction": "Draw 0-0",
         "predictionSide": "draw",
         "odds": {
-          "home": "100",
-          "draw": "240",
-          "away": "200"
+          "home": null,
+          "draw": null,
+          "away": null
         },
         "homeForm": [
           "L",
@@ -1392,9 +1392,9 @@
         "prediction": "Draw 0-0",
         "predictionSide": "draw",
         "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
+          "home": "130",
+          "draw": "240",
+          "away": "160"
         },
         "homeForm": [
           "D",
@@ -1485,9 +1485,9 @@
         "prediction": "Away 0-2",
         "predictionSide": "away",
         "odds": {
-          "home": "165",
+          "home": "185",
           "draw": "250",
-          "away": "140"
+          "away": "125"
         },
         "homeForm": [
           "D",
@@ -2033,37 +2033,6 @@
         "url": "https://www.predictz.com/predictions/portugal/primeira-liga/1204333/"
       },
       {
-        "id": "1204628",
-        "day": "tomorrow",
-        "date": "2026-10-30",
-        "league": "Portugal Liga Portugal 2",
-        "homeTeam": "Tondela",
-        "awayTeam": "FC Felgueiras 1932",
-        "match": "Tondela v FC Felgueiras 1932",
-        "prediction": "Home 1-0",
-        "predictionSide": "home",
-        "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
-        },
-        "homeForm": [
-          "L",
-          "W",
-          "W",
-          "W",
-          "L"
-        ],
-        "awayForm": [
-          "W",
-          "L",
-          "L",
-          "L",
-          "D"
-        ],
-        "url": "https://www.predictz.com/predictions/portugal/liga-portugal-2/1204628/"
-      },
-      {
         "id": "1202172",
         "day": "tomorrow",
         "date": "2026-10-30",
@@ -2601,9 +2570,9 @@
         "prediction": "Away 0-3",
         "predictionSide": "away",
         "odds": {
-          "home": "130",
+          "home": "125",
           "draw": "240",
-          "away": "200"
+          "away": "210"
         },
         "homeForm": [
           "D",
@@ -3190,9 +3159,9 @@
         "prediction": "Draw 2-2",
         "predictionSide": "draw",
         "odds": {
-          "home": "140",
+          "home": "145",
           "draw": "240",
-          "away": "150"
+          "away": "145"
         },
         "homeForm": [
           "W",
@@ -4111,5 +4080,5 @@
       }
     ]
   },
-  "count": 132
+  "count": 131
 }
