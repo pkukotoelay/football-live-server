@@ -1,6 +1,6 @@
 {
   "source": "https://www.predictz.com/",
-  "scraped_at": "2026-11-03T02:59:53.536Z",
+  "scraped_at": "2026-11-03T11:11:12.651Z",
   "timezone": "Asia/Yangon",
   "today": {
     "day": "today",
@@ -15,7 +15,7 @@
     "date": "2026-11-04",
     "label": "Football Tips Tomorrow - Wednesday, November 4th, 2026",
     "pageUrl": "https://www.predictz.com/predictions/tomorrow/",
-    "count": 42,
+    "count": 43,
     "tips": [
       {
         "id": "1220905",
@@ -183,7 +183,7 @@
         "prediction": "Draw 1-1",
         "predictionSide": "draw",
         "odds": {
-          "home": "100",
+          "home": "105",
           "draw": "333",
           "away": "200"
         },
@@ -979,6 +979,37 @@
         "url": "https://www.predictz.com/predictions/honduras/liga-nacional/1222373/"
       },
       {
+        "id": "1224170",
+        "day": "tomorrow",
+        "date": "2026-11-04",
+        "league": "Nicaragua Liga Primera",
+        "homeTeam": "Sebaco",
+        "awayTeam": "Matagalpa",
+        "match": "Sebaco v Matagalpa",
+        "prediction": "Draw 0-0",
+        "predictionSide": "draw",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [
+          "W",
+          "L",
+          "L",
+          "L",
+          "L"
+        ],
+        "awayForm": [
+          "L",
+          "L",
+          "D",
+          "L",
+          "L"
+        ],
+        "url": "https://www.predictz.com/predictions/nicaragua/liga-primera/1224170/"
+      },
+      {
         "id": "1225240",
         "day": "tomorrow",
         "date": "2026-11-04",
@@ -1321,5 +1352,5 @@
       }
     ]
   },
-  "count": 42
+  "count": 43
 }
