@@ -1,10 +1,10 @@
 {
   "source": "https://www.predictz.com/",
-  "scraped_at": "2026-11-06T11:17:24.288Z",
+  "scraped_at": "2026-11-06T19:37:15.938Z",
   "timezone": "Asia/Yangon",
   "today": {
     "day": "today",
-    "date": "2026-11-06",
+    "date": "2026-11-07",
     "label": "www.predictz.com",
     "pageUrl": "https://www.predictz.com/predictions/",
     "count": 0,
@@ -12,15 +12,1026 @@
   },
   "tomorrow": {
     "day": "tomorrow",
-    "date": "2026-11-07",
+    "date": "2026-11-08",
     "label": "Football Tips Tomorrow - Saturday, November 7th, 2026",
     "pageUrl": "https://www.predictz.com/predictions/tomorrow/",
-    "count": 73,
+    "count": 106,
     "tips": [
+      {
+        "id": "1224762",
+        "day": "tomorrow",
+        "date": "2026-11-08",
+        "league": "England FA Cup",
+        "homeTeam": "Accrington Stanley",
+        "awayTeam": "Wycombe",
+        "match": "Accrington Stanley v Wycombe",
+        "prediction": "Draw 1-1",
+        "predictionSide": "draw",
+        "odds": {
+          "home": "230",
+          "draw": "240",
+          "away": "105"
+        },
+        "homeForm": [
+          "D",
+          "W",
+          "D",
+          "W",
+          "D"
+        ],
+        "awayForm": [
+          "L",
+          "W",
+          "D",
+          "D",
+          "W"
+        ],
+        "url": "https://www.predictz.com/predictions/england/fa-cup/1224762/"
+      },
+      {
+        "id": "1224747",
+        "day": "tomorrow",
+        "date": "2026-11-08",
+        "league": "England FA Cup",
+        "homeTeam": "AFC Hornchurch",
+        "awayTeam": "Blackpool",
+        "match": "AFC Hornchurch v Blackpool",
+        "prediction": "Away 0-2",
+        "predictionSide": "away",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [
+          "L",
+          "W",
+          "L",
+          "L",
+          "L"
+        ],
+        "awayForm": [
+          "L",
+          "L",
+          "W",
+          "L",
+          "D"
+        ],
+        "url": "https://www.predictz.com/predictions/england/fa-cup/1224747/"
+      },
+      {
+        "id": "1224758",
+        "day": "tomorrow",
+        "date": "2026-11-08",
+        "league": "England FA Cup",
+        "homeTeam": "Barnet",
+        "awayTeam": "Tranmere",
+        "match": "Barnet v Tranmere",
+        "prediction": "Home 2-0",
+        "predictionSide": "home",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [
+          "W",
+          "L",
+          "D",
+          "W",
+          "D"
+        ],
+        "awayForm": [
+          "D",
+          "L",
+          "W",
+          "D",
+          "W"
+        ],
+        "url": "https://www.predictz.com/predictions/england/fa-cup/1224758/"
+      },
+      {
+        "id": "1224738",
+        "day": "tomorrow",
+        "date": "2026-11-08",
+        "league": "England FA Cup",
+        "homeTeam": "Barnsley",
+        "awayTeam": "Aldershot",
+        "match": "Barnsley v Aldershot",
+        "prediction": "Home 2-0",
+        "predictionSide": "home",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [
+          "L",
+          "L",
+          "L",
+          "L",
+          "D"
+        ],
+        "awayForm": [
+          "L",
+          "L",
+          "L",
+          "L",
+          "W"
+        ],
+        "url": "https://www.predictz.com/predictions/england/fa-cup/1224738/"
+      },
+      {
+        "id": "1224744",
+        "day": "tomorrow",
+        "date": "2026-11-08",
+        "league": "England FA Cup",
+        "homeTeam": "Boreham Wood",
+        "awayTeam": "Wigan",
+        "match": "Boreham Wood v Wigan",
+        "prediction": "Home 2-1",
+        "predictionSide": "home",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [
+          "W",
+          "W",
+          "W",
+          "W",
+          "W"
+        ],
+        "awayForm": [
+          "L",
+          "L",
+          "L",
+          "W",
+          "D"
+        ],
+        "url": "https://www.predictz.com/predictions/england/fa-cup/1224744/"
+      },
+      {
+        "id": "1224750",
+        "day": "tomorrow",
+        "date": "2026-11-08",
+        "league": "England FA Cup",
+        "homeTeam": "Bradford",
+        "awayTeam": "Marine FC",
+        "match": "Bradford v Marine FC",
+        "prediction": "Home 2-0",
+        "predictionSide": "home",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [
+          "D",
+          "W",
+          "D",
+          "D",
+          "L"
+        ],
+        "awayForm": [
+          "W",
+          "W",
+          "D",
+          "L",
+          "L"
+        ],
+        "url": "https://www.predictz.com/predictions/england/fa-cup/1224750/"
+      },
+      {
+        "id": "1224757",
+        "day": "tomorrow",
+        "date": "2026-11-08",
+        "league": "England FA Cup",
+        "homeTeam": "Bromley",
+        "awayTeam": "Rotherham",
+        "match": "Bromley v Rotherham",
+        "prediction": "Draw 1-1",
+        "predictionSide": "draw",
+        "odds": {
+          "home": "105",
+          "draw": "250",
+          "away": "230"
+        },
+        "homeForm": [
+          "L",
+          "L",
+          "D",
+          "L",
+          "L"
+        ],
+        "awayForm": [
+          "L",
+          "L",
+          "D",
+          "D",
+          "L"
+        ],
+        "url": "https://www.predictz.com/predictions/england/fa-cup/1224757/"
+      },
+      {
+        "id": "1224755",
+        "day": "tomorrow",
+        "date": "2026-11-08",
+        "league": "England FA Cup",
+        "homeTeam": "Burton Albion",
+        "awayTeam": "Rushden and Diamonds",
+        "match": "Burton Albion v Rushden and Diamonds",
+        "prediction": "Home 3-0",
+        "predictionSide": "home",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [
+          "L",
+          "D",
+          "D",
+          "W",
+          "L"
+        ],
+        "awayForm": [
+          "D",
+          "D",
+          "L",
+          "W",
+          "L"
+        ],
+        "url": "https://www.predictz.com/predictions/england/fa-cup/1224755/"
+      },
+      {
+        "id": "1224745",
+        "day": "tomorrow",
+        "date": "2026-11-08",
+        "league": "England FA Cup",
+        "homeTeam": "Carlisle",
+        "awayTeam": "Salford City",
+        "match": "Carlisle v Salford City",
+        "prediction": "Draw 1-1",
+        "predictionSide": "draw",
+        "odds": {
+          "home": "185",
+          "draw": "250",
+          "away": "125"
+        },
+        "homeForm": [
+          "W",
+          "D",
+          "W",
+          "W",
+          "W"
+        ],
+        "awayForm": [
+          "W",
+          "W",
+          "W",
+          "W",
+          "W"
+        ],
+        "url": "https://www.predictz.com/predictions/england/fa-cup/1224745/"
+      },
+      {
+        "id": "1224751",
+        "day": "tomorrow",
+        "date": "2026-11-08",
+        "league": "England FA Cup",
+        "homeTeam": "Cheltenham",
+        "awayTeam": "Halifax",
+        "match": "Cheltenham v Halifax",
+        "prediction": "Home 2-1",
+        "predictionSide": "home",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [
+          "L",
+          "L",
+          "W",
+          "W",
+          "L"
+        ],
+        "awayForm": [
+          "W",
+          "W",
+          "D",
+          "L",
+          "W"
+        ],
+        "url": "https://www.predictz.com/predictions/england/fa-cup/1224751/"
+      },
+      {
+        "id": "1224739",
+        "day": "tomorrow",
+        "date": "2026-11-08",
+        "league": "England FA Cup",
+        "homeTeam": "Chesterfield",
+        "awayTeam": "Yeovil",
+        "match": "Chesterfield v Yeovil",
+        "prediction": "Home 2-0",
+        "predictionSide": "home",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [
+          "D",
+          "L",
+          "D",
+          "W",
+          "L"
+        ],
+        "awayForm": [
+          "W",
+          "W",
+          "L",
+          "W",
+          "L"
+        ],
+        "url": "https://www.predictz.com/predictions/england/fa-cup/1224739/"
+      },
+      {
+        "id": "1224735",
+        "day": "tomorrow",
+        "date": "2026-11-08",
+        "league": "England FA Cup",
+        "homeTeam": "Colchester",
+        "awayTeam": "Worcester City",
+        "match": "Colchester v Worcester City",
+        "prediction": "Home 2-0",
+        "predictionSide": "home",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [
+          "L",
+          "D",
+          "D",
+          "L",
+          "L"
+        ],
+        "awayForm": [
+          "D",
+          "L",
+          "D",
+          "L",
+          "L"
+        ],
+        "url": "https://www.predictz.com/predictions/england/fa-cup/1224735/"
+      },
+      {
+        "id": "1224761",
+        "day": "tomorrow",
+        "date": "2026-11-08",
+        "league": "England FA Cup",
+        "homeTeam": "Crewe",
+        "awayTeam": "AFC Wimbledon",
+        "match": "Crewe v AFC Wimbledon",
+        "prediction": "Draw 1-1",
+        "predictionSide": "draw",
+        "odds": {
+          "home": "140",
+          "draw": "225",
+          "away": "182"
+        },
+        "homeForm": [
+          "W",
+          "W",
+          "L",
+          "L",
+          "D"
+        ],
+        "awayForm": [
+          "L",
+          "L",
+          "L",
+          "D",
+          "L"
+        ],
+        "url": "https://www.predictz.com/predictions/england/fa-cup/1224761/"
+      },
+      {
+        "id": "1224769",
+        "day": "tomorrow",
+        "date": "2026-11-08",
+        "league": "England FA Cup",
+        "homeTeam": "Dover Athletic",
+        "awayTeam": "Wealdstone",
+        "match": "Dover Athletic v Wealdstone",
+        "prediction": "Away 0-2",
+        "predictionSide": "away",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [
+          "W",
+          "D",
+          "D",
+          "L",
+          "W"
+        ],
+        "awayForm": [
+          "L",
+          "L",
+          "W",
+          "L",
+          "W"
+        ],
+        "url": "https://www.predictz.com/predictions/england/fa-cup/1224769/"
+      },
+      {
+        "id": "1224752",
+        "day": "tomorrow",
+        "date": "2026-11-08",
+        "league": "England FA Cup",
+        "homeTeam": "Eastleigh",
+        "awayTeam": "Shrewsbury",
+        "match": "Eastleigh v Shrewsbury",
+        "prediction": "Draw 1-1",
+        "predictionSide": "draw",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [
+          "L",
+          "L",
+          "W",
+          "L",
+          "D"
+        ],
+        "awayForm": [
+          "L",
+          "W",
+          "W",
+          "D",
+          "L"
+        ],
+        "url": "https://www.predictz.com/predictions/england/fa-cup/1224752/"
+      },
+      {
+        "id": "1224759",
+        "day": "tomorrow",
+        "date": "2026-11-08",
+        "league": "England FA Cup",
+        "homeTeam": "Fleetwood Town",
+        "awayTeam": "Rochdale",
+        "match": "Fleetwood Town v Rochdale",
+        "prediction": "Home 2-0",
+        "predictionSide": "home",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [
+          "D",
+          "W",
+          "L",
+          "L",
+          "W"
+        ],
+        "awayForm": [
+          "D",
+          "L",
+          "D",
+          "L",
+          "L"
+        ],
+        "url": "https://www.predictz.com/predictions/england/fa-cup/1224759/"
+      },
+      {
+        "id": "1224740",
+        "day": "tomorrow",
+        "date": "2026-11-08",
+        "league": "England FA Cup",
+        "homeTeam": "Gillingham",
+        "awayTeam": "Barrow",
+        "match": "Gillingham v Barrow",
+        "prediction": "Home 2-1",
+        "predictionSide": "home",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [
+          "W",
+          "L",
+          "D",
+          "L",
+          "W"
+        ],
+        "awayForm": [
+          "W",
+          "W",
+          "W",
+          "W",
+          "D"
+        ],
+        "url": "https://www.predictz.com/predictions/england/fa-cup/1224740/"
+      },
+      {
+        "id": "1224748",
+        "day": "tomorrow",
+        "date": "2026-11-08",
+        "league": "England FA Cup",
+        "homeTeam": "Guiseley",
+        "awayTeam": "Sutton Utd",
+        "match": "Guiseley v Sutton Utd",
+        "prediction": "Draw 1-1",
+        "predictionSide": "draw",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [
+          "D",
+          "D",
+          "L",
+          "W",
+          "L"
+        ],
+        "awayForm": [
+          "D",
+          "L",
+          "L",
+          "W",
+          "W"
+        ],
+        "url": "https://www.predictz.com/predictions/england/fa-cup/1224748/"
+      },
+      {
+        "id": "1224733",
+        "day": "tomorrow",
+        "date": "2026-11-08",
+        "league": "England FA Cup",
+        "homeTeam": "Harrogate Town",
+        "awayTeam": "AFC Fylde",
+        "match": "Harrogate Town v AFC Fylde",
+        "prediction": "Home 2-1",
+        "predictionSide": "home",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [
+          "W",
+          "W",
+          "W",
+          "L",
+          "D"
+        ],
+        "awayForm": [
+          "L",
+          "W",
+          "L",
+          "W",
+          "W"
+        ],
+        "url": "https://www.predictz.com/predictions/england/fa-cup/1224733/"
+      },
+      {
+        "id": "1224770",
+        "day": "tomorrow",
+        "date": "2026-11-08",
+        "league": "England FA Cup",
+        "homeTeam": "Huddersfield",
+        "awayTeam": "Exeter",
+        "match": "Huddersfield v Exeter",
+        "prediction": "Home 3-1",
+        "predictionSide": "home",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [
+          "W",
+          "W",
+          "W",
+          "W",
+          "D"
+        ],
+        "awayForm": [
+          "W",
+          "D",
+          "W",
+          "W",
+          "L"
+        ],
+        "url": "https://www.predictz.com/predictions/england/fa-cup/1224770/"
+      },
+      {
+        "id": "1224767",
+        "day": "tomorrow",
+        "date": "2026-11-08",
+        "league": "England FA Cup",
+        "homeTeam": "Kidderminster",
+        "awayTeam": "Doncaster",
+        "match": "Kidderminster v Doncaster",
+        "prediction": "Away 1-2",
+        "predictionSide": "away",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [
+          "D",
+          "D",
+          "L",
+          "D",
+          "L"
+        ],
+        "awayForm": [
+          "L",
+          "L",
+          "W",
+          "L",
+          "L"
+        ],
+        "url": "https://www.predictz.com/predictions/england/fa-cup/1224767/"
+      },
+      {
+        "id": "1224768",
+        "day": "tomorrow",
+        "date": "2026-11-08",
+        "league": "England FA Cup",
+        "homeTeam": "Leyton Orient",
+        "awayTeam": "Harborough Town",
+        "match": "Leyton Orient v Harborough Town",
+        "prediction": "Home 2-1",
+        "predictionSide": "home",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [
+          "D",
+          "W",
+          "L",
+          "L",
+          "W"
+        ],
+        "awayForm": [
+          "L",
+          "W",
+          "D",
+          "L",
+          "D"
+        ],
+        "url": "https://www.predictz.com/predictions/england/fa-cup/1224768/"
+      },
+      {
+        "id": "1224737",
+        "day": "tomorrow",
+        "date": "2026-11-08",
+        "league": "England FA Cup",
+        "homeTeam": "Luton",
+        "awayTeam": "Forest Green",
+        "match": "Luton v Forest Green",
+        "prediction": "Home 3-1",
+        "predictionSide": "home",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [
+          "W",
+          "W",
+          "W",
+          "W",
+          "D"
+        ],
+        "awayForm": [
+          "D",
+          "D",
+          "L",
+          "W",
+          "D"
+        ],
+        "url": "https://www.predictz.com/predictions/england/fa-cup/1224737/"
+      },
+      {
+        "id": "1224741",
+        "day": "tomorrow",
+        "date": "2026-11-08",
+        "league": "England FA Cup",
+        "homeTeam": "Mansfield",
+        "awayTeam": "Macclesfield FC",
+        "match": "Mansfield v Macclesfield FC",
+        "prediction": "Home 2-1",
+        "predictionSide": "home",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [
+          "D",
+          "W",
+          "W",
+          "L",
+          "D"
+        ],
+        "awayForm": [
+          "D",
+          "W",
+          "W",
+          "L",
+          "W"
+        ],
+        "url": "https://www.predictz.com/predictions/england/fa-cup/1224741/"
+      },
+      {
+        "id": "1224763",
+        "day": "tomorrow",
+        "date": "2026-11-08",
+        "league": "England FA Cup",
+        "homeTeam": "Milton Keynes Dons",
+        "awayTeam": "Swindon",
+        "match": "Milton Keynes Dons v Swindon",
+        "prediction": "Home 2-0",
+        "predictionSide": "home",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [
+          "W",
+          "L",
+          "W",
+          "W",
+          "W"
+        ],
+        "awayForm": [
+          "L",
+          "D",
+          "W",
+          "D",
+          "W"
+        ],
+        "url": "https://www.predictz.com/predictions/england/fa-cup/1224763/"
+      },
+      {
+        "id": "1224764",
+        "day": "tomorrow",
+        "date": "2026-11-08",
+        "league": "England FA Cup",
+        "homeTeam": "Newport County",
+        "awayTeam": "Walsall",
+        "match": "Newport County v Walsall",
+        "prediction": "Draw 1-1",
+        "predictionSide": "draw",
+        "odds": {
+          "home": "155",
+          "draw": "225",
+          "away": "165"
+        },
+        "homeForm": [
+          "W",
+          "D",
+          "D",
+          "L",
+          "W"
+        ],
+        "awayForm": [
+          "D",
+          "D",
+          "W",
+          "L",
+          "W"
+        ],
+        "url": "https://www.predictz.com/predictions/england/fa-cup/1224764/"
+      },
+      {
+        "id": "1224754",
+        "day": "tomorrow",
+        "date": "2026-11-08",
+        "league": "England FA Cup",
+        "homeTeam": "Oxford Utd",
+        "awayTeam": "Stevenage",
+        "match": "Oxford Utd v Stevenage",
+        "prediction": "Draw 1-1",
+        "predictionSide": "draw",
+        "odds": {
+          "home": "101",
+          "draw": "230",
+          "away": "270"
+        },
+        "homeForm": [
+          "W",
+          "D",
+          "W",
+          "D",
+          "W"
+        ],
+        "awayForm": [
+          "W",
+          "L",
+          "W",
+          "L",
+          "D"
+        ],
+        "url": "https://www.predictz.com/predictions/england/fa-cup/1224754/"
+      },
+      {
+        "id": "1224736",
+        "day": "tomorrow",
+        "date": "2026-11-08",
+        "league": "England FA Cup",
+        "homeTeam": "Plymouth",
+        "awayTeam": "Alvechurch",
+        "match": "Plymouth v Alvechurch",
+        "prediction": "Home 2-0",
+        "predictionSide": "home",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [
+          "W",
+          "L",
+          "L",
+          "W",
+          "D"
+        ],
+        "awayForm": [],
+        "url": "https://www.predictz.com/predictions/england/fa-cup/1224736/"
+      },
+      {
+        "id": "1224756",
+        "day": "tomorrow",
+        "date": "2026-11-08",
+        "league": "England FA Cup",
+        "homeTeam": "Port Vale",
+        "awayTeam": "Scunthorpe",
+        "match": "Port Vale v Scunthorpe",
+        "prediction": "Home 2-1",
+        "predictionSide": "home",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [
+          "W",
+          "W",
+          "D",
+          "L",
+          "W"
+        ],
+        "awayForm": [
+          "L",
+          "L",
+          "L",
+          "L",
+          "L"
+        ],
+        "url": "https://www.predictz.com/predictions/england/fa-cup/1224756/"
+      },
+      {
+        "id": "1224742",
+        "day": "tomorrow",
+        "date": "2026-11-08",
+        "league": "England FA Cup",
+        "homeTeam": "Salisbury",
+        "awayTeam": "Sholing",
+        "match": "Salisbury v Sholing",
+        "prediction": "Home 2-0",
+        "predictionSide": "home",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [
+          "W",
+          "W",
+          "D",
+          "W",
+          "W"
+        ],
+        "awayForm": [],
+        "url": "https://www.predictz.com/predictions/england/fa-cup/1224742/"
+      },
+      {
+        "id": "1224743",
+        "day": "tomorrow",
+        "date": "2026-11-08",
+        "league": "England FA Cup",
+        "homeTeam": "York",
+        "awayTeam": "Northampton",
+        "match": "York v Northampton",
+        "prediction": "Home 2-1",
+        "predictionSide": "home",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [
+          "D",
+          "D",
+          "W",
+          "L",
+          "L"
+        ],
+        "awayForm": [
+          "W",
+          "L",
+          "W",
+          "D",
+          "L"
+        ],
+        "url": "https://www.predictz.com/predictions/england/fa-cup/1224743/"
+      },
+      {
+        "id": "1224732",
+        "day": "tomorrow",
+        "date": "2026-11-08",
+        "league": "England FA Cup",
+        "homeTeam": "Altrincham",
+        "awayTeam": "Notts County",
+        "match": "Altrincham v Notts County",
+        "prediction": "Away 0-2",
+        "predictionSide": "away",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [
+          "L",
+          "W",
+          "W",
+          "D",
+          "L"
+        ],
+        "awayForm": [
+          "L",
+          "L",
+          "W",
+          "D",
+          "W"
+        ],
+        "url": "https://www.predictz.com/predictions/england/fa-cup/1224732/"
+      },
+      {
+        "id": "1224753",
+        "day": "tomorrow",
+        "date": "2026-11-08",
+        "league": "England FA Cup",
+        "homeTeam": "Peterborough",
+        "awayTeam": "Reading",
+        "match": "Peterborough v Reading",
+        "prediction": "Draw 1-1",
+        "predictionSide": "draw",
+        "odds": {
+          "home": "182",
+          "draw": "230",
+          "away": "135"
+        },
+        "homeForm": [
+          "W",
+          "D",
+          "L",
+          "D",
+          "L"
+        ],
+        "awayForm": [
+          "L",
+          "W",
+          "W",
+          "D",
+          "L"
+        ],
+        "url": "https://www.predictz.com/predictions/england/fa-cup/1224753/"
+      },
       {
         "id": "1196845",
         "day": "tomorrow",
-        "date": "2026-11-07",
+        "date": "2026-11-08",
         "league": "England Premier League",
         "homeTeam": "Leeds",
         "awayTeam": "Tottenham",
@@ -28,9 +1039,9 @@
         "prediction": "Draw 1-1",
         "predictionSide": "draw",
         "odds": {
-          "home": "170",
+          "home": "187",
           "draw": "230",
-          "away": "160"
+          "away": "150"
         },
         "homeForm": [
           "D",
@@ -51,7 +1062,7 @@
       {
         "id": "1196848",
         "day": "tomorrow",
-        "date": "2026-11-07",
+        "date": "2026-11-08",
         "league": "England Premier League",
         "homeTeam": "Arsenal",
         "awayTeam": "Hull",
@@ -82,7 +1093,7 @@
       {
         "id": "1196849",
         "day": "tomorrow",
-        "date": "2026-11-07",
+        "date": "2026-11-08",
         "league": "England Premier League",
         "homeTeam": "Fulham",
         "awayTeam": "Newcastle",
@@ -90,9 +1101,9 @@
         "prediction": "Home 1-0",
         "predictionSide": "home",
         "odds": {
-          "home": "105",
-          "draw": "260",
-          "away": "240"
+          "home": "100",
+          "draw": "270",
+          "away": "250"
         },
         "homeForm": [
           "D",
@@ -113,7 +1124,7 @@
       {
         "id": "1196842",
         "day": "tomorrow",
-        "date": "2026-11-07",
+        "date": "2026-11-08",
         "league": "England Premier League",
         "homeTeam": "Nottingham Forest",
         "awayTeam": "Man City",
@@ -144,7 +1155,7 @@
       {
         "id": "1200019",
         "day": "tomorrow",
-        "date": "2026-11-07",
+        "date": "2026-11-08",
         "league": "England Championship",
         "homeTeam": "Bristol City",
         "awayTeam": "Norwich",
@@ -152,9 +1163,9 @@
         "prediction": "Away 0-3",
         "predictionSide": "away",
         "odds": {
-          "home": "165",
-          "draw": "230",
-          "away": "145"
+          "home": "170",
+          "draw": "240",
+          "away": "140"
         },
         "homeForm": [
           "L",
@@ -175,7 +1186,7 @@
       {
         "id": "1200011",
         "day": "tomorrow",
-        "date": "2026-11-07",
+        "date": "2026-11-08",
         "league": "England Championship",
         "homeTeam": "Portsmouth",
         "awayTeam": "Stoke",
@@ -183,9 +1194,9 @@
         "prediction": "Home 2-0",
         "predictionSide": "home",
         "odds": {
-          "home": "125",
-          "draw": "225",
-          "away": "210"
+          "home": "110",
+          "draw": "230",
+          "away": "240"
         },
         "homeForm": [
           "W",
@@ -206,7 +1217,7 @@
       {
         "id": "1200021",
         "day": "tomorrow",
-        "date": "2026-11-07",
+        "date": "2026-11-08",
         "league": "England Championship",
         "homeTeam": "Wrexham",
         "awayTeam": "Wolves",
@@ -215,7 +1226,7 @@
         "predictionSide": "draw",
         "odds": {
           "home": "225",
-          "draw": "240",
+          "draw": "230",
           "away": "115"
         },
         "homeForm": [
@@ -237,7 +1248,7 @@
       {
         "id": "1200013",
         "day": "tomorrow",
-        "date": "2026-11-07",
+        "date": "2026-11-08",
         "league": "England Championship",
         "homeTeam": "Birmingham",
         "awayTeam": "Swansea",
@@ -268,7 +1279,7 @@
       {
         "id": "1200017",
         "day": "tomorrow",
-        "date": "2026-11-07",
+        "date": "2026-11-08",
         "league": "England Championship",
         "homeTeam": "Blackburn",
         "awayTeam": "West Ham",
@@ -299,7 +1310,7 @@
       {
         "id": "1200020",
         "day": "tomorrow",
-        "date": "2026-11-07",
+        "date": "2026-11-08",
         "league": "England Championship",
         "homeTeam": "Cardiff",
         "awayTeam": "Burnley",
@@ -307,9 +1318,9 @@
         "prediction": "Home 2-0",
         "predictionSide": "home",
         "odds": {
-          "home": "105",
-          "draw": "270",
-          "away": "210"
+          "home": null,
+          "draw": null,
+          "away": null
         },
         "homeForm": [
           "W",
@@ -330,7 +1341,7 @@
       {
         "id": "1200018",
         "day": "tomorrow",
-        "date": "2026-11-07",
+        "date": "2026-11-08",
         "league": "England Championship",
         "homeTeam": "Charlton",
         "awayTeam": "Sheff Utd",
@@ -338,9 +1349,9 @@
         "prediction": "Away 0-1",
         "predictionSide": "away",
         "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
+          "home": "250",
+          "draw": "230",
+          "away": "105"
         },
         "homeForm": [
           "D",
@@ -361,7 +1372,7 @@
       {
         "id": "1200014",
         "day": "tomorrow",
-        "date": "2026-11-07",
+        "date": "2026-11-08",
         "league": "England Championship",
         "homeTeam": "Preston",
         "awayTeam": "Southampton",
@@ -392,7 +1403,7 @@
       {
         "id": "1200010",
         "day": "tomorrow",
-        "date": "2026-11-07",
+        "date": "2026-11-08",
         "league": "England Championship",
         "homeTeam": "QPR",
         "awayTeam": "Lincoln City",
@@ -423,7 +1434,7 @@
       {
         "id": "1200015",
         "day": "tomorrow",
-        "date": "2026-11-07",
+        "date": "2026-11-08",
         "league": "England Championship",
         "homeTeam": "Watford",
         "awayTeam": "Middlesbrough",
@@ -454,7 +1465,7 @@
       {
         "id": "1200012",
         "day": "tomorrow",
-        "date": "2026-11-07",
+        "date": "2026-11-08",
         "league": "England Championship",
         "homeTeam": "West Brom",
         "awayTeam": "Millwall",
@@ -485,7 +1496,7 @@
       {
         "id": "1210430",
         "day": "tomorrow",
-        "date": "2026-11-07",
+        "date": "2026-11-08",
         "league": "England National League North",
         "homeTeam": "Brackley Town",
         "awayTeam": "Chester",
@@ -516,7 +1527,7 @@
       {
         "id": "1210429",
         "day": "tomorrow",
-        "date": "2026-11-07",
+        "date": "2026-11-08",
         "league": "England National League North",
         "homeTeam": "Chorley",
         "awayTeam": "Hereford",
@@ -547,7 +1558,7 @@
       {
         "id": "1210426",
         "day": "tomorrow",
-        "date": "2026-11-07",
+        "date": "2026-11-08",
         "league": "England National League North",
         "homeTeam": "Hednesford Town",
         "awayTeam": "Morecambe",
@@ -578,7 +1589,7 @@
       {
         "id": "1210427",
         "day": "tomorrow",
-        "date": "2026-11-07",
+        "date": "2026-11-08",
         "league": "England National League North",
         "homeTeam": "Kings Lynn",
         "awayTeam": "Spennymoor Town",
@@ -609,7 +1620,7 @@
       {
         "id": "1210433",
         "day": "tomorrow",
-        "date": "2026-11-07",
+        "date": "2026-11-08",
         "league": "England National League North",
         "homeTeam": "Merthyr Town",
         "awayTeam": "Hebburn Town",
@@ -640,7 +1651,7 @@
       {
         "id": "1210431",
         "day": "tomorrow",
-        "date": "2026-11-07",
+        "date": "2026-11-08",
         "league": "England National League North",
         "homeTeam": "Scarborough Athletic",
         "awayTeam": "Buxton",
@@ -671,7 +1682,7 @@
       {
         "id": "1210432",
         "day": "tomorrow",
-        "date": "2026-11-07",
+        "date": "2026-11-08",
         "league": "England National League North",
         "homeTeam": "South Shields",
         "awayTeam": "Southport",
@@ -702,7 +1713,7 @@
       {
         "id": "1210425",
         "day": "tomorrow",
-        "date": "2026-11-07",
+        "date": "2026-11-08",
         "league": "England National League North",
         "homeTeam": "Telford Utd",
         "awayTeam": "Spalding United",
@@ -733,7 +1744,7 @@
       {
         "id": "1210983",
         "day": "tomorrow",
-        "date": "2026-11-07",
+        "date": "2026-11-08",
         "league": "England National League South",
         "homeTeam": "Chelmsford City",
         "awayTeam": "Farnborough Town",
@@ -764,7 +1775,7 @@
       {
         "id": "1210977",
         "day": "tomorrow",
-        "date": "2026-11-07",
+        "date": "2026-11-08",
         "league": "England National League South",
         "homeTeam": "Dagenham and Redbridge",
         "awayTeam": "Billericay Town",
@@ -795,7 +1806,7 @@
       {
         "id": "1210976",
         "day": "tomorrow",
-        "date": "2026-11-07",
+        "date": "2026-11-08",
         "league": "England National League South",
         "homeTeam": "Ebbsfleet United",
         "awayTeam": "Chesham Utd",
@@ -826,7 +1837,7 @@
       {
         "id": "1210985",
         "day": "tomorrow",
-        "date": "2026-11-07",
+        "date": "2026-11-08",
         "league": "England National League South",
         "homeTeam": "Farnham Town",
         "awayTeam": "Tonbridge Angels",
@@ -857,7 +1868,7 @@
       {
         "id": "1210984",
         "day": "tomorrow",
-        "date": "2026-11-07",
+        "date": "2026-11-08",
         "league": "England National League South",
         "homeTeam": "Folkestone Invicta",
         "awayTeam": "Truro City",
@@ -888,7 +1899,7 @@
       {
         "id": "1210978",
         "day": "tomorrow",
-        "date": "2026-11-07",
+        "date": "2026-11-08",
         "league": "England National League South",
         "homeTeam": "Hampton and Richmond",
         "awayTeam": "Maidenhead Utd",
@@ -919,7 +1930,7 @@
       {
         "id": "1210986",
         "day": "tomorrow",
-        "date": "2026-11-07",
+        "date": "2026-11-08",
         "league": "England National League South",
         "homeTeam": "Hemel Hempstead",
         "awayTeam": "Maidstone Utd",
@@ -950,7 +1961,7 @@
       {
         "id": "1210980",
         "day": "tomorrow",
-        "date": "2026-11-07",
+        "date": "2026-11-08",
         "league": "England National League South",
         "homeTeam": "Horsham",
         "awayTeam": "AFC Totton",
@@ -981,7 +1992,7 @@
       {
         "id": "1210979",
         "day": "tomorrow",
-        "date": "2026-11-07",
+        "date": "2026-11-08",
         "league": "England National League South",
         "homeTeam": "Slough Town",
         "awayTeam": "Walton and Hersham",
@@ -1012,7 +2023,7 @@
       {
         "id": "1210982",
         "day": "tomorrow",
-        "date": "2026-11-07",
+        "date": "2026-11-08",
         "league": "England National League South",
         "homeTeam": "Weston Super Mare",
         "awayTeam": "Braintree Town",
@@ -1043,7 +2054,7 @@
       {
         "id": "1195572",
         "day": "tomorrow",
-        "date": "2026-11-07",
+        "date": "2026-11-08",
         "league": "Scotland Premiership",
         "homeTeam": "Dundee Utd",
         "awayTeam": "Motherwell",
@@ -1074,7 +2085,7 @@
       {
         "id": "1195571",
         "day": "tomorrow",
-        "date": "2026-11-07",
+        "date": "2026-11-08",
         "league": "Scotland Premiership",
         "homeTeam": "St Johnstone",
         "awayTeam": "Dundee",
@@ -1105,7 +2116,7 @@
       {
         "id": "1195574",
         "day": "tomorrow",
-        "date": "2026-11-07",
+        "date": "2026-11-08",
         "league": "Scotland Premiership",
         "homeTeam": "Aberdeen",
         "awayTeam": "Hibernian",
@@ -1136,7 +2147,7 @@
       {
         "id": "1195575",
         "day": "tomorrow",
-        "date": "2026-11-07",
+        "date": "2026-11-08",
         "league": "Scotland Premiership",
         "homeTeam": "St Mirren",
         "awayTeam": "Rangers",
@@ -1167,7 +2178,7 @@
       {
         "id": "1202655",
         "day": "tomorrow",
-        "date": "2026-11-07",
+        "date": "2026-11-08",
         "league": "Spain La Liga",
         "homeTeam": "Malaga",
         "awayTeam": "Racing Santander",
@@ -1198,7 +2209,7 @@
       {
         "id": "1202649",
         "day": "tomorrow",
-        "date": "2026-11-07",
+        "date": "2026-11-08",
         "league": "Spain La Liga",
         "homeTeam": "Espanyol",
         "awayTeam": "Deportivo La Coruna",
@@ -1206,9 +2217,9 @@
         "prediction": "Draw 0-0",
         "predictionSide": "draw",
         "odds": {
-          "home": "130",
-          "draw": "230",
-          "away": "225"
+          "home": "135",
+          "draw": "225",
+          "away": "220"
         },
         "homeForm": [
           "L",
@@ -1229,7 +2240,7 @@
       {
         "id": "1202651",
         "day": "tomorrow",
-        "date": "2026-11-07",
+        "date": "2026-11-08",
         "league": "Spain La Liga",
         "homeTeam": "Osasuna",
         "awayTeam": "Athletic Bilbao",
@@ -1260,7 +2271,7 @@
       {
         "id": "1202654",
         "day": "tomorrow",
-        "date": "2026-11-07",
+        "date": "2026-11-08",
         "league": "Spain La Liga",
         "homeTeam": "Valencia",
         "awayTeam": "Real Madrid",
@@ -1291,7 +2302,7 @@
       {
         "id": "1204933",
         "day": "tomorrow",
-        "date": "2026-11-07",
+        "date": "2026-11-08",
         "league": "Germany Bundesliga",
         "homeTeam": "Borussia Dortmund",
         "awayTeam": "Elversberg",
@@ -1322,7 +2333,7 @@
       {
         "id": "1204929",
         "day": "tomorrow",
-        "date": "2026-11-07",
+        "date": "2026-11-08",
         "league": "Germany Bundesliga",
         "homeTeam": "Mainz",
         "awayTeam": "Bayern Munich",
@@ -1353,7 +2364,7 @@
       {
         "id": "1204930",
         "day": "tomorrow",
-        "date": "2026-11-07",
+        "date": "2026-11-08",
         "league": "Germany Bundesliga",
         "homeTeam": "Paderborn",
         "awayTeam": "Eintracht Frankfurt",
@@ -1384,7 +2395,7 @@
       {
         "id": "1204936",
         "day": "tomorrow",
-        "date": "2026-11-07",
+        "date": "2026-11-08",
         "league": "Germany Bundesliga",
         "homeTeam": "RB Leipzig",
         "awayTeam": "Augsburg",
@@ -1415,7 +2426,7 @@
       {
         "id": "1204935",
         "day": "tomorrow",
-        "date": "2026-11-07",
+        "date": "2026-11-08",
         "league": "Germany Bundesliga",
         "homeTeam": "VfB Stuttgart",
         "awayTeam": "Werder Bremen",
@@ -1446,7 +2457,7 @@
       {
         "id": "1191433",
         "day": "tomorrow",
-        "date": "2026-11-07",
+        "date": "2026-11-08",
         "league": "Italy Serie A",
         "homeTeam": "Cagliari",
         "awayTeam": "Frosinone",
@@ -1477,7 +2488,7 @@
       {
         "id": "1191428",
         "day": "tomorrow",
-        "date": "2026-11-07",
+        "date": "2026-11-08",
         "league": "Italy Serie A",
         "homeTeam": "Torino",
         "awayTeam": "Lecce",
@@ -1508,7 +2519,7 @@
       {
         "id": "1191426",
         "day": "tomorrow",
-        "date": "2026-11-07",
+        "date": "2026-11-08",
         "league": "Italy Serie A",
         "homeTeam": "Parma",
         "awayTeam": "Bologna",
@@ -1539,7 +2550,7 @@
       {
         "id": "1191430",
         "day": "tomorrow",
-        "date": "2026-11-07",
+        "date": "2026-11-08",
         "league": "Italy Serie A",
         "homeTeam": "Roma",
         "awayTeam": "Sassuolo",
@@ -1570,7 +2581,7 @@
       {
         "id": "1192628",
         "day": "tomorrow",
-        "date": "2026-11-07",
+        "date": "2026-11-08",
         "league": "France Ligue 1",
         "homeTeam": "Auxerre",
         "awayTeam": "Paris",
@@ -1601,7 +2612,7 @@
       {
         "id": "1192627",
         "day": "tomorrow",
-        "date": "2026-11-07",
+        "date": "2026-11-08",
         "league": "France Ligue 1",
         "homeTeam": "PSG",
         "awayTeam": "Troyes",
@@ -1632,7 +2643,7 @@
       {
         "id": "1191960",
         "day": "tomorrow",
-        "date": "2026-11-07",
+        "date": "2026-11-08",
         "league": "Netherlands Eredivisie",
         "homeTeam": "Fortuna Sittard",
         "awayTeam": "Telstar",
@@ -1663,7 +2674,7 @@
       {
         "id": "1191963",
         "day": "tomorrow",
-        "date": "2026-11-07",
+        "date": "2026-11-08",
         "league": "Netherlands Eredivisie",
         "homeTeam": "ADO Den Haag",
         "awayTeam": "Sparta",
@@ -1694,7 +2705,7 @@
       {
         "id": "1191961",
         "day": "tomorrow",
-        "date": "2026-11-07",
+        "date": "2026-11-08",
         "league": "Netherlands Eredivisie",
         "homeTeam": "Excelsior Rotterdam",
         "awayTeam": "Go Ahead Eagles",
@@ -1725,7 +2736,7 @@
       {
         "id": "1204338",
         "day": "tomorrow",
-        "date": "2026-11-07",
+        "date": "2026-11-08",
         "league": "Portugal Primeira Liga",
         "homeTeam": "Nacional",
         "awayTeam": "Academico Viseu",
@@ -1733,9 +2744,9 @@
         "prediction": "Away 0-1",
         "predictionSide": "away",
         "odds": {
-          "home": "200",
-          "draw": "230",
-          "away": "130"
+          "home": "185",
+          "draw": "225",
+          "away": "135"
         },
         "homeForm": [
           "L",
@@ -1756,7 +2767,7 @@
       {
         "id": "1204337",
         "day": "tomorrow",
-        "date": "2026-11-07",
+        "date": "2026-11-08",
         "league": "Portugal Primeira Liga",
         "homeTeam": "Alverca",
         "awayTeam": "Casa Pia Atletico",
@@ -1787,7 +2798,7 @@
       {
         "id": "1204334",
         "day": "tomorrow",
-        "date": "2026-11-07",
+        "date": "2026-11-08",
         "league": "Portugal Primeira Liga",
         "homeTeam": "Sporting Lisbon",
         "awayTeam": "Moreirense",
@@ -1818,7 +2829,7 @@
       {
         "id": "1215321",
         "day": "tomorrow",
-        "date": "2026-11-07",
+        "date": "2026-11-08",
         "league": "Argentina Liga Profesional",
         "homeTeam": "Banfield",
         "awayTeam": "Atletico Tucuman",
@@ -1826,9 +2837,9 @@
         "prediction": "Draw 1-1",
         "predictionSide": "draw",
         "odds": {
-          "home": "155",
-          "draw": "210",
-          "away": "185"
+          "home": "150",
+          "draw": "200",
+          "away": "200"
         },
         "homeForm": [
           "D",
@@ -1849,7 +2860,7 @@
       {
         "id": "1215323",
         "day": "tomorrow",
-        "date": "2026-11-07",
+        "date": "2026-11-08",
         "league": "Argentina Liga Profesional",
         "homeTeam": "Tigre",
         "awayTeam": "Sarmiento",
@@ -1880,7 +2891,7 @@
       {
         "id": "1215327",
         "day": "tomorrow",
-        "date": "2026-11-07",
+        "date": "2026-11-08",
         "league": "Argentina Liga Profesional",
         "homeTeam": "Gimnasia Mendoza",
         "awayTeam": "Independiente Rivadavia",
@@ -1911,7 +2922,7 @@
       {
         "id": "1215318",
         "day": "tomorrow",
-        "date": "2026-11-07",
+        "date": "2026-11-08",
         "league": "Argentina Liga Profesional",
         "homeTeam": "Talleres",
         "awayTeam": "Estudiantes",
@@ -1919,8 +2930,8 @@
         "prediction": "Draw 0-0",
         "predictionSide": "draw",
         "odds": {
-          "home": "165",
-          "draw": "220",
+          "home": "170",
+          "draw": "210",
           "away": "165"
         },
         "homeForm": [
@@ -1942,7 +2953,7 @@
       {
         "id": "1215319",
         "day": "tomorrow",
-        "date": "2026-11-07",
+        "date": "2026-11-08",
         "league": "Argentina Liga Profesional",
         "homeTeam": "Argentinos Juniors",
         "awayTeam": "Huracan",
@@ -1973,7 +2984,7 @@
       {
         "id": "1215314",
         "day": "tomorrow",
-        "date": "2026-11-07",
+        "date": "2026-11-08",
         "league": "Argentina Liga Profesional",
         "homeTeam": "Boca Juniors",
         "awayTeam": "Defensa Y Justicia",
@@ -2004,7 +3015,7 @@
       {
         "id": "1215320",
         "day": "tomorrow",
-        "date": "2026-11-07",
+        "date": "2026-11-08",
         "league": "Argentina Liga Profesional",
         "homeTeam": "Rosario Central",
         "awayTeam": "Estudiantes Rio Cuarto",
@@ -2035,7 +3046,7 @@
       {
         "id": "1171970",
         "day": "tomorrow",
-        "date": "2026-11-07",
+        "date": "2026-11-08",
         "league": "USA Major League Soccer",
         "homeTeam": "CF Montreal",
         "awayTeam": "Vancouver Whitecaps",
@@ -2066,7 +3077,7 @@
       {
         "id": "1171968",
         "day": "tomorrow",
-        "date": "2026-11-07",
+        "date": "2026-11-08",
         "league": "USA Major League Soccer",
         "homeTeam": "Chicago Fire",
         "awayTeam": "Columbus Crew",
@@ -2097,7 +3108,7 @@
       {
         "id": "1171967",
         "day": "tomorrow",
-        "date": "2026-11-07",
+        "date": "2026-11-08",
         "league": "USA Major League Soccer",
         "homeTeam": "DC United",
         "awayTeam": "New York City FC",
@@ -2128,7 +3139,7 @@
       {
         "id": "1171973",
         "day": "tomorrow",
-        "date": "2026-11-07",
+        "date": "2026-11-08",
         "league": "USA Major League Soccer",
         "homeTeam": "FC Cincinnati",
         "awayTeam": "Nashville SC",
@@ -2159,7 +3170,7 @@
       {
         "id": "1171974",
         "day": "tomorrow",
-        "date": "2026-11-07",
+        "date": "2026-11-08",
         "league": "USA Major League Soccer",
         "homeTeam": "Inter Miami",
         "awayTeam": "Charlotte FC",
@@ -2190,7 +3201,7 @@
       {
         "id": "1171969",
         "day": "tomorrow",
-        "date": "2026-11-07",
+        "date": "2026-11-08",
         "league": "USA Major League Soccer",
         "homeTeam": "New York Red Bulls",
         "awayTeam": "Atlanta United",
@@ -2221,7 +3232,7 @@
       {
         "id": "1171972",
         "day": "tomorrow",
-        "date": "2026-11-07",
+        "date": "2026-11-08",
         "league": "USA Major League Soccer",
         "homeTeam": "Orlando City",
         "awayTeam": "New England Revolution",
@@ -2252,7 +3263,7 @@
       {
         "id": "1171971",
         "day": "tomorrow",
-        "date": "2026-11-07",
+        "date": "2026-11-08",
         "league": "USA Major League Soccer",
         "homeTeam": "Philadelphia Union",
         "awayTeam": "Toronto FC",
@@ -2282,5 +3293,5 @@
       }
     ]
   },
-  "count": 73
+  "count": 106
 }
