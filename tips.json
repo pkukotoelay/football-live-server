@@ -1,14 +1,232 @@
 {
   "source": "https://www.predictz.com/",
-  "scraped_at": "2026-11-07T17:49:14.468Z",
+  "scraped_at": "2026-11-07T22:09:59.063Z",
   "timezone": "Asia/Yangon",
   "today": {
     "day": "today",
     "date": "2026-11-08",
-    "label": "www.predictz.com",
+    "label": "Football Tips Tonight - Saturday, November 7th, 2026",
     "pageUrl": "https://www.predictz.com/predictions/",
-    "count": 0,
-    "tips": []
+    "count": 7,
+    "tips": [
+      {
+        "id": "1224506",
+        "day": "today",
+        "date": "2026-11-08",
+        "league": "Bolivia Primera Division",
+        "homeTeam": "Guabira",
+        "awayTeam": "San Antonio Bulo Bulo",
+        "match": "Guabira v San Antonio Bulo Bulo",
+        "prediction": "Home 1-0",
+        "predictionSide": "home",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [
+          "W",
+          "L",
+          "D",
+          "L",
+          "L"
+        ],
+        "awayForm": [
+          "W",
+          "D",
+          "L",
+          "W",
+          "W"
+        ],
+        "url": "https://www.predictz.com/predictions/bolivia/primera-division/1224506/"
+      },
+      {
+        "id": "1183652",
+        "day": "today",
+        "date": "2026-11-08",
+        "league": "Brazil Serie B",
+        "homeTeam": "Cuiaba Esporte Clube",
+        "awayTeam": "Juventude RS",
+        "match": "Cuiaba Esporte Clube v Juventude RS",
+        "prediction": "Draw 2-2",
+        "predictionSide": "draw",
+        "odds": {
+          "home": "300",
+          "draw": "175",
+          "away": "115"
+        },
+        "homeForm": [
+          "D",
+          "L",
+          "L",
+          "L",
+          "L"
+        ],
+        "awayForm": [
+          "W",
+          "D",
+          "D",
+          "W",
+          "D"
+        ],
+        "url": "https://www.predictz.com/predictions/brazil/serie-b/1183652/"
+      },
+      {
+        "id": "1183649",
+        "day": "today",
+        "date": "2026-11-08",
+        "league": "Brazil Serie B",
+        "homeTeam": "Vila Nova",
+        "awayTeam": "Criciuma SC",
+        "match": "Vila Nova v Criciuma SC",
+        "prediction": "Home 2-1",
+        "predictionSide": "home",
+        "odds": {
+          "home": "150",
+          "draw": "200",
+          "away": "200"
+        },
+        "homeForm": [
+          "D",
+          "W",
+          "D",
+          "L",
+          "D"
+        ],
+        "awayForm": [
+          "L",
+          "W",
+          "W",
+          "L",
+          "W"
+        ],
+        "url": "https://www.predictz.com/predictions/brazil/serie-b/1183649/"
+      },
+      {
+        "id": "1201677",
+        "day": "today",
+        "date": "2026-11-08",
+        "league": "Colombia Categoria Primera A",
+        "homeTeam": "Atletico Nacional",
+        "awayTeam": "Pereira",
+        "match": "Atletico Nacional v Pereira",
+        "prediction": "Home 2-0",
+        "predictionSide": "home",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [
+          "L",
+          "W",
+          "W",
+          "W",
+          "D"
+        ],
+        "awayForm": [
+          "D",
+          "W",
+          "D",
+          "W",
+          "L"
+        ],
+        "url": "https://www.predictz.com/predictions/colombia/categoria-primera-a/1201677/"
+      },
+      {
+        "id": "1213483",
+        "day": "today",
+        "date": "2026-11-08",
+        "league": "Paraguay Primera Division",
+        "homeTeam": "Libertad",
+        "awayTeam": "Nacional Asuncion",
+        "match": "Libertad v Nacional Asuncion",
+        "prediction": "Draw 2-2",
+        "predictionSide": "draw",
+        "odds": {
+          "home": "110",
+          "draw": "230",
+          "away": "210"
+        },
+        "homeForm": [
+          "D",
+          "L",
+          "W",
+          "L",
+          "L"
+        ],
+        "awayForm": [
+          "W",
+          "W",
+          "L",
+          "W",
+          "L"
+        ],
+        "url": "https://www.predictz.com/predictions/paraguay/primera-division/1213483/"
+      },
+      {
+        "id": "1222378",
+        "day": "today",
+        "date": "2026-11-08",
+        "league": "Honduras Liga Nacional",
+        "homeTeam": "Lobos UPNFM",
+        "awayTeam": "Motagua",
+        "match": "Lobos UPNFM v Motagua",
+        "prediction": "Away 0-2",
+        "predictionSide": "away",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [
+          "D",
+          "W",
+          "L",
+          "W",
+          "D"
+        ],
+        "awayForm": [
+          "W",
+          "W",
+          "W",
+          "W",
+          "W"
+        ],
+        "url": "https://www.predictz.com/predictions/honduras/liga-nacional/1222378/"
+      },
+      {
+        "id": "1203885",
+        "day": "today",
+        "date": "2026-11-08",
+        "league": "Mexico Liga MX",
+        "homeTeam": "Atlas",
+        "awayTeam": "Pachuca",
+        "match": "Atlas v Pachuca",
+        "prediction": "Away 1-2",
+        "predictionSide": "away",
+        "odds": {
+          "home": "157",
+          "draw": "240",
+          "away": "157"
+        },
+        "homeForm": [
+          "D",
+          "W",
+          "L",
+          "W",
+          "W"
+        ],
+        "awayForm": [
+          "D",
+          "L",
+          "L",
+          "W",
+          "W"
+        ],
+        "url": "https://www.predictz.com/predictions/mexico/la-division/1203885/"
+      }
+    ]
   },
   "tomorrow": {
     "day": "tomorrow",
@@ -668,7 +886,7 @@
         "predictionSide": "draw",
         "odds": {
           "home": "240",
-          "draw": "260",
+          "draw": "270",
           "away": "110"
         },
         "homeForm": [
@@ -853,9 +1071,9 @@
         "prediction": "Away 0-2",
         "predictionSide": "away",
         "odds": {
-          "home": "190",
+          "home": "200",
           "draw": "230",
-          "away": "145"
+          "away": "137"
         },
         "homeForm": [
           "L",
@@ -1091,35 +1309,35 @@
         "url": "https://www.predictz.com/predictions/netherlands/eredivisie/1191965/"
       },
       {
-        "id": "1204340",
+        "id": "1204338",
         "day": "tomorrow",
         "date": "2026-11-09",
         "league": "Portugal Primeira Liga",
-        "homeTeam": "Estoril",
-        "awayTeam": "Maritimo",
-        "match": "Estoril v Maritimo",
-        "prediction": "Home 1-0",
-        "predictionSide": "home",
+        "homeTeam": "Nacional",
+        "awayTeam": "Academico Viseu",
+        "match": "Nacional v Academico Viseu",
+        "prediction": "Away 0-1",
+        "predictionSide": "away",
         "odds": {
-          "home": "101",
-          "draw": "230",
-          "away": "260"
+          "home": "200",
+          "draw": "225",
+          "away": "135"
         },
         "homeForm": [
           "L",
           "L",
           "L",
-          "L",
+          "W",
           "L"
         ],
         "awayForm": [
-          "L",
-          "D",
-          "L",
-          "L",
-          "L"
+          "W",
+          "W",
+          "W",
+          "W",
+          "W"
         ],
-        "url": "https://www.predictz.com/predictions/portugal/primeira-liga/1204340/"
+        "url": "https://www.predictz.com/predictions/portugal/primeira-liga/1204338/"
       },
       {
         "id": "1204336",
@@ -1380,9 +1598,9 @@
         "prediction": "Away 0-1",
         "predictionSide": "away",
         "odds": {
-          "home": "155",
-          "draw": "230",
-          "away": "165"
+          "home": "165",
+          "draw": "225",
+          "away": "155"
         },
         "homeForm": [
           "D",
@@ -1526,5 +1744,5 @@
       }
     ]
   },
-  "count": 49
+  "count": 56
 }
