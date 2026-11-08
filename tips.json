@@ -1,6 +1,6 @@
 {
   "source": "https://www.predictz.com/",
-  "scraped_at": "2026-11-08T06:28:50.918Z",
+  "scraped_at": "2026-11-08T13:44:37.862Z",
   "timezone": "Asia/Yangon",
   "today": {
     "day": "today",
@@ -15,7 +15,7 @@
     "date": "2026-11-09",
     "label": "Football Tips Tomorrow - Monday, November 9th, 2026",
     "pageUrl": "https://www.predictz.com/predictions/tomorrow/",
-    "count": 25,
+    "count": 26,
     "tips": [
       {
         "id": "1224760",
@@ -29,8 +29,8 @@
         "predictionSide": "draw",
         "odds": {
           "home": "105",
-          "draw": "260",
-          "away": "220"
+          "draw": "270",
+          "away": "210"
         },
         "homeForm": [],
         "awayForm": [],
@@ -283,6 +283,37 @@
           "W"
         ],
         "url": "https://www.predictz.com/predictions/greece/super-league-2/1221592/"
+      },
+      {
+        "id": "1172229",
+        "day": "tomorrow",
+        "date": "2026-11-09",
+        "league": "Norway Eliteserien",
+        "homeTeam": "Kristiansund",
+        "awayTeam": "Valerenga",
+        "match": "Kristiansund v Valerenga",
+        "prediction": "Draw 0-0",
+        "predictionSide": "draw",
+        "odds": {
+          "home": "155",
+          "draw": "300",
+          "away": "135"
+        },
+        "homeForm": [
+          "L",
+          "L",
+          "L",
+          "D",
+          "W"
+        ],
+        "awayForm": [
+          "D",
+          "L",
+          "W",
+          "W",
+          "W"
+        ],
+        "url": "https://www.predictz.com/predictions/norway/eliteserien/1172229/"
       },
       {
         "id": "1204636",
@@ -782,5 +813,5 @@
       }
     ]
   },
-  "count": 25
+  "count": 26
 }
