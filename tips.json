@@ -1,6 +1,6 @@
 {
   "source": "https://www.predictz.com/",
-  "scraped_at": "2026-11-09T01:05:22.293Z",
+  "scraped_at": "2026-11-09T11:55:54.422Z",
   "timezone": "Asia/Yangon",
   "today": {
     "day": "today",
@@ -15,7 +15,7 @@
     "date": "2026-11-10",
     "label": "Football Tips Tomorrow - Tuesday, November 10th, 2026",
     "pageUrl": "https://www.predictz.com/predictions/tomorrow/",
-    "count": 6,
+    "count": 8,
     "tips": [
       {
         "id": "1210424",
@@ -173,6 +173,37 @@
         "url": "https://www.predictz.com/predictions/england/national-league-south/1210931/"
       },
       {
+        "id": "1225422",
+        "day": "tomorrow",
+        "date": "2026-11-10",
+        "league": "England National League South",
+        "homeTeam": "Walton and Hersham",
+        "awayTeam": "Dover Athletic",
+        "match": "Walton and Hersham v Dover Athletic",
+        "prediction": "Away 0-1",
+        "predictionSide": "away",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [
+          "W",
+          "L",
+          "L",
+          "L",
+          "L"
+        ],
+        "awayForm": [
+          "W",
+          "D",
+          "D",
+          "L",
+          "W"
+        ],
+        "url": "https://www.predictz.com/predictions/england/national-league-south/1225422/"
+      },
+      {
         "id": "1224503",
         "day": "tomorrow",
         "date": "2026-11-10",
@@ -202,8 +233,39 @@
           "L"
         ],
         "url": "https://www.predictz.com/predictions/bolivia/primera-division/1224503/"
+      },
+      {
+        "id": "1223332",
+        "day": "tomorrow",
+        "date": "2026-11-10",
+        "league": "Nigeria NPFL",
+        "homeTeam": "Sporting Lagos",
+        "awayTeam": "Rivers United",
+        "match": "Sporting Lagos v Rivers United",
+        "prediction": "Draw 1-1",
+        "predictionSide": "draw",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [
+          "D",
+          "D",
+          "W",
+          "W",
+          "L"
+        ],
+        "awayForm": [
+          "W",
+          "D",
+          "D",
+          "L",
+          "D"
+        ],
+        "url": "https://www.predictz.com/predictions/nigeria/npfl/1223332/"
       }
     ]
   },
-  "count": 6
+  "count": 8
 }
