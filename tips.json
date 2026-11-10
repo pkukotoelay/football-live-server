@@ -1,10 +1,10 @@
 {
   "source": "https://www.predictz.com/",
-  "scraped_at": "2026-11-10T17:11:28.360Z",
+  "scraped_at": "2026-11-10T23:37:53.120Z",
   "timezone": "Asia/Yangon",
   "today": {
     "day": "today",
-    "date": "2026-11-10",
+    "date": "2026-11-11",
     "label": "www.predictz.com",
     "pageUrl": "https://www.predictz.com/predictions/",
     "count": 0,
@@ -12,7 +12,7 @@
   },
   "tomorrow": {
     "day": "tomorrow",
-    "date": "2026-11-11",
+    "date": "2026-11-12",
     "label": "Football Tips Tomorrow - Wednesday, November 11th, 2026",
     "pageUrl": "https://www.predictz.com/predictions/tomorrow/",
     "count": 1,
@@ -20,7 +20,7 @@
       {
         "id": "1183661",
         "day": "tomorrow",
-        "date": "2026-11-11",
+        "date": "2026-11-12",
         "league": "Brazil Serie B",
         "homeTeam": "Londrina",
         "awayTeam": "Nautico",
@@ -28,9 +28,9 @@
         "prediction": "Draw 0-0",
         "predictionSide": "draw",
         "odds": {
-          "home": "1.56",
-          "draw": "3.90",
-          "away": "5.50"
+          "home": null,
+          "draw": null,
+          "away": null
         },
         "homeForm": [
           "D",
