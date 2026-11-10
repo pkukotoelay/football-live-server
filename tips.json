@@ -1,6 +1,6 @@
 {
   "source": "https://www.predictz.com/",
-  "scraped_at": "2026-11-09T22:37:09.145Z",
+  "scraped_at": "2026-11-10T07:35:54.634Z",
   "timezone": "Asia/Yangon",
   "today": {
     "day": "today",
@@ -13,19 +13,19 @@
   "tomorrow": {
     "day": "tomorrow",
     "date": "2026-11-11",
-    "label": "Football Tips Tomorrow - Tuesday, November 10th, 2026",
+    "label": "Football Tips Tomorrow - Wednesday, November 11th, 2026",
     "pageUrl": "https://www.predictz.com/predictions/tomorrow/",
-    "count": 8,
+    "count": 1,
     "tips": [
       {
-        "id": "1210424",
+        "id": "1183661",
         "day": "tomorrow",
         "date": "2026-11-11",
-        "league": "England National League North",
-        "homeTeam": "Darlington",
-        "awayTeam": "Oxford City",
-        "match": "Darlington v Oxford City",
-        "prediction": "Draw 2-2",
+        "league": "Brazil Serie B",
+        "homeTeam": "Londrina",
+        "awayTeam": "Nautico",
+        "match": "Londrina v Nautico",
+        "prediction": "Draw 0-0",
         "predictionSide": "draw",
         "odds": {
           "home": null,
@@ -34,238 +34,21 @@
         },
         "homeForm": [
           "D",
-          "L",
           "W",
           "L",
-          "L"
-        ],
-        "awayForm": [
-          "D",
-          "W",
-          "D",
-          "W",
-          "L"
-        ],
-        "url": "https://www.predictz.com/predictions/england/national-league-north/1210424/"
-      },
-      {
-        "id": "1210376",
-        "day": "tomorrow",
-        "date": "2026-11-11",
-        "league": "England National League North",
-        "homeTeam": "Morecambe",
-        "awayTeam": "Hereford",
-        "match": "Morecambe v Hereford",
-        "prediction": "Draw 2-2",
-        "predictionSide": "draw",
-        "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
-        },
-        "homeForm": [
-          "L",
-          "W",
-          "W",
-          "W",
-          "L"
-        ],
-        "awayForm": [
-          "L",
-          "W",
-          "L",
-          "L",
-          "W"
-        ],
-        "url": "https://www.predictz.com/predictions/england/national-league-north/1210376/"
-      },
-      {
-        "id": "1210385",
-        "day": "tomorrow",
-        "date": "2026-11-11",
-        "league": "England National League North",
-        "homeTeam": "Scarborough Athletic",
-        "awayTeam": "Marine FC",
-        "match": "Scarborough Athletic v Marine FC",
-        "prediction": "Away 0-2",
-        "predictionSide": "away",
-        "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
-        },
-        "homeForm": [
-          "L",
-          "W",
-          "L",
-          "L",
-          "D"
-        ],
-        "awayForm": [
-          "W",
-          "W",
-          "D",
-          "L",
-          "L"
-        ],
-        "url": "https://www.predictz.com/predictions/england/national-league-north/1210385/"
-      },
-      {
-        "id": "1210937",
-        "day": "tomorrow",
-        "date": "2026-11-11",
-        "league": "England National League South",
-        "homeTeam": "Hemel Hempstead",
-        "awayTeam": "Torquay",
-        "match": "Hemel Hempstead v Torquay",
-        "prediction": "Away 0-1",
-        "predictionSide": "away",
-        "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
-        },
-        "homeForm": [
-          "L",
-          "L",
-          "D",
           "L",
           "L"
         ],
         "awayForm": [
           "L",
-          "W",
           "D",
           "L",
-          "W"
-        ],
-        "url": "https://www.predictz.com/predictions/england/national-league-south/1210937/"
-      },
-      {
-        "id": "1210931",
-        "day": "tomorrow",
-        "date": "2026-11-11",
-        "league": "England National League South",
-        "homeTeam": "Salisbury",
-        "awayTeam": "Braintree Town",
-        "match": "Salisbury v Braintree Town",
-        "prediction": "Home 3-0",
-        "predictionSide": "home",
-        "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
-        },
-        "homeForm": [
-          "W",
-          "W",
-          "D",
-          "W",
-          "W"
-        ],
-        "awayForm": [
-          "L",
-          "L",
-          "W",
           "W",
           "L"
         ],
-        "url": "https://www.predictz.com/predictions/england/national-league-south/1210931/"
-      },
-      {
-        "id": "1225422",
-        "day": "tomorrow",
-        "date": "2026-11-11",
-        "league": "England National League South",
-        "homeTeam": "Walton and Hersham",
-        "awayTeam": "Dover Athletic",
-        "match": "Walton and Hersham v Dover Athletic",
-        "prediction": "Away 0-1",
-        "predictionSide": "away",
-        "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
-        },
-        "homeForm": [
-          "W",
-          "L",
-          "L",
-          "L",
-          "L"
-        ],
-        "awayForm": [
-          "W",
-          "D",
-          "D",
-          "L",
-          "W"
-        ],
-        "url": "https://www.predictz.com/predictions/england/national-league-south/1225422/"
-      },
-      {
-        "id": "1224503",
-        "day": "tomorrow",
-        "date": "2026-11-11",
-        "league": "Bolivia Primera Division",
-        "homeTeam": "Aurora",
-        "awayTeam": "Universitario de Vinto",
-        "match": "Aurora v Universitario de Vinto",
-        "prediction": "Home 1-0",
-        "predictionSide": "home",
-        "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
-        },
-        "homeForm": [
-          "L",
-          "D",
-          "L",
-          "W",
-          "D"
-        ],
-        "awayForm": [
-          "D",
-          "L",
-          "W",
-          "L",
-          "L"
-        ],
-        "url": "https://www.predictz.com/predictions/bolivia/primera-division/1224503/"
-      },
-      {
-        "id": "1223332",
-        "day": "tomorrow",
-        "date": "2026-11-11",
-        "league": "Nigeria NPFL",
-        "homeTeam": "Sporting Lagos",
-        "awayTeam": "Rivers United",
-        "match": "Sporting Lagos v Rivers United",
-        "prediction": "Draw 1-1",
-        "predictionSide": "draw",
-        "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
-        },
-        "homeForm": [
-          "D",
-          "D",
-          "W",
-          "W",
-          "L"
-        ],
-        "awayForm": [
-          "W",
-          "D",
-          "D",
-          "L",
-          "D"
-        ],
-        "url": "https://www.predictz.com/predictions/nigeria/npfl/1223332/"
+        "url": "https://www.predictz.com/predictions/brazil/serie-b/1183661/"
       }
     ]
   },
-  "count": 8
+  "count": 1
 }
