@@ -1,6 +1,6 @@
 {
   "source": "https://www.predictz.com/",
-  "scraped_at": "2026-11-14T18:23:06.785Z",
+  "scraped_at": "2026-11-14T22:43:58.203Z",
   "timezone": "Asia/Yangon",
   "today": {
     "day": "today",
@@ -462,9 +462,9 @@
         "prediction": "Home 3-2",
         "predictionSide": "home",
         "odds": {
-          "home": "101",
-          "draw": "230",
-          "away": "260"
+          "home": null,
+          "draw": null,
+          "away": null
         },
         "homeForm": [
           "W",
@@ -3115,37 +3115,6 @@
         "url": "https://www.predictz.com/predictions/nigeria/npfl/1223346/"
       },
       {
-        "id": "1223350",
-        "day": "tomorrow",
-        "date": "2026-11-16",
-        "league": "Nigeria NPFL",
-        "homeTeam": "Katsina United",
-        "awayTeam": "Nasarawa United",
-        "match": "Katsina United v Nasarawa United",
-        "prediction": "Away 1-2",
-        "predictionSide": "away",
-        "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
-        },
-        "homeForm": [
-          "W",
-          "L",
-          "D",
-          "W",
-          "D"
-        ],
-        "awayForm": [
-          "W",
-          "W",
-          "W",
-          "L",
-          "W"
-        ],
-        "url": "https://www.predictz.com/predictions/nigeria/npfl/1223350/"
-      },
-      {
         "id": "1223343",
         "day": "tomorrow",
         "date": "2026-11-16",
@@ -3177,37 +3146,6 @@
         "url": "https://www.predictz.com/predictions/nigeria/npfl/1223343/"
       },
       {
-        "id": "1223344",
-        "day": "tomorrow",
-        "date": "2026-11-16",
-        "league": "Nigeria NPFL",
-        "homeTeam": "Niger Tornadoes",
-        "awayTeam": "Enugu Rangers",
-        "match": "Niger Tornadoes v Enugu Rangers",
-        "prediction": "Away 0-3",
-        "predictionSide": "away",
-        "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
-        },
-        "homeForm": [
-          "D",
-          "W",
-          "W",
-          "D",
-          "L"
-        ],
-        "awayForm": [
-          "W",
-          "D",
-          "D",
-          "W",
-          "W"
-        ],
-        "url": "https://www.predictz.com/predictions/nigeria/npfl/1223344/"
-      },
-      {
         "id": "1223351",
         "day": "tomorrow",
         "date": "2026-11-16",
@@ -3237,6 +3175,68 @@
           "L"
         ],
         "url": "https://www.predictz.com/predictions/nigeria/npfl/1223351/"
+      },
+      {
+        "id": "1223350",
+        "day": "tomorrow",
+        "date": "2026-11-16",
+        "league": "Nigeria NPFL",
+        "homeTeam": "Katsina United",
+        "awayTeam": "Nasarawa United",
+        "match": "Katsina United v Nasarawa United",
+        "prediction": "Away 1-2",
+        "predictionSide": "away",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [
+          "W",
+          "L",
+          "D",
+          "W",
+          "D"
+        ],
+        "awayForm": [
+          "W",
+          "W",
+          "W",
+          "L",
+          "W"
+        ],
+        "url": "https://www.predictz.com/predictions/nigeria/npfl/1223350/"
+      },
+      {
+        "id": "1223344",
+        "day": "tomorrow",
+        "date": "2026-11-16",
+        "league": "Nigeria NPFL",
+        "homeTeam": "Niger Tornadoes",
+        "awayTeam": "Enugu Rangers",
+        "match": "Niger Tornadoes v Enugu Rangers",
+        "prediction": "Away 0-3",
+        "predictionSide": "away",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [
+          "D",
+          "W",
+          "W",
+          "D",
+          "L"
+        ],
+        "awayForm": [
+          "W",
+          "D",
+          "D",
+          "W",
+          "W"
+        ],
+        "url": "https://www.predictz.com/predictions/nigeria/npfl/1223344/"
       },
       {
         "id": "1220977",
