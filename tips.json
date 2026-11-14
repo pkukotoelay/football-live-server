@@ -1,28 +1,36 @@
 {
   "source": "https://www.predictz.com/",
-  "scraped_at": "2026-11-14T10:45:12.737Z",
+  "scraped_at": "2026-11-14T18:23:06.785Z",
   "timezone": "Asia/Yangon",
   "today": {
     "day": "today",
-    "date": "2026-11-14",
-    "label": "Football Tips Today - Saturday, November 14th, 2026",
+    "date": "2026-11-15",
+    "label": "www.predictz.com",
     "pageUrl": "https://www.predictz.com/predictions/",
-    "count": 39,
+    "count": 0,
+    "tips": []
+  },
+  "tomorrow": {
+    "day": "tomorrow",
+    "date": "2026-11-16",
+    "label": "Football Tips Tomorrow - Sunday, November 15th, 2026",
+    "pageUrl": "https://www.predictz.com/predictions/tomorrow/",
+    "count": 106,
     "tips": [
       {
-        "id": "1222839",
-        "day": "today",
-        "date": "2026-11-14",
-        "league": "Africa Cup Of Nations",
-        "homeTeam": "Uganda",
-        "awayTeam": "Botswana",
-        "match": "Uganda v Botswana",
-        "prediction": "Home 2-0",
-        "predictionSide": "home",
+        "id": "1184982",
+        "day": "tomorrow",
+        "date": "2026-11-16",
+        "league": "UEFA Nations League",
+        "homeTeam": "Cyprus",
+        "awayTeam": "Montenegro",
+        "match": "Cyprus v Montenegro",
+        "prediction": "Draw 1-1",
+        "predictionSide": "draw",
         "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
+          "home": "230",
+          "draw": "225",
+          "away": "120"
         },
         "homeForm": [
           "L",
@@ -32,329 +40,146 @@
           "D"
         ],
         "awayForm": [
-          "L",
-          "L",
           "W",
-          "D",
-          "D"
-        ],
-        "url": "https://www.predictz.com/predictions/international/africa-cup-of-nations/1222839/"
-      },
-      {
-        "id": "1224810",
-        "day": "today",
-        "date": "2026-11-14",
-        "league": "Africa Cup Of Nations",
-        "homeTeam": "Algeria",
-        "awayTeam": "Togo",
-        "match": "Algeria v Togo",
-        "prediction": "Home 2-0",
-        "predictionSide": "home",
-        "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
-        },
-        "homeForm": [
-          "D",
-          "L",
+          "W",
           "W",
           "D",
           "W"
         ],
-        "awayForm": [
-          "D",
-          "D",
-          "W",
-          "W",
-          "L"
-        ],
-        "url": "https://www.predictz.com/predictions/international/africa-cup-of-nations/1224810/"
+        "url": "https://www.predictz.com/predictions/international/uefa-nations-league/1184982/"
       },
       {
-        "id": "1224814",
-        "day": "today",
-        "date": "2026-11-14",
-        "league": "Africa Cup Of Nations",
-        "homeTeam": "Angola",
-        "awayTeam": "South Sudan",
-        "match": "Angola v South Sudan",
-        "prediction": "Home 3-0",
-        "predictionSide": "home",
-        "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
-        },
-        "homeForm": [
-          "D",
-          "D",
-          "W",
-          "D",
-          "W"
-        ],
-        "awayForm": [
-          "L",
-          "W",
-          "L",
-          "L",
-          "L"
-        ],
-        "url": "https://www.predictz.com/predictions/international/africa-cup-of-nations/1224814/"
-      },
-      {
-        "id": "1184990",
-        "day": "today",
-        "date": "2026-11-14",
+        "id": "1189237",
+        "day": "tomorrow",
+        "date": "2026-11-16",
         "league": "UEFA Nations League",
-        "homeTeam": "Kosovo",
-        "awayTeam": "Israel",
-        "match": "Kosovo v Israel",
-        "prediction": "Home 1-0",
-        "predictionSide": "home",
-        "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
-        },
-        "homeForm": [],
-        "awayForm": [],
-        "url": "https://www.predictz.com/predictions/international/uefa-nations-league/1184990/"
-      },
-      {
-        "id": "1184988",
-        "day": "today",
-        "date": "2026-11-14",
-        "league": "UEFA Nations League",
-        "homeTeam": "Georgia",
-        "awayTeam": "Hungary",
-        "match": "Georgia v Hungary",
+        "homeTeam": "Latvia",
+        "awayTeam": "Armenia",
+        "match": "Latvia v Armenia",
         "prediction": "Draw 1-1",
         "predictionSide": "draw",
         "odds": {
           "home": "200",
           "draw": "210",
-          "away": "140"
-        },
-        "homeForm": [],
-        "awayForm": [],
-        "url": "https://www.predictz.com/predictions/international/uefa-nations-league/1184988/"
-      },
-      {
-        "id": "1184989",
-        "day": "today",
-        "date": "2026-11-14",
-        "league": "UEFA Nations League",
-        "homeTeam": "Norway",
-        "awayTeam": "Wales",
-        "match": "Norway v Wales",
-        "prediction": "Home 2-1",
-        "predictionSide": "home",
-        "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
-        },
-        "homeForm": [],
-        "awayForm": [],
-        "url": "https://www.predictz.com/predictions/international/uefa-nations-league/1184989/"
-      },
-      {
-        "id": "1184984",
-        "day": "today",
-        "date": "2026-11-14",
-        "league": "UEFA Nations League",
-        "homeTeam": "Austria",
-        "awayTeam": "Rep of Ireland",
-        "match": "Austria v Rep of Ireland",
-        "prediction": "Home 1-0",
-        "predictionSide": "home",
-        "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
-        },
-        "homeForm": [],
-        "awayForm": [],
-        "url": "https://www.predictz.com/predictions/international/uefa-nations-league/1184984/"
-      },
-      {
-        "id": "1184983",
-        "day": "today",
-        "date": "2026-11-14",
-        "league": "UEFA Nations League",
-        "homeTeam": "Northern Ireland",
-        "awayTeam": "Ukraine",
-        "match": "Northern Ireland v Ukraine",
-        "prediction": "Draw 1-1",
-        "predictionSide": "draw",
-        "odds": {
-          "home": "155",
-          "draw": "200",
-          "away": "200"
-        },
-        "homeForm": [],
-        "awayForm": [],
-        "url": "https://www.predictz.com/predictions/international/uefa-nations-league/1184983/"
-      },
-      {
-        "id": "1184985",
-        "day": "today",
-        "date": "2026-11-14",
-        "league": "UEFA Nations League",
-        "homeTeam": "Portugal",
-        "awayTeam": "Denmark",
-        "match": "Portugal v Denmark",
-        "prediction": "Home 2-0",
-        "predictionSide": "home",
-        "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
-        },
-        "homeForm": [],
-        "awayForm": [],
-        "url": "https://www.predictz.com/predictions/international/uefa-nations-league/1184985/"
-      },
-      {
-        "id": "1184987",
-        "day": "today",
-        "date": "2026-11-14",
-        "league": "UEFA Nations League",
-        "homeTeam": "Romania",
-        "awayTeam": "Poland",
-        "match": "Romania v Poland",
-        "prediction": "Draw 1-1",
-        "predictionSide": "draw",
-        "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
-        },
-        "homeForm": [],
-        "awayForm": [],
-        "url": "https://www.predictz.com/predictions/international/uefa-nations-league/1184987/"
-      },
-      {
-        "id": "1184986",
-        "day": "today",
-        "date": "2026-11-14",
-        "league": "UEFA Nations League",
-        "homeTeam": "Sweden",
-        "awayTeam": "Bosnia-Herzegovina",
-        "match": "Sweden v Bosnia-Herzegovina",
-        "prediction": "Home 2-0",
-        "predictionSide": "home",
-        "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
-        },
-        "homeForm": [],
-        "awayForm": [],
-        "url": "https://www.predictz.com/predictions/international/uefa-nations-league/1184986/"
-      },
-      {
-        "id": "1200573",
-        "day": "today",
-        "date": "2026-11-14",
-        "league": "England League One",
-        "homeTeam": "AFC Wimbledon",
-        "awayTeam": "Blackpool",
-        "match": "AFC Wimbledon v Blackpool",
-        "prediction": "Draw 0-0",
-        "predictionSide": "draw",
-        "odds": {
-          "home": "150",
-          "draw": "240",
-          "away": "150"
+          "away": "130"
         },
         "homeForm": [
           "L",
-          "L",
-          "L",
           "D",
+          "L",
+          "L",
           "L"
         ],
         "awayForm": [
-          "L",
-          "L",
           "W",
           "L",
+          "L",
+          "D",
           "D"
         ],
-        "url": "https://www.predictz.com/predictions/england/league-one/1200573/"
+        "url": "https://www.predictz.com/predictions/international/uefa-nations-league/1189237/"
       },
       {
-        "id": "1200562",
-        "day": "today",
-        "date": "2026-11-14",
-        "league": "England League One",
-        "homeTeam": "Milton Keynes Dons",
-        "awayTeam": "Burton Albion",
-        "match": "Milton Keynes Dons v Burton Albion",
-        "prediction": "Home 2-0",
-        "predictionSide": "home",
+        "id": "1184980",
+        "day": "tomorrow",
+        "date": "2026-11-16",
+        "league": "UEFA Nations League",
+        "homeTeam": "Belarus",
+        "awayTeam": "Albania",
+        "match": "Belarus v Albania",
+        "prediction": "Away 1-2",
+        "predictionSide": "away",
         "odds": {
           "home": null,
           "draw": null,
           "away": null
         },
         "homeForm": [
-          "W",
           "L",
+          "D",
           "W",
           "W",
           "W"
         ],
         "awayForm": [
-          "L",
-          "D",
-          "D",
           "W",
-          "L"
+          "W",
+          "L",
+          "W",
+          "W"
         ],
-        "url": "https://www.predictz.com/predictions/england/league-one/1200562/"
+        "url": "https://www.predictz.com/predictions/international/uefa-nations-league/1184980/"
       },
       {
-        "id": "1200564",
-        "day": "today",
-        "date": "2026-11-14",
-        "league": "England League One",
-        "homeTeam": "Sheffield Wednesday",
-        "awayTeam": "Plymouth",
-        "match": "Sheffield Wednesday v Plymouth",
+        "id": "1184981",
+        "day": "tomorrow",
+        "date": "2026-11-16",
+        "league": "UEFA Nations League",
+        "homeTeam": "Finland",
+        "awayTeam": "San Marino",
+        "match": "Finland v San Marino",
+        "prediction": "Home 3-0",
+        "predictionSide": "home",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [
+          "W",
+          "D",
+          "W",
+          "L",
+          "L"
+        ],
+        "awayForm": [
+          "L",
+          "L",
+          "L",
+          "L",
+          "L"
+        ],
+        "url": "https://www.predictz.com/predictions/international/uefa-nations-league/1184981/"
+      },
+      {
+        "id": "1184976",
+        "day": "tomorrow",
+        "date": "2026-11-16",
+        "league": "UEFA Nations League",
+        "homeTeam": "Belgium",
+        "awayTeam": "Italy",
+        "match": "Belgium v Italy",
         "prediction": "Draw 2-2",
         "predictionSide": "draw",
         "odds": {
           "home": "120",
-          "draw": "225",
-          "away": "210"
+          "draw": "290",
+          "away": "190"
         },
         "homeForm": [
           "W",
           "L",
+          "W",
           "L",
-          "D",
-          "D"
+          "W"
         ],
         "awayForm": [
-          "W",
-          "L",
           "L",
           "W",
-          "D"
+          "D",
+          "W",
+          "W"
         ],
-        "url": "https://www.predictz.com/predictions/england/league-one/1200564/"
+        "url": "https://www.predictz.com/predictions/international/uefa-nations-league/1184976/"
       },
       {
-        "id": "1200563",
-        "day": "today",
-        "date": "2026-11-14",
-        "league": "England League One",
-        "homeTeam": "Stockport",
-        "awayTeam": "Reading",
-        "match": "Stockport v Reading",
+        "id": "1184977",
+        "day": "tomorrow",
+        "date": "2026-11-16",
+        "league": "UEFA Nations League",
+        "homeTeam": "Croatia",
+        "awayTeam": "Czech Republic",
+        "match": "Croatia v Czech Republic",
         "prediction": "Home 2-1",
         "predictionSide": "home",
         "odds": {
@@ -364,245 +189,59 @@
         },
         "homeForm": [
           "W",
-          "W",
-          "D",
-          "L",
-          "W"
-        ],
-        "awayForm": [
-          "L",
-          "W",
-          "W",
-          "D",
-          "L"
-        ],
-        "url": "https://www.predictz.com/predictions/england/league-one/1200563/"
-      },
-      {
-        "id": "1200566",
-        "day": "today",
-        "date": "2026-11-14",
-        "league": "England League One",
-        "homeTeam": "Wigan",
-        "awayTeam": "Barnsley",
-        "match": "Wigan v Barnsley",
-        "prediction": "Draw 0-0",
-        "predictionSide": "draw",
-        "odds": {
-          "home": "110",
-          "draw": "270",
-          "away": "200"
-        },
-        "homeForm": [
           "L",
           "L",
           "L",
-          "W",
-          "D"
-        ],
-        "awayForm": [
-          "L",
-          "L",
-          "L",
-          "L",
-          "D"
-        ],
-        "url": "https://www.predictz.com/predictions/england/league-one/1200566/"
-      },
-      {
-        "id": "1201122",
-        "day": "today",
-        "date": "2026-11-14",
-        "league": "England League Two",
-        "homeTeam": "Exeter",
-        "awayTeam": "Cheltenham",
-        "match": "Exeter v Cheltenham",
-        "prediction": "Home 2-0",
-        "predictionSide": "home",
-        "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
-        },
-        "homeForm": [
-          "W",
-          "D",
-          "W",
-          "W",
           "L"
         ],
         "awayForm": [
           "L",
           "L",
-          "W",
-          "W",
+          "L",
+          "L",
           "L"
         ],
-        "url": "https://www.predictz.com/predictions/england/league-two/1201122/"
+        "url": "https://www.predictz.com/predictions/international/uefa-nations-league/1184977/"
       },
       {
-        "id": "1201120",
-        "day": "today",
-        "date": "2026-11-14",
-        "league": "England League Two",
-        "homeTeam": "Bristol Rovers",
-        "awayTeam": "Chesterfield",
-        "match": "Bristol Rovers v Chesterfield",
-        "prediction": "Draw 1-1",
-        "predictionSide": "draw",
-        "odds": {
-          "home": "210",
-          "draw": "240",
-          "away": "110"
-        },
-        "homeForm": [
-          "L",
-          "L",
-          "L",
-          "D",
-          "L"
-        ],
-        "awayForm": [
-          "D",
-          "L",
-          "D",
-          "W",
-          "L"
-        ],
-        "url": "https://www.predictz.com/predictions/england/league-two/1201120/"
-      },
-      {
-        "id": "1201119",
-        "day": "today",
-        "date": "2026-11-14",
-        "league": "England League Two",
-        "homeTeam": "Colchester",
-        "awayTeam": "Gillingham",
-        "match": "Colchester v Gillingham",
-        "prediction": "Away 0-2",
-        "predictionSide": "away",
-        "odds": {
-          "home": "105",
-          "draw": "230",
-          "away": "240"
-        },
-        "homeForm": [
-          "L",
-          "D",
-          "D",
-          "L",
-          "L"
-        ],
-        "awayForm": [
-          "W",
-          "L",
-          "D",
-          "L",
-          "W"
-        ],
-        "url": "https://www.predictz.com/predictions/england/league-two/1201119/"
-      },
-      {
-        "id": "1201115",
-        "day": "today",
-        "date": "2026-11-14",
-        "league": "England League Two",
-        "homeTeam": "Crewe",
-        "awayTeam": "Newport County",
-        "match": "Crewe v Newport County",
+        "id": "1184978",
+        "day": "tomorrow",
+        "date": "2026-11-16",
+        "league": "UEFA Nations League",
+        "homeTeam": "France",
+        "awayTeam": "Turkey",
+        "match": "France v Turkey",
         "prediction": "Home 3-0",
         "predictionSide": "home",
         "odds": {
-          "home": "105",
-          "draw": "240",
-          "away": "230"
-        },
-        "homeForm": [
-          "W",
-          "W",
-          "L",
-          "L",
-          "D"
-        ],
-        "awayForm": [
-          "W",
-          "D",
-          "D",
-          "L",
-          "W"
-        ],
-        "url": "https://www.predictz.com/predictions/england/league-two/1201115/"
-      },
-      {
-        "id": "1201118",
-        "day": "today",
-        "date": "2026-11-14",
-        "league": "England League Two",
-        "homeTeam": "Port Vale",
-        "awayTeam": "Accrington Stanley",
-        "match": "Port Vale v Accrington Stanley",
-        "prediction": "Away 0-2",
-        "predictionSide": "away",
-        "odds": {
-          "home": "115",
-          "draw": "220",
-          "away": "225"
-        },
-        "homeForm": [
-          "W",
-          "W",
-          "D",
-          "L",
-          "W"
-        ],
-        "awayForm": [
-          "D",
-          "W",
-          "D",
-          "W",
-          "D"
-        ],
-        "url": "https://www.predictz.com/predictions/england/league-two/1201118/"
-      },
-      {
-        "id": "1201123",
-        "day": "today",
-        "date": "2026-11-14",
-        "league": "England League Two",
-        "homeTeam": "Rochdale",
-        "awayTeam": "York",
-        "match": "Rochdale v York",
-        "prediction": "Draw 1-1",
-        "predictionSide": "draw",
-        "odds": {
           "home": null,
           "draw": null,
           "away": null
         },
         "homeForm": [
+          "W",
+          "W",
           "D",
-          "L",
-          "D",
-          "L",
+          "W",
           "L"
         ],
         "awayForm": [
-          "D",
-          "D",
-          "W",
+          "L",
+          "L",
+          "L",
           "L",
           "L"
         ],
-        "url": "https://www.predictz.com/predictions/england/league-two/1201123/"
+        "url": "https://www.predictz.com/predictions/international/uefa-nations-league/1184978/"
       },
       {
-        "id": "1201125",
-        "day": "today",
-        "date": "2026-11-14",
-        "league": "England League Two",
-        "homeTeam": "Salford City",
-        "awayTeam": "Northampton",
-        "match": "Salford City v Northampton",
+        "id": "1184979",
+        "day": "tomorrow",
+        "date": "2026-11-16",
+        "league": "UEFA Nations League",
+        "homeTeam": "Spain",
+        "awayTeam": "England",
+        "match": "Spain v England",
         "prediction": "Home 2-1",
         "predictionSide": "home",
         "odds": {
@@ -618,523 +257,18 @@
           "W"
         ],
         "awayForm": [
-          "W",
           "L",
-          "W",
-          "D",
-          "L"
-        ],
-        "url": "https://www.predictz.com/predictions/england/league-two/1201125/"
-      },
-      {
-        "id": "1201121",
-        "day": "today",
-        "date": "2026-11-14",
-        "league": "England League Two",
-        "homeTeam": "Shrewsbury",
-        "awayTeam": "Oldham",
-        "match": "Shrewsbury v Oldham",
-        "prediction": "Home 1-0",
-        "predictionSide": "home",
-        "odds": {
-          "home": "145",
-          "draw": "230",
-          "away": "165"
-        },
-        "homeForm": [
-          "L",
-          "W",
-          "W",
-          "D",
-          "L"
-        ],
-        "awayForm": [
-          "W",
-          "L",
-          "D",
-          "L",
-          "W"
-        ],
-        "url": "https://www.predictz.com/predictions/england/league-two/1201121/"
-      },
-      {
-        "id": "1201117",
-        "day": "today",
-        "date": "2026-11-14",
-        "league": "England League Two",
-        "homeTeam": "Swindon",
-        "awayTeam": "Grimsby",
-        "match": "Swindon v Grimsby",
-        "prediction": "Draw 2-2",
-        "predictionSide": "draw",
-        "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
-        },
-        "homeForm": [
-          "L",
-          "D",
-          "W",
-          "D",
-          "W"
-        ],
-        "awayForm": [
-          "L",
-          "L",
-          "D",
-          "W",
-          "W"
-        ],
-        "url": "https://www.predictz.com/predictions/england/league-two/1201117/"
-      },
-      {
-        "id": "1201124",
-        "day": "today",
-        "date": "2026-11-14",
-        "league": "England League Two",
-        "homeTeam": "Fleetwood Town",
-        "awayTeam": "Tranmere",
-        "match": "Fleetwood Town v Tranmere",
-        "prediction": "Home 2-0",
-        "predictionSide": "home",
-        "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
-        },
-        "homeForm": [
-          "D",
-          "W",
-          "L",
-          "L",
-          "W"
-        ],
-        "awayForm": [
-          "D",
-          "L",
-          "W",
-          "D",
-          "W"
-        ],
-        "url": "https://www.predictz.com/predictions/england/league-two/1201124/"
-      },
-      {
-        "id": "1209487",
-        "day": "today",
-        "date": "2026-11-14",
-        "league": "England National League",
-        "homeTeam": "AFC Hornchurch",
-        "awayTeam": "Tamworth",
-        "match": "AFC Hornchurch v Tamworth",
-        "prediction": "Home 1-0",
-        "predictionSide": "home",
-        "odds": {
-          "home": "125",
-          "draw": "260",
-          "away": "170"
-        },
-        "homeForm": [
-          "L",
-          "W",
-          "L",
-          "L",
-          "L"
-        ],
-        "awayForm": [
-          "W",
-          "W",
-          "L",
-          "W",
-          "L"
-        ],
-        "url": "https://www.predictz.com/predictions/england/national-league/1209487/"
-      },
-      {
-        "id": "1209476",
-        "day": "today",
-        "date": "2026-11-14",
-        "league": "England National League",
-        "homeTeam": "Carlisle",
-        "awayTeam": "Boston Utd",
-        "match": "Carlisle v Boston Utd",
-        "prediction": "Home 3-1",
-        "predictionSide": "home",
-        "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
-        },
-        "homeForm": [
-          "W",
-          "D",
-          "W",
-          "W",
-          "W"
-        ],
-        "awayForm": [
-          "L",
-          "L",
-          "L",
-          "W",
-          "W"
-        ],
-        "url": "https://www.predictz.com/predictions/england/national-league/1209476/"
-      },
-      {
-        "id": "1209485",
-        "day": "today",
-        "date": "2026-11-14",
-        "league": "England National League",
-        "homeTeam": "Eastleigh",
-        "awayTeam": "AFC Fylde",
-        "match": "Eastleigh v AFC Fylde",
-        "prediction": "Draw 1-1",
-        "predictionSide": "draw",
-        "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
-        },
-        "homeForm": [
-          "L",
-          "L",
-          "W",
-          "L",
-          "D"
-        ],
-        "awayForm": [
-          "L",
-          "W",
-          "L",
-          "W",
-          "W"
-        ],
-        "url": "https://www.predictz.com/predictions/england/national-league/1209485/"
-      },
-      {
-        "id": "1209483",
-        "day": "today",
-        "date": "2026-11-14",
-        "league": "England National League",
-        "homeTeam": "Gateshead",
-        "awayTeam": "Barrow",
-        "match": "Gateshead v Barrow",
-        "prediction": "Away 0-1",
-        "predictionSide": "away",
-        "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
-        },
-        "homeForm": [
-          "L",
-          "L",
-          "L",
-          "L",
-          "L"
-        ],
-        "awayForm": [
-          "W",
-          "W",
-          "W",
-          "W",
-          "D"
-        ],
-        "url": "https://www.predictz.com/predictions/england/national-league/1209483/"
-      },
-      {
-        "id": "1209484",
-        "day": "today",
-        "date": "2026-11-14",
-        "league": "England National League",
-        "homeTeam": "Harrogate Town",
-        "awayTeam": "Altrincham",
-        "match": "Harrogate Town v Altrincham",
-        "prediction": "Home 3-0",
-        "predictionSide": "home",
-        "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
-        },
-        "homeForm": [
-          "W",
-          "W",
-          "W",
-          "L",
-          "D"
-        ],
-        "awayForm": [
-          "L",
-          "W",
-          "W",
-          "D",
-          "L"
-        ],
-        "url": "https://www.predictz.com/predictions/england/national-league/1209484/"
-      },
-      {
-        "id": "1209480",
-        "day": "today",
-        "date": "2026-11-14",
-        "league": "England National League",
-        "homeTeam": "Hartlepool",
-        "awayTeam": "Wealdstone",
-        "match": "Hartlepool v Wealdstone",
-        "prediction": "Away 0-1",
-        "predictionSide": "away",
-        "odds": {
-          "home": "105",
-          "draw": "250",
-          "away": "210"
-        },
-        "homeForm": [
-          "L",
-          "W",
-          "W",
-          "L",
-          "L"
-        ],
-        "awayForm": [
-          "L",
-          "L",
-          "W",
-          "L",
-          "W"
-        ],
-        "url": "https://www.predictz.com/predictions/england/national-league/1209480/"
-      },
-      {
-        "id": "1209478",
-        "day": "today",
-        "date": "2026-11-14",
-        "league": "England National League",
-        "homeTeam": "Kidderminster",
-        "awayTeam": "Halifax",
-        "match": "Kidderminster v Halifax",
-        "prediction": "Draw 1-1",
-        "predictionSide": "draw",
-        "odds": {
-          "home": "155",
-          "draw": "240",
-          "away": "150"
-        },
-        "homeForm": [
-          "D",
-          "D",
-          "L",
-          "D",
-          "L"
-        ],
-        "awayForm": [
-          "W",
-          "W",
-          "D",
-          "L",
-          "W"
-        ],
-        "url": "https://www.predictz.com/predictions/england/national-league/1209478/"
-      },
-      {
-        "id": "1209477",
-        "day": "today",
-        "date": "2026-11-14",
-        "league": "England National League",
-        "homeTeam": "Scunthorpe",
-        "awayTeam": "Worthing",
-        "match": "Scunthorpe v Worthing",
-        "prediction": "Away 0-2",
-        "predictionSide": "away",
-        "odds": {
-          "home": "115",
-          "draw": "300",
-          "away": "170"
-        },
-        "homeForm": [
-          "L",
-          "L",
-          "L",
-          "L",
-          "L"
-        ],
-        "awayForm": [
-          "W",
-          "W",
-          "W",
-          "D",
-          "L"
-        ],
-        "url": "https://www.predictz.com/predictions/england/national-league/1209477/"
-      },
-      {
-        "id": "1209479",
-        "day": "today",
-        "date": "2026-11-14",
-        "league": "England National League",
-        "homeTeam": "Southend",
-        "awayTeam": "Aldershot",
-        "match": "Southend v Aldershot",
-        "prediction": "Home 3-0",
-        "predictionSide": "home",
-        "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
-        },
-        "homeForm": [
-          "W",
-          "W",
-          "D",
-          "D",
-          "L"
-        ],
-        "awayForm": [
-          "L",
-          "L",
-          "L",
-          "L",
-          "W"
-        ],
-        "url": "https://www.predictz.com/predictions/england/national-league/1209479/"
-      },
-      {
-        "id": "1209486",
-        "day": "today",
-        "date": "2026-11-14",
-        "league": "England National League",
-        "homeTeam": "Sutton Utd",
-        "awayTeam": "Solihull Moors",
-        "match": "Sutton Utd v Solihull Moors",
-        "prediction": "Home 1-0",
-        "predictionSide": "home",
-        "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
-        },
-        "homeForm": [
-          "D",
-          "L",
-          "L",
-          "W",
-          "W"
-        ],
-        "awayForm": [
-          "L",
-          "L",
-          "L",
-          "W",
-          "W"
-        ],
-        "url": "https://www.predictz.com/predictions/england/national-league/1209486/"
-      },
-      {
-        "id": "1209482",
-        "day": "today",
-        "date": "2026-11-14",
-        "league": "England National League",
-        "homeTeam": "Yeovil",
-        "awayTeam": "Boreham Wood",
-        "match": "Yeovil v Boreham Wood",
-        "prediction": "Draw 2-2",
-        "predictionSide": "draw",
-        "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
-        },
-        "homeForm": [
-          "W",
-          "W",
-          "L",
-          "W",
-          "L"
-        ],
-        "awayForm": [
-          "W",
           "W",
           "W",
           "W",
           "W"
         ],
-        "url": "https://www.predictz.com/predictions/england/national-league/1209482/"
+        "url": "https://www.predictz.com/predictions/international/uefa-nations-league/1184979/"
       },
-      {
-        "id": "1170935",
-        "day": "today",
-        "date": "2026-11-14",
-        "league": "Brazil Serie A",
-        "homeTeam": "Mirassol",
-        "awayTeam": "Atletico Mineiro",
-        "match": "Mirassol v Atletico Mineiro",
-        "prediction": "Home 1-0",
-        "predictionSide": "home",
-        "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
-        },
-        "homeForm": [
-          "L",
-          "W",
-          "D",
-          "L",
-          "W"
-        ],
-        "awayForm": [
-          "W",
-          "W",
-          "L",
-          "L",
-          "L"
-        ],
-        "url": "https://www.predictz.com/predictions/brazil/serie-a/1170935/"
-      },
-      {
-        "id": "1170794",
-        "day": "today",
-        "date": "2026-11-14",
-        "league": "Brazil Serie A",
-        "homeTeam": "Chapecoense",
-        "awayTeam": "Vasco da Gama",
-        "match": "Chapecoense v Vasco da Gama",
-        "prediction": "Away 0-1",
-        "predictionSide": "away",
-        "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
-        },
-        "homeForm": [
-          "L",
-          "L",
-          "W",
-          "L",
-          "L"
-        ],
-        "awayForm": [
-          "D",
-          "L",
-          "W",
-          "L",
-          "W"
-        ],
-        "url": "https://www.predictz.com/predictions/brazil/serie-a/1170794/"
-      }
-    ]
-  },
-  "tomorrow": {
-    "day": "tomorrow",
-    "date": "2026-11-15",
-    "label": "Football Tips Tomorrow - Sunday, November 15th, 2026",
-    "pageUrl": "https://www.predictz.com/predictions/tomorrow/",
-    "count": 98,
-    "tips": [
       {
         "id": "1224547",
         "day": "tomorrow",
-        "date": "2026-11-15",
+        "date": "2026-11-16",
         "league": "CONCACAF Nations League",
         "homeTeam": "Saint Vincent and the Grenadines",
         "awayTeam": "Belize",
@@ -1165,7 +299,7 @@
       {
         "id": "1224471",
         "day": "tomorrow",
-        "date": "2026-11-15",
+        "date": "2026-11-16",
         "league": "CONCACAF Nations League",
         "homeTeam": "Jamaica",
         "awayTeam": "Mexico",
@@ -1196,7 +330,7 @@
       {
         "id": "1218490",
         "day": "tomorrow",
-        "date": "2026-11-15",
+        "date": "2026-11-16",
         "league": "England Women's Super League",
         "homeTeam": "Aston Villa Women",
         "awayTeam": "Birmingham Women",
@@ -1227,7 +361,7 @@
       {
         "id": "1218489",
         "day": "tomorrow",
-        "date": "2026-11-15",
+        "date": "2026-11-16",
         "league": "England Women's Super League",
         "homeTeam": "West Ham Women",
         "awayTeam": "Charlton Athletic Women",
@@ -1258,7 +392,7 @@
       {
         "id": "1218485",
         "day": "tomorrow",
-        "date": "2026-11-15",
+        "date": "2026-11-16",
         "league": "England Women's Super League",
         "homeTeam": "Arsenal Women",
         "awayTeam": "London City Lionesses",
@@ -1289,7 +423,7 @@
       {
         "id": "1203524",
         "day": "tomorrow",
-        "date": "2026-11-15",
+        "date": "2026-11-16",
         "league": "Spain Segunda Division",
         "homeTeam": "Tenerife",
         "awayTeam": "Ceuta",
@@ -1320,7 +454,7 @@
       {
         "id": "1203533",
         "day": "tomorrow",
-        "date": "2026-11-15",
+        "date": "2026-11-16",
         "league": "Spain Segunda Division",
         "homeTeam": "Granada",
         "awayTeam": "Las Palmas",
@@ -1328,9 +462,9 @@
         "prediction": "Home 3-2",
         "predictionSide": "home",
         "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
+          "home": "101",
+          "draw": "230",
+          "away": "260"
         },
         "homeForm": [
           "W",
@@ -1351,7 +485,7 @@
       {
         "id": "1203527",
         "day": "tomorrow",
-        "date": "2026-11-15",
+        "date": "2026-11-16",
         "league": "Spain Segunda Division",
         "homeTeam": "Eibar",
         "awayTeam": "Cadiz",
@@ -1382,7 +516,7 @@
       {
         "id": "1203534",
         "day": "tomorrow",
-        "date": "2026-11-15",
+        "date": "2026-11-16",
         "league": "Spain Segunda Division",
         "homeTeam": "Eldense",
         "awayTeam": "Sabadell",
@@ -1390,9 +524,9 @@
         "prediction": "Draw 0-0",
         "predictionSide": "draw",
         "odds": {
-          "home": "132",
+          "home": "125",
           "draw": "200",
-          "away": "210"
+          "away": "230"
         },
         "homeForm": [
           "W",
@@ -1413,7 +547,7 @@
       {
         "id": "1207517",
         "day": "tomorrow",
-        "date": "2026-11-15",
+        "date": "2026-11-16",
         "league": "Germany Regionalliga North",
         "homeTeam": "Bremer SV",
         "awayTeam": "Eimsbutteler TV",
@@ -1444,7 +578,7 @@
       {
         "id": "1207520",
         "day": "tomorrow",
-        "date": "2026-11-15",
+        "date": "2026-11-16",
         "league": "Germany Regionalliga North",
         "homeTeam": "SV Todesfelde",
         "awayTeam": "Hannover 96 II",
@@ -1475,7 +609,7 @@
       {
         "id": "1209111",
         "day": "tomorrow",
-        "date": "2026-11-15",
+        "date": "2026-11-16",
         "league": "Germany Regionalliga Bayern",
         "homeTeam": "TSV Landsberg",
         "awayTeam": "Nurnberg II",
@@ -1506,7 +640,7 @@
       {
         "id": "1218200",
         "day": "tomorrow",
-        "date": "2026-11-15",
+        "date": "2026-11-16",
         "league": "Italy Serie C",
         "homeTeam": "Giugliano 1928",
         "awayTeam": "Savoia 1908",
@@ -1537,7 +671,7 @@
       {
         "id": "1215868",
         "day": "tomorrow",
-        "date": "2026-11-15",
+        "date": "2026-11-16",
         "league": "Italy Serie C",
         "homeTeam": "Novara",
         "awayTeam": "Calcio Lecco",
@@ -1568,7 +702,7 @@
       {
         "id": "1215909",
         "day": "tomorrow",
-        "date": "2026-11-15",
+        "date": "2026-11-16",
         "league": "Italy Serie C",
         "homeTeam": "Cavese",
         "awayTeam": "Crotone",
@@ -1599,7 +733,7 @@
       {
         "id": "1218203",
         "day": "tomorrow",
-        "date": "2026-11-15",
+        "date": "2026-11-16",
         "league": "Italy Serie C",
         "homeTeam": "Monterosi",
         "awayTeam": "Ostiamare",
@@ -1630,7 +764,7 @@
       {
         "id": "1215864",
         "day": "tomorrow",
-        "date": "2026-11-15",
+        "date": "2026-11-16",
         "league": "Italy Serie C",
         "homeTeam": "Pescara",
         "awayTeam": "Sambenedettese",
@@ -1661,7 +795,7 @@
       {
         "id": "1218201",
         "day": "tomorrow",
-        "date": "2026-11-15",
+        "date": "2026-11-16",
         "league": "Italy Serie C",
         "homeTeam": "Potenza",
         "awayTeam": "Scafatese Calcio 1922",
@@ -1692,7 +826,7 @@
       {
         "id": "1215861",
         "day": "tomorrow",
-        "date": "2026-11-15",
+        "date": "2026-11-16",
         "league": "Italy Serie C",
         "homeTeam": "Salernitana",
         "awayTeam": "Catania",
@@ -1723,7 +857,7 @@
       {
         "id": "1218199",
         "day": "tomorrow",
-        "date": "2026-11-15",
+        "date": "2026-11-16",
         "league": "Italy Serie C",
         "homeTeam": "Spezia",
         "awayTeam": "Vado",
@@ -1754,7 +888,7 @@
       {
         "id": "1215912",
         "day": "tomorrow",
-        "date": "2026-11-15",
+        "date": "2026-11-16",
         "league": "Italy Serie C",
         "homeTeam": "Barletta",
         "awayTeam": "Team Altamura",
@@ -1785,7 +919,7 @@
       {
         "id": "1218198",
         "day": "tomorrow",
-        "date": "2026-11-15",
+        "date": "2026-11-16",
         "league": "Italy Serie C",
         "homeTeam": "Cittadella",
         "awayTeam": "Folgore Caratese",
@@ -1816,7 +950,7 @@
       {
         "id": "1215863",
         "day": "tomorrow",
-        "date": "2026-11-15",
+        "date": "2026-11-16",
         "league": "Italy Serie C",
         "homeTeam": "Cosenza",
         "awayTeam": "Casertana 1908",
@@ -1847,7 +981,7 @@
       {
         "id": "1215918",
         "day": "tomorrow",
-        "date": "2026-11-15",
+        "date": "2026-11-16",
         "league": "Italy Serie C",
         "homeTeam": "Juventus II",
         "awayTeam": "Treviso",
@@ -1878,7 +1012,7 @@
       {
         "id": "1215915",
         "day": "tomorrow",
-        "date": "2026-11-15",
+        "date": "2026-11-16",
         "league": "Italy Serie C",
         "homeTeam": "Pergolettese",
         "awayTeam": "Pro Vercelli",
@@ -1909,7 +1043,7 @@
       {
         "id": "1215908",
         "day": "tomorrow",
-        "date": "2026-11-15",
+        "date": "2026-11-16",
         "league": "Italy Serie C",
         "homeTeam": "Ravenna",
         "awayTeam": "Forli",
@@ -1940,7 +1074,7 @@
       {
         "id": "1192313",
         "day": "tomorrow",
-        "date": "2026-11-15",
+        "date": "2026-11-16",
         "league": "Netherlands Eerste Divisie",
         "homeTeam": "MVV Maastricht",
         "awayTeam": "Vitesse",
@@ -1971,7 +1105,7 @@
       {
         "id": "1223096",
         "day": "tomorrow",
-        "date": "2026-11-15",
+        "date": "2026-11-16",
         "league": "Greece Super League 2",
         "homeTeam": "Apollon Kalamarias",
         "awayTeam": "Kallithea",
@@ -2002,7 +1136,7 @@
       {
         "id": "1198886",
         "day": "tomorrow",
-        "date": "2026-11-15",
+        "date": "2026-11-16",
         "league": "Montenegro Second League",
         "homeTeam": "Iskra",
         "awayTeam": "Kom",
@@ -2033,7 +1167,7 @@
       {
         "id": "1198884",
         "day": "tomorrow",
-        "date": "2026-11-15",
+        "date": "2026-11-16",
         "league": "Montenegro Second League",
         "homeTeam": "Rudar",
         "awayTeam": "Grbalj",
@@ -2064,7 +1198,7 @@
       {
         "id": "1204648",
         "day": "tomorrow",
-        "date": "2026-11-15",
+        "date": "2026-11-16",
         "league": "Portugal Liga Portugal 2",
         "homeTeam": "Amarante",
         "awayTeam": "FC Felgueiras 1932",
@@ -2095,7 +1229,7 @@
       {
         "id": "1204645",
         "day": "tomorrow",
-        "date": "2026-11-15",
+        "date": "2026-11-16",
         "league": "Portugal Liga Portugal 2",
         "homeTeam": "Tondela",
         "awayTeam": "Farense",
@@ -2126,7 +1260,7 @@
       {
         "id": "1204643",
         "day": "tomorrow",
-        "date": "2026-11-15",
+        "date": "2026-11-16",
         "league": "Portugal Liga Portugal 2",
         "homeTeam": "Portimonense",
         "awayTeam": "Academica",
@@ -2134,9 +1268,9 @@
         "prediction": "Away 0-2",
         "predictionSide": "away",
         "odds": {
-          "home": "115",
+          "home": "120",
           "draw": "210",
-          "away": "210"
+          "away": "200"
         },
         "homeForm": [
           "L",
@@ -2157,7 +1291,7 @@
       {
         "id": "1204641",
         "day": "tomorrow",
-        "date": "2026-11-15",
+        "date": "2026-11-16",
         "league": "Portugal Liga Portugal 2",
         "homeTeam": "Penafiel",
         "awayTeam": "Lusitania",
@@ -2188,7 +1322,7 @@
       {
         "id": "1204642",
         "day": "tomorrow",
-        "date": "2026-11-15",
+        "date": "2026-11-16",
         "league": "Portugal Liga Portugal 2",
         "homeTeam": "Leixoes",
         "awayTeam": "Chaves",
@@ -2219,7 +1353,7 @@
       {
         "id": "1206575",
         "day": "tomorrow",
-        "date": "2026-11-15",
+        "date": "2026-11-16",
         "league": "Russia FNL",
         "homeTeam": "FC Ska Khabarovsk",
         "awayTeam": "Leningradets",
@@ -2250,7 +1384,7 @@
       {
         "id": "1206657",
         "day": "tomorrow",
-        "date": "2026-11-15",
+        "date": "2026-11-16",
         "league": "Russia FNL",
         "homeTeam": "FC Chelyabinsk",
         "awayTeam": "Veles",
@@ -2281,7 +1415,7 @@
       {
         "id": "1206659",
         "day": "tomorrow",
-        "date": "2026-11-15",
+        "date": "2026-11-16",
         "league": "Russia FNL",
         "homeTeam": "Ufa",
         "awayTeam": "Spartak Kostroma",
@@ -2312,7 +1446,7 @@
       {
         "id": "1206653",
         "day": "tomorrow",
-        "date": "2026-11-15",
+        "date": "2026-11-16",
         "league": "Russia FNL",
         "homeTeam": "Sochi",
         "awayTeam": "Shinnik Yaroslavl",
@@ -2343,7 +1477,7 @@
       {
         "id": "1195136",
         "day": "tomorrow",
-        "date": "2026-11-15",
+        "date": "2026-11-16",
         "league": "Serbia Prva Liga",
         "homeTeam": "OFK Vrsac",
         "awayTeam": "Javor Ivanjica",
@@ -2374,7 +1508,7 @@
       {
         "id": "1195134",
         "day": "tomorrow",
-        "date": "2026-11-15",
+        "date": "2026-11-16",
         "league": "Serbia Prva Liga",
         "homeTeam": "Backa Topola",
         "awayTeam": "Jedinstvo Ub",
@@ -2405,7 +1539,7 @@
       {
         "id": "1195132",
         "day": "tomorrow",
-        "date": "2026-11-15",
+        "date": "2026-11-16",
         "league": "Serbia Prva Liga",
         "homeTeam": "FK Metalac",
         "awayTeam": "Napredak",
@@ -2436,7 +1570,7 @@
       {
         "id": "1198047",
         "day": "tomorrow",
-        "date": "2026-11-15",
+        "date": "2026-11-16",
         "league": "Slovenia 2. SNL",
         "homeTeam": "Primorje",
         "awayTeam": "NK Jesenice",
@@ -2467,7 +1601,7 @@
       {
         "id": "1198052",
         "day": "tomorrow",
-        "date": "2026-11-15",
+        "date": "2026-11-16",
         "league": "Slovenia 2. SNL",
         "homeTeam": "ND Slovan",
         "awayTeam": "Krsko Posavje",
@@ -2498,7 +1632,7 @@
       {
         "id": "1206143",
         "day": "tomorrow",
-        "date": "2026-11-15",
+        "date": "2026-11-16",
         "league": "Ukraine Persha Liga",
         "homeTeam": "Nyva Ternopil",
         "awayTeam": "Oleksandriya",
@@ -2529,7 +1663,7 @@
       {
         "id": "1180312",
         "day": "tomorrow",
-        "date": "2026-11-15",
+        "date": "2026-11-16",
         "league": "Chile Primera B",
         "homeTeam": "Santiago Wanderers",
         "awayTeam": "Deportes Copiapo",
@@ -2560,7 +1694,7 @@
       {
         "id": "1180319",
         "day": "tomorrow",
-        "date": "2026-11-15",
+        "date": "2026-11-16",
         "league": "Chile Primera B",
         "homeTeam": "CD Santa Cruz",
         "awayTeam": "Rangers Talca",
@@ -2591,7 +1725,7 @@
       {
         "id": "1180314",
         "day": "tomorrow",
-        "date": "2026-11-15",
+        "date": "2026-11-16",
         "league": "Chile Primera B",
         "homeTeam": "Cobreloa",
         "awayTeam": "Puerto Montt",
@@ -2622,7 +1756,7 @@
       {
         "id": "1180317",
         "day": "tomorrow",
-        "date": "2026-11-15",
+        "date": "2026-11-16",
         "league": "Chile Primera B",
         "homeTeam": "Deportes Magallanes",
         "awayTeam": "Antofagasta",
@@ -2653,7 +1787,7 @@
       {
         "id": "1180316",
         "day": "tomorrow",
-        "date": "2026-11-15",
+        "date": "2026-11-16",
         "league": "Chile Primera B",
         "homeTeam": "San Marcos",
         "awayTeam": "San Luis",
@@ -2684,7 +1818,7 @@
       {
         "id": "1180313",
         "day": "tomorrow",
-        "date": "2026-11-15",
+        "date": "2026-11-16",
         "league": "Chile Primera B",
         "homeTeam": "Union San Felipe",
         "awayTeam": "Union Espanola",
@@ -2715,7 +1849,7 @@
       {
         "id": "1180318",
         "day": "tomorrow",
-        "date": "2026-11-15",
+        "date": "2026-11-16",
         "league": "Chile Primera B",
         "homeTeam": "Deportes Recoleta",
         "awayTeam": "Deportes Iquique",
@@ -2746,7 +1880,7 @@
       {
         "id": "1225338",
         "day": "tomorrow",
-        "date": "2026-11-15",
+        "date": "2026-11-16",
         "league": "Argentina Primera B Nacional Playoffs",
         "homeTeam": "Deportivo Moron",
         "awayTeam": "Colegiales",
@@ -2777,7 +1911,7 @@
       {
         "id": "1225345",
         "day": "tomorrow",
-        "date": "2026-11-15",
+        "date": "2026-11-16",
         "league": "Argentina Primera B Nacional Playoffs",
         "homeTeam": "Godoy Cruz",
         "awayTeam": "Tristan Suarez",
@@ -2808,7 +1942,7 @@
       {
         "id": "1225339",
         "day": "tomorrow",
-        "date": "2026-11-15",
+        "date": "2026-11-16",
         "league": "Argentina Primera B Nacional Playoffs",
         "homeTeam": "Ferro Carril Oeste",
         "awayTeam": "Gimnasia y Tiro",
@@ -2839,7 +1973,7 @@
       {
         "id": "1225515",
         "day": "tomorrow",
-        "date": "2026-11-15",
+        "date": "2026-11-16",
         "league": "Mexico Liga de Expansion MX Finals",
         "homeTeam": "Club Atletico La Paz",
         "awayTeam": "Piratas Veracruz",
@@ -2870,7 +2004,7 @@
       {
         "id": "1225516",
         "day": "tomorrow",
-        "date": "2026-11-15",
+        "date": "2026-11-16",
         "league": "Mexico Liga de Expansion MX Finals",
         "homeTeam": "Leones Negros UdeG",
         "awayTeam": "Zacatepec",
@@ -2901,7 +2035,7 @@
       {
         "id": "1222330",
         "day": "tomorrow",
-        "date": "2026-11-15",
+        "date": "2026-11-16",
         "league": "Peru Primera Division",
         "homeTeam": "Juan Pablo II College",
         "awayTeam": "Deportivo Garcilaso",
@@ -2932,7 +2066,7 @@
       {
         "id": "1225302",
         "day": "tomorrow",
-        "date": "2026-11-15",
+        "date": "2026-11-16",
         "league": "Uruguay Primera Division Finals",
         "homeTeam": "Danubio",
         "awayTeam": "Liverpool FC",
@@ -2963,7 +2097,7 @@
       {
         "id": "1225301",
         "day": "tomorrow",
-        "date": "2026-11-15",
+        "date": "2026-11-16",
         "league": "Uruguay Primera Division Finals",
         "homeTeam": "Defensor",
         "awayTeam": "Penarol",
@@ -2994,7 +2128,7 @@
       {
         "id": "1222390",
         "day": "tomorrow",
-        "date": "2026-11-15",
+        "date": "2026-11-16",
         "league": "Honduras Liga Nacional",
         "homeTeam": "Atletico Choloma",
         "awayTeam": "Real Espana",
@@ -3025,7 +2159,7 @@
       {
         "id": "1222391",
         "day": "tomorrow",
-        "date": "2026-11-15",
+        "date": "2026-11-16",
         "league": "Honduras Liga Nacional",
         "homeTeam": "CD Olimpia",
         "awayTeam": "Estrella Roja",
@@ -3056,7 +2190,7 @@
       {
         "id": "1222387",
         "day": "tomorrow",
-        "date": "2026-11-15",
+        "date": "2026-11-16",
         "league": "Honduras Liga Nacional",
         "homeTeam": "Independiente Siguatepeque",
         "awayTeam": "Platense",
@@ -3087,7 +2221,7 @@
       {
         "id": "1222388",
         "day": "tomorrow",
-        "date": "2026-11-15",
+        "date": "2026-11-16",
         "league": "Honduras Liga Nacional",
         "homeTeam": "Lobos UPNFM",
         "awayTeam": "Juticalpa",
@@ -3118,7 +2252,7 @@
       {
         "id": "1222386",
         "day": "tomorrow",
-        "date": "2026-11-15",
+        "date": "2026-11-16",
         "league": "Honduras Liga Nacional",
         "homeTeam": "Marathon",
         "awayTeam": "Genesis",
@@ -3149,7 +2283,7 @@
       {
         "id": "1222389",
         "day": "tomorrow",
-        "date": "2026-11-15",
+        "date": "2026-11-16",
         "league": "Honduras Liga Nacional",
         "homeTeam": "Olancho",
         "awayTeam": "Motagua",
@@ -3180,7 +2314,7 @@
       {
         "id": "1176873",
         "day": "tomorrow",
-        "date": "2026-11-15",
+        "date": "2026-11-16",
         "league": "Georgia Erovnuli Liga",
         "homeTeam": "Spaeri",
         "awayTeam": "Saburtalo Tbilisi",
@@ -3211,7 +2345,7 @@
       {
         "id": "1225428",
         "day": "tomorrow",
-        "date": "2026-11-15",
+        "date": "2026-11-16",
         "league": "India I League",
         "homeTeam": "Dempo",
         "awayTeam": "Chanmari",
@@ -3242,7 +2376,7 @@
       {
         "id": "1225186",
         "day": "tomorrow",
-        "date": "2026-11-15",
+        "date": "2026-11-16",
         "league": "India I League",
         "homeTeam": "Samaleswari",
         "awayTeam": "Rajasthan United",
@@ -3270,7 +2404,7 @@
       {
         "id": "1224264",
         "day": "tomorrow",
-        "date": "2026-11-15",
+        "date": "2026-11-16",
         "league": "Japan J2 League",
         "homeTeam": "Consadole Sapporo",
         "awayTeam": "Sagan Tosu",
@@ -3301,7 +2435,7 @@
       {
         "id": "1224265",
         "day": "tomorrow",
-        "date": "2026-11-15",
+        "date": "2026-11-16",
         "league": "Japan J2 League",
         "homeTeam": "Vanraure Hachinohe",
         "awayTeam": "Iwaki",
@@ -3332,7 +2466,7 @@
       {
         "id": "1224266",
         "day": "tomorrow",
-        "date": "2026-11-15",
+        "date": "2026-11-16",
         "league": "Japan J2 League",
         "homeTeam": "Vegalta Sendai",
         "awayTeam": "Blaublitz Akita",
@@ -3363,7 +2497,7 @@
       {
         "id": "1224268",
         "day": "tomorrow",
-        "date": "2026-11-15",
+        "date": "2026-11-16",
         "league": "Japan J2 League",
         "homeTeam": "Imabari",
         "awayTeam": "Jubilo Iwata",
@@ -3394,7 +2528,7 @@
       {
         "id": "1224267",
         "day": "tomorrow",
-        "date": "2026-11-15",
+        "date": "2026-11-16",
         "league": "Japan J2 League",
         "homeTeam": "Kataller Toyama",
         "awayTeam": "Tokushima Vortis",
@@ -3425,7 +2559,7 @@
       {
         "id": "1223245",
         "day": "tomorrow",
-        "date": "2026-11-15",
+        "date": "2026-11-16",
         "league": "New Zealand National League",
         "homeTeam": "Napier City Rovers",
         "awayTeam": "Ferrymead Bays",
@@ -3456,7 +2590,7 @@
       {
         "id": "1223246",
         "day": "tomorrow",
-        "date": "2026-11-15",
+        "date": "2026-11-16",
         "league": "New Zealand National League",
         "homeTeam": "Auckland United",
         "awayTeam": "Miramar Rangers",
@@ -3487,7 +2621,7 @@
       {
         "id": "1223247",
         "day": "tomorrow",
-        "date": "2026-11-15",
+        "date": "2026-11-16",
         "league": "New Zealand National League",
         "homeTeam": "Birkenhead United",
         "awayTeam": "Eastern Suburbs",
@@ -3518,7 +2652,7 @@
       {
         "id": "1222004",
         "day": "tomorrow",
-        "date": "2026-11-15",
+        "date": "2026-11-16",
         "league": "Ghana Premier League",
         "homeTeam": "Aduana Stars",
         "awayTeam": "Bechem United",
@@ -3549,7 +2683,7 @@
       {
         "id": "1222006",
         "day": "tomorrow",
-        "date": "2026-11-15",
+        "date": "2026-11-16",
         "league": "Ghana Premier League",
         "homeTeam": "Ashanti Gold",
         "awayTeam": "Karela",
@@ -3580,7 +2714,7 @@
       {
         "id": "1222010",
         "day": "tomorrow",
-        "date": "2026-11-15",
+        "date": "2026-11-16",
         "league": "Ghana Premier League",
         "homeTeam": "Basake Holy Stars",
         "awayTeam": "Vision",
@@ -3611,7 +2745,7 @@
       {
         "id": "1222011",
         "day": "tomorrow",
-        "date": "2026-11-15",
+        "date": "2026-11-16",
         "league": "Ghana Premier League",
         "homeTeam": "Debibi United",
         "awayTeam": "Port City",
@@ -3642,7 +2776,7 @@
       {
         "id": "1222007",
         "day": "tomorrow",
-        "date": "2026-11-15",
+        "date": "2026-11-16",
         "league": "Ghana Premier League",
         "homeTeam": "Samartex",
         "awayTeam": "Hearts of Oak",
@@ -3673,7 +2807,7 @@
       {
         "id": "1222009",
         "day": "tomorrow",
-        "date": "2026-11-15",
+        "date": "2026-11-16",
         "league": "Ghana Premier League",
         "homeTeam": "Swedru All Blacks",
         "awayTeam": "Berekum Chelsea",
@@ -3704,7 +2838,7 @@
       {
         "id": "1222008",
         "day": "tomorrow",
-        "date": "2026-11-15",
+        "date": "2026-11-16",
         "league": "Ghana Premier League",
         "homeTeam": "Young Apostles",
         "awayTeam": "Medeama",
@@ -3735,7 +2869,7 @@
       {
         "id": "1222003",
         "day": "tomorrow",
-        "date": "2026-11-15",
+        "date": "2026-11-16",
         "league": "Ghana Premier League",
         "homeTeam": "Asante Kotoko",
         "awayTeam": "Bibiani Gold Stars",
@@ -3766,7 +2900,7 @@
       {
         "id": "1220082",
         "day": "tomorrow",
-        "date": "2026-11-15",
+        "date": "2026-11-16",
         "league": "Kenya Premier League",
         "homeTeam": "Kenya Police",
         "awayTeam": "Posta Rangers",
@@ -3797,7 +2931,7 @@
       {
         "id": "1220081",
         "day": "tomorrow",
-        "date": "2026-11-15",
+        "date": "2026-11-16",
         "league": "Kenya Premier League",
         "homeTeam": "Kakamega Homeboyz",
         "awayTeam": "Kenya Commercial Bank",
@@ -3828,7 +2962,7 @@
       {
         "id": "1220084",
         "day": "tomorrow",
-        "date": "2026-11-15",
+        "date": "2026-11-16",
         "league": "Kenya Premier League",
         "homeTeam": "Muranga Seal",
         "awayTeam": "Mathare United",
@@ -3859,7 +2993,7 @@
       {
         "id": "1220078",
         "day": "tomorrow",
-        "date": "2026-11-15",
+        "date": "2026-11-16",
         "league": "Kenya Premier League",
         "homeTeam": "Leopards",
         "awayTeam": "Mombasa United",
@@ -3890,7 +3024,7 @@
       {
         "id": "1220086",
         "day": "tomorrow",
-        "date": "2026-11-15",
+        "date": "2026-11-16",
         "league": "Kenya Premier League",
         "homeTeam": "3K FC",
         "awayTeam": "Gor Mahia",
@@ -3921,7 +3055,7 @@
       {
         "id": "1223347",
         "day": "tomorrow",
-        "date": "2026-11-15",
+        "date": "2026-11-16",
         "league": "Nigeria NPFL",
         "homeTeam": "Enyimba",
         "awayTeam": "Ikorodu City",
@@ -3952,7 +3086,7 @@
       {
         "id": "1223346",
         "day": "tomorrow",
-        "date": "2026-11-15",
+        "date": "2026-11-16",
         "league": "Nigeria NPFL",
         "homeTeam": "Inter Lagos",
         "awayTeam": "Abia Warriors",
@@ -3983,7 +3117,7 @@
       {
         "id": "1223350",
         "day": "tomorrow",
-        "date": "2026-11-15",
+        "date": "2026-11-16",
         "league": "Nigeria NPFL",
         "homeTeam": "Katsina United",
         "awayTeam": "Nasarawa United",
@@ -4014,7 +3148,7 @@
       {
         "id": "1223343",
         "day": "tomorrow",
-        "date": "2026-11-15",
+        "date": "2026-11-16",
         "league": "Nigeria NPFL",
         "homeTeam": "Kwara United",
         "awayTeam": "Rivers United",
@@ -4045,7 +3179,7 @@
       {
         "id": "1223344",
         "day": "tomorrow",
-        "date": "2026-11-15",
+        "date": "2026-11-16",
         "league": "Nigeria NPFL",
         "homeTeam": "Niger Tornadoes",
         "awayTeam": "Enugu Rangers",
@@ -4076,7 +3210,7 @@
       {
         "id": "1223351",
         "day": "tomorrow",
-        "date": "2026-11-15",
+        "date": "2026-11-16",
         "league": "Nigeria NPFL",
         "homeTeam": "Warri Wolves",
         "awayTeam": "Sporting Lagos",
@@ -4107,7 +3241,7 @@
       {
         "id": "1220977",
         "day": "tomorrow",
-        "date": "2026-11-15",
+        "date": "2026-11-16",
         "league": "Zambia Super League",
         "homeTeam": "Konkola Blades",
         "awayTeam": "Nchanga Rangers",
@@ -4138,7 +3272,7 @@
       {
         "id": "1220927",
         "day": "tomorrow",
-        "date": "2026-11-15",
+        "date": "2026-11-16",
         "league": "Zambia Super League",
         "homeTeam": "Mufulira Wanderers",
         "awayTeam": "Nkwazi",
@@ -4168,5 +3302,5 @@
       }
     ]
   },
-  "count": 137
+  "count": 106
 }
