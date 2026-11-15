@@ -1,10 +1,10 @@
 {
   "source": "https://www.predictz.com/",
-  "scraped_at": "2026-11-15T16:35:04.737Z",
+  "scraped_at": "2026-11-15T23:06:28.762Z",
   "timezone": "Asia/Yangon",
   "today": {
     "day": "today",
-    "date": "2026-11-15",
+    "date": "2026-11-16",
     "label": "www.predictz.com",
     "pageUrl": "https://www.predictz.com/predictions/",
     "count": 0,
@@ -12,15 +12,15 @@
   },
   "tomorrow": {
     "day": "tomorrow",
-    "date": "2026-11-16",
+    "date": "2026-11-17",
     "label": "Football Tips Tomorrow - Monday, November 16th, 2026",
     "pageUrl": "https://www.predictz.com/predictions/tomorrow/",
-    "count": 34,
+    "count": 33,
     "tips": [
       {
         "id": "1224808",
         "day": "tomorrow",
-        "date": "2026-11-16",
+        "date": "2026-11-17",
         "league": "Africa Cup Of Nations",
         "homeTeam": "Namibia",
         "awayTeam": "Cameroon",
@@ -51,7 +51,7 @@
       {
         "id": "1224807",
         "day": "tomorrow",
-        "date": "2026-11-16",
+        "date": "2026-11-17",
         "league": "Africa Cup Of Nations",
         "homeTeam": "Sudan",
         "awayTeam": "Senegal",
@@ -82,7 +82,7 @@
       {
         "id": "1224809",
         "day": "tomorrow",
-        "date": "2026-11-16",
+        "date": "2026-11-17",
         "league": "Africa Cup Of Nations",
         "homeTeam": "Zimbabwe",
         "awayTeam": "Equatorial Guinea",
@@ -113,7 +113,7 @@
       {
         "id": "1224805",
         "day": "tomorrow",
-        "date": "2026-11-16",
+        "date": "2026-11-17",
         "league": "Africa Cup Of Nations",
         "homeTeam": "Somalia",
         "awayTeam": "Ghana",
@@ -144,7 +144,7 @@
       {
         "id": "1224803",
         "day": "tomorrow",
-        "date": "2026-11-16",
+        "date": "2026-11-17",
         "league": "Africa Cup Of Nations",
         "homeTeam": "Central African Republic",
         "awayTeam": "Benin",
@@ -175,7 +175,7 @@
       {
         "id": "1224806",
         "day": "tomorrow",
-        "date": "2026-11-16",
+        "date": "2026-11-17",
         "league": "Africa Cup Of Nations",
         "homeTeam": "Eritrea",
         "awayTeam": "Guinea",
@@ -206,7 +206,7 @@
       {
         "id": "1225937",
         "day": "tomorrow",
-        "date": "2026-11-16",
+        "date": "2026-11-17",
         "league": "International Friendly",
         "homeTeam": "Andorra",
         "awayTeam": "Azerbaijan",
@@ -218,14 +218,26 @@
           "draw": null,
           "away": null
         },
-        "homeForm": [],
-        "awayForm": [],
+        "homeForm": [
+          "L",
+          "D",
+          "L",
+          "L",
+          "W"
+        ],
+        "awayForm": [
+          "W",
+          "D",
+          "D",
+          "W",
+          "W"
+        ],
         "url": "https://www.predictz.com/predictions/international/international-friendly/1225937/"
       },
       {
         "id": "1184975",
         "day": "tomorrow",
-        "date": "2026-11-16",
+        "date": "2026-11-17",
         "league": "UEFA Nations League",
         "homeTeam": "Faroe Islands",
         "awayTeam": "Moldova",
@@ -256,7 +268,7 @@
       {
         "id": "1184974",
         "day": "tomorrow",
-        "date": "2026-11-16",
+        "date": "2026-11-17",
         "league": "UEFA Nations League",
         "homeTeam": "Kazakhstan",
         "awayTeam": "Slovakia",
@@ -287,7 +299,7 @@
       {
         "id": "1184973",
         "day": "tomorrow",
-        "date": "2026-11-16",
+        "date": "2026-11-17",
         "league": "UEFA Nations League",
         "homeTeam": "Estonia",
         "awayTeam": "Bulgaria",
@@ -297,7 +309,7 @@
         "odds": {
           "home": "105",
           "draw": "225",
-          "away": "275"
+          "away": "280"
         },
         "homeForm": [
           "D",
@@ -318,7 +330,7 @@
       {
         "id": "1189236",
         "day": "tomorrow",
-        "date": "2026-11-16",
+        "date": "2026-11-17",
         "league": "UEFA Nations League",
         "homeTeam": "Iceland",
         "awayTeam": "Luxembourg",
@@ -349,7 +361,7 @@
       {
         "id": "1184972",
         "day": "tomorrow",
-        "date": "2026-11-16",
+        "date": "2026-11-17",
         "league": "UEFA Nations League",
         "homeTeam": "Lithuania",
         "awayTeam": "Liechtenstein",
@@ -380,7 +392,7 @@
       {
         "id": "1184969",
         "day": "tomorrow",
-        "date": "2026-11-16",
+        "date": "2026-11-17",
         "league": "UEFA Nations League",
         "homeTeam": "Germany",
         "awayTeam": "Netherlands",
@@ -411,7 +423,7 @@
       {
         "id": "1189235",
         "day": "tomorrow",
-        "date": "2026-11-16",
+        "date": "2026-11-17",
         "league": "UEFA Nations League",
         "homeTeam": "Gibraltar",
         "awayTeam": "Malta",
@@ -442,7 +454,7 @@
       {
         "id": "1184970",
         "day": "tomorrow",
-        "date": "2026-11-16",
+        "date": "2026-11-17",
         "league": "UEFA Nations League",
         "homeTeam": "Greece",
         "awayTeam": "Serbia",
@@ -473,7 +485,7 @@
       {
         "id": "1184968",
         "day": "tomorrow",
-        "date": "2026-11-16",
+        "date": "2026-11-17",
         "league": "UEFA Nations League",
         "homeTeam": "North Macedonia",
         "awayTeam": "Slovenia",
@@ -504,7 +516,7 @@
       {
         "id": "1184971",
         "day": "tomorrow",
-        "date": "2026-11-16",
+        "date": "2026-11-17",
         "league": "UEFA Nations League",
         "homeTeam": "Switzerland",
         "awayTeam": "Scotland",
@@ -535,7 +547,7 @@
       {
         "id": "1224544",
         "day": "tomorrow",
-        "date": "2026-11-16",
+        "date": "2026-11-17",
         "league": "CONCACAF Nations League",
         "homeTeam": "Cuba",
         "awayTeam": "Grenada",
@@ -566,7 +578,7 @@
       {
         "id": "1224543",
         "day": "tomorrow",
-        "date": "2026-11-16",
+        "date": "2026-11-17",
         "league": "CONCACAF Nations League",
         "homeTeam": "Guadeloupe",
         "awayTeam": "Bermuda",
@@ -597,7 +609,7 @@
       {
         "id": "1224545",
         "day": "tomorrow",
-        "date": "2026-11-16",
+        "date": "2026-11-17",
         "league": "CONCACAF Nations League",
         "homeTeam": "Guyana",
         "awayTeam": "Puerto Rico",
@@ -628,7 +640,7 @@
       {
         "id": "1203529",
         "day": "tomorrow",
-        "date": "2026-11-16",
+        "date": "2026-11-17",
         "league": "Spain Segunda Division",
         "homeTeam": "Albacete",
         "awayTeam": "Celta de Vigo II",
@@ -659,7 +671,7 @@
       {
         "id": "1215910",
         "day": "tomorrow",
-        "date": "2026-11-16",
+        "date": "2026-11-17",
         "league": "Italy Serie C",
         "homeTeam": "Sorrento",
         "awayTeam": "Monopoli",
@@ -690,7 +702,7 @@
       {
         "id": "1215860",
         "day": "tomorrow",
-        "date": "2026-11-16",
+        "date": "2026-11-17",
         "league": "Italy Serie C",
         "homeTeam": "Perugia",
         "awayTeam": "Torres",
@@ -721,7 +733,7 @@
       {
         "id": "1221598",
         "day": "tomorrow",
-        "date": "2026-11-16",
+        "date": "2026-11-17",
         "league": "Greece Super League 2",
         "homeTeam": "GS Marko",
         "awayTeam": "Zakynthos",
@@ -752,7 +764,7 @@
       {
         "id": "1221595",
         "day": "tomorrow",
-        "date": "2026-11-16",
+        "date": "2026-11-17",
         "league": "Greece Super League 2",
         "homeTeam": "Panionios",
         "awayTeam": "Olympiacos Piraeus B",
@@ -783,7 +795,7 @@
       {
         "id": "1223095",
         "day": "tomorrow",
-        "date": "2026-11-16",
+        "date": "2026-11-17",
         "league": "Greece Super League 2",
         "homeTeam": "Niki Volos",
         "awayTeam": "PAS Pyrgos",
@@ -814,7 +826,7 @@
       {
         "id": "1195137",
         "day": "tomorrow",
-        "date": "2026-11-16",
+        "date": "2026-11-17",
         "league": "Serbia Prva Liga",
         "homeTeam": "FK Bor 1919",
         "awayTeam": "Smederevo",
@@ -845,7 +857,7 @@
       {
         "id": "1195135",
         "day": "tomorrow",
-        "date": "2026-11-16",
+        "date": "2026-11-17",
         "league": "Serbia Prva Liga",
         "homeTeam": "Graficar Beograd",
         "awayTeam": "Vozdovac",
@@ -876,7 +888,7 @@
       {
         "id": "1206145",
         "day": "tomorrow",
-        "date": "2026-11-16",
+        "date": "2026-11-17",
         "league": "Ukraine Persha Liga",
         "homeTeam": "Inhulets",
         "awayTeam": "Probiy Gorodenka",
@@ -907,7 +919,7 @@
       {
         "id": "1206148",
         "day": "tomorrow",
-        "date": "2026-11-16",
+        "date": "2026-11-17",
         "league": "Ukraine Persha Liga",
         "homeTeam": "UCSA Tarasivka",
         "awayTeam": "Polissya Zhytomyr 2",
@@ -938,7 +950,7 @@
       {
         "id": "1206149",
         "day": "tomorrow",
-        "date": "2026-11-16",
+        "date": "2026-11-17",
         "league": "Ukraine Persha Liga",
         "homeTeam": "Chernigiv",
         "awayTeam": "Lokomotiv Kyiv",
@@ -969,7 +981,7 @@
       {
         "id": "1222331",
         "day": "tomorrow",
-        "date": "2026-11-16",
+        "date": "2026-11-17",
         "league": "Peru Primera Division",
         "homeTeam": "Moquegua",
         "awayTeam": "Atletico Grau",
@@ -1000,7 +1012,7 @@
       {
         "id": "1225300",
         "day": "tomorrow",
-        "date": "2026-11-16",
+        "date": "2026-11-17",
         "league": "Uruguay Primera Division Finals",
         "homeTeam": "Montevideo Wanderers",
         "awayTeam": "Juventud Piedras",
@@ -1027,39 +1039,8 @@
           "L"
         ],
         "url": "https://www.predictz.com/predictions/uruguay/primera-division-finals/1225300/"
-      },
-      {
-        "id": "1225513",
-        "day": "tomorrow",
-        "date": "2026-11-16",
-        "league": "USA USL Championship Finals",
-        "homeTeam": "New Mexico United",
-        "awayTeam": "Sacramento Republic",
-        "match": "New Mexico United v Sacramento Republic",
-        "prediction": "Draw 1-1",
-        "predictionSide": "draw",
-        "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
-        },
-        "homeForm": [
-          "W",
-          "L",
-          "W",
-          "W",
-          "W"
-        ],
-        "awayForm": [
-          "D",
-          "W",
-          "W",
-          "W",
-          "W"
-        ],
-        "url": "https://www.predictz.com/predictions/usa/united-soccer-league-finals/1225513/"
       }
     ]
   },
-  "count": 34
+  "count": 33
 }
