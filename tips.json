@@ -1,6 +1,6 @@
 {
   "source": "https://www.predictz.com/",
-  "scraped_at": "2026-11-15T23:06:28.762Z",
+  "scraped_at": "2026-11-16T07:00:03.551Z",
   "timezone": "Asia/Yangon",
   "today": {
     "day": "today",
@@ -13,80 +13,18 @@
   "tomorrow": {
     "day": "tomorrow",
     "date": "2026-11-17",
-    "label": "Football Tips Tomorrow - Monday, November 16th, 2026",
+    "label": "Football Tips Tomorrow - Tuesday, November 17th, 2026",
     "pageUrl": "https://www.predictz.com/predictions/tomorrow/",
-    "count": 33,
+    "count": 46,
     "tips": [
       {
-        "id": "1224808",
+        "id": "1224799",
         "day": "tomorrow",
         "date": "2026-11-17",
         "league": "Africa Cup Of Nations",
-        "homeTeam": "Namibia",
-        "awayTeam": "Cameroon",
-        "match": "Namibia v Cameroon",
-        "prediction": "Away 0-2",
-        "predictionSide": "away",
-        "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
-        },
-        "homeForm": [
-          "L",
-          "L",
-          "W",
-          "L",
-          "L"
-        ],
-        "awayForm": [
-          "L",
-          "W",
-          "W",
-          "D",
-          "W"
-        ],
-        "url": "https://www.predictz.com/predictions/international/africa-cup-of-nations/1224808/"
-      },
-      {
-        "id": "1224807",
-        "day": "tomorrow",
-        "date": "2026-11-17",
-        "league": "Africa Cup Of Nations",
-        "homeTeam": "Sudan",
-        "awayTeam": "Senegal",
-        "match": "Sudan v Senegal",
-        "prediction": "Away 0-2",
-        "predictionSide": "away",
-        "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
-        },
-        "homeForm": [
-          "W",
-          "L",
-          "L",
-          "W",
-          "L"
-        ],
-        "awayForm": [
-          "W",
-          "D",
-          "D",
-          "W",
-          "W"
-        ],
-        "url": "https://www.predictz.com/predictions/international/africa-cup-of-nations/1224807/"
-      },
-      {
-        "id": "1224809",
-        "day": "tomorrow",
-        "date": "2026-11-17",
-        "league": "Africa Cup Of Nations",
-        "homeTeam": "Zimbabwe",
-        "awayTeam": "Equatorial Guinea",
-        "match": "Zimbabwe v Equatorial Guinea",
+        "homeTeam": "Burundi",
+        "awayTeam": "Zambia",
+        "match": "Burundi v Zambia",
         "prediction": "Draw 1-1",
         "predictionSide": "draw",
         "odds": {
@@ -94,30 +32,341 @@
           "draw": null,
           "away": null
         },
-        "homeForm": [
-          "L",
-          "L",
-          "W",
-          "W",
-          "L"
-        ],
-        "awayForm": [
-          "W",
-          "D",
-          "L",
-          "L",
-          "W"
-        ],
-        "url": "https://www.predictz.com/predictions/international/africa-cup-of-nations/1224809/"
+        "homeForm": [],
+        "awayForm": [],
+        "url": "https://www.predictz.com/predictions/international/africa-cup-of-nations/1224799/"
       },
       {
-        "id": "1224805",
+        "id": "1224800",
         "day": "tomorrow",
         "date": "2026-11-17",
         "league": "Africa Cup Of Nations",
-        "homeTeam": "Somalia",
-        "awayTeam": "Ghana",
-        "match": "Somalia v Ghana",
+        "homeTeam": "Ethiopia",
+        "awayTeam": "Mozambique",
+        "match": "Ethiopia v Mozambique",
+        "prediction": "Draw 1-1",
+        "predictionSide": "draw",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [],
+        "awayForm": [],
+        "url": "https://www.predictz.com/predictions/international/africa-cup-of-nations/1224800/"
+      },
+      {
+        "id": "1224801",
+        "day": "tomorrow",
+        "date": "2026-11-17",
+        "league": "Africa Cup Of Nations",
+        "homeTeam": "Lesotho",
+        "awayTeam": "Gabon",
+        "match": "Lesotho v Gabon",
+        "prediction": "Away 0-2",
+        "predictionSide": "away",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [],
+        "awayForm": [],
+        "url": "https://www.predictz.com/predictions/international/africa-cup-of-nations/1224801/"
+      },
+      {
+        "id": "1224802",
+        "day": "tomorrow",
+        "date": "2026-11-17",
+        "league": "Africa Cup Of Nations",
+        "homeTeam": "Malawi",
+        "awayTeam": "Egypt",
+        "match": "Malawi v Egypt",
+        "prediction": "Away 0-2",
+        "predictionSide": "away",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [],
+        "awayForm": [],
+        "url": "https://www.predictz.com/predictions/international/africa-cup-of-nations/1224802/"
+      },
+      {
+        "id": "1224798",
+        "day": "tomorrow",
+        "date": "2026-11-17",
+        "league": "Africa Cup Of Nations",
+        "homeTeam": "South Sudan",
+        "awayTeam": "Angola",
+        "match": "South Sudan v Angola",
+        "prediction": "Away 0-2",
+        "predictionSide": "away",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [],
+        "awayForm": [],
+        "url": "https://www.predictz.com/predictions/international/africa-cup-of-nations/1224798/"
+      },
+      {
+        "id": "1224797",
+        "day": "tomorrow",
+        "date": "2026-11-17",
+        "league": "Africa Cup Of Nations",
+        "homeTeam": "Tanzania",
+        "awayTeam": "Nigeria",
+        "match": "Tanzania v Nigeria",
+        "prediction": "Away 1-2",
+        "predictionSide": "away",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [],
+        "awayForm": [],
+        "url": "https://www.predictz.com/predictions/international/africa-cup-of-nations/1224797/"
+      },
+      {
+        "id": "1224793",
+        "day": "tomorrow",
+        "date": "2026-11-17",
+        "league": "Africa Cup Of Nations",
+        "homeTeam": "Gambia",
+        "awayTeam": "Ivory Coast",
+        "match": "Gambia v Ivory Coast",
+        "prediction": "Away 1-2",
+        "predictionSide": "away",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [],
+        "awayForm": [],
+        "url": "https://www.predictz.com/predictions/international/africa-cup-of-nations/1224793/"
+      },
+      {
+        "id": "1224792",
+        "day": "tomorrow",
+        "date": "2026-11-17",
+        "league": "Africa Cup Of Nations",
+        "homeTeam": "Guinea-Bissau",
+        "awayTeam": "Madagascar",
+        "match": "Guinea-Bissau v Madagascar",
+        "prediction": "Home 2-1",
+        "predictionSide": "home",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [],
+        "awayForm": [],
+        "url": "https://www.predictz.com/predictions/international/africa-cup-of-nations/1224792/"
+      },
+      {
+        "id": "1224794",
+        "day": "tomorrow",
+        "date": "2026-11-17",
+        "league": "Africa Cup Of Nations",
+        "homeTeam": "Kenya",
+        "awayTeam": "South Africa",
+        "match": "Kenya v South Africa",
+        "prediction": "Away 0-1",
+        "predictionSide": "away",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [],
+        "awayForm": [],
+        "url": "https://www.predictz.com/predictions/international/africa-cup-of-nations/1224794/"
+      },
+      {
+        "id": "1224796",
+        "day": "tomorrow",
+        "date": "2026-11-17",
+        "league": "Africa Cup Of Nations",
+        "homeTeam": "Libya",
+        "awayTeam": "Tunisia",
+        "match": "Libya v Tunisia",
+        "prediction": "Draw 1-1",
+        "predictionSide": "draw",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [],
+        "awayForm": [],
+        "url": "https://www.predictz.com/predictions/international/africa-cup-of-nations/1224796/"
+      },
+      {
+        "id": "1224795",
+        "day": "tomorrow",
+        "date": "2026-11-17",
+        "league": "Africa Cup Of Nations",
+        "homeTeam": "Sierra Leone",
+        "awayTeam": "Congo DR",
+        "match": "Sierra Leone v Congo DR",
+        "prediction": "Away 0-2",
+        "predictionSide": "away",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [],
+        "awayForm": [],
+        "url": "https://www.predictz.com/predictions/international/africa-cup-of-nations/1224795/"
+      },
+      {
+        "id": "1224791",
+        "day": "tomorrow",
+        "date": "2026-11-17",
+        "league": "Africa Cup Of Nations",
+        "homeTeam": "Togo",
+        "awayTeam": "Algeria",
+        "match": "Togo v Algeria",
+        "prediction": "Away 0-2",
+        "predictionSide": "away",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [],
+        "awayForm": [],
+        "url": "https://www.predictz.com/predictions/international/africa-cup-of-nations/1224791/"
+      },
+      {
+        "id": "1224786",
+        "day": "tomorrow",
+        "date": "2026-11-17",
+        "league": "Africa Cup Of Nations",
+        "homeTeam": "Botswana",
+        "awayTeam": "Uganda",
+        "match": "Botswana v Uganda",
+        "prediction": "Draw 1-1",
+        "predictionSide": "draw",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [],
+        "awayForm": [],
+        "url": "https://www.predictz.com/predictions/international/africa-cup-of-nations/1224786/"
+      },
+      {
+        "id": "1224789",
+        "day": "tomorrow",
+        "date": "2026-11-17",
+        "league": "Africa Cup Of Nations",
+        "homeTeam": "Congo",
+        "awayTeam": "Comoros",
+        "match": "Congo v Comoros",
+        "prediction": "Draw 1-1",
+        "predictionSide": "draw",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [],
+        "awayForm": [],
+        "url": "https://www.predictz.com/predictions/international/africa-cup-of-nations/1224789/"
+      },
+      {
+        "id": "1224788",
+        "day": "tomorrow",
+        "date": "2026-11-17",
+        "league": "Africa Cup Of Nations",
+        "homeTeam": "Liberia",
+        "awayTeam": "Cape Verde Islands",
+        "match": "Liberia v Cape Verde Islands",
+        "prediction": "Away 0-1",
+        "predictionSide": "away",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [],
+        "awayForm": [],
+        "url": "https://www.predictz.com/predictions/international/africa-cup-of-nations/1224788/"
+      },
+      {
+        "id": "1224804",
+        "day": "tomorrow",
+        "date": "2026-11-17",
+        "league": "Africa Cup Of Nations",
+        "homeTeam": "Mauritania",
+        "awayTeam": "Burkina Faso",
+        "match": "Mauritania v Burkina Faso",
+        "prediction": "Draw 1-1",
+        "predictionSide": "draw",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [],
+        "awayForm": [],
+        "url": "https://www.predictz.com/predictions/international/africa-cup-of-nations/1224804/"
+      },
+      {
+        "id": "1224787",
+        "day": "tomorrow",
+        "date": "2026-11-17",
+        "league": "Africa Cup Of Nations",
+        "homeTeam": "Rwanda",
+        "awayTeam": "Mali",
+        "match": "Rwanda v Mali",
+        "prediction": "Away 1-2",
+        "predictionSide": "away",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [],
+        "awayForm": [],
+        "url": "https://www.predictz.com/predictions/international/africa-cup-of-nations/1224787/"
+      },
+      {
+        "id": "1224790",
+        "day": "tomorrow",
+        "date": "2026-11-17",
+        "league": "Africa Cup Of Nations",
+        "homeTeam": "Niger",
+        "awayTeam": "Morocco",
+        "match": "Niger v Morocco",
+        "prediction": "Away 0-2",
+        "predictionSide": "away",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [],
+        "awayForm": [],
+        "url": "https://www.predictz.com/predictions/international/africa-cup-of-nations/1224790/"
+      },
+      {
+        "id": "1225605",
+        "day": "tomorrow",
+        "date": "2026-11-17",
+        "league": "International Friendly",
+        "homeTeam": "Singapore",
+        "awayTeam": "Brazil",
+        "match": "Singapore v Brazil",
         "prediction": "Away 0-3",
         "predictionSide": "away",
         "odds": {
@@ -126,122 +375,29 @@
           "away": null
         },
         "homeForm": [
-          "D",
-          "D",
-          "D",
+          "W",
+          "W",
+          "W",
           "L",
           "L"
         ],
         "awayForm": [
+          "L",
           "D",
-          "L",
-          "L",
-          "L",
+          "W",
+          "W",
           "L"
         ],
-        "url": "https://www.predictz.com/predictions/international/africa-cup-of-nations/1224805/"
+        "url": "https://www.predictz.com/predictions/international/international-friendly/1225605/"
       },
       {
-        "id": "1224803",
-        "day": "tomorrow",
-        "date": "2026-11-17",
-        "league": "Africa Cup Of Nations",
-        "homeTeam": "Central African Republic",
-        "awayTeam": "Benin",
-        "match": "Central African Republic v Benin",
-        "prediction": "Draw 1-1",
-        "predictionSide": "draw",
-        "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
-        },
-        "homeForm": [
-          "W",
-          "D",
-          "L",
-          "L",
-          "L"
-        ],
-        "awayForm": [
-          "D",
-          "L",
-          "D",
-          "W",
-          "L"
-        ],
-        "url": "https://www.predictz.com/predictions/international/africa-cup-of-nations/1224803/"
-      },
-      {
-        "id": "1224806",
-        "day": "tomorrow",
-        "date": "2026-11-17",
-        "league": "Africa Cup Of Nations",
-        "homeTeam": "Eritrea",
-        "awayTeam": "Guinea",
-        "match": "Eritrea v Guinea",
-        "prediction": "Draw 1-1",
-        "predictionSide": "draw",
-        "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
-        },
-        "homeForm": [
-          "L",
-          "W",
-          "W",
-          "D",
-          "L"
-        ],
-        "awayForm": [
-          "D",
-          "L",
-          "L",
-          "L",
-          "W"
-        ],
-        "url": "https://www.predictz.com/predictions/international/africa-cup-of-nations/1224806/"
-      },
-      {
-        "id": "1225937",
+        "id": "1225318",
         "day": "tomorrow",
         "date": "2026-11-17",
         "league": "International Friendly",
-        "homeTeam": "Andorra",
-        "awayTeam": "Azerbaijan",
-        "match": "Andorra v Azerbaijan",
-        "prediction": "Away 1-2",
-        "predictionSide": "away",
-        "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
-        },
-        "homeForm": [
-          "L",
-          "D",
-          "L",
-          "L",
-          "W"
-        ],
-        "awayForm": [
-          "W",
-          "D",
-          "D",
-          "W",
-          "W"
-        ],
-        "url": "https://www.predictz.com/predictions/international/international-friendly/1225937/"
-      },
-      {
-        "id": "1184975",
-        "day": "tomorrow",
-        "date": "2026-11-17",
-        "league": "UEFA Nations League",
-        "homeTeam": "Faroe Islands",
-        "awayTeam": "Moldova",
-        "match": "Faroe Islands v Moldova",
+        "homeTeam": "Japan",
+        "awayTeam": "Paraguay",
+        "match": "Japan v Paraguay",
         "prediction": "Home 2-1",
         "predictionSide": "home",
         "odds": {
@@ -250,29 +406,91 @@
           "away": null
         },
         "homeForm": [
+          "W",
+          "W",
+          "D",
+          "W",
+          "W"
+        ],
+        "awayForm": [
+          "D",
+          "L",
+          "W",
+          "W",
+          "W"
+        ],
+        "url": "https://www.predictz.com/predictions/international/international-friendly/1225318/"
+      },
+      {
+        "id": "1224772",
+        "day": "tomorrow",
+        "date": "2026-11-17",
+        "league": "International Friendly",
+        "homeTeam": "Russia",
+        "awayTeam": "Venezuela",
+        "match": "Russia v Venezuela",
+        "prediction": "Home 2-0",
+        "predictionSide": "home",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [
+          "W",
+          "W",
+          "W",
+          "D",
+          "W"
+        ],
+        "awayForm": [
+          "W",
+          "L",
           "D",
           "D",
+          "L"
+        ],
+        "url": "https://www.predictz.com/predictions/international/international-friendly/1224772/"
+      },
+      {
+        "id": "1225319",
+        "day": "tomorrow",
+        "date": "2026-11-17",
+        "league": "International Friendly",
+        "homeTeam": "Argentina",
+        "awayTeam": "Costa Rica",
+        "match": "Argentina v Costa Rica",
+        "prediction": "Home 3-0",
+        "predictionSide": "home",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [
           "D",
-          "D",
-          "D"
+          "W",
+          "W",
+          "W",
+          "L"
         ],
         "awayForm": [
           "L",
-          "D",
-          "W",
           "L",
-          "W"
+          "W",
+          "W",
+          "L"
         ],
-        "url": "https://www.predictz.com/predictions/international/uefa-nations-league/1184975/"
+        "url": "https://www.predictz.com/predictions/international/international-friendly/1225319/"
       },
       {
-        "id": "1184974",
+        "id": "1225316",
         "day": "tomorrow",
         "date": "2026-11-17",
-        "league": "UEFA Nations League",
-        "homeTeam": "Kazakhstan",
-        "awayTeam": "Slovakia",
-        "match": "Kazakhstan v Slovakia",
+        "league": "International Friendly",
+        "homeTeam": "Chile",
+        "awayTeam": "Colombia",
+        "match": "Chile v Colombia",
         "prediction": "Away 1-2",
         "predictionSide": "away",
         "odds": {
@@ -281,371 +499,309 @@
           "away": null
         },
         "homeForm": [
-          "D",
+          "W",
           "L",
           "L",
-          "D",
+          "W",
           "L"
         ],
         "awayForm": [
-          "W",
-          "W",
           "D",
+          "D",
+          "L",
           "W",
-          "D"
+          "W"
         ],
-        "url": "https://www.predictz.com/predictions/international/uefa-nations-league/1184974/"
+        "url": "https://www.predictz.com/predictions/international/international-friendly/1225316/"
       },
       {
-        "id": "1184973",
+        "id": "1085352",
+        "day": "tomorrow",
+        "date": "2026-11-17",
+        "league": "International Friendly",
+        "homeTeam": "Ecuador",
+        "awayTeam": "Bolivia",
+        "match": "Ecuador v Bolivia",
+        "prediction": "Home 3-0",
+        "predictionSide": "home",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [
+          "L",
+          "L",
+          "D",
+          "D",
+          "W"
+        ],
+        "awayForm": [
+          "L",
+          "L",
+          "L",
+          "L",
+          "L"
+        ],
+        "url": "https://www.predictz.com/predictions/international/international-friendly/1085352/"
+      },
+      {
+        "id": "1225317",
+        "day": "tomorrow",
+        "date": "2026-11-17",
+        "league": "International Friendly",
+        "homeTeam": "Uruguay",
+        "awayTeam": "Dominican Republic",
+        "match": "Uruguay v Dominican Republic",
+        "prediction": "Home 3-0",
+        "predictionSide": "home",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [
+          "L",
+          "L",
+          "W",
+          "W",
+          "W"
+        ],
+        "awayForm": [
+          "L",
+          "W",
+          "W",
+          "L",
+          "W"
+        ],
+        "url": "https://www.predictz.com/predictions/international/international-friendly/1225317/"
+      },
+      {
+        "id": "1184966",
         "day": "tomorrow",
         "date": "2026-11-17",
         "league": "UEFA Nations League",
-        "homeTeam": "Estonia",
-        "awayTeam": "Bulgaria",
-        "match": "Estonia v Bulgaria",
+        "homeTeam": "Bosnia-Herzegovina",
+        "awayTeam": "Romania",
+        "match": "Bosnia-Herzegovina v Romania",
+        "prediction": "Home 2-1",
+        "predictionSide": "home",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [
+          "L",
+          "D",
+          "W",
+          "D",
+          "W"
+        ],
+        "awayForm": [
+          "W",
+          "L",
+          "L",
+          "L",
+          "L"
+        ],
+        "url": "https://www.predictz.com/predictions/international/uefa-nations-league/1184966/"
+      },
+      {
+        "id": "1184967",
+        "day": "tomorrow",
+        "date": "2026-11-17",
+        "league": "UEFA Nations League",
+        "homeTeam": "Denmark",
+        "awayTeam": "Norway",
+        "match": "Denmark v Norway",
         "prediction": "Draw 1-1",
         "predictionSide": "draw",
         "odds": {
-          "home": "105",
+          "home": "137",
+          "draw": "280",
+          "away": "170"
+        },
+        "homeForm": [
+          "W",
+          "L",
+          "W",
+          "L",
+          "W"
+        ],
+        "awayForm": [
+          "D",
+          "W",
+          "L",
+          "L",
+          "L"
+        ],
+        "url": "https://www.predictz.com/predictions/international/uefa-nations-league/1184967/"
+      },
+      {
+        "id": "1184960",
+        "day": "tomorrow",
+        "date": "2026-11-17",
+        "league": "UEFA Nations League",
+        "homeTeam": "Hungary",
+        "awayTeam": "Northern Ireland",
+        "match": "Hungary v Northern Ireland",
+        "prediction": "Home 2-1",
+        "predictionSide": "home",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [
+          "W",
+          "L",
+          "D",
+          "W",
+          "W"
+        ],
+        "awayForm": [
+          "L",
+          "W",
+          "D",
+          "W",
+          "D"
+        ],
+        "url": "https://www.predictz.com/predictions/international/uefa-nations-league/1184960/"
+      },
+      {
+        "id": "1184965",
+        "day": "tomorrow",
+        "date": "2026-11-17",
+        "league": "UEFA Nations League",
+        "homeTeam": "Israel",
+        "awayTeam": "Austria",
+        "match": "Israel v Austria",
+        "prediction": "Away 0-2",
+        "predictionSide": "away",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [
+          "W",
+          "L",
+          "L",
+          "D",
+          "D"
+        ],
+        "awayForm": [
+          "L",
+          "W",
+          "W",
+          "D",
+          "D"
+        ],
+        "url": "https://www.predictz.com/predictions/international/uefa-nations-league/1184965/"
+      },
+      {
+        "id": "1184962",
+        "day": "tomorrow",
+        "date": "2026-11-17",
+        "league": "UEFA Nations League",
+        "homeTeam": "Poland",
+        "awayTeam": "Sweden",
+        "match": "Poland v Sweden",
+        "prediction": "Draw 1-1",
+        "predictionSide": "draw",
+        "odds": {
+          "home": "120",
+          "draw": "260",
+          "away": "200"
+        },
+        "homeForm": [
+          "D",
+          "D",
+          "L",
+          "W",
+          "L"
+        ],
+        "awayForm": [
+          "L",
+          "W",
+          "W",
+          "D",
+          "W"
+        ],
+        "url": "https://www.predictz.com/predictions/international/uefa-nations-league/1184962/"
+      },
+      {
+        "id": "1184964",
+        "day": "tomorrow",
+        "date": "2026-11-17",
+        "league": "UEFA Nations League",
+        "homeTeam": "Rep of Ireland",
+        "awayTeam": "Kosovo",
+        "match": "Rep of Ireland v Kosovo",
+        "prediction": "Home 2-1",
+        "predictionSide": "home",
+        "odds": {
+          "home": "110",
+          "draw": "210",
+          "away": "270"
+        },
+        "homeForm": [
+          "D",
+          "L",
+          "W",
+          "D",
+          "D"
+        ],
+        "awayForm": [
+          "W",
+          "W",
+          "L",
+          "D",
+          "D"
+        ],
+        "url": "https://www.predictz.com/predictions/international/uefa-nations-league/1184964/"
+      },
+      {
+        "id": "1184963",
+        "day": "tomorrow",
+        "date": "2026-11-17",
+        "league": "UEFA Nations League",
+        "homeTeam": "Ukraine",
+        "awayTeam": "Georgia",
+        "match": "Ukraine v Georgia",
+        "prediction": "Draw 1-1",
+        "predictionSide": "draw",
+        "odds": {
+          "home": "120",
           "draw": "225",
-          "away": "280"
+          "away": "230"
         },
         "homeForm": [
-          "D",
-          "D",
-          "W",
-          "D",
-          "W"
-        ],
-        "awayForm": [
-          "L",
-          "D",
           "L",
           "W",
+          "D",
+          "L",
           "L"
-        ],
-        "url": "https://www.predictz.com/predictions/international/uefa-nations-league/1184973/"
-      },
-      {
-        "id": "1189236",
-        "day": "tomorrow",
-        "date": "2026-11-17",
-        "league": "UEFA Nations League",
-        "homeTeam": "Iceland",
-        "awayTeam": "Luxembourg",
-        "match": "Iceland v Luxembourg",
-        "prediction": "Home 2-1",
-        "predictionSide": "home",
-        "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
-        },
-        "homeForm": [
-          "D",
-          "W",
-          "W",
-          "D",
-          "W"
         ],
         "awayForm": [
           "W",
           "L",
-          "L",
-          "L",
-          "L"
-        ],
-        "url": "https://www.predictz.com/predictions/international/uefa-nations-league/1189236/"
-      },
-      {
-        "id": "1184972",
-        "day": "tomorrow",
-        "date": "2026-11-17",
-        "league": "UEFA Nations League",
-        "homeTeam": "Lithuania",
-        "awayTeam": "Liechtenstein",
-        "match": "Lithuania v Liechtenstein",
-        "prediction": "Home 3-0",
-        "predictionSide": "home",
-        "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
-        },
-        "homeForm": [
-          "W",
           "D",
-          "W",
           "L",
           "D"
         ],
-        "awayForm": [
-          "L",
-          "L",
-          "D",
-          "L",
-          "L"
-        ],
-        "url": "https://www.predictz.com/predictions/international/uefa-nations-league/1184972/"
+        "url": "https://www.predictz.com/predictions/international/uefa-nations-league/1184963/"
       },
       {
-        "id": "1184969",
+        "id": "1184961",
         "day": "tomorrow",
         "date": "2026-11-17",
         "league": "UEFA Nations League",
-        "homeTeam": "Germany",
-        "awayTeam": "Netherlands",
-        "match": "Germany v Netherlands",
-        "prediction": "Home 2-1",
-        "predictionSide": "home",
-        "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
-        },
-        "homeForm": [
-          "D",
-          "L",
-          "W",
-          "D",
-          "W"
-        ],
-        "awayForm": [
-          "D",
-          "W",
-          "D",
-          "W",
-          "W"
-        ],
-        "url": "https://www.predictz.com/predictions/international/uefa-nations-league/1184969/"
-      },
-      {
-        "id": "1189235",
-        "day": "tomorrow",
-        "date": "2026-11-17",
-        "league": "UEFA Nations League",
-        "homeTeam": "Gibraltar",
-        "awayTeam": "Malta",
-        "match": "Gibraltar v Malta",
-        "prediction": "Away 1-2",
-        "predictionSide": "away",
-        "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
-        },
-        "homeForm": [
-          "D",
-          "D",
-          "D",
-          "W",
-          "L"
-        ],
-        "awayForm": [
-          "W",
-          "W",
-          "D",
-          "W",
-          "D"
-        ],
-        "url": "https://www.predictz.com/predictions/international/uefa-nations-league/1189235/"
-      },
-      {
-        "id": "1184970",
-        "day": "tomorrow",
-        "date": "2026-11-17",
-        "league": "UEFA Nations League",
-        "homeTeam": "Greece",
-        "awayTeam": "Serbia",
-        "match": "Greece v Serbia",
-        "prediction": "Home 2-0",
-        "predictionSide": "home",
-        "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
-        },
-        "homeForm": [
-          "W",
-          "W",
-          "D",
-          "D",
-          "L"
-        ],
-        "awayForm": [
-          "L",
-          "L",
-          "L",
-          "L",
-          "L"
-        ],
-        "url": "https://www.predictz.com/predictions/international/uefa-nations-league/1184970/"
-      },
-      {
-        "id": "1184968",
-        "day": "tomorrow",
-        "date": "2026-11-17",
-        "league": "UEFA Nations League",
-        "homeTeam": "North Macedonia",
-        "awayTeam": "Slovenia",
-        "match": "North Macedonia v Slovenia",
-        "prediction": "Away 1-2",
-        "predictionSide": "away",
-        "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
-        },
-        "homeForm": [
-          "L",
-          "L",
-          "L",
-          "L",
-          "L"
-        ],
-        "awayForm": [
-          "D",
-          "W",
-          "L",
-          "W",
-          "D"
-        ],
-        "url": "https://www.predictz.com/predictions/international/uefa-nations-league/1184968/"
-      },
-      {
-        "id": "1184971",
-        "day": "tomorrow",
-        "date": "2026-11-17",
-        "league": "UEFA Nations League",
-        "homeTeam": "Switzerland",
-        "awayTeam": "Scotland",
-        "match": "Switzerland v Scotland",
-        "prediction": "Home 2-1",
-        "predictionSide": "home",
-        "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
-        },
-        "homeForm": [
-          "W",
-          "W",
-          "W",
-          "W",
-          "D"
-        ],
-        "awayForm": [
-          "D",
-          "L",
-          "W",
-          "L",
-          "W"
-        ],
-        "url": "https://www.predictz.com/predictions/international/uefa-nations-league/1184971/"
-      },
-      {
-        "id": "1224544",
-        "day": "tomorrow",
-        "date": "2026-11-17",
-        "league": "CONCACAF Nations League",
-        "homeTeam": "Cuba",
-        "awayTeam": "Grenada",
-        "match": "Cuba v Grenada",
-        "prediction": "Home 2-0",
-        "predictionSide": "home",
-        "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
-        },
-        "homeForm": [
-          "W",
-          "W",
-          "D",
-          "D",
-          "W"
-        ],
-        "awayForm": [
-          "L",
-          "L",
-          "W",
-          "L",
-          "W"
-        ],
-        "url": "https://www.predictz.com/predictions/international/concacaf-nations-league/1224544/"
-      },
-      {
-        "id": "1224543",
-        "day": "tomorrow",
-        "date": "2026-11-17",
-        "league": "CONCACAF Nations League",
-        "homeTeam": "Guadeloupe",
-        "awayTeam": "Bermuda",
-        "match": "Guadeloupe v Bermuda",
-        "prediction": "Home 3-0",
-        "predictionSide": "home",
-        "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
-        },
-        "homeForm": [
-          "W",
-          "D",
-          "L",
-          "L",
-          "W"
-        ],
-        "awayForm": [
-          "L",
-          "L",
-          "L",
-          "L",
-          "L"
-        ],
-        "url": "https://www.predictz.com/predictions/international/concacaf-nations-league/1224543/"
-      },
-      {
-        "id": "1224545",
-        "day": "tomorrow",
-        "date": "2026-11-17",
-        "league": "CONCACAF Nations League",
-        "homeTeam": "Guyana",
-        "awayTeam": "Puerto Rico",
-        "match": "Guyana v Puerto Rico",
-        "prediction": "Home 2-0",
-        "predictionSide": "home",
-        "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
-        },
-        "homeForm": [
-          "W",
-          "W",
-          "W",
-          "W",
-          "W"
-        ],
-        "awayForm": [
-          "L",
-          "W",
-          "W",
-          "W",
-          "W"
-        ],
-        "url": "https://www.predictz.com/predictions/international/concacaf-nations-league/1224545/"
-      },
-      {
-        "id": "1203529",
-        "day": "tomorrow",
-        "date": "2026-11-17",
-        "league": "Spain Segunda Division",
-        "homeTeam": "Albacete",
-        "awayTeam": "Celta de Vigo II",
-        "match": "Albacete v Celta de Vigo II",
-        "prediction": "Draw 2-2",
+        "homeTeam": "Wales",
+        "awayTeam": "Portugal",
+        "match": "Wales v Portugal",
+        "prediction": "Draw 1-1",
         "predictionSide": "draw",
         "odds": {
           "home": null,
@@ -655,27 +811,27 @@
         "homeForm": [
           "L",
           "L",
+          "L",
+          "W",
+          "L"
+        ],
+        "awayForm": [
+          "L",
+          "W",
           "W",
           "W",
           "W"
         ],
-        "awayForm": [
-          "W",
-          "D",
-          "L",
-          "D",
-          "L"
-        ],
-        "url": "https://www.predictz.com/predictions/spain/segunda-division/1203529/"
+        "url": "https://www.predictz.com/predictions/international/uefa-nations-league/1184961/"
       },
       {
-        "id": "1215910",
+        "id": "1224533",
         "day": "tomorrow",
         "date": "2026-11-17",
-        "league": "Italy Serie C",
-        "homeTeam": "Sorrento",
-        "awayTeam": "Monopoli",
-        "match": "Sorrento v Monopoli",
+        "league": "CONCACAF Nations League",
+        "homeTeam": "Martinique",
+        "awayTeam": "Aruba",
+        "match": "Martinique v Aruba",
         "prediction": "Home 2-0",
         "predictionSide": "home",
         "odds": {
@@ -685,91 +841,29 @@
         },
         "homeForm": [
           "L",
-          "D",
-          "D",
           "L",
-          "L"
-        ],
-        "awayForm": [
-          "L",
-          "W",
           "W",
           "D",
           "D"
         ],
-        "url": "https://www.predictz.com/predictions/italy/serie-c/1215910/"
-      },
-      {
-        "id": "1215860",
-        "day": "tomorrow",
-        "date": "2026-11-17",
-        "league": "Italy Serie C",
-        "homeTeam": "Perugia",
-        "awayTeam": "Torres",
-        "match": "Perugia v Torres",
-        "prediction": "Home 1-0",
-        "predictionSide": "home",
-        "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
-        },
-        "homeForm": [
-          "L",
-          "W",
-          "L",
-          "D",
-          "L"
-        ],
         "awayForm": [
           "W",
+          "W",
+          "W",
           "L",
-          "W",
-          "D",
-          "W"
-        ],
-        "url": "https://www.predictz.com/predictions/italy/serie-c/1215860/"
-      },
-      {
-        "id": "1221598",
-        "day": "tomorrow",
-        "date": "2026-11-17",
-        "league": "Greece Super League 2",
-        "homeTeam": "GS Marko",
-        "awayTeam": "Zakynthos",
-        "match": "GS Marko v Zakynthos",
-        "prediction": "Home 2-0",
-        "predictionSide": "home",
-        "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
-        },
-        "homeForm": [
-          "W",
-          "D",
-          "W",
-          "W",
           "D"
         ],
-        "awayForm": [
-          "L",
-          "D",
-          "L",
-          "D",
-          "L"
-        ],
-        "url": "https://www.predictz.com/predictions/greece/super-league-2/1221598/"
+        "url": "https://www.predictz.com/predictions/international/concacaf-nations-league/1224533/"
       },
       {
-        "id": "1221595",
+        "id": "1224532",
         "day": "tomorrow",
         "date": "2026-11-17",
-        "league": "Greece Super League 2",
-        "homeTeam": "Panionios",
-        "awayTeam": "Olympiacos Piraeus B",
-        "match": "Panionios v Olympiacos Piraeus B",
-        "prediction": "Home 4-0",
+        "league": "CONCACAF Nations League",
+        "homeTeam": "Trinidad and Tobago",
+        "awayTeam": "Antigua and Barbuda",
+        "match": "Trinidad and Tobago v Antigua and Barbuda",
+        "prediction": "Home 3-0",
         "predictionSide": "home",
         "odds": {
           "home": null,
@@ -777,29 +871,29 @@
           "away": null
         },
         "homeForm": [
-          "W",
-          "D",
           "L",
-          "W",
-          "L"
+          "L",
+          "L",
+          "D",
+          "W"
         ],
         "awayForm": [
           "L",
-          "D",
-          "L",
-          "L",
+          "W",
+          "W",
+          "W",
           "L"
         ],
-        "url": "https://www.predictz.com/predictions/greece/super-league-2/1221595/"
+        "url": "https://www.predictz.com/predictions/international/concacaf-nations-league/1224532/"
       },
       {
-        "id": "1223095",
+        "id": "1224473",
         "day": "tomorrow",
         "date": "2026-11-17",
-        "league": "Greece Super League 2",
-        "homeTeam": "Niki Volos",
-        "awayTeam": "PAS Pyrgos",
-        "match": "Niki Volos v PAS Pyrgos",
+        "league": "CONCACAF Nations League",
+        "homeTeam": "Canada",
+        "awayTeam": "Guatemala",
+        "match": "Canada v Guatemala",
         "prediction": "Home 2-0",
         "predictionSide": "home",
         "odds": {
@@ -808,61 +902,30 @@
           "away": null
         },
         "homeForm": [
+          "L",
           "W",
-          "D",
           "W",
-          "W",
+          "L",
           "W"
         ],
         "awayForm": [
           "L",
-          "L",
           "W",
           "D",
+          "W",
           "L"
         ],
-        "url": "https://www.predictz.com/predictions/greece/super-league-2/1223095/"
+        "url": "https://www.predictz.com/predictions/international/concacaf-nations-league/1224473/"
       },
       {
-        "id": "1195137",
+        "id": "1210378",
         "day": "tomorrow",
         "date": "2026-11-17",
-        "league": "Serbia Prva Liga",
-        "homeTeam": "FK Bor 1919",
-        "awayTeam": "Smederevo",
-        "match": "FK Bor 1919 v Smederevo",
-        "prediction": "Away 0-1",
-        "predictionSide": "away",
-        "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
-        },
-        "homeForm": [
-          "L",
-          "L",
-          "L",
-          "L",
-          "L"
-        ],
-        "awayForm": [
-          "L",
-          "D",
-          "L",
-          "L",
-          "L"
-        ],
-        "url": "https://www.predictz.com/predictions/serbia/prva-liga/1195137/"
-      },
-      {
-        "id": "1195135",
-        "day": "tomorrow",
-        "date": "2026-11-17",
-        "league": "Serbia Prva Liga",
-        "homeTeam": "Graficar Beograd",
-        "awayTeam": "Vozdovac",
-        "match": "Graficar Beograd v Vozdovac",
-        "prediction": "Draw 0-0",
+        "league": "England National League North",
+        "homeTeam": "Bedford Town",
+        "awayTeam": "Chorley",
+        "match": "Bedford Town v Chorley",
+        "prediction": "Draw 1-1",
         "predictionSide": "draw",
         "odds": {
           "home": null,
@@ -872,28 +935,90 @@
         "homeForm": [
           "D",
           "L",
+          "W",
+          "W",
+          "L"
+        ],
+        "awayForm": [
+          "W",
           "L",
+          "W",
+          "L",
+          "L"
+        ],
+        "url": "https://www.predictz.com/predictions/england/national-league-north/1210378/"
+      },
+      {
+        "id": "1210383",
+        "day": "tomorrow",
+        "date": "2026-11-17",
+        "league": "England National League North",
+        "homeTeam": "Oxford City",
+        "awayTeam": "Macclesfield FC",
+        "match": "Oxford City v Macclesfield FC",
+        "prediction": "Home 3-2",
+        "predictionSide": "home",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [
+          "W",
+          "D",
+          "W",
+          "L",
+          "D"
+        ],
+        "awayForm": [
+          "D",
+          "W",
+          "W",
+          "L",
+          "W"
+        ],
+        "url": "https://www.predictz.com/predictions/england/national-league-north/1210383/"
+      },
+      {
+        "id": "1210386",
+        "day": "tomorrow",
+        "date": "2026-11-17",
+        "league": "England National League North",
+        "homeTeam": "South Shields",
+        "awayTeam": "Harborough Town",
+        "match": "South Shields v Harborough Town",
+        "prediction": "Home 3-0",
+        "predictionSide": "home",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [
+          "L",
+          "W",
+          "W",
           "W",
           "W"
         ],
         "awayForm": [
+          "L",
           "W",
           "D",
           "L",
-          "D",
-          "L"
+          "D"
         ],
-        "url": "https://www.predictz.com/predictions/serbia/prva-liga/1195135/"
+        "url": "https://www.predictz.com/predictions/england/national-league-north/1210386/"
       },
       {
-        "id": "1206145",
+        "id": "1210382",
         "day": "tomorrow",
         "date": "2026-11-17",
-        "league": "Ukraine Persha Liga",
-        "homeTeam": "Inhulets",
-        "awayTeam": "Probiy Gorodenka",
-        "match": "Inhulets v Probiy Gorodenka",
-        "prediction": "Home 1-0",
+        "league": "England National League North",
+        "homeTeam": "Spalding United",
+        "awayTeam": "Hebburn Town",
+        "match": "Spalding United v Hebburn Town",
+        "prediction": "Home 2-0",
         "predictionSide": "home",
         "odds": {
           "home": null,
@@ -903,27 +1028,27 @@
         "homeForm": [
           "L",
           "L",
+          "D",
           "W",
-          "L",
-          "D"
+          "L"
         ],
         "awayForm": [
-          "W",
-          "D",
+          "L",
           "L",
           "D",
-          "D"
+          "D",
+          "L"
         ],
-        "url": "https://www.predictz.com/predictions/ukraine/persha-liga/1206145/"
+        "url": "https://www.predictz.com/predictions/england/national-league-north/1210382/"
       },
       {
-        "id": "1206148",
+        "id": "1210381",
         "day": "tomorrow",
         "date": "2026-11-17",
-        "league": "Ukraine Persha Liga",
-        "homeTeam": "UCSA Tarasivka",
-        "awayTeam": "Polissya Zhytomyr 2",
-        "match": "UCSA Tarasivka v Polissya Zhytomyr 2",
+        "league": "England National League North",
+        "homeTeam": "Spennymoor Town",
+        "awayTeam": "Chester",
+        "match": "Spennymoor Town v Chester",
         "prediction": "Away 0-2",
         "predictionSide": "away",
         "odds": {
@@ -933,114 +1058,176 @@
         },
         "homeForm": [
           "L",
-          "D",
-          "W",
-          "L",
-          "D"
-        ],
-        "awayForm": [
-          "L",
-          "D",
-          "L",
-          "D",
-          "L"
-        ],
-        "url": "https://www.predictz.com/predictions/ukraine/persha-liga/1206148/"
-      },
-      {
-        "id": "1206149",
-        "day": "tomorrow",
-        "date": "2026-11-17",
-        "league": "Ukraine Persha Liga",
-        "homeTeam": "Chernigiv",
-        "awayTeam": "Lokomotiv Kyiv",
-        "match": "Chernigiv v Lokomotiv Kyiv",
-        "prediction": "Draw 2-2",
-        "predictionSide": "draw",
-        "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
-        },
-        "homeForm": [
           "L",
           "L",
           "W",
-          "L",
           "L"
         ],
         "awayForm": [
           "W",
-          "D",
           "L",
           "W",
-          "L"
-        ],
-        "url": "https://www.predictz.com/predictions/ukraine/persha-liga/1206149/"
-      },
-      {
-        "id": "1222331",
-        "day": "tomorrow",
-        "date": "2026-11-17",
-        "league": "Peru Primera Division",
-        "homeTeam": "Moquegua",
-        "awayTeam": "Atletico Grau",
-        "match": "Moquegua v Atletico Grau",
-        "prediction": "Draw 0-0",
-        "predictionSide": "draw",
-        "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
-        },
-        "homeForm": [
-          "W",
-          "L",
-          "L",
-          "D",
-          "D"
-        ],
-        "awayForm": [
-          "L",
-          "D",
-          "L",
           "L",
           "W"
         ],
-        "url": "https://www.predictz.com/predictions/peru/primera/1222331/"
+        "url": "https://www.predictz.com/predictions/england/national-league-north/1210381/"
       },
       {
-        "id": "1225300",
+        "id": "1210932",
         "day": "tomorrow",
         "date": "2026-11-17",
-        "league": "Uruguay Primera Division Finals",
-        "homeTeam": "Montevideo Wanderers",
-        "awayTeam": "Juventud Piedras",
-        "match": "Montevideo Wanderers v Juventud Piedras",
-        "prediction": "Draw 2-2",
-        "predictionSide": "draw",
+        "league": "England National League South",
+        "homeTeam": "Tonbridge Angels",
+        "awayTeam": "Chesham Utd",
+        "match": "Tonbridge Angels v Chesham Utd",
+        "prediction": "Home 2-0",
+        "predictionSide": "home",
         "odds": {
-          "home": "110",
-          "draw": "220",
-          "away": "200"
+          "home": null,
+          "draw": null,
+          "away": null
         },
         "homeForm": [
           "W",
-          "L",
-          "L",
-          "L",
-          "D"
-        ],
-        "awayForm": [
           "D",
           "W",
+          "L",
+          "L"
+        ],
+        "awayForm": [
+          "L",
+          "L",
           "L",
           "D",
           "L"
         ],
-        "url": "https://www.predictz.com/predictions/uruguay/primera-division-finals/1225300/"
+        "url": "https://www.predictz.com/predictions/england/national-league-south/1210932/"
+      },
+      {
+        "id": "1210936",
+        "day": "tomorrow",
+        "date": "2026-11-17",
+        "league": "England National League South",
+        "homeTeam": "Truro City",
+        "awayTeam": "Billericay Town",
+        "match": "Truro City v Billericay Town",
+        "prediction": "Draw 2-2",
+        "predictionSide": "draw",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [
+          "D",
+          "W",
+          "W",
+          "W",
+          "W"
+        ],
+        "awayForm": [
+          "W",
+          "W",
+          "D",
+          "W",
+          "D"
+        ],
+        "url": "https://www.predictz.com/predictions/england/national-league-south/1210936/"
+      },
+      {
+        "id": "1225513",
+        "day": "tomorrow",
+        "date": "2026-11-17",
+        "league": "USA USL Championship Finals",
+        "homeTeam": "New Mexico United",
+        "awayTeam": "Sacramento Republic",
+        "match": "New Mexico United v Sacramento Republic",
+        "prediction": "Draw 1-1",
+        "predictionSide": "draw",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [
+          "W",
+          "L",
+          "W",
+          "W",
+          "W"
+        ],
+        "awayForm": [
+          "D",
+          "W",
+          "W",
+          "W",
+          "W"
+        ],
+        "url": "https://www.predictz.com/predictions/usa/united-soccer-league-finals/1225513/"
+      },
+      {
+        "id": "1223349",
+        "day": "tomorrow",
+        "date": "2026-11-17",
+        "league": "Nigeria NPFL",
+        "homeTeam": "Plateau United",
+        "awayTeam": "Kun Khalifat",
+        "match": "Plateau United v Kun Khalifat",
+        "prediction": "Home 3-0",
+        "predictionSide": "home",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [
+          "W",
+          "L",
+          "D",
+          "D",
+          "L"
+        ],
+        "awayForm": [
+          "W",
+          "D",
+          "W",
+          "L",
+          "D"
+        ],
+        "url": "https://www.predictz.com/predictions/nigeria/npfl/1223349/"
+      },
+      {
+        "id": "1221288",
+        "day": "tomorrow",
+        "date": "2026-11-17",
+        "league": "Uganda Premier League",
+        "homeTeam": "Kitara",
+        "awayTeam": "Blacks Power",
+        "match": "Kitara v Blacks Power",
+        "prediction": "Home 1-0",
+        "predictionSide": "home",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [
+          "D",
+          "W",
+          "W",
+          "W",
+          "D"
+        ],
+        "awayForm": [
+          "L",
+          "W",
+          "D",
+          "L",
+          "L"
+        ],
+        "url": "https://www.predictz.com/predictions/uganda/premier-league/1221288/"
       }
     ]
   },
-  "count": 33
+  "count": 46
 }
