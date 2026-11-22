@@ -1,6 +1,6 @@
 {
   "source": "https://www.predictz.com/",
-  "scraped_at": "2026-11-22T01:29:53.021Z",
+  "scraped_at": "2026-11-22T11:47:07.412Z",
   "timezone": "Asia/Yangon",
   "today": {
     "day": "today",
@@ -15,7 +15,7 @@
     "date": "2026-11-23",
     "label": "Football Tips Tomorrow - Monday, November 23rd, 2026",
     "pageUrl": "https://www.predictz.com/predictions/tomorrow/",
-    "count": 47,
+    "count": 48,
     "tips": [
       {
         "id": "1196858",
@@ -90,9 +90,9 @@
         "prediction": "Away 0-1",
         "predictionSide": "away",
         "odds": {
-          "home": "120",
+          "home": "115",
           "draw": "260",
-          "away": "210"
+          "away": "220"
         },
         "homeForm": [
           "D",
@@ -338,9 +338,9 @@
         "prediction": "Away 0-2",
         "predictionSide": "away",
         "odds": {
-          "home": "140",
+          "home": "132",
           "draw": "280",
-          "away": "150"
+          "away": "157"
         },
         "homeForm": [
           "W",
@@ -524,9 +524,9 @@
         "prediction": "Away 2-3",
         "predictionSide": "away",
         "odds": {
-          "home": "135",
+          "home": "132",
           "draw": "300",
-          "away": "145"
+          "away": "150"
         },
         "homeForm": [
           "W",
@@ -896,9 +896,9 @@
         "prediction": "Draw 0-0",
         "predictionSide": "draw",
         "odds": {
-          "home": "182",
-          "draw": "200",
-          "away": "145"
+          "home": "145",
+          "draw": "185",
+          "away": "200"
         },
         "homeForm": [
           "D",
@@ -1227,6 +1227,37 @@
         "url": "https://www.predictz.com/predictions/uruguay/primera-division-finals/1226020/"
       },
       {
+        "id": "1225267",
+        "day": "tomorrow",
+        "date": "2026-11-23",
+        "league": "Honduras Liga Nacional",
+        "homeTeam": "Marathon",
+        "awayTeam": "Genesis",
+        "match": "Marathon v Genesis",
+        "prediction": "Home 2-1",
+        "predictionSide": "home",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [
+          "D",
+          "L",
+          "W",
+          "W",
+          "W"
+        ],
+        "awayForm": [
+          "L",
+          "L",
+          "D",
+          "W",
+          "W"
+        ],
+        "url": "https://www.predictz.com/predictions/honduras/liga-nacional/1225267/"
+      },
+      {
         "id": "1203916",
         "day": "tomorrow",
         "date": "2026-11-23",
@@ -1237,9 +1268,9 @@
         "prediction": "Home 1-0",
         "predictionSide": "home",
         "odds": {
-          "home": "101",
-          "draw": "290",
-          "away": "220"
+          "home": "110",
+          "draw": "280",
+          "away": "210"
         },
         "homeForm": [
           "L",
@@ -1476,5 +1507,5 @@
       }
     ]
   },
-  "count": 47
+  "count": 48
 }
