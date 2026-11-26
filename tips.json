@@ -1,6 +1,6 @@
 {
   "source": "https://www.predictz.com/",
-  "scraped_at": "2026-11-25T19:30:14.690Z",
+  "scraped_at": "2026-11-26T03:42:16.406Z",
   "timezone": "Asia/Yangon",
   "today": {
     "day": "today",
@@ -13,1598 +13,91 @@
   "tomorrow": {
     "day": "tomorrow",
     "date": "2026-11-27",
-    "label": "Football Tips Tomorrow - Thursday, November 26th, 2026",
+    "label": "Football Tips Tomorrow - Friday, November 27th, 2026",
     "pageUrl": "https://www.predictz.com/predictions/tomorrow/",
-    "count": 73,
+    "count": 117,
     "tips": [
       {
-        "id": "1220722",
+        "id": "1196862",
         "day": "tomorrow",
         "date": "2026-11-27",
-        "league": "Europa League",
-        "homeTeam": "Besiktas",
-        "awayTeam": "Hapoel Sheva",
-        "match": "Besiktas v Hapoel Sheva",
-        "prediction": "Home 2-0",
-        "predictionSide": "home",
-        "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
-        },
-        "homeForm": [
-          "L",
-          "W",
-          "D",
-          "W",
-          "W"
-        ],
-        "awayForm": [
-          "W",
-          "W",
-          "W",
-          "W",
-          "L"
-        ],
-        "url": "https://www.predictz.com/predictions/europe/europa-league/1220722/"
-      },
-      {
-        "id": "1220721",
-        "day": "tomorrow",
-        "date": "2026-11-27",
-        "league": "Europa League",
-        "homeTeam": "Celta Vigo",
-        "awayTeam": "Bournemouth",
-        "match": "Celta Vigo v Bournemouth",
-        "prediction": "Draw 1-1",
+        "league": "England Premier League",
+        "homeTeam": "Nottingham Forest",
+        "awayTeam": "Chelsea",
+        "match": "Nottingham Forest v Chelsea",
+        "prediction": "Draw 2-2",
         "predictionSide": "draw",
         "odds": {
-          "home": "250",
-          "draw": "260",
-          "away": "105"
+          "home": "155",
+          "draw": "240",
+          "away": "162"
         },
         "homeForm": [
-          "W",
+          "L",
           "D",
           "L",
-          "D",
-          "L"
-        ],
-        "awayForm": [
-          "W",
-          "W",
-          "W",
-          "W",
-          "W"
-        ],
-        "url": "https://www.predictz.com/predictions/europe/europa-league/1220721/"
-      },
-      {
-        "id": "1220724",
-        "day": "tomorrow",
-        "date": "2026-11-27",
-        "league": "Europa League",
-        "homeTeam": "Dynamo Zagreb",
-        "awayTeam": "Bayer Leverkusen",
-        "match": "Dynamo Zagreb v Bayer Leverkusen",
-        "prediction": "Away 1-2",
-        "predictionSide": "away",
-        "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
-        },
-        "homeForm": [
-          "W",
-          "W",
-          "L",
-          "W",
-          "W"
-        ],
-        "awayForm": [
-          "W",
-          "L",
-          "L",
-          "W",
-          "W"
-        ],
-        "url": "https://www.predictz.com/predictions/europe/europa-league/1220724/"
-      },
-      {
-        "id": "1220725",
-        "day": "tomorrow",
-        "date": "2026-11-27",
-        "league": "Europa League",
-        "homeTeam": "Marseille",
-        "awayTeam": "Levski Sofia",
-        "match": "Marseille v Levski Sofia",
-        "prediction": "Home 2-0",
-        "predictionSide": "home",
-        "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
-        },
-        "homeForm": [
-          "W",
-          "W",
-          "W",
           "W",
           "L"
         ],
         "awayForm": [
           "W",
-          "D",
+          "L",
           "W",
           "L",
-          "W"
+          "L"
         ],
-        "url": "https://www.predictz.com/predictions/europe/europa-league/1220725/"
+        "url": "https://www.predictz.com/predictions/england/premier-league/1196862/"
       },
       {
-        "id": "1220720",
+        "id": "1200053",
         "day": "tomorrow",
         "date": "2026-11-27",
-        "league": "Europa League",
-        "homeTeam": "Olympiacos",
-        "awayTeam": "AC Milan",
-        "match": "Olympiacos v AC Milan",
-        "prediction": "Draw 1-1",
+        "league": "England Championship",
+        "homeTeam": "Southampton",
+        "awayTeam": "Middlesbrough",
+        "match": "Southampton v Middlesbrough",
+        "prediction": "Draw 2-2",
         "predictionSide": "draw",
         "odds": {
-          "home": "175",
-          "draw": "250",
-          "away": "145"
-        },
-        "homeForm": [
-          "W",
-          "W",
-          "W",
-          "D",
-          "W"
-        ],
-        "awayForm": [
-          "W",
-          "L",
-          "W",
-          "W",
-          "W"
-        ],
-        "url": "https://www.predictz.com/predictions/europe/europa-league/1220720/"
-      },
-      {
-        "id": "1220719",
-        "day": "tomorrow",
-        "date": "2026-11-27",
-        "league": "Europa League",
-        "homeTeam": "Plzen",
-        "awayTeam": "Benfica",
-        "match": "Plzen v Benfica",
-        "prediction": "Away 0-2",
-        "predictionSide": "away",
-        "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
-        },
-        "homeForm": [
-          "W",
-          "L",
-          "W",
-          "D",
-          "W"
-        ],
-        "awayForm": [
-          "L",
-          "W",
-          "W",
-          "W",
-          "W"
-        ],
-        "url": "https://www.predictz.com/predictions/europe/europa-league/1220719/"
-      },
-      {
-        "id": "1220723",
-        "day": "tomorrow",
-        "date": "2026-11-27",
-        "league": "Europa League",
-        "homeTeam": "RB Salzburg",
-        "awayTeam": "Ararat Armenia",
-        "match": "RB Salzburg v Ararat Armenia",
-        "prediction": "Home 3-1",
-        "predictionSide": "home",
-        "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
-        },
-        "homeForm": [
-          "W",
-          "W",
-          "W",
-          "W",
-          "L"
-        ],
-        "awayForm": [
-          "D",
-          "W",
-          "W",
-          "W",
-          "W"
-        ],
-        "url": "https://www.predictz.com/predictions/europe/europa-league/1220723/"
-      },
-      {
-        "id": "1220718",
-        "day": "tomorrow",
-        "date": "2026-11-27",
-        "league": "Europa League",
-        "homeTeam": "Union Saint Gilloise",
-        "awayTeam": "Lech Poznan",
-        "match": "Union Saint Gilloise v Lech Poznan",
-        "prediction": "Home 2-1",
-        "predictionSide": "home",
-        "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
-        },
-        "homeForm": [
-          "D",
-          "W",
-          "W",
-          "W",
-          "W"
-        ],
-        "awayForm": [
-          "W",
-          "W",
-          "W",
-          "D",
-          "W"
-        ],
-        "url": "https://www.predictz.com/predictions/europe/europa-league/1220718/"
-      },
-      {
-        "id": "1220716",
-        "day": "tomorrow",
-        "date": "2026-11-27",
-        "league": "Europa League",
-        "homeTeam": "Crystal Palace",
-        "awayTeam": "Real Sociedad",
-        "match": "Crystal Palace v Real Sociedad",
-        "prediction": "Draw 1-1",
-        "predictionSide": "draw",
-        "odds": {
-          "home": "105",
-          "draw": "290",
-          "away": "220"
-        },
-        "homeForm": [
-          "L",
-          "L",
-          "L",
-          "L",
-          "L"
-        ],
-        "awayForm": [
-          "W",
-          "W",
-          "L",
-          "W",
-          "L"
-        ],
-        "url": "https://www.predictz.com/predictions/europe/europa-league/1220716/"
-      },
-      {
-        "id": "1220713",
-        "day": "tomorrow",
-        "date": "2026-11-27",
-        "league": "Europa League",
-        "homeTeam": "Ferencvarosi",
-        "awayTeam": "NK Celje",
-        "match": "Ferencvarosi v NK Celje",
-        "prediction": "Home 2-0",
-        "predictionSide": "home",
-        "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
-        },
-        "homeForm": [
-          "D",
-          "W",
-          "W",
-          "W",
-          "L"
-        ],
-        "awayForm": [
-          "D",
-          "D",
-          "W",
-          "W",
-          "W"
-        ],
-        "url": "https://www.predictz.com/predictions/europe/europa-league/1220713/"
-      },
-      {
-        "id": "1220672",
-        "day": "tomorrow",
-        "date": "2026-11-27",
-        "league": "Europa League",
-        "homeTeam": "Hoffenheim",
-        "awayTeam": "SK Sturm Graz",
-        "match": "Hoffenheim v SK Sturm Graz",
-        "prediction": "Home 2-0",
-        "predictionSide": "home",
-        "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
-        },
-        "homeForm": [
-          "W",
-          "W",
-          "L",
-          "W",
-          "L"
-        ],
-        "awayForm": [
-          "W",
-          "D",
-          "D",
-          "L",
-          "L"
-        ],
-        "url": "https://www.predictz.com/predictions/europe/europa-league/1220672/"
-      },
-      {
-        "id": "1220755",
-        "day": "tomorrow",
-        "date": "2026-11-27",
-        "league": "Europa League",
-        "homeTeam": "Juventus",
-        "awayTeam": "Omonia Nicosia",
-        "match": "Juventus v Omonia Nicosia",
-        "prediction": "Home 3-1",
-        "predictionSide": "home",
-        "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
-        },
-        "homeForm": [
-          "W",
-          "L",
-          "W",
-          "D",
-          "W"
-        ],
-        "awayForm": [
-          "D",
-          "L",
-          "W",
-          "W",
-          "D"
-        ],
-        "url": "https://www.predictz.com/predictions/europe/europa-league/1220755/"
-      },
-      {
-        "id": "1220714",
-        "day": "tomorrow",
-        "date": "2026-11-27",
-        "league": "Europa League",
-        "homeTeam": "Lyon",
-        "awayTeam": "Lillestrom",
-        "match": "Lyon v Lillestrom",
-        "prediction": "Home 3-0",
-        "predictionSide": "home",
-        "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
-        },
-        "homeForm": [
-          "W",
-          "L",
-          "W",
-          "L",
-          "W"
-        ],
-        "awayForm": [
-          "W",
-          "W",
-          "W",
-          "W",
-          "W"
-        ],
-        "url": "https://www.predictz.com/predictions/europe/europa-league/1220714/"
-      },
-      {
-        "id": "1220671",
-        "day": "tomorrow",
-        "date": "2026-11-27",
-        "league": "Europa League",
-        "homeTeam": "NEC",
-        "awayTeam": "Rennes",
-        "match": "NEC v Rennes",
-        "prediction": "Draw 1-1",
-        "predictionSide": "draw",
-        "odds": {
-          "home": "210",
-          "draw": "280",
-          "away": "115"
-        },
-        "homeForm": [
-          "D",
-          "D",
-          "L",
-          "W",
-          "L"
-        ],
-        "awayForm": [
-          "L",
-          "W",
-          "L",
-          "L",
-          "D"
-        ],
-        "url": "https://www.predictz.com/predictions/europe/europa-league/1220671/"
-      },
-      {
-        "id": "1220669",
-        "day": "tomorrow",
-        "date": "2026-11-27",
-        "league": "Europa League",
-        "homeTeam": "OFI Crete",
-        "awayTeam": "Anderlecht",
-        "match": "OFI Crete v Anderlecht",
-        "prediction": "Away 1-2",
-        "predictionSide": "away",
-        "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
-        },
-        "homeForm": [
-          "L",
-          "W",
-          "W",
-          "D",
-          "L"
-        ],
-        "awayForm": [
-          "W",
-          "L",
-          "W",
-          "D",
-          "W"
-        ],
-        "url": "https://www.predictz.com/predictions/europe/europa-league/1220669/"
-      },
-      {
-        "id": "1220715",
-        "day": "tomorrow",
-        "date": "2026-11-27",
-        "league": "Europa League",
-        "homeTeam": "Sparta Prague",
-        "awayTeam": "AZ",
-        "match": "Sparta Prague v AZ",
-        "prediction": "Draw 1-1",
-        "predictionSide": "draw",
-        "odds": {
-          "home": "200",
+          "home": "182",
           "draw": "260",
           "away": "125"
         },
         "homeForm": [
-          "D",
           "W",
-          "D",
-          "D",
-          "L"
-        ],
-        "awayForm": [
-          "D",
-          "L",
-          "L",
-          "W",
-          "W"
-        ],
-        "url": "https://www.predictz.com/predictions/europe/europa-league/1220715/"
-      },
-      {
-        "id": "1220717",
-        "day": "tomorrow",
-        "date": "2026-11-27",
-        "league": "Europa League",
-        "homeTeam": "Sunderland",
-        "awayTeam": "Jagiellonia Bialystok",
-        "match": "Sunderland v Jagiellonia Bialystok",
-        "prediction": "Home 2-0",
-        "predictionSide": "home",
-        "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
-        },
-        "homeForm": [
-          "L",
           "D",
           "L",
           "W",
           "D"
         ],
         "awayForm": [
+          "W",
           "L",
-          "W",
-          "W",
-          "W",
-          "L"
-        ],
-        "url": "https://www.predictz.com/predictions/europe/europa-league/1220717/"
-      },
-      {
-        "id": "1220670",
-        "day": "tomorrow",
-        "date": "2026-11-27",
-        "league": "Europa League",
-        "homeTeam": "Torreense",
-        "awayTeam": "Celtic",
-        "match": "Torreense v Celtic",
-        "prediction": "Away 0-1",
-        "predictionSide": "away",
-        "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
-        },
-        "homeForm": [
           "D",
-          "L",
-          "W",
-          "D",
-          "L"
-        ],
-        "awayForm": [
-          "W",
-          "D",
-          "L",
           "W",
           "W"
         ],
-        "url": "https://www.predictz.com/predictions/europe/europa-league/1220670/"
+        "url": "https://www.predictz.com/predictions/england/championship/1200053/"
       },
       {
-        "id": "1220559",
+        "id": "1209512",
         "day": "tomorrow",
         "date": "2026-11-27",
-        "league": "Europa Conference League",
-        "homeTeam": "Kairat",
-        "awayTeam": "Mjallby",
-        "match": "Kairat v Mjallby",
+        "league": "England National League",
+        "homeTeam": "Scunthorpe",
+        "awayTeam": "Wealdstone",
+        "match": "Scunthorpe v Wealdstone",
         "prediction": "Draw 1-1",
-        "predictionSide": "draw",
-        "odds": {
-          "home": "115",
-          "draw": "250",
-          "away": "220"
-        },
-        "homeForm": [
-          "L",
-          "W",
-          "W",
-          "D",
-          "D"
-        ],
-        "awayForm": [
-          "L",
-          "W",
-          "D",
-          "D",
-          "D"
-        ],
-        "url": "https://www.predictz.com/predictions/europe/europa-conference-league/1220559/"
-      },
-      {
-        "id": "1220555",
-        "day": "tomorrow",
-        "date": "2026-11-27",
-        "league": "Europa Conference League",
-        "homeTeam": "Ajax",
-        "awayTeam": "FC Thun",
-        "match": "Ajax v FC Thun",
-        "prediction": "Home 3-0",
-        "predictionSide": "home",
-        "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
-        },
-        "homeForm": [
-          "W",
-          "W",
-          "W",
-          "D",
-          "W"
-        ],
-        "awayForm": [
-          "L",
-          "L",
-          "W",
-          "D",
-          "L"
-        ],
-        "url": "https://www.predictz.com/predictions/europe/europa-conference-league/1220555/"
-      },
-      {
-        "id": "1220556",
-        "day": "tomorrow",
-        "date": "2026-11-27",
-        "league": "Europa Conference League",
-        "homeTeam": "Brighton",
-        "awayTeam": "CS Universitatea Craiova",
-        "match": "Brighton v CS Universitatea Craiova",
-        "prediction": "Home 3-0",
-        "predictionSide": "home",
-        "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
-        },
-        "homeForm": [
-          "W",
-          "L",
-          "W",
-          "W",
-          "L"
-        ],
-        "awayForm": [
-          "W",
-          "W",
-          "W",
-          "D",
-          "W"
-        ],
-        "url": "https://www.predictz.com/predictions/europe/europa-conference-league/1220556/"
-      },
-      {
-        "id": "1220550",
-        "day": "tomorrow",
-        "date": "2026-11-27",
-        "league": "Europa Conference League",
-        "homeTeam": "Egnatia Rrogozhine",
-        "awayTeam": "Lincoln Red Imps",
-        "match": "Egnatia Rrogozhine v Lincoln Red Imps",
-        "prediction": "Home 2-1",
-        "predictionSide": "home",
-        "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
-        },
-        "homeForm": [
-          "L",
-          "W",
-          "W",
-          "W",
-          "L"
-        ],
-        "awayForm": [],
-        "url": "https://www.predictz.com/predictions/europe/europa-conference-league/1220550/"
-      },
-      {
-        "id": "1220554",
-        "day": "tomorrow",
-        "date": "2026-11-27",
-        "league": "Europa Conference League",
-        "homeTeam": "Hearts",
-        "awayTeam": "Monaco",
-        "match": "Hearts v Monaco",
-        "prediction": "Away 1-2",
-        "predictionSide": "away",
-        "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
-        },
-        "homeForm": [
-          "L",
-          "W",
-          "D",
-          "L",
-          "W"
-        ],
-        "awayForm": [
-          "L",
-          "D",
-          "L",
-          "D",
-          "D"
-        ],
-        "url": "https://www.predictz.com/predictions/europe/europa-conference-league/1220554/"
-      },
-      {
-        "id": "1220557",
-        "day": "tomorrow",
-        "date": "2026-11-27",
-        "league": "Europa Conference League",
-        "homeTeam": "Jablonec 97",
-        "awayTeam": "Lugano",
-        "match": "Jablonec 97 v Lugano",
-        "prediction": "Draw 1-1",
-        "predictionSide": "draw",
-        "odds": {
-          "home": "250",
-          "draw": "260",
-          "away": "100"
-        },
-        "homeForm": [
-          "L",
-          "W",
-          "L",
-          "D",
-          "L"
-        ],
-        "awayForm": [
-          "W",
-          "W",
-          "W",
-          "L",
-          "W"
-        ],
-        "url": "https://www.predictz.com/predictions/europe/europa-conference-league/1220557/"
-      },
-      {
-        "id": "1220553",
-        "day": "tomorrow",
-        "date": "2026-11-27",
-        "league": "Europa Conference League",
-        "homeTeam": "Kauno Zalgiris",
-        "awayTeam": "Riga",
-        "match": "Kauno Zalgiris v Riga",
-        "prediction": "Draw 1-1",
-        "predictionSide": "draw",
-        "odds": {
-          "home": "230",
-          "draw": "260",
-          "away": "105"
-        },
-        "homeForm": [
-          "W",
-          "W",
-          "D",
-          "W",
-          "L"
-        ],
-        "awayForm": [
-          "W",
-          "W",
-          "W",
-          "W",
-          "D"
-        ],
-        "url": "https://www.predictz.com/predictions/europe/europa-conference-league/1220553/"
-      },
-      {
-        "id": "1220613",
-        "day": "tomorrow",
-        "date": "2026-11-27",
-        "league": "Europa Conference League",
-        "homeTeam": "Paphos",
-        "awayTeam": "Midtjylland",
-        "match": "Paphos v Midtjylland",
-        "prediction": "Draw 1-1",
-        "predictionSide": "draw",
-        "odds": {
-          "home": "210",
-          "draw": "260",
-          "away": "115"
-        },
-        "homeForm": [
-          "D",
-          "D",
-          "D",
-          "W",
-          "W"
-        ],
-        "awayForm": [
-          "W",
-          "W",
-          "W",
-          "D",
-          "W"
-        ],
-        "url": "https://www.predictz.com/predictions/europe/europa-conference-league/1220613/"
-      },
-      {
-        "id": "1220552",
-        "day": "tomorrow",
-        "date": "2026-11-27",
-        "league": "Europa Conference League",
-        "homeTeam": "Saburtalo Tbilisi",
-        "awayTeam": "Getafe",
-        "match": "Saburtalo Tbilisi v Getafe",
-        "prediction": "Away 0-2",
-        "predictionSide": "away",
-        "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
-        },
-        "homeForm": [
-          "W",
-          "D",
-          "W",
-          "D",
-          "W"
-        ],
-        "awayForm": [
-          "D",
-          "L",
-          "W",
-          "L",
-          "L"
-        ],
-        "url": "https://www.predictz.com/predictions/europe/europa-conference-league/1220552/"
-      },
-      {
-        "id": "1220558",
-        "day": "tomorrow",
-        "date": "2026-11-27",
-        "league": "Europa Conference League",
-        "homeTeam": "SK Brann",
-        "awayTeam": "AGF Aarhus",
-        "match": "SK Brann v AGF Aarhus",
-        "prediction": "Draw 1-1",
-        "predictionSide": "draw",
-        "odds": {
-          "home": "110",
-          "draw": "270",
-          "away": "210"
-        },
-        "homeForm": [
-          "L",
-          "L",
-          "W",
-          "D",
-          "W"
-        ],
-        "awayForm": [
-          "D",
-          "W",
-          "L",
-          "W",
-          "W"
-        ],
-        "url": "https://www.predictz.com/predictions/europe/europa-conference-league/1220558/"
-      },
-      {
-        "id": "1220546",
-        "day": "tomorrow",
-        "date": "2026-11-27",
-        "league": "Europa Conference League",
-        "homeTeam": "Borac Banja Luka",
-        "awayTeam": "Atalanta",
-        "match": "Borac Banja Luka v Atalanta",
-        "prediction": "Away 1-2",
-        "predictionSide": "away",
-        "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
-        },
-        "homeForm": [
-          "W",
-          "W",
-          "W",
-          "W",
-          "W"
-        ],
-        "awayForm": [
-          "D",
-          "D",
-          "L",
-          "W",
-          "D"
-        ],
-        "url": "https://www.predictz.com/predictions/europe/europa-conference-league/1220546/"
-      },
-      {
-        "id": "1220545",
-        "day": "tomorrow",
-        "date": "2026-11-27",
-        "league": "Europa Conference League",
-        "homeTeam": "Braga",
-        "awayTeam": "KuPS",
-        "match": "Braga v KuPS",
-        "prediction": "Home 3-1",
-        "predictionSide": "home",
-        "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
-        },
-        "homeForm": [
-          "L",
-          "L",
-          "L",
-          "W",
-          "W"
-        ],
-        "awayForm": [
-          "W",
-          "D",
-          "D",
-          "L",
-          "L"
-        ],
-        "url": "https://www.predictz.com/predictions/europe/europa-conference-league/1220545/"
-      },
-      {
-        "id": "1220544",
-        "day": "tomorrow",
-        "date": "2026-11-27",
-        "league": "Europa Conference League",
-        "homeTeam": "CSKA Sofia",
-        "awayTeam": "Trabzonspor",
-        "match": "CSKA Sofia v Trabzonspor",
-        "prediction": "Away 1-2",
-        "predictionSide": "away",
-        "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
-        },
-        "homeForm": [
-          "W",
-          "W",
-          "D",
-          "W",
-          "D"
-        ],
-        "awayForm": [
-          "W",
-          "W",
-          "W",
-          "W",
-          "W"
-        ],
-        "url": "https://www.predictz.com/predictions/europe/europa-conference-league/1220544/"
-      },
-      {
-        "id": "1220551",
-        "day": "tomorrow",
-        "date": "2026-11-27",
-        "league": "Europa Conference League",
-        "homeTeam": "FC Nordsjaelland",
-        "awayTeam": "Panathinaikos",
-        "match": "FC Nordsjaelland v Panathinaikos",
-        "prediction": "Draw 1-1",
-        "predictionSide": "draw",
-        "odds": {
-          "home": "150",
-          "draw": "250",
-          "away": "160"
-        },
-        "homeForm": [
-          "D",
-          "D",
-          "L",
-          "W",
-          "W"
-        ],
-        "awayForm": [
-          "W",
-          "W",
-          "W",
-          "W",
-          "W"
-        ],
-        "url": "https://www.predictz.com/predictions/europe/europa-conference-league/1220551/"
-      },
-      {
-        "id": "1220547",
-        "day": "tomorrow",
-        "date": "2026-11-27",
-        "league": "Europa Conference League",
-        "homeTeam": "Freiburg",
-        "awayTeam": "FC Twente",
-        "match": "Freiburg v FC Twente",
-        "prediction": "Home 2-1",
-        "predictionSide": "home",
-        "odds": {
-          "home": "105",
-          "draw": "290",
-          "away": "210"
-        },
-        "homeForm": [
-          "L",
-          "L",
-          "W",
-          "W",
-          "W"
-        ],
-        "awayForm": [
-          "L",
-          "W",
-          "W",
-          "D",
-          "W"
-        ],
-        "url": "https://www.predictz.com/predictions/europe/europa-conference-league/1220547/"
-      },
-      {
-        "id": "1220548",
-        "day": "tomorrow",
-        "date": "2026-11-27",
-        "league": "Europa Conference League",
-        "homeTeam": "Gent",
-        "awayTeam": "Crvena Zvezda",
-        "match": "Gent v Crvena Zvezda",
-        "prediction": "Draw 1-1",
-        "predictionSide": "draw",
-        "odds": {
-          "home": "105",
-          "draw": "250",
-          "away": "240"
-        },
-        "homeForm": [
-          "W",
-          "W",
-          "L",
-          "W",
-          "L"
-        ],
-        "awayForm": [
-          "W",
-          "W",
-          "W",
-          "W",
-          "W"
-        ],
-        "url": "https://www.predictz.com/predictions/europe/europa-conference-league/1220548/"
-      },
-      {
-        "id": "1220549",
-        "day": "tomorrow",
-        "date": "2026-11-27",
-        "league": "Europa Conference League",
-        "homeTeam": "Hajduk Split",
-        "awayTeam": "St Truidense",
-        "match": "Hajduk Split v St Truidense",
-        "prediction": "Draw 1-1",
-        "predictionSide": "draw",
-        "odds": {
-          "home": "115",
-          "draw": "260",
-          "away": "210"
-        },
-        "homeForm": [
-          "D",
-          "W",
-          "W",
-          "W",
-          "L"
-        ],
-        "awayForm": [
-          "L",
-          "L",
-          "L",
-          "W",
-          "D"
-        ],
-        "url": "https://www.predictz.com/predictions/europe/europa-conference-league/1220549/"
-      },
-      {
-        "id": "1220543",
-        "day": "tomorrow",
-        "date": "2026-11-27",
-        "league": "Europa Conference League",
-        "homeTeam": "Inter Club dEscaldes",
-        "awayTeam": "FC Copenhagen",
-        "match": "Inter Club dEscaldes v FC Copenhagen",
-        "prediction": "Away 0-2",
-        "predictionSide": "away",
-        "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
-        },
-        "homeForm": [],
-        "awayForm": [
-          "D",
-          "D",
-          "W",
-          "W",
-          "L"
-        ],
-        "url": "https://www.predictz.com/predictions/europe/europa-conference-league/1220543/"
-      },
-      {
-        "id": "1200594",
-        "day": "tomorrow",
-        "date": "2026-11-27",
-        "league": "England League One",
-        "homeTeam": "Doncaster",
-        "awayTeam": "Huddersfield",
-        "match": "Doncaster v Huddersfield",
-        "prediction": "Away 0-3",
-        "predictionSide": "away",
-        "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
-        },
-        "homeForm": [
-          "L",
-          "W",
-          "L",
-          "L",
-          "D"
-        ],
-        "awayForm": [
-          "W",
-          "W",
-          "W",
-          "D",
-          "L"
-        ],
-        "url": "https://www.predictz.com/predictions/england/league-one/1200594/"
-      },
-      {
-        "id": "1193879",
-        "day": "tomorrow",
-        "date": "2026-11-27",
-        "league": "Denmark 1st Division",
-        "homeTeam": "AaB",
-        "awayTeam": "Esbjerg",
-        "match": "AaB v Esbjerg",
-        "prediction": "Draw 0-0",
-        "predictionSide": "draw",
-        "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
-        },
-        "homeForm": [
-          "L",
-          "L",
-          "D",
-          "D",
-          "D"
-        ],
-        "awayForm": [
-          "D",
-          "W",
-          "D",
-          "W",
-          "L"
-        ],
-        "url": "https://www.predictz.com/predictions/denmark/1st-division/1193879/"
-      },
-      {
-        "id": "1206655",
-        "day": "tomorrow",
-        "date": "2026-11-27",
-        "league": "Russia FNL",
-        "homeTeam": "Ural Yekaterinburg",
-        "awayTeam": "Arsenal Tula",
-        "match": "Ural Yekaterinburg v Arsenal Tula",
-        "prediction": "Home 2-0",
-        "predictionSide": "home",
-        "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
-        },
-        "homeForm": [
-          "L",
-          "W",
-          "W",
-          "W",
-          "W"
-        ],
-        "awayForm": [
-          "L",
-          "W",
-          "L",
-          "L",
-          "D"
-        ],
-        "url": "https://www.predictz.com/predictions/russia/fnl/1206655/"
-      },
-      {
-        "id": "1206660",
-        "day": "tomorrow",
-        "date": "2026-11-27",
-        "league": "Russia FNL",
-        "homeTeam": "Olimpyets",
-        "awayTeam": "Tekstilshchik Ivanovo",
-        "match": "Olimpyets v Tekstilshchik Ivanovo",
-        "prediction": "Home 3-0",
-        "predictionSide": "home",
-        "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
-        },
-        "homeForm": [
-          "W",
-          "W",
-          "W",
-          "W",
-          "W"
-        ],
-        "awayForm": [
-          "L",
-          "W",
-          "L",
-          "D",
-          "L"
-        ],
-        "url": "https://www.predictz.com/predictions/russia/fnl/1206660/"
-      },
-      {
-        "id": "1226023",
-        "day": "tomorrow",
-        "date": "2026-11-27",
-        "league": "Chile Primera B Playoffs",
-        "homeTeam": "Santiago Wanderers",
-        "awayTeam": "Deportes Recoleta",
-        "match": "Santiago Wanderers v Deportes Recoleta",
-        "prediction": "Home 2-1",
-        "predictionSide": "home",
-        "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
-        },
-        "homeForm": [
-          "L",
-          "W",
-          "W",
-          "D",
-          "L"
-        ],
-        "awayForm": [
-          "L",
-          "L",
-          "D",
-          "D",
-          "W"
-        ],
-        "url": "https://www.predictz.com/predictions/chile/primera-b-playofs/1226023/"
-      },
-      {
-        "id": "1225531",
-        "day": "tomorrow",
-        "date": "2026-11-27",
-        "league": "Argentina Liga Profesional Playoffs",
-        "homeTeam": "Boca Juniors",
-        "awayTeam": "Independiente Rivadavia",
-        "match": "Boca Juniors v Independiente Rivadavia",
-        "prediction": "Home 3-0",
-        "predictionSide": "home",
-        "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
-        },
-        "homeForm": [
-          "D",
-          "W",
-          "W",
-          "W",
-          "W"
-        ],
-        "awayForm": [
-          "L",
-          "D",
-          "L",
-          "W",
-          "D"
-        ],
-        "url": "https://www.predictz.com/predictions/argentina/liga-profesional-playoffs/1225531/"
-      },
-      {
-        "id": "1170952",
-        "day": "tomorrow",
-        "date": "2026-11-27",
-        "league": "Brazil Serie A",
-        "homeTeam": "Sao Paulo",
-        "awayTeam": "Remo",
-        "match": "Sao Paulo v Remo",
-        "prediction": "Home 2-0",
-        "predictionSide": "home",
-        "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
-        },
-        "homeForm": [
-          "D",
-          "L",
-          "D",
-          "L",
-          "D"
-        ],
-        "awayForm": [
-          "L",
-          "W",
-          "L",
-          "W",
-          "L"
-        ],
-        "url": "https://www.predictz.com/predictions/brazil/serie-a/1170952/"
-      },
-      {
-        "id": "1226006",
-        "day": "tomorrow",
-        "date": "2026-11-27",
-        "league": "Colombia Categoria Primera A",
-        "homeTeam": "Atletico Nacional",
-        "awayTeam": "Medellin",
-        "match": "Atletico Nacional v Medellin",
-        "prediction": "Draw 2-2",
-        "predictionSide": "draw",
-        "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
-        },
-        "homeForm": [
-          "W",
-          "W",
-          "D",
-          "W",
-          "D"
-        ],
-        "awayForm": [
-          "L",
-          "L",
-          "W",
-          "W",
-          "W"
-        ],
-        "url": "https://www.predictz.com/predictions/colombia/categoria-primera-a/1226006/"
-      },
-      {
-        "id": "1226448",
-        "day": "tomorrow",
-        "date": "2026-11-27",
-        "league": "Mexico Liga MX",
-        "homeTeam": "Toluca",
-        "awayTeam": "Atlas",
-        "match": "Toluca v Atlas",
-        "prediction": "Draw 2-2",
-        "predictionSide": "draw",
-        "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
-        },
-        "homeForm": [
-          "D",
-          "D",
-          "D",
-          "W",
-          "L"
-        ],
-        "awayForm": [
-          "L",
-          "W",
-          "W",
-          "L",
-          "D"
-        ],
-        "url": "https://www.predictz.com/predictions/mexico/la-division-finals/1226448/"
-      },
-      {
-        "id": "1226449",
-        "day": "tomorrow",
-        "date": "2026-11-27",
-        "league": "Mexico Liga MX",
-        "homeTeam": "Monterrey",
-        "awayTeam": "CF America",
-        "match": "Monterrey v CF America",
-        "prediction": "Draw 2-2",
         "predictionSide": "draw",
         "odds": {
           "home": "120",
-          "draw": "240",
-          "away": "220"
+          "draw": "270",
+          "away": "180"
         },
         "homeForm": [
           "L",
-          "D",
-          "L",
-          "W",
-          "W"
-        ],
-        "awayForm": [
           "L",
           "D",
-          "D",
-          "D",
-          "L"
-        ],
-        "url": "https://www.predictz.com/predictions/mexico/la-division-finals/1226449/"
-      },
-      {
-        "id": "1226213",
-        "day": "tomorrow",
-        "date": "2026-11-27",
-        "league": "Nicaragua Liga Primera",
-        "homeTeam": "Managua",
-        "awayTeam": "Walter Ferretti",
-        "match": "Managua v Walter Ferretti",
-        "prediction": "Home 3-2",
-        "predictionSide": "home",
-        "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
-        },
-        "homeForm": [
-          "W",
-          "L",
-          "W",
-          "W",
-          "W"
-        ],
-        "awayForm": [
-          "W",
-          "W",
-          "D",
-          "L",
-          "D"
-        ],
-        "url": "https://www.predictz.com/predictions/nicaragua/liga-primera/1226213/"
-      },
-      {
-        "id": "1226215",
-        "day": "tomorrow",
-        "date": "2026-11-27",
-        "league": "Nicaragua Liga Primera",
-        "homeTeam": "Real Esteli",
-        "awayTeam": "Rancho Santana FC",
-        "match": "Real Esteli v Rancho Santana FC",
-        "prediction": "Home 2-0",
-        "predictionSide": "home",
-        "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
-        },
-        "homeForm": [
-          "L",
-          "W",
-          "W",
-          "W",
-          "W"
-        ],
-        "awayForm": [
-          "L",
-          "L",
-          "D",
-          "W",
-          "W"
-        ],
-        "url": "https://www.predictz.com/predictions/nicaragua/liga-primera/1226215/"
-      },
-      {
-        "id": "1226216",
-        "day": "tomorrow",
-        "date": "2026-11-27",
-        "league": "Nicaragua Liga Primera",
-        "homeTeam": "Municipal Jalapa",
-        "awayTeam": "San Marcos",
-        "match": "Municipal Jalapa v San Marcos",
-        "prediction": "Draw 0-0",
-        "predictionSide": "draw",
-        "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
-        },
-        "homeForm": [
-          "W",
-          "W",
-          "W",
-          "L",
-          "L"
-        ],
-        "awayForm": [
-          "W",
-          "D",
-          "W",
-          "L",
-          "L"
-        ],
-        "url": "https://www.predictz.com/predictions/nicaragua/liga-primera/1226216/"
-      },
-      {
-        "id": "1219323",
-        "day": "tomorrow",
-        "date": "2026-11-27",
-        "league": "Indonesia Liga 1",
-        "homeTeam": "Borneo Samarinda",
-        "awayTeam": "Persita Tangerang",
-        "match": "Borneo Samarinda v Persita Tangerang",
-        "prediction": "Away 0-3",
-        "predictionSide": "away",
-        "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
-        },
-        "homeForm": [
-          "L",
-          "W",
-          "L",
-          "D",
-          "D"
-        ],
-        "awayForm": [
-          "W",
-          "D",
-          "W",
-          "L",
-          "W"
-        ],
-        "url": "https://www.predictz.com/predictions/indonesia/liga-1/1219323/"
-      },
-      {
-        "id": "1225358",
-        "day": "tomorrow",
-        "date": "2026-11-27",
-        "league": "Iran Pro League",
-        "homeTeam": "Chador Malu Yazd",
-        "awayTeam": "Mes Shahr-e Babak",
-        "match": "Chador Malu Yazd v Mes Shahr-e Babak",
-        "prediction": "Home 2-0",
-        "predictionSide": "home",
-        "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
-        },
-        "homeForm": [
-          "W",
-          "D",
-          "W",
-          "D",
-          "D"
-        ],
-        "awayForm": [
-          "L",
-          "L",
-          "L",
-          "L",
-          "L"
-        ],
-        "url": "https://www.predictz.com/predictions/iran/pro-league/1225358/"
-      },
-      {
-        "id": "1224096",
-        "day": "tomorrow",
-        "date": "2026-11-27",
-        "league": "Jordan Pro League",
-        "homeTeam": "Al Baqaa",
-        "awayTeam": "Al Jazeera Jordan",
-        "match": "Al Baqaa v Al Jazeera Jordan",
-        "prediction": "Away 0-3",
-        "predictionSide": "away",
-        "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
-        },
-        "homeForm": [
-          "W",
-          "D",
-          "W",
           "L",
           "L"
         ],
@@ -1612,112 +105,19 @@
           "L",
           "W",
           "D",
-          "D",
+          "W",
           "L"
         ],
-        "url": "https://www.predictz.com/predictions/jordan/pro-league/1224096/"
+        "url": "https://www.predictz.com/predictions/england/national-league/1209512/"
       },
       {
-        "id": "1214285",
+        "id": "1205924",
         "day": "tomorrow",
         "date": "2026-11-27",
-        "league": "Saudi Arabia Professional League",
-        "homeTeam": "Al Fateh",
-        "awayTeam": "Al Riyadh",
-        "match": "Al Fateh v Al Riyadh",
-        "prediction": "Away 0-1",
-        "predictionSide": "away",
-        "odds": {
-          "home": "115",
-          "draw": "240",
-          "away": "187"
-        },
-        "homeForm": [
-          "L",
-          "W",
-          "L",
-          "L",
-          "L"
-        ],
-        "awayForm": [
-          "W",
-          "D",
-          "L",
-          "W",
-          "L"
-        ],
-        "url": "https://www.predictz.com/predictions/saudi-arabia/professional-league/1214285/"
-      },
-      {
-        "id": "1214289",
-        "day": "tomorrow",
-        "date": "2026-11-27",
-        "league": "Saudi Arabia Professional League",
-        "homeTeam": "Abha Club",
-        "awayTeam": "Al Shabab Riyadh",
-        "match": "Abha Club v Al Shabab Riyadh",
-        "prediction": "Away 0-2",
-        "predictionSide": "away",
-        "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
-        },
-        "homeForm": [
-          "D",
-          "L",
-          "L",
-          "L",
-          "D"
-        ],
-        "awayForm": [
-          "D",
-          "W",
-          "D",
-          "W",
-          "W"
-        ],
-        "url": "https://www.predictz.com/predictions/saudi-arabia/professional-league/1214289/"
-      },
-      {
-        "id": "1214287",
-        "day": "tomorrow",
-        "date": "2026-11-27",
-        "league": "Saudi Arabia Professional League",
-        "homeTeam": "Al Faisaly",
-        "awayTeam": "Diriyah Club",
-        "match": "Al Faisaly v Diriyah Club",
-        "prediction": "Draw 0-0",
-        "predictionSide": "draw",
-        "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
-        },
-        "homeForm": [
-          "W",
-          "D",
-          "L",
-          "W",
-          "L"
-        ],
-        "awayForm": [
-          "L",
-          "D",
-          "W",
-          "L",
-          "L"
-        ],
-        "url": "https://www.predictz.com/predictions/saudi-arabia/professional-league/1214287/"
-      },
-      {
-        "id": "1223817",
-        "day": "tomorrow",
-        "date": "2026-11-27",
-        "league": "Algeria Ligue 1",
-        "homeTeam": "Belouizdad",
-        "awayTeam": "Kabylie",
-        "match": "Belouizdad v Kabylie",
+        "league": "Wales Cymru Premier",
+        "homeTeam": "Briton Ferry",
+        "awayTeam": "Penybont",
+        "match": "Briton Ferry v Penybont",
         "prediction": "Draw 2-2",
         "predictionSide": "draw",
         "odds": {
@@ -1726,288 +126,9 @@
           "away": null
         },
         "homeForm": [
-          "W",
-          "D",
-          "W",
-          "W",
-          "L"
-        ],
-        "awayForm": [
-          "W",
-          "W",
-          "D",
-          "W",
-          "D"
-        ],
-        "url": "https://www.predictz.com/predictions/algeria/ligue-1/1223817/"
-      },
-      {
-        "id": "1223819",
-        "day": "tomorrow",
-        "date": "2026-11-27",
-        "league": "Algeria Ligue 1",
-        "homeTeam": "Ben Aknoun",
-        "awayTeam": "MC Alger",
-        "match": "Ben Aknoun v MC Alger",
-        "prediction": "Away 0-1",
-        "predictionSide": "away",
-        "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
-        },
-        "homeForm": [
-          "D",
-          "D",
           "L",
           "L",
-          "L"
-        ],
-        "awayForm": [
           "W",
-          "W",
-          "L",
-          "L",
-          "D"
-        ],
-        "url": "https://www.predictz.com/predictions/algeria/ligue-1/1223819/"
-      },
-      {
-        "id": "1223818",
-        "day": "tomorrow",
-        "date": "2026-11-27",
-        "league": "Algeria Ligue 1",
-        "homeTeam": "CS Constantine",
-        "awayTeam": "MC Oran",
-        "match": "CS Constantine v MC Oran",
-        "prediction": "Away 0-2",
-        "predictionSide": "away",
-        "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
-        },
-        "homeForm": [
-          "L",
-          "L",
-          "L",
-          "L",
-          "W"
-        ],
-        "awayForm": [
-          "W",
-          "D",
-          "D",
-          "L",
-          "W"
-        ],
-        "url": "https://www.predictz.com/predictions/algeria/ligue-1/1223818/"
-      },
-      {
-        "id": "1223822",
-        "day": "tomorrow",
-        "date": "2026-11-27",
-        "league": "Algeria Ligue 1",
-        "homeTeam": "JS El Biar",
-        "awayTeam": "Biskra",
-        "match": "JS El Biar v Biskra",
-        "prediction": "Home 3-0",
-        "predictionSide": "home",
-        "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
-        },
-        "homeForm": [
-          "W",
-          "D",
-          "L",
-          "W",
-          "D"
-        ],
-        "awayForm": [
-          "L",
-          "L",
-          "D",
-          "D",
-          "D"
-        ],
-        "url": "https://www.predictz.com/predictions/algeria/ligue-1/1223822/"
-      },
-      {
-        "id": "1223820",
-        "day": "tomorrow",
-        "date": "2026-11-27",
-        "league": "Algeria Ligue 1",
-        "homeTeam": "JS Saoura",
-        "awayTeam": "CR Temouchent",
-        "match": "JS Saoura v CR Temouchent",
-        "prediction": "Away 0-2",
-        "predictionSide": "away",
-        "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
-        },
-        "homeForm": [
-          "D",
-          "L",
-          "W",
-          "D",
-          "L"
-        ],
-        "awayForm": [
-          "D",
-          "W",
-          "D",
-          "D",
-          "D"
-        ],
-        "url": "https://www.predictz.com/predictions/algeria/ligue-1/1223820/"
-      },
-      {
-        "id": "1223823",
-        "day": "tomorrow",
-        "date": "2026-11-27",
-        "league": "Algeria Ligue 1",
-        "homeTeam": "Khenchela",
-        "awayTeam": "MB Rouissat",
-        "match": "Khenchela v MB Rouissat",
-        "prediction": "Away 0-1",
-        "predictionSide": "away",
-        "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
-        },
-        "homeForm": [
-          "L",
-          "L",
-          "D",
-          "D",
-          "L"
-        ],
-        "awayForm": [
-          "W",
-          "D",
-          "D",
-          "D",
-          "W"
-        ],
-        "url": "https://www.predictz.com/predictions/algeria/ligue-1/1223823/"
-      },
-      {
-        "id": "1223821",
-        "day": "tomorrow",
-        "date": "2026-11-27",
-        "league": "Algeria Ligue 1",
-        "homeTeam": "Olympique Akbou",
-        "awayTeam": "ES Setif",
-        "match": "Olympique Akbou v ES Setif",
-        "prediction": "Draw 2-2",
-        "predictionSide": "draw",
-        "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
-        },
-        "homeForm": [
-          "W",
-          "W",
-          "D",
-          "D",
-          "W"
-        ],
-        "awayForm": [
-          "D",
-          "L",
-          "W",
-          "D",
-          "D"
-        ],
-        "url": "https://www.predictz.com/predictions/algeria/ligue-1/1223821/"
-      },
-      {
-        "id": "1223824",
-        "day": "tomorrow",
-        "date": "2026-11-27",
-        "league": "Algeria Ligue 1",
-        "homeTeam": "USM Alger",
-        "awayTeam": "Chlef",
-        "match": "USM Alger v Chlef",
-        "prediction": "Home 3-0",
-        "predictionSide": "home",
-        "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
-        },
-        "homeForm": [
-          "W",
-          "D",
-          "W",
-          "L",
-          "W"
-        ],
-        "awayForm": [
-          "D",
-          "D",
-          "L",
-          "D",
-          "W"
-        ],
-        "url": "https://www.predictz.com/predictions/algeria/ligue-1/1223824/"
-      },
-      {
-        "id": "1220103",
-        "day": "tomorrow",
-        "date": "2026-11-27",
-        "league": "Kenya Premier League",
-        "homeTeam": "Mara Sugar",
-        "awayTeam": "Kenya Police",
-        "match": "Mara Sugar v Kenya Police",
-        "prediction": "Away 1-2",
-        "predictionSide": "away",
-        "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
-        },
-        "homeForm": [
-          "D",
-          "D",
-          "L",
-          "W",
-          "W"
-        ],
-        "awayForm": [
-          "W",
-          "W",
-          "D",
-          "W",
-          "L"
-        ],
-        "url": "https://www.predictz.com/predictions/kenya/premier-league/1220103/"
-      },
-      {
-        "id": "1220102",
-        "day": "tomorrow",
-        "date": "2026-11-27",
-        "league": "Kenya Premier League",
-        "homeTeam": "Muranga Seal",
-        "awayTeam": "Kenya Commercial Bank",
-        "match": "Muranga Seal v Kenya Commercial Bank",
-        "prediction": "Draw 2-2",
-        "predictionSide": "draw",
-        "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
-        },
-        "homeForm": [
-          "W",
-          "D",
-          "D",
           "L",
           "W"
         ],
@@ -2015,112 +136,19 @@
           "W",
           "W",
           "W",
-          "D",
-          "W"
-        ],
-        "url": "https://www.predictz.com/predictions/kenya/premier-league/1220102/"
-      },
-      {
-        "id": "1220096",
-        "day": "tomorrow",
-        "date": "2026-11-27",
-        "league": "Kenya Premier League",
-        "homeTeam": "Gor Mahia",
-        "awayTeam": "Mombasa United",
-        "match": "Gor Mahia v Mombasa United",
-        "prediction": "Home 2-0",
-        "predictionSide": "home",
-        "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
-        },
-        "homeForm": [
-          "W",
-          "L",
-          "D",
-          "W",
-          "D"
-        ],
-        "awayForm": [
-          "L",
-          "L",
-          "L",
-          "L",
-          "D"
-        ],
-        "url": "https://www.predictz.com/predictions/kenya/premier-league/1220096/"
-      },
-      {
-        "id": "1214765",
-        "day": "tomorrow",
-        "date": "2026-11-27",
-        "league": "Tanzania Premier League",
-        "homeTeam": "Geita Gold",
-        "awayTeam": "Coastal Union",
-        "match": "Geita Gold v Coastal Union",
-        "prediction": "Away 0-2",
-        "predictionSide": "away",
-        "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
-        },
-        "homeForm": [
-          "L",
-          "D",
-          "D",
-          "L",
-          "W"
-        ],
-        "awayForm": [
-          "W",
-          "L",
-          "W",
-          "D",
-          "L"
-        ],
-        "url": "https://www.predictz.com/predictions/tanzania/premier-league/1214765/"
-      },
-      {
-        "id": "1221301",
-        "day": "tomorrow",
-        "date": "2026-11-27",
-        "league": "Uganda Premier League",
-        "homeTeam": "Kampala City Council",
-        "awayTeam": "BUL",
-        "match": "Kampala City Council v BUL",
-        "prediction": "Home 3-0",
-        "predictionSide": "home",
-        "odds": {
-          "home": null,
-          "draw": null,
-          "away": null
-        },
-        "homeForm": [
-          "W",
-          "W",
-          "W",
-          "W",
-          "D"
-        ],
-        "awayForm": [
-          "W",
-          "W",
-          "D",
           "W",
           "W"
         ],
-        "url": "https://www.predictz.com/predictions/uganda/premier-league/1221301/"
+        "url": "https://www.predictz.com/predictions/wales/cymru-premier/1205924/"
       },
       {
-        "id": "1221303",
+        "id": "1205921",
         "day": "tomorrow",
         "date": "2026-11-27",
-        "league": "Uganda Premier League",
-        "homeTeam": "Uganda Revenue Authority",
-        "awayTeam": "Kigezi Homeboyz",
-        "match": "Uganda Revenue Authority v Kigezi Homeboyz",
+        "league": "Wales Cymru Premier",
+        "homeTeam": "Cambrian United",
+        "awayTeam": "Trefelin BGC",
+        "match": "Cambrian United v Trefelin BGC",
         "prediction": "Home 1-0",
         "predictionSide": "home",
         "odds": {
@@ -2130,28 +158,28 @@
         },
         "homeForm": [
           "L",
-          "W",
-          "W",
-          "W",
+          "L",
+          "L",
+          "D",
           "W"
         ],
         "awayForm": [
-          "L",
-          "L",
           "W",
           "L",
-          "W"
+          "L",
+          "L",
+          "L"
         ],
-        "url": "https://www.predictz.com/predictions/uganda/premier-league/1221303/"
+        "url": "https://www.predictz.com/predictions/wales/cymru-premier/1205921/"
       },
       {
-        "id": "1220991",
+        "id": "1205925",
         "day": "tomorrow",
         "date": "2026-11-27",
-        "league": "Zambia Super League",
-        "homeTeam": "Chirundu United",
-        "awayTeam": "Zesco United",
-        "match": "Chirundu United v Zesco United",
+        "league": "Wales Cymru Premier",
+        "homeTeam": "Cardiff Metropolitan University",
+        "awayTeam": "Airbus UK",
+        "match": "Cardiff Metropolitan University v Airbus UK",
         "prediction": "Draw 2-2",
         "predictionSide": "draw",
         "odds": {
@@ -2160,29 +188,91 @@
           "away": null
         },
         "homeForm": [
-          "W",
-          "W",
+          "L",
           "D",
           "L",
+          "W",
           "W"
         ],
         "awayForm": [
           "W",
           "W",
-          "D",
-          "D",
-          "W"
+          "W",
+          "W",
+          "L"
         ],
-        "url": "https://www.predictz.com/predictions/zambia/super-league/1220991/"
+        "url": "https://www.predictz.com/predictions/wales/cymru-premier/1205925/"
       },
       {
-        "id": "1220992",
+        "id": "1205922",
         "day": "tomorrow",
         "date": "2026-11-27",
-        "league": "Zambia Super League",
-        "homeTeam": "Makeni All Stars",
-        "awayTeam": "Power Dynamos",
-        "match": "Makeni All Stars v Power Dynamos",
+        "league": "Wales Cymru Premier",
+        "homeTeam": "Colwyn Bay",
+        "awayTeam": "Ammanford",
+        "match": "Colwyn Bay v Ammanford",
+        "prediction": "Home 2-0",
+        "predictionSide": "home",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [
+          "W",
+          "D",
+          "W",
+          "W",
+          "W"
+        ],
+        "awayForm": [
+          "W",
+          "L",
+          "L",
+          "W",
+          "L"
+        ],
+        "url": "https://www.predictz.com/predictions/wales/cymru-premier/1205922/"
+      },
+      {
+        "id": "1205920",
+        "day": "tomorrow",
+        "date": "2026-11-27",
+        "league": "Wales Cymru Premier",
+        "homeTeam": "Flint Town",
+        "awayTeam": "The New Saints",
+        "match": "Flint Town v The New Saints",
+        "prediction": "Draw 2-2",
+        "predictionSide": "draw",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [
+          "L",
+          "W",
+          "W",
+          "L",
+          "L"
+        ],
+        "awayForm": [
+          "W",
+          "W",
+          "D",
+          "W",
+          "W"
+        ],
+        "url": "https://www.predictz.com/predictions/wales/cymru-premier/1205920/"
+      },
+      {
+        "id": "1205918",
+        "day": "tomorrow",
+        "date": "2026-11-27",
+        "league": "Wales Cymru Premier",
+        "homeTeam": "Haverfordwest",
+        "awayTeam": "Connahs Quay",
+        "match": "Haverfordwest v Connahs Quay",
         "prediction": "Away 0-1",
         "predictionSide": "away",
         "odds": {
@@ -2192,28 +282,1919 @@
         },
         "homeForm": [
           "L",
-          "L",
-          "L",
+          "W",
+          "W",
           "L",
           "L"
         ],
         "awayForm": [
           "W",
           "W",
+          "D",
+          "W",
+          "L"
+        ],
+        "url": "https://www.predictz.com/predictions/wales/cymru-premier/1205918/"
+      },
+      {
+        "id": "1199749",
+        "day": "tomorrow",
+        "date": "2026-11-27",
+        "league": "Northern Ireland Premier League",
+        "homeTeam": "Coleraine",
+        "awayTeam": "Dungannon Swifts",
+        "match": "Coleraine v Dungannon Swifts",
+        "prediction": "Home 2-0",
+        "predictionSide": "home",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [
+          "W",
+          "D",
+          "L",
+          "W",
+          "W"
+        ],
+        "awayForm": [
+          "L",
+          "D",
+          "W",
+          "L",
+          "W"
+        ],
+        "url": "https://www.predictz.com/predictions/northern-ireland/premier-league/1199749/"
+      },
+      {
+        "id": "1199746",
+        "day": "tomorrow",
+        "date": "2026-11-27",
+        "league": "Northern Ireland Premier League",
+        "homeTeam": "Glentoran",
+        "awayTeam": "Larne",
+        "match": "Glentoran v Larne",
+        "prediction": "Draw 2-2",
+        "predictionSide": "draw",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [
+          "W",
+          "D",
+          "D",
+          "W",
+          "L"
+        ],
+        "awayForm": [
+          "D",
+          "W",
+          "L",
+          "W",
+          "W"
+        ],
+        "url": "https://www.predictz.com/predictions/northern-ireland/premier-league/1199746/"
+      },
+      {
+        "id": "1202678",
+        "day": "tomorrow",
+        "date": "2026-11-27",
+        "league": "Spain La Liga",
+        "homeTeam": "Levante",
+        "awayTeam": "Racing Santander",
+        "match": "Levante v Racing Santander",
+        "prediction": "Home 1-0",
+        "predictionSide": "home",
+        "odds": {
+          "home": "105",
+          "draw": "275",
+          "away": "230"
+        },
+        "homeForm": [
+          "W",
+          "L",
+          "L",
+          "D",
+          "D"
+        ],
+        "awayForm": [
+          "L",
+          "W",
+          "L",
+          "W",
+          "W"
+        ],
+        "url": "https://www.predictz.com/predictions/spain/la-liga/1202678/"
+      },
+      {
+        "id": "1203549",
+        "day": "tomorrow",
+        "date": "2026-11-27",
+        "league": "Spain Segunda Division",
+        "homeTeam": "Leganes",
+        "awayTeam": "Sabadell",
+        "match": "Leganes v Sabadell",
+        "prediction": "Draw 0-0",
+        "predictionSide": "draw",
+        "odds": {
+          "home": "125",
+          "draw": "210",
+          "away": "225"
+        },
+        "homeForm": [
+          "D",
+          "L",
+          "L",
+          "W",
+          "W"
+        ],
+        "awayForm": [
+          "D",
+          "L",
+          "D",
+          "L",
+          "D"
+        ],
+        "url": "https://www.predictz.com/predictions/spain/segunda-division/1203549/"
+      },
+      {
+        "id": "1204946",
+        "day": "tomorrow",
+        "date": "2026-11-27",
+        "league": "Germany Bundesliga",
+        "homeTeam": "Werder Bremen",
+        "awayTeam": "Borussia Monchengladbach",
+        "match": "Werder Bremen v Borussia Monchengladbach",
+        "prediction": "Home 2-0",
+        "predictionSide": "home",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [
+          "D",
+          "W",
+          "W",
+          "L",
+          "W"
+        ],
+        "awayForm": [
+          "L",
+          "W",
+          "D",
+          "L",
+          "L"
+        ],
+        "url": "https://www.predictz.com/predictions/germany/bundesliga/1204946/"
+      },
+      {
+        "id": "1205278",
+        "day": "tomorrow",
+        "date": "2026-11-27",
+        "league": "Germany 2. Bundesliga",
+        "homeTeam": "FC Heidenheim",
+        "awayTeam": "Nurnberg",
+        "match": "FC Heidenheim v Nurnberg",
+        "prediction": "Away 0-3",
+        "predictionSide": "away",
+        "odds": {
+          "home": "110",
+          "draw": "300",
+          "away": "180"
+        },
+        "homeForm": [
+          "L",
+          "D",
+          "L",
+          "D",
+          "L"
+        ],
+        "awayForm": [
+          "D",
+          "L",
+          "W",
+          "W",
+          "L"
+        ],
+        "url": "https://www.predictz.com/predictions/germany/2-bundesliga/1205278/"
+      },
+      {
+        "id": "1205271",
+        "day": "tomorrow",
+        "date": "2026-11-27",
+        "league": "Germany 2. Bundesliga",
+        "homeTeam": "VfL Bochum",
+        "awayTeam": "Darmstadt",
+        "match": "VfL Bochum v Darmstadt",
+        "prediction": "Home 1-0",
+        "predictionSide": "home",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [
+          "L",
+          "D",
+          "W",
+          "W",
+          "L"
+        ],
+        "awayForm": [
+          "L",
+          "D",
+          "D",
+          "L",
+          "W"
+        ],
+        "url": "https://www.predictz.com/predictions/germany/2-bundesliga/1205271/"
+      },
+      {
+        "id": "1207121",
+        "day": "tomorrow",
+        "date": "2026-11-27",
+        "league": "Germany 3. Liga",
+        "homeTeam": "Hansa Rostock",
+        "awayTeam": "Havelse",
+        "match": "Hansa Rostock v Havelse",
+        "prediction": "Home 1-0",
+        "predictionSide": "home",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [
+          "L",
+          "D",
+          "L",
+          "W",
+          "L"
+        ],
+        "awayForm": [
+          "D",
+          "W",
+          "D",
+          "L",
+          "L"
+        ],
+        "url": "https://www.predictz.com/predictions/germany/3-liga/1207121/"
+      },
+      {
+        "id": "1207820",
+        "day": "tomorrow",
+        "date": "2026-11-27",
+        "league": "Germany Regionalliga Northeast",
+        "homeTeam": "Babelsberg",
+        "awayTeam": "Chemie Leipzig",
+        "match": "Babelsberg v Chemie Leipzig",
+        "prediction": "Away 0-1",
+        "predictionSide": "away",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [
+          "L",
+          "W",
+          "L",
+          "L",
+          "L"
+        ],
+        "awayForm": [
+          "D",
+          "W",
+          "D",
+          "L",
+          "L"
+        ],
+        "url": "https://www.predictz.com/predictions/germany/regionalliga-northeast/1207820/"
+      },
+      {
+        "id": "1207824",
+        "day": "tomorrow",
+        "date": "2026-11-27",
+        "league": "Germany Regionalliga Northeast",
+        "homeTeam": "BFC Dynamo",
+        "awayTeam": "RW Erfurt",
+        "match": "BFC Dynamo v RW Erfurt",
+        "prediction": "Draw 2-2",
+        "predictionSide": "draw",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [
+          "D",
+          "D",
+          "W",
+          "W",
+          "L"
+        ],
+        "awayForm": [
+          "D",
+          "W",
+          "W",
+          "W",
+          "W"
+        ],
+        "url": "https://www.predictz.com/predictions/germany/regionalliga-northeast/1207824/"
+      },
+      {
+        "id": "1209130",
+        "day": "tomorrow",
+        "date": "2026-11-27",
+        "league": "Germany Regionalliga Bayern",
+        "homeTeam": "1860 Munich",
+        "awayTeam": "Schweinfurt",
+        "match": "1860 Munich v Schweinfurt",
+        "prediction": "Home 3-0",
+        "predictionSide": "home",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [
+          "L",
+          "W",
+          "W",
+          "W",
+          "D"
+        ],
+        "awayForm": [
+          "W",
+          "L",
+          "W",
+          "D",
+          "W"
+        ],
+        "url": "https://www.predictz.com/predictions/germany/regionalliga-bayern/1209130/"
+      },
+      {
+        "id": "1209125",
+        "day": "tomorrow",
+        "date": "2026-11-27",
+        "league": "Germany Regionalliga Bayern",
+        "homeTeam": "SpVgg Bayreuth",
+        "awayTeam": "Greuther Furth II",
+        "match": "SpVgg Bayreuth v Greuther Furth II",
+        "prediction": "Home 3-0",
+        "predictionSide": "home",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [
+          "W",
+          "W",
+          "L",
+          "W",
+          "L"
+        ],
+        "awayForm": [
+          "D",
+          "L",
+          "L",
+          "D",
+          "L"
+        ],
+        "url": "https://www.predictz.com/predictions/germany/regionalliga-bayern/1209125/"
+      },
+      {
+        "id": "1218213",
+        "day": "tomorrow",
+        "date": "2026-11-27",
+        "league": "Italy Serie C",
+        "homeTeam": "Cavese",
+        "awayTeam": "Scafatese Calcio 1922",
+        "match": "Cavese v Scafatese Calcio 1922",
+        "prediction": "Away 0-3",
+        "predictionSide": "away",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [
+          "L",
+          "L",
+          "D",
+          "W",
+          "L"
+        ],
+        "awayForm": [
+          "L",
+          "D",
+          "W",
+          "L",
+          "W"
+        ],
+        "url": "https://www.predictz.com/predictions/italy/serie-c/1218213/"
+      },
+      {
+        "id": "1215957",
+        "day": "tomorrow",
+        "date": "2026-11-27",
+        "league": "Italy Serie C",
+        "homeTeam": "Foggia",
+        "awayTeam": "Casertana 1908",
+        "match": "Foggia v Casertana 1908",
+        "prediction": "Away 0-3",
+        "predictionSide": "away",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [
+          "W",
+          "D",
+          "L",
+          "L",
+          "L"
+        ],
+        "awayForm": [
+          "D",
+          "L",
+          "W",
+          "L",
+          "D"
+        ],
+        "url": "https://www.predictz.com/predictions/italy/serie-c/1215957/"
+      },
+      {
+        "id": "1191445",
+        "day": "tomorrow",
+        "date": "2026-11-27",
+        "league": "Italy Serie A",
+        "homeTeam": "Venezia",
+        "awayTeam": "Bologna",
+        "match": "Venezia v Bologna",
+        "prediction": "Away 0-2",
+        "predictionSide": "away",
+        "odds": {
+          "home": "240",
+          "draw": "240",
+          "away": "115"
+        },
+        "homeForm": [
+          "L",
+          "L",
+          "L",
+          "W",
+          "L"
+        ],
+        "awayForm": [
+          "W",
+          "W",
+          "W",
+          "W",
+          "D"
+        ],
+        "url": "https://www.predictz.com/predictions/italy/serie-a/1191445/"
+      },
+      {
+        "id": "1192653",
+        "day": "tomorrow",
+        "date": "2026-11-27",
+        "league": "France Ligue 1",
+        "homeTeam": "Brestois",
+        "awayTeam": "Paris",
+        "match": "Brestois v Paris",
+        "prediction": "Draw 1-1",
+        "predictionSide": "draw",
+        "odds": {
+          "home": "240",
+          "draw": "240",
+          "away": "115"
+        },
+        "homeForm": [
+          "D",
+          "L",
+          "W",
+          "W",
+          "W"
+        ],
+        "awayForm": [
+          "W",
+          "L",
+          "W",
+          "W",
+          "W"
+        ],
+        "url": "https://www.predictz.com/predictions/france/ligue-1/1192653/"
+      },
+      {
+        "id": "1191977",
+        "day": "tomorrow",
+        "date": "2026-11-27",
+        "league": "Netherlands Eredivisie",
+        "homeTeam": "FC Groningen",
+        "awayTeam": "Willem II",
+        "match": "FC Groningen v Willem II",
+        "prediction": "Home 3-0",
+        "predictionSide": "home",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [
+          "L",
+          "D",
+          "L",
+          "L",
+          "L"
+        ],
+        "awayForm": [
+          "L",
+          "L",
+          "L",
+          "D",
+          "L"
+        ],
+        "url": "https://www.predictz.com/predictions/netherlands/eredivisie/1191977/"
+      },
+      {
+        "id": "1192331",
+        "day": "tomorrow",
+        "date": "2026-11-27",
+        "league": "Netherlands Eerste Divisie",
+        "homeTeam": "AZ II",
+        "awayTeam": "TOP Oss",
+        "match": "AZ II v TOP Oss",
+        "prediction": "Home 3-0",
+        "predictionSide": "home",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [
+          "W",
+          "L",
+          "L",
+          "W",
+          "L"
+        ],
+        "awayForm": [
+          "D",
+          "L",
+          "D",
+          "W",
+          "W"
+        ],
+        "url": "https://www.predictz.com/predictions/netherlands/eerste-divisie/1192331/"
+      },
+      {
+        "id": "1192327",
+        "day": "tomorrow",
+        "date": "2026-11-27",
+        "league": "Netherlands Eerste Divisie",
+        "homeTeam": "FC Dordrecht",
+        "awayTeam": "Vitesse",
+        "match": "FC Dordrecht v Vitesse",
+        "prediction": "Away 0-1",
+        "predictionSide": "away",
+        "odds": {
+          "home": "230",
+          "draw": "250",
+          "away": "105"
+        },
+        "homeForm": [
+          "L",
+          "L",
+          "D",
+          "L",
+          "L"
+        ],
+        "awayForm": [
+          "L",
+          "D",
+          "L",
+          "L",
+          "L"
+        ],
+        "url": "https://www.predictz.com/predictions/netherlands/eerste-divisie/1192327/"
+      },
+      {
+        "id": "1192332",
+        "day": "tomorrow",
+        "date": "2026-11-27",
+        "league": "Netherlands Eerste Divisie",
+        "homeTeam": "FC Utrecht II",
+        "awayTeam": "Almere City",
+        "match": "FC Utrecht II v Almere City",
+        "prediction": "Draw 2-2",
+        "predictionSide": "draw",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [
+          "L",
+          "W",
+          "D",
+          "W",
+          "L"
+        ],
+        "awayForm": [
+          "L",
+          "W",
+          "W",
+          "W",
+          "L"
+        ],
+        "url": "https://www.predictz.com/predictions/netherlands/eerste-divisie/1192332/"
+      },
+      {
+        "id": "1192330",
+        "day": "tomorrow",
+        "date": "2026-11-27",
+        "league": "Netherlands Eerste Divisie",
+        "homeTeam": "Jong Ajax",
+        "awayTeam": "Heracles",
+        "match": "Jong Ajax v Heracles",
+        "prediction": "Away 0-2",
+        "predictionSide": "away",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [
+          "D",
+          "D",
+          "W",
+          "W",
+          "W"
+        ],
+        "awayForm": [
+          "D",
+          "W",
+          "W",
+          "W",
+          "W"
+        ],
+        "url": "https://www.predictz.com/predictions/netherlands/eerste-divisie/1192330/"
+      },
+      {
+        "id": "1192328",
+        "day": "tomorrow",
+        "date": "2026-11-27",
+        "league": "Netherlands Eerste Divisie",
+        "homeTeam": "MVV Maastricht",
+        "awayTeam": "Jong PSV",
+        "match": "MVV Maastricht v Jong PSV",
+        "prediction": "Draw 0-0",
+        "predictionSide": "draw",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [
+          "D",
+          "L",
+          "W",
+          "W",
+          "L"
+        ],
+        "awayForm": [
+          "W",
+          "L",
+          "D",
+          "L",
+          "W"
+        ],
+        "url": "https://www.predictz.com/predictions/netherlands/eerste-divisie/1192328/"
+      },
+      {
+        "id": "1192326",
+        "day": "tomorrow",
+        "date": "2026-11-27",
+        "league": "Netherlands Eerste Divisie",
+        "homeTeam": "NAC",
+        "awayTeam": "FC Den Bosch",
+        "match": "NAC v FC Den Bosch",
+        "prediction": "Home 2-1",
+        "predictionSide": "home",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [
+          "D",
+          "W",
+          "D",
+          "W",
+          "W"
+        ],
+        "awayForm": [
+          "D",
+          "W",
+          "D",
+          "L",
+          "W"
+        ],
+        "url": "https://www.predictz.com/predictions/netherlands/eerste-divisie/1192326/"
+      },
+      {
+        "id": "1192329",
+        "day": "tomorrow",
+        "date": "2026-11-27",
+        "league": "Netherlands Eerste Divisie",
+        "homeTeam": "VVV Venlo",
+        "awayTeam": "RKC Waalwijk",
+        "match": "VVV Venlo v RKC Waalwijk",
+        "prediction": "Home 2-1",
+        "predictionSide": "home",
+        "odds": {
+          "home": "150",
+          "draw": "280",
+          "away": "140"
+        },
+        "homeForm": [
+          "W",
+          "W",
+          "D",
+          "L",
+          "L"
+        ],
+        "awayForm": [
+          "D",
+          "L",
+          "D",
+          "W",
+          "L"
+        ],
+        "url": "https://www.predictz.com/predictions/netherlands/eerste-divisie/1192329/"
+      },
+      {
+        "id": "1212043",
+        "day": "tomorrow",
+        "date": "2026-11-27",
+        "league": "Albania Kategoria Superiore",
+        "homeTeam": "KF Tirana",
+        "awayTeam": "Skenderbeu Korce",
+        "match": "KF Tirana v Skenderbeu Korce",
+        "prediction": "Draw 2-2",
+        "predictionSide": "draw",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [
+          "L",
+          "D",
+          "L",
+          "W",
+          "D"
+        ],
+        "awayForm": [
+          "W",
+          "D",
+          "D",
+          "W",
+          "W"
+        ],
+        "url": "https://www.predictz.com/predictions/albania/kategoria-superiore/1212043/"
+      },
+      {
+        "id": "1212044",
+        "day": "tomorrow",
+        "date": "2026-11-27",
+        "league": "Albania Kategoria Superiore",
+        "homeTeam": "Dinamo Tirana",
+        "awayTeam": "Partizani Tirana",
+        "match": "Dinamo Tirana v Partizani Tirana",
+        "prediction": "Home 1-0",
+        "predictionSide": "home",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [
+          "W",
+          "D",
+          "D",
+          "L",
+          "L"
+        ],
+        "awayForm": [
+          "L",
+          "L",
+          "W",
+          "W",
+          "L"
+        ],
+        "url": "https://www.predictz.com/predictions/albania/kategoria-superiore/1212044/"
+      },
+      {
+        "id": "1201769",
+        "day": "tomorrow",
+        "date": "2026-11-27",
+        "league": "Austria Bundesliga",
+        "homeTeam": "Graz AK",
+        "awayTeam": "CSR Altach",
+        "match": "Graz AK v CSR Altach",
+        "prediction": "Draw 0-0",
+        "predictionSide": "draw",
+        "odds": {
+          "home": "210",
+          "draw": "250",
+          "away": "115"
+        },
+        "homeForm": [
+          "L",
+          "D",
+          "L",
+          "L",
+          "L"
+        ],
+        "awayForm": [
+          "L",
+          "W",
+          "D",
+          "L",
+          "W"
+        ],
+        "url": "https://www.predictz.com/predictions/austria/bundesliga/1201769/"
+      },
+      {
+        "id": "1201870",
+        "day": "tomorrow",
+        "date": "2026-11-27",
+        "league": "Belgium First Division A",
+        "homeTeam": "Oud Heverlee",
+        "awayTeam": "Kortrijk",
+        "match": "Oud Heverlee v Kortrijk",
+        "prediction": "Home 1-0",
+        "predictionSide": "home",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [
+          "D",
+          "D",
+          "W",
+          "W",
+          "L"
+        ],
+        "awayForm": [
+          "L",
+          "D",
+          "L",
+          "L",
+          "L"
+        ],
+        "url": "https://www.predictz.com/predictions/belgium/first-division-a/1201870/"
+      },
+      {
+        "id": "1198582",
+        "day": "tomorrow",
+        "date": "2026-11-27",
+        "league": "Belgium First Division B",
+        "homeTeam": "Jong Genk",
+        "awayTeam": "Anderlecht Futures",
+        "match": "Jong Genk v Anderlecht Futures",
+        "prediction": "Draw 2-2",
+        "predictionSide": "draw",
+        "odds": {
+          "home": "115",
+          "draw": "260",
+          "away": "162"
+        },
+        "homeForm": [
+          "L",
+          "D",
+          "D",
+          "D",
+          "L"
+        ],
+        "awayForm": [
+          "L",
+          "L",
+          "W",
+          "W",
+          "L"
+        ],
+        "url": "https://www.predictz.com/predictions/belgium/first-division-b/1198582/"
+      },
+      {
+        "id": "1198580",
+        "day": "tomorrow",
+        "date": "2026-11-27",
+        "league": "Belgium First Division B",
+        "homeTeam": "Royal Francs Borains",
+        "awayTeam": "Eupen",
+        "match": "Royal Francs Borains v Eupen",
+        "prediction": "Away 0-2",
+        "predictionSide": "away",
+        "odds": {
+          "home": "200",
+          "draw": "240",
+          "away": "105"
+        },
+        "homeForm": [
+          "L",
+          "L",
+          "W",
+          "W",
+          "L"
+        ],
+        "awayForm": [
+          "W",
+          "L",
+          "L",
+          "W",
+          "D"
+        ],
+        "url": "https://www.predictz.com/predictions/belgium/first-division-b/1198580/"
+      },
+      {
+        "id": "1225075",
+        "day": "tomorrow",
+        "date": "2026-11-27",
+        "league": "Bosnia and Herzegovina Premier League",
+        "homeTeam": "Celik Zenica",
+        "awayTeam": "BSK Banja Luka",
+        "match": "Celik Zenica v BSK Banja Luka",
+        "prediction": "Draw 1-1",
+        "predictionSide": "draw",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [
+          "L",
+          "D",
           "L",
           "D",
           "W"
         ],
-        "url": "https://www.predictz.com/predictions/zambia/super-league/1220992/"
+        "awayForm": [
+          "D",
+          "W",
+          "D",
+          "W",
+          "L"
+        ],
+        "url": "https://www.predictz.com/predictions/bosnia-and-herzegovina/premier-league/1225075/"
       },
       {
-        "id": "1220990",
+        "id": "1193262",
         "day": "tomorrow",
         "date": "2026-11-27",
-        "league": "Zambia Super League",
-        "homeTeam": "Mutondo Stars",
-        "awayTeam": "Green Eagles",
-        "match": "Mutondo Stars v Green Eagles",
+        "league": "Bulgaria First League",
+        "homeTeam": "Lokomotiv Sofia",
+        "awayTeam": "Slavia Sofia",
+        "match": "Lokomotiv Sofia v Slavia Sofia",
+        "prediction": "Away 0-2",
+        "predictionSide": "away",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [
+          "D",
+          "D",
+          "L",
+          "L",
+          "L"
+        ],
+        "awayForm": [
+          "L",
+          "D",
+          "D",
+          "D",
+          "D"
+        ],
+        "url": "https://www.predictz.com/predictions/bulgaria/first-league/1193262/"
+      },
+      {
+        "id": "1190827",
+        "day": "tomorrow",
+        "date": "2026-11-27",
+        "league": "Croatia 1.HNL",
+        "homeTeam": "Istra",
+        "awayTeam": "Varazdin",
+        "match": "Istra v Varazdin",
+        "prediction": "Draw 1-1",
+        "predictionSide": "draw",
+        "odds": {
+          "home": "137",
+          "draw": "230",
+          "away": "155"
+        },
+        "homeForm": [
+          "L",
+          "D",
+          "W",
+          "W",
+          "L"
+        ],
+        "awayForm": [
+          "L",
+          "L",
+          "D",
+          "L",
+          "W"
+        ],
+        "url": "https://www.predictz.com/predictions/croatia/1-hnl/1190827/"
+      },
+      {
+        "id": "1213265",
+        "day": "tomorrow",
+        "date": "2026-11-27",
+        "league": "Croatia 2.HNL",
+        "homeTeam": "Dynamo Zagreb II",
+        "awayTeam": "NK Hrvace",
+        "match": "Dynamo Zagreb II v NK Hrvace",
+        "prediction": "Draw 0-0",
+        "predictionSide": "draw",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [
+          "L",
+          "L",
+          "W",
+          "L",
+          "W"
+        ],
+        "awayForm": [
+          "L",
+          "D",
+          "W",
+          "L",
+          "W"
+        ],
+        "url": "https://www.predictz.com/predictions/croatia/2-hnl/1213265/"
+      },
+      {
+        "id": "1213262",
+        "day": "tomorrow",
+        "date": "2026-11-27",
+        "league": "Croatia 2.HNL",
+        "homeTeam": "NK Mladost Zdralovi",
+        "awayTeam": "Bijelo Brdo",
+        "match": "NK Mladost Zdralovi v Bijelo Brdo",
+        "prediction": "Home 2-1",
+        "predictionSide": "home",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [
+          "L",
+          "W",
+          "W",
+          "W",
+          "W"
+        ],
+        "awayForm": [
+          "D",
+          "W",
+          "L",
+          "L",
+          "D"
+        ],
+        "url": "https://www.predictz.com/predictions/croatia/2-hnl/1213262/"
+      },
+      {
+        "id": "1213264",
+        "day": "tomorrow",
+        "date": "2026-11-27",
+        "league": "Croatia 2.HNL",
+        "homeTeam": "Radnik Sesvete",
+        "awayTeam": "Vukovar",
+        "match": "Radnik Sesvete v Vukovar",
+        "prediction": "Home 2-1",
+        "predictionSide": "home",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [
+          "L",
+          "D",
+          "D",
+          "W",
+          "W"
+        ],
+        "awayForm": [
+          "L",
+          "L",
+          "L",
+          "W",
+          "W"
+        ],
+        "url": "https://www.predictz.com/predictions/croatia/2-hnl/1213264/"
+      },
+      {
+        "id": "1214553",
+        "day": "tomorrow",
+        "date": "2026-11-27",
+        "league": "Cyprus First Division",
+        "homeTeam": "AEK Larnaca",
+        "awayTeam": "Apollon Limassol",
+        "match": "AEK Larnaca v Apollon Limassol",
+        "prediction": "Draw 2-2",
+        "predictionSide": "draw",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [
+          "D",
+          "W",
+          "D",
+          "W",
+          "W"
+        ],
+        "awayForm": [
+          "W",
+          "W",
+          "D",
+          "L",
+          "W"
+        ],
+        "url": "https://www.predictz.com/predictions/cyprus/first-division/1214553/"
+      },
+      {
+        "id": "1214554",
+        "day": "tomorrow",
+        "date": "2026-11-27",
+        "league": "Cyprus First Division",
+        "homeTeam": "Limassol",
+        "awayTeam": "Olympiakos Nicosia",
+        "match": "Limassol v Olympiakos Nicosia",
+        "prediction": "Home 1-0",
+        "predictionSide": "home",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [
+          "W",
+          "L",
+          "L",
+          "W",
+          "W"
+        ],
+        "awayForm": [
+          "D",
+          "D",
+          "L",
+          "W",
+          "L"
+        ],
+        "url": "https://www.predictz.com/predictions/cyprus/first-division/1214554/"
+      },
+      {
+        "id": "1214556",
+        "day": "tomorrow",
+        "date": "2026-11-27",
+        "league": "Cyprus First Division",
+        "homeTeam": "ALS Omonia",
+        "awayTeam": "Omonia Aradippou",
+        "match": "ALS Omonia v Omonia Aradippou",
+        "prediction": "Home 1-0",
+        "predictionSide": "home",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [
+          "W",
+          "L",
+          "W",
+          "L",
+          "L"
+        ],
+        "awayForm": [
+          "L",
+          "L",
+          "L",
+          "L",
+          "L"
+        ],
+        "url": "https://www.predictz.com/predictions/cyprus/first-division/1214556/"
+      },
+      {
+        "id": "1208391",
+        "day": "tomorrow",
+        "date": "2026-11-27",
+        "league": "Czech First League",
+        "homeTeam": "SK Artis Brno",
+        "awayTeam": "Slovacko",
+        "match": "SK Artis Brno v Slovacko",
+        "prediction": "Draw 2-2",
+        "predictionSide": "draw",
+        "odds": {
+          "home": "130",
+          "draw": "240",
+          "away": "180"
+        },
+        "homeForm": [
+          "D",
+          "D",
+          "L",
+          "L",
+          "W"
+        ],
+        "awayForm": [
+          "L",
+          "L",
+          "L",
+          "W",
+          "W"
+        ],
+        "url": "https://www.predictz.com/predictions/czech-republic/first-league/1208391/"
+      },
+      {
+        "id": "1198380",
+        "day": "tomorrow",
+        "date": "2026-11-27",
+        "league": "Czech FNL",
+        "homeTeam": "Jihlava",
+        "awayTeam": "Trinec",
+        "match": "Jihlava v Trinec",
+        "prediction": "Home 3-0",
+        "predictionSide": "home",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [
+          "W",
+          "W",
+          "W",
+          "L",
+          "W"
+        ],
+        "awayForm": [
+          "W",
+          "D",
+          "L",
+          "W",
+          "L"
+        ],
+        "url": "https://www.predictz.com/predictions/czech-republic/fnl/1198380/"
+      },
+      {
+        "id": "1198382",
+        "day": "tomorrow",
+        "date": "2026-11-27",
+        "league": "Czech FNL",
+        "homeTeam": "Dukla Praha",
+        "awayTeam": "Taborsko",
+        "match": "Dukla Praha v Taborsko",
+        "prediction": "Home 2-0",
+        "predictionSide": "home",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [
+          "L",
+          "D",
+          "W",
+          "W",
+          "W"
+        ],
+        "awayForm": [
+          "D",
+          "D",
+          "L",
+          "D",
+          "W"
+        ],
+        "url": "https://www.predictz.com/predictions/czech-republic/fnl/1198382/"
+      },
+      {
+        "id": "1198381",
+        "day": "tomorrow",
+        "date": "2026-11-27",
+        "league": "Czech FNL",
+        "homeTeam": "Usti nad Labem",
+        "awayTeam": "SK Hanacka Slavia Kromeriz",
+        "match": "Usti nad Labem v SK Hanacka Slavia Kromeriz",
+        "prediction": "Home 1-0",
+        "predictionSide": "home",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [
+          "D",
+          "L",
+          "L",
+          "D",
+          "L"
+        ],
+        "awayForm": [
+          "L",
+          "W",
+          "W",
+          "L",
+          "L"
+        ],
+        "url": "https://www.predictz.com/predictions/czech-republic/fnl/1198381/"
+      },
+      {
+        "id": "1191273",
+        "day": "tomorrow",
+        "date": "2026-11-27",
+        "league": "Denmark Superliga",
+        "homeTeam": "Sonderjyske",
+        "awayTeam": "Brondby",
+        "match": "Sonderjyske v Brondby",
+        "prediction": "Draw 0-0",
+        "predictionSide": "draw",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [
+          "W",
+          "L",
+          "L",
+          "D",
+          "L"
+        ],
+        "awayForm": [
+          "L",
+          "W",
+          "W",
+          "L",
+          "L"
+        ],
+        "url": "https://www.predictz.com/predictions/denmark/superliga/1191273/"
+      },
+      {
+        "id": "1193884",
+        "day": "tomorrow",
+        "date": "2026-11-27",
+        "league": "Denmark 1st Division",
+        "homeTeam": "AB Gladsaxe",
+        "awayTeam": "Vejle",
+        "match": "AB Gladsaxe v Vejle",
+        "prediction": "Draw 1-1",
+        "predictionSide": "draw",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [
+          "W",
+          "W",
+          "L",
+          "W",
+          "W"
+        ],
+        "awayForm": [
+          "W",
+          "D",
+          "D",
+          "W",
+          "W"
+        ],
+        "url": "https://www.predictz.com/predictions/denmark/1st-division/1193884/"
+      },
+      {
+        "id": "1193880",
+        "day": "tomorrow",
+        "date": "2026-11-27",
+        "league": "Denmark 1st Division",
+        "homeTeam": "Hvidovre",
+        "awayTeam": "Kolding IF",
+        "match": "Hvidovre v Kolding IF",
+        "prediction": "Home 3-0",
+        "predictionSide": "home",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [
+          "W",
+          "D",
+          "D",
+          "W",
+          "D"
+        ],
+        "awayForm": [
+          "W",
+          "L",
+          "W",
+          "L",
+          "D"
+        ],
+        "url": "https://www.predictz.com/predictions/denmark/1st-division/1193880/"
+      },
+      {
+        "id": "1198985",
+        "day": "tomorrow",
+        "date": "2026-11-27",
+        "league": "Hungary NB I",
+        "homeTeam": "Gyori ETO",
+        "awayTeam": "VSC Debrecen",
+        "match": "Gyori ETO v VSC Debrecen",
+        "prediction": "Draw 2-2",
+        "predictionSide": "draw",
+        "odds": {
+          "home": "135",
+          "draw": "260",
+          "away": "145"
+        },
+        "homeForm": [
+          "W",
+          "W",
+          "D",
+          "D",
+          "W"
+        ],
+        "awayForm": [
+          "W",
+          "W",
+          "W",
+          "W",
+          "W"
+        ],
+        "url": "https://www.predictz.com/predictions/hungary/nb-i/1198985/"
+      },
+      {
+        "id": "1198898",
+        "day": "tomorrow",
+        "date": "2026-11-27",
+        "league": "Montenegro Second League",
+        "homeTeam": "Lovcen",
+        "awayTeam": "FK Podgorica",
+        "match": "Lovcen v FK Podgorica",
+        "prediction": "Draw 1-1",
+        "predictionSide": "draw",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [
+          "L",
+          "D",
+          "W",
+          "L",
+          "D"
+        ],
+        "awayForm": [
+          "W",
+          "D",
+          "W",
+          "W",
+          "D"
+        ],
+        "url": "https://www.predictz.com/predictions/montenegro/second-league/1198898/"
+      },
+      {
+        "id": "1204345",
+        "day": "tomorrow",
+        "date": "2026-11-27",
+        "league": "Portugal Primeira Liga",
+        "homeTeam": "Maritimo",
+        "awayTeam": "Nacional",
+        "match": "Maritimo v Nacional",
+        "prediction": "Home 1-0",
+        "predictionSide": "home",
+        "odds": {
+          "home": "105",
+          "draw": "230",
+          "away": "250"
+        },
+        "homeForm": [
+          "L",
+          "D",
+          "L",
+          "L",
+          "L"
+        ],
+        "awayForm": [
+          "L",
+          "L",
+          "W",
+          "L",
+          "W"
+        ],
+        "url": "https://www.predictz.com/predictions/portugal/primeira-liga/1204345/"
+      },
+      {
+        "id": "1204654",
+        "day": "tomorrow",
+        "date": "2026-11-27",
+        "league": "Portugal Liga Portugal 2",
+        "homeTeam": "Feirense",
+        "awayTeam": "Portimonense",
+        "match": "Feirense v Portimonense",
+        "prediction": "Draw 0-0",
+        "predictionSide": "draw",
+        "odds": {
+          "home": "200",
+          "draw": "200",
+          "away": "125"
+        },
+        "homeForm": [
+          "L",
+          "D",
+          "L",
+          "W",
+          "D"
+        ],
+        "awayForm": [
+          "W",
+          "L",
+          "D",
+          "W",
+          "D"
+        ],
+        "url": "https://www.predictz.com/predictions/portugal/liga-portugal-2/1204654/"
+      },
+      {
+        "id": "1202198",
+        "day": "tomorrow",
+        "date": "2026-11-27",
+        "league": "Romania Liga I",
+        "homeTeam": "FC Petrolul Ploiesti",
+        "awayTeam": "Arges",
+        "match": "FC Petrolul Ploiesti v Arges",
+        "prediction": "Home 2-0",
+        "predictionSide": "home",
+        "odds": {
+          "home": "105",
+          "draw": "220",
+          "away": "220"
+        },
+        "homeForm": [
+          "D",
+          "W",
+          "D",
+          "W",
+          "W"
+        ],
+        "awayForm": [
+          "L",
+          "D",
+          "L",
+          "L",
+          "W"
+        ],
+        "url": "https://www.predictz.com/predictions/romania/liga-i/1202198/"
+      },
+      {
+        "id": "1206663",
+        "day": "tomorrow",
+        "date": "2026-11-27",
+        "league": "Russia FNL",
+        "homeTeam": "Torpedo Moscow",
+        "awayTeam": "FC Ska Khabarovsk",
+        "match": "Torpedo Moscow v FC Ska Khabarovsk",
+        "prediction": "Draw 2-2",
+        "predictionSide": "draw",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [
+          "D",
+          "D",
+          "W",
+          "W",
+          "L"
+        ],
+        "awayForm": [
+          "W",
+          "W",
+          "W",
+          "W",
+          "D"
+        ],
+        "url": "https://www.predictz.com/predictions/russia/fnl/1206663/"
+      },
+      {
+        "id": "1194930",
+        "day": "tomorrow",
+        "date": "2026-11-27",
+        "league": "Serbia SuperLiga",
+        "homeTeam": "Novi Beograd",
+        "awayTeam": "Macva Sabac",
+        "match": "Novi Beograd v Macva Sabac",
+        "prediction": "Home 1-0",
+        "predictionSide": "home",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [
+          "W",
+          "L",
+          "D",
+          "D",
+          "W"
+        ],
+        "awayForm": [
+          "D",
+          "L",
+          "L",
+          "W",
+          "L"
+        ],
+        "url": "https://www.predictz.com/predictions/serbia/superliga/1194930/"
+      },
+      {
+        "id": "1197836",
+        "day": "tomorrow",
+        "date": "2026-11-27",
+        "league": "Slovenia PrvaLiga",
+        "homeTeam": "Radomlje",
+        "awayTeam": "Nafta Lendava",
+        "match": "Radomlje v Nafta Lendava",
+        "prediction": "Draw 1-1",
+        "predictionSide": "draw",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [
+          "D",
+          "D",
+          "L",
+          "L",
+          "L"
+        ],
+        "awayForm": [
+          "D",
+          "D",
+          "L",
+          "D",
+          "L"
+        ],
+        "url": "https://www.predictz.com/predictions/slovenia/prvaliga/1197836/"
+      },
+      {
+        "id": "1195446",
+        "day": "tomorrow",
+        "date": "2026-11-27",
+        "league": "Switzerland Challenge League",
+        "homeTeam": "SC Kriens",
+        "awayTeam": "Aarau",
+        "match": "SC Kriens v Aarau",
+        "prediction": "Home 2-0",
+        "predictionSide": "home",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [
+          "D",
+          "L",
+          "D",
+          "W",
+          "L"
+        ],
+        "awayForm": [
+          "L",
+          "L",
+          "W",
+          "L",
+          "L"
+        ],
+        "url": "https://www.predictz.com/predictions/switzerland/challenge-league/1195446/"
+      },
+      {
+        "id": "1195447",
+        "day": "tomorrow",
+        "date": "2026-11-27",
+        "league": "Switzerland Challenge League",
+        "homeTeam": "Etoile Carouge",
+        "awayTeam": "Stade Lausanne Ouchy",
+        "match": "Etoile Carouge v Stade Lausanne Ouchy",
+        "prediction": "Away 0-3",
+        "predictionSide": "away",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [
+          "L",
+          "W",
+          "D",
+          "D",
+          "L"
+        ],
+        "awayForm": [
+          "W",
+          "D",
+          "W",
+          "W",
+          "W"
+        ],
+        "url": "https://www.predictz.com/predictions/switzerland/challenge-league/1195447/"
+      },
+      {
+        "id": "1195445",
+        "day": "tomorrow",
+        "date": "2026-11-27",
+        "league": "Switzerland Challenge League",
+        "homeTeam": "Winterthur",
+        "awayTeam": "Rapperswil-Jona",
+        "match": "Winterthur v Rapperswil-Jona",
+        "prediction": "Home 3-0",
+        "predictionSide": "home",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [
+          "L",
+          "W",
+          "W",
+          "D",
+          "L"
+        ],
+        "awayForm": [
+          "L",
+          "D",
+          "L",
+          "L",
+          "W"
+        ],
+        "url": "https://www.predictz.com/predictions/switzerland/challenge-league/1195445/"
+      },
+      {
+        "id": "1208087",
+        "day": "tomorrow",
+        "date": "2026-11-27",
+        "league": "Turkey Super Lig",
+        "homeTeam": "Alanyaspor",
+        "awayTeam": "Konyaspor",
+        "match": "Alanyaspor v Konyaspor",
+        "prediction": "Draw 0-0",
+        "predictionSide": "draw",
+        "odds": {
+          "home": "150",
+          "draw": "225",
+          "away": "157"
+        },
+        "homeForm": [
+          "L",
+          "L",
+          "L",
+          "L",
+          "L"
+        ],
+        "awayForm": [
+          "L",
+          "W",
+          "L",
+          "L",
+          "L"
+        ],
+        "url": "https://www.predictz.com/predictions/turkey/super-lig/1208087/"
+      },
+      {
+        "id": "1208085",
+        "day": "tomorrow",
+        "date": "2026-11-27",
+        "league": "Turkey Super Lig",
+        "homeTeam": "Caykur Rizespor",
+        "awayTeam": "Kasimpasa",
+        "match": "Caykur Rizespor v Kasimpasa",
+        "prediction": "Away 0-2",
+        "predictionSide": "away",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [
+          "L",
+          "L",
+          "D",
+          "W",
+          "W"
+        ],
+        "awayForm": [
+          "W",
+          "W",
+          "D",
+          "W",
+          "W"
+        ],
+        "url": "https://www.predictz.com/predictions/turkey/super-lig/1208085/"
+      },
+      {
+        "id": "1208714",
+        "day": "tomorrow",
+        "date": "2026-11-27",
+        "league": "Turkey 1. Lig",
+        "homeTeam": "Sariyer SK",
+        "awayTeam": "Istanbulspor",
+        "match": "Sariyer SK v Istanbulspor",
+        "prediction": "Home 1-0",
+        "predictionSide": "home",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [
+          "D",
+          "L",
+          "L",
+          "D",
+          "L"
+        ],
+        "awayForm": [
+          "L",
+          "L",
+          "L",
+          "W",
+          "L"
+        ],
+        "url": "https://www.predictz.com/predictions/turkey/1-lig/1208714/"
+      },
+      {
+        "id": "1208721",
+        "day": "tomorrow",
+        "date": "2026-11-27",
+        "league": "Turkey 1. Lig",
+        "homeTeam": "Umraniyespor",
+        "awayTeam": "Manisa Futbol Kulubu",
+        "match": "Umraniyespor v Manisa Futbol Kulubu",
+        "prediction": "Home 2-0",
+        "predictionSide": "home",
+        "odds": {
+          "home": "110",
+          "draw": "230",
+          "away": "200"
+        },
+        "homeForm": [
+          "W",
+          "W",
+          "D",
+          "W",
+          "D"
+        ],
+        "awayForm": [
+          "L",
+          "L",
+          "W",
+          "L",
+          "W"
+        ],
+        "url": "https://www.predictz.com/predictions/turkey/1-lig/1208721/"
+      },
+      {
+        "id": "1204028",
+        "day": "tomorrow",
+        "date": "2026-11-27",
+        "league": "Ukraine UPL",
+        "homeTeam": "Levy Bereg Kiev",
+        "awayTeam": "Kolos Kovalivka",
+        "match": "Levy Bereg Kiev v Kolos Kovalivka",
         "prediction": "Away 0-2",
         "predictionSide": "away",
         "odds": {
@@ -2229,22 +2210,1386 @@
           "D"
         ],
         "awayForm": [
+          "W",
+          "L",
+          "W",
+          "D",
+          "W"
+        ],
+        "url": "https://www.predictz.com/predictions/ukraine/upl/1204028/"
+      },
+      {
+        "id": "1226025",
+        "day": "tomorrow",
+        "date": "2026-11-27",
+        "league": "Chile Primera B Playoffs",
+        "homeTeam": "Antofagasta",
+        "awayTeam": "Deportes Copiapo",
+        "match": "Antofagasta v Deportes Copiapo",
+        "prediction": "Home 3-1",
+        "predictionSide": "home",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [
+          "W",
+          "D",
+          "W",
+          "W",
+          "D"
+        ],
+        "awayForm": [
+          "W",
+          "L",
           "D",
           "D",
+          "D"
+        ],
+        "url": "https://www.predictz.com/predictions/chile/primera-b-playofs/1226025/"
+      },
+      {
+        "id": "1226154",
+        "day": "tomorrow",
+        "date": "2026-11-27",
+        "league": "Argentina Primera B Nacional",
+        "homeTeam": "Atletico Atlanta",
+        "awayTeam": "Club Ciudad de Bolivar",
+        "match": "Atletico Atlanta v Club Ciudad de Bolivar",
+        "prediction": "Draw 1-1",
+        "predictionSide": "draw",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [
+          "L",
+          "W",
+          "D",
+          "D",
+          "W"
+        ],
+        "awayForm": [
+          "W",
+          "L",
+          "L",
+          "W",
+          "L"
+        ],
+        "url": "https://www.predictz.com/predictions/argentina/primera-b/1226154/"
+      },
+      {
+        "id": "1224494",
+        "day": "tomorrow",
+        "date": "2026-11-27",
+        "league": "Bolivia Primera Division",
+        "homeTeam": "Club ABB",
+        "awayTeam": "Real Tomayapo",
+        "match": "Club ABB v Real Tomayapo",
+        "prediction": "Draw 0-0",
+        "predictionSide": "draw",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [
+          "L",
+          "L",
+          "L",
+          "L",
+          "L"
+        ],
+        "awayForm": [
+          "W",
+          "L",
+          "L",
+          "W",
+          "L"
+        ],
+        "url": "https://www.predictz.com/predictions/bolivia/primera-division/1224494/"
+      },
+      {
+        "id": "1224489",
+        "day": "tomorrow",
+        "date": "2026-11-27",
+        "league": "Bolivia Primera Division",
+        "homeTeam": "Independiente Petrolero",
+        "awayTeam": "CDT Real Oruro",
+        "match": "Independiente Petrolero v CDT Real Oruro",
+        "prediction": "Away 0-2",
+        "predictionSide": "away",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [
+          "D",
+          "W",
+          "D",
+          "L",
+          "D"
+        ],
+        "awayForm": [
+          "W",
+          "L",
+          "D",
+          "W",
+          "L"
+        ],
+        "url": "https://www.predictz.com/predictions/bolivia/primera-division/1224489/"
+      },
+      {
+        "id": "1170948",
+        "day": "tomorrow",
+        "date": "2026-11-27",
+        "league": "Brazil Serie A",
+        "homeTeam": "Fluminense",
+        "awayTeam": "Cruzeiro",
+        "match": "Fluminense v Cruzeiro",
+        "prediction": "Draw 2-2",
+        "predictionSide": "draw",
+        "odds": {
+          "home": "101",
+          "draw": "270",
+          "away": "240"
+        },
+        "homeForm": [
+          "L",
+          "W",
+          "W",
+          "W",
+          "W"
+        ],
+        "awayForm": [
+          "W",
+          "W",
+          "W",
+          "W",
+          "W"
+        ],
+        "url": "https://www.predictz.com/predictions/brazil/serie-a/1170948/"
+      },
+      {
+        "id": "1225949",
+        "day": "tomorrow",
+        "date": "2026-11-27",
+        "league": "Brazil Serie B Playoffs",
+        "homeTeam": "Vila Nova",
+        "awayTeam": "Atletico Goianiense",
+        "match": "Vila Nova v Atletico Goianiense",
+        "prediction": "Home 2-1",
+        "predictionSide": "home",
+        "odds": {
+          "home": "125",
+          "draw": "225",
+          "away": "210"
+        },
+        "homeForm": [
+          "L",
+          "D",
+          "W",
+          "L",
+          "D"
+        ],
+        "awayForm": [
+          "L",
+          "D",
+          "W",
+          "W",
+          "D"
+        ],
+        "url": "https://www.predictz.com/predictions/brazil/serie-b-playoffs/1225949/"
+      },
+      {
+        "id": "1226163",
+        "day": "tomorrow",
+        "date": "2026-11-27",
+        "league": "Colombia Categoria Primera A",
+        "homeTeam": "Cali",
+        "awayTeam": "Atletico Bucaramanga",
+        "match": "Cali v Atletico Bucaramanga",
+        "prediction": "Home 3-2",
+        "predictionSide": "home",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [
+          "W",
+          "D",
+          "D",
+          "D",
+          "L"
+        ],
+        "awayForm": [
+          "D",
+          "W",
+          "W",
+          "D",
+          "L"
+        ],
+        "url": "https://www.predictz.com/predictions/colombia/categoria-primera-a/1226163/"
+      },
+      {
+        "id": "1213496",
+        "day": "tomorrow",
+        "date": "2026-11-27",
+        "league": "Paraguay Primera Division",
+        "homeTeam": "Nacional Asuncion",
+        "awayTeam": "Rubio Nu",
+        "match": "Nacional Asuncion v Rubio Nu",
+        "prediction": "Home 2-1",
+        "predictionSide": "home",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [
+          "L",
+          "W",
+          "L",
+          "L",
+          "W"
+        ],
+        "awayForm": [
+          "L",
+          "W",
+          "L",
+          "D",
+          "L"
+        ],
+        "url": "https://www.predictz.com/predictions/paraguay/primera-division/1213496/"
+      },
+      {
+        "id": "1213495",
+        "day": "tomorrow",
+        "date": "2026-11-27",
+        "league": "Paraguay Primera Division",
+        "homeTeam": "Sportivo Luqueno",
+        "awayTeam": "Olimpia",
+        "match": "Sportivo Luqueno v Olimpia",
+        "prediction": "Away 0-3",
+        "predictionSide": "away",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [
+          "L",
+          "L",
           "W",
           "W",
           "L"
         ],
-        "url": "https://www.predictz.com/predictions/zambia/super-league/1220990/"
+        "awayForm": [
+          "W",
+          "W",
+          "W",
+          "W",
+          "W"
+        ],
+        "url": "https://www.predictz.com/predictions/paraguay/primera-division/1213495/"
       },
       {
-        "id": "1220986",
+        "id": "1226229",
         "day": "tomorrow",
         "date": "2026-11-27",
-        "league": "Zambia Super League",
-        "homeTeam": "Red Arrows",
-        "awayTeam": "Green Buffaloes",
-        "match": "Red Arrows v Green Buffaloes",
+        "league": "Uruguay Primera Division Finals",
+        "homeTeam": "Racing CM",
+        "awayTeam": "Liverpool FC",
+        "match": "Racing CM v Liverpool FC",
+        "prediction": "Draw 2-2",
+        "predictionSide": "draw",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [
+          "W",
+          "D",
+          "W",
+          "D",
+          "W"
+        ],
+        "awayForm": [
+          "W",
+          "W",
+          "W",
+          "W",
+          "L"
+        ],
+        "url": "https://www.predictz.com/predictions/uruguay/primera-division-finals/1226229/"
+      },
+      {
+        "id": "1226450",
+        "day": "tomorrow",
+        "date": "2026-11-27",
+        "league": "Mexico Liga MX",
+        "homeTeam": "Pachuca",
+        "awayTeam": "Guadalajara",
+        "match": "Pachuca v Guadalajara",
+        "prediction": "Draw 1-1",
+        "predictionSide": "draw",
+        "odds": {
+          "home": "157",
+          "draw": "250",
+          "away": "155"
+        },
+        "homeForm": [
+          "L",
+          "W",
+          "W",
+          "W",
+          "W"
+        ],
+        "awayForm": [
+          "W",
+          "W",
+          "W",
+          "D",
+          "W"
+        ],
+        "url": "https://www.predictz.com/predictions/mexico/la-division-finals/1226450/"
+      },
+      {
+        "id": "1226451",
+        "day": "tomorrow",
+        "date": "2026-11-27",
+        "league": "Mexico Liga MX",
+        "homeTeam": "Leon",
+        "awayTeam": "Cruz Azul",
+        "match": "Leon v Cruz Azul",
+        "prediction": "Draw 2-2",
+        "predictionSide": "draw",
+        "odds": {
+          "home": "220",
+          "draw": "250",
+          "away": "115"
+        },
+        "homeForm": [
+          "W",
+          "D",
+          "L",
+          "D",
+          "W"
+        ],
+        "awayForm": [
+          "W",
+          "W",
+          "W",
+          "W",
+          "L"
+        ],
+        "url": "https://www.predictz.com/predictions/mexico/la-division-finals/1226451/"
+      },
+      {
+        "id": "1226217",
+        "day": "tomorrow",
+        "date": "2026-11-27",
+        "league": "Nicaragua Liga Primera",
+        "homeTeam": "Diriangen",
+        "awayTeam": "Matagalpa",
+        "match": "Diriangen v Matagalpa",
+        "prediction": "Home 2-0",
+        "predictionSide": "home",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [
+          "W",
+          "W",
+          "L",
+          "W",
+          "L"
+        ],
+        "awayForm": [
+          "D",
+          "L",
+          "L",
+          "L",
+          "L"
+        ],
+        "url": "https://www.predictz.com/predictions/nicaragua/liga-primera/1226217/"
+      },
+      {
+        "id": "1219160",
+        "day": "tomorrow",
+        "date": "2026-11-27",
+        "league": "Armenia Premier League",
+        "homeTeam": "Syunik",
+        "awayTeam": "Van",
+        "match": "Syunik v Van",
+        "prediction": "Home 2-0",
+        "predictionSide": "home",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [
+          "L",
+          "W",
+          "L",
+          "W",
+          "L"
+        ],
+        "awayForm": [
+          "L",
+          "W",
+          "D",
+          "L",
+          "L"
+        ],
+        "url": "https://www.predictz.com/predictions/armenia/premier-league/1219160/"
+      },
+      {
+        "id": "1218703",
+        "day": "tomorrow",
+        "date": "2026-11-27",
+        "league": "Azerbaijan Premier League",
+        "homeTeam": "Imisli FK",
+        "awayTeam": "Safa",
+        "match": "Imisli FK v Safa",
+        "prediction": "Away 0-1",
+        "predictionSide": "away",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [
+          "W",
+          "W",
+          "L",
+          "D",
+          "D"
+        ],
+        "awayForm": [
+          "L",
+          "L",
+          "D",
+          "D",
+          "L"
+        ],
+        "url": "https://www.predictz.com/predictions/azerbaijan/premier-league/1218703/"
+      },
+      {
+        "id": "1224886",
+        "day": "tomorrow",
+        "date": "2026-11-27",
+        "league": "Bahrain Premier League",
+        "homeTeam": "East Riffa",
+        "awayTeam": "Al Ittifaq",
+        "match": "East Riffa v Al Ittifaq",
+        "prediction": "Away 0-2",
+        "predictionSide": "away",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [
+          "W",
+          "W",
+          "L",
+          "L",
+          "D"
+        ],
+        "awayForm": [
+          "W",
+          "W",
+          "D",
+          "D",
+          "W"
+        ],
+        "url": "https://www.predictz.com/predictions/bahrain/premier-league/1224886/"
+      },
+      {
+        "id": "1224885",
+        "day": "tomorrow",
+        "date": "2026-11-27",
+        "league": "Bahrain Premier League",
+        "homeTeam": "Malkiya",
+        "awayTeam": "Manama",
+        "match": "Malkiya v Manama",
+        "prediction": "Draw 1-1",
+        "predictionSide": "draw",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [
+          "L",
+          "D",
+          "L",
+          "D",
+          "L"
+        ],
+        "awayForm": [
+          "L",
+          "L",
+          "D",
+          "D",
+          "L"
+        ],
+        "url": "https://www.predictz.com/predictions/bahrain/premier-league/1224885/"
+      },
+      {
+        "id": "1224005",
+        "day": "tomorrow",
+        "date": "2026-11-27",
+        "league": "India Super League",
+        "homeTeam": "Inter Kashi",
+        "awayTeam": "Churchill Brothers",
+        "match": "Inter Kashi v Churchill Brothers",
+        "prediction": "Home 1-0",
+        "predictionSide": "home",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [
+          "L",
+          "D",
+          "L",
+          "L",
+          "L"
+        ],
+        "awayForm": [
+          "W",
+          "L",
+          "L",
+          "L",
+          "L"
+        ],
+        "url": "https://www.predictz.com/predictions/india/super-league/1224005/"
+      },
+      {
+        "id": "1225359",
+        "day": "tomorrow",
+        "date": "2026-11-27",
+        "league": "Iran Pro League",
+        "homeTeam": "Paykan",
+        "awayTeam": "Foolad",
+        "match": "Paykan v Foolad",
+        "prediction": "Away 0-2",
+        "predictionSide": "away",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [
+          "L",
+          "D",
+          "W",
+          "D",
+          "L"
+        ],
+        "awayForm": [
+          "D",
+          "W",
+          "W",
+          "D",
+          "D"
+        ],
+        "url": "https://www.predictz.com/predictions/iran/pro-league/1225359/"
+      },
+      {
+        "id": "1225360",
+        "day": "tomorrow",
+        "date": "2026-11-27",
+        "league": "Iran Pro League",
+        "homeTeam": "Shams Azar Qazvin",
+        "awayTeam": "Kheybar Khorramabad",
+        "match": "Shams Azar Qazvin v Kheybar Khorramabad",
+        "prediction": "Away 0-1",
+        "predictionSide": "away",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [
+          "D",
+          "D",
+          "L",
+          "L",
+          "L"
+        ],
+        "awayForm": [
+          "D",
+          "W",
+          "W",
+          "L",
+          "L"
+        ],
+        "url": "https://www.predictz.com/predictions/iran/pro-league/1225360/"
+      },
+      {
+        "id": "1225361",
+        "day": "tomorrow",
+        "date": "2026-11-27",
+        "league": "Iran Pro League",
+        "homeTeam": "Aluminium Arak",
+        "awayTeam": "Persepolis",
+        "match": "Aluminium Arak v Persepolis",
+        "prediction": "Away 0-2",
+        "predictionSide": "away",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [
+          "L",
+          "D",
+          "L",
+          "W",
+          "D"
+        ],
+        "awayForm": [
+          "W",
+          "L",
+          "W",
+          "L",
+          "W"
+        ],
+        "url": "https://www.predictz.com/predictions/iran/pro-league/1225361/"
+      },
+      {
+        "id": "1225362",
+        "day": "tomorrow",
+        "date": "2026-11-27",
+        "league": "Iran Pro League",
+        "homeTeam": "Esteghlal Khuzestan",
+        "awayTeam": "Malavan",
+        "match": "Esteghlal Khuzestan v Malavan",
+        "prediction": "Home 2-1",
+        "predictionSide": "home",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [
+          "L",
+          "W",
+          "D",
+          "W",
+          "L"
+        ],
+        "awayForm": [
+          "W",
+          "D",
+          "L",
+          "L",
+          "L"
+        ],
+        "url": "https://www.predictz.com/predictions/iran/pro-league/1225362/"
+      },
+      {
+        "id": "1224097",
+        "day": "tomorrow",
+        "date": "2026-11-27",
+        "league": "Jordan Pro League",
+        "homeTeam": "Shabab Al Ordun",
+        "awayTeam": "Al Salt",
+        "match": "Shabab Al Ordun v Al Salt",
+        "prediction": "Draw 0-0",
+        "predictionSide": "draw",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [
+          "L",
+          "L",
+          "L",
+          "W",
+          "D"
+        ],
+        "awayForm": [
+          "L",
+          "D",
+          "D",
+          "D",
+          "D"
+        ],
+        "url": "https://www.predictz.com/predictions/jordan/pro-league/1224097/"
+      },
+      {
+        "id": "1224098",
+        "day": "tomorrow",
+        "date": "2026-11-27",
+        "league": "Jordan Pro League",
+        "homeTeam": "Al Wihdat",
+        "awayTeam": "Doqarah",
+        "match": "Al Wihdat v Doqarah",
+        "prediction": "Home 1-0",
+        "predictionSide": "home",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [
+          "W",
+          "W",
+          "W",
+          "L",
+          "W"
+        ],
+        "awayForm": [
+          "D",
+          "L",
+          "L",
+          "L",
+          "D"
+        ],
+        "url": "https://www.predictz.com/predictions/jordan/pro-league/1224098/"
+      },
+      {
+        "id": "1213555",
+        "day": "tomorrow",
+        "date": "2026-11-27",
+        "league": "Malaysia Super League",
+        "homeTeam": "DPMM FC",
+        "awayTeam": "Kelantan Red Warrior",
+        "match": "DPMM FC v Kelantan Red Warrior",
+        "prediction": "Home 3-0",
+        "predictionSide": "home",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [
+          "L",
+          "W",
+          "W",
+          "W",
+          "W"
+        ],
+        "awayForm": [
+          "L",
+          "L",
+          "L",
+          "L",
+          "W"
+        ],
+        "url": "https://www.predictz.com/predictions/malaysia/super-league/1213555/"
+      },
+      {
+        "id": "1218410",
+        "day": "tomorrow",
+        "date": "2026-11-27",
+        "league": "Qatar Stars League",
+        "homeTeam": "Al Ahli",
+        "awayTeam": "Al Shamal",
+        "match": "Al Ahli v Al Shamal",
+        "prediction": "Home 1-0",
+        "predictionSide": "home",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [
+          "L",
+          "D",
+          "W",
+          "D",
+          "D"
+        ],
+        "awayForm": [
+          "D",
+          "L",
+          "L",
+          "W",
+          "D"
+        ],
+        "url": "https://www.predictz.com/predictions/qatar/stars-league/1218410/"
+      },
+      {
+        "id": "1224870",
+        "day": "tomorrow",
+        "date": "2026-11-27",
+        "league": "Qatar Stars League",
+        "homeTeam": "Al Sailiya",
+        "awayTeam": "Al Gharrafa",
+        "match": "Al Sailiya v Al Gharrafa",
+        "prediction": "Away 0-1",
+        "predictionSide": "away",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [
+          "L",
+          "D",
+          "L",
+          "L",
+          "L"
+        ],
+        "awayForm": [
+          "D",
+          "D",
+          "W",
+          "L",
+          "W"
+        ],
+        "url": "https://www.predictz.com/predictions/qatar/stars-league/1224870/"
+      },
+      {
+        "id": "1214290",
+        "day": "tomorrow",
+        "date": "2026-11-27",
+        "league": "Saudi Arabia Professional League",
+        "homeTeam": "Al Kholood",
+        "awayTeam": "Al Khaleej",
+        "match": "Al Kholood v Al Khaleej",
+        "prediction": "Away 0-1",
+        "predictionSide": "away",
+        "odds": {
+          "home": "100",
+          "draw": "250",
+          "away": "200"
+        },
+        "homeForm": [
+          "L",
+          "L",
+          "L",
+          "L",
+          "L"
+        ],
+        "awayForm": [
+          "D",
+          "W",
+          "W",
+          "L",
+          "W"
+        ],
+        "url": "https://www.predictz.com/predictions/saudi-arabia/professional-league/1214290/"
+      },
+      {
+        "id": "1214286",
+        "day": "tomorrow",
+        "date": "2026-11-27",
+        "league": "Saudi Arabia Professional League",
+        "homeTeam": "Al Qadisiyah",
+        "awayTeam": "Al Faiha",
+        "match": "Al Qadisiyah v Al Faiha",
+        "prediction": "Home 3-0",
+        "predictionSide": "home",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [
+          "W",
+          "W",
+          "W",
+          "L",
+          "W"
+        ],
+        "awayForm": [
+          "D",
+          "L",
+          "L",
+          "D",
+          "W"
+        ],
+        "url": "https://www.predictz.com/predictions/saudi-arabia/professional-league/1214286/"
+      },
+      {
+        "id": "1214282",
+        "day": "tomorrow",
+        "date": "2026-11-27",
+        "league": "Saudi Arabia Professional League",
+        "homeTeam": "Ittihad Jeddah",
+        "awayTeam": "Neom SC",
+        "match": "Ittihad Jeddah v Neom SC",
+        "prediction": "Home 2-0",
+        "predictionSide": "home",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [
+          "W",
+          "L",
+          "W",
+          "W",
+          "D"
+        ],
+        "awayForm": [
+          "D",
+          "L",
+          "L",
+          "W",
+          "W"
+        ],
+        "url": "https://www.predictz.com/predictions/saudi-arabia/professional-league/1214282/"
+      },
+      {
+        "id": "1220374",
+        "day": "tomorrow",
+        "date": "2026-11-27",
+        "league": "Singapore Premier League",
+        "homeTeam": "Geylang United",
+        "awayTeam": "Tanjong Pagar",
+        "match": "Geylang United v Tanjong Pagar",
+        "prediction": "Home 2-0",
+        "predictionSide": "home",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [
+          "W",
+          "D",
+          "W",
+          "D",
+          "L"
+        ],
+        "awayForm": [
+          "L",
+          "W",
+          "L",
+          "D",
+          "W"
+        ],
+        "url": "https://www.predictz.com/predictions/singapore/premier-league/1220374/"
+      },
+      {
+        "id": "1222252",
+        "day": "tomorrow",
+        "date": "2026-11-27",
+        "league": "Thailand League 1",
+        "homeTeam": "Uthai Thani",
+        "awayTeam": "Sisaket United",
+        "match": "Uthai Thani v Sisaket United",
+        "prediction": "Away 1-2",
+        "predictionSide": "away",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [
+          "D",
+          "L",
+          "L",
+          "D",
+          "W"
+        ],
+        "awayForm": [
+          "W",
+          "D",
+          "W",
+          "L",
+          "L"
+        ],
+        "url": "https://www.predictz.com/predictions/thailand/league-1/1222252/"
+      },
+      {
+        "id": "1181151",
+        "day": "tomorrow",
+        "date": "2026-11-27",
+        "league": "Uzbekistan Super League",
+        "homeTeam": "Bukhara",
+        "awayTeam": "Mash AL Mubarek",
+        "match": "Bukhara v Mash AL Mubarek",
+        "prediction": "Home 3-0",
+        "predictionSide": "home",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [
+          "W",
+          "D",
+          "D",
+          "L",
+          "D"
+        ],
+        "awayForm": [
+          "L",
+          "L",
+          "L",
+          "D",
+          "L"
+        ],
+        "url": "https://www.predictz.com/predictions/uzbekistan/super-league/1181151/"
+      },
+      {
+        "id": "1181153",
+        "day": "tomorrow",
+        "date": "2026-11-27",
+        "league": "Uzbekistan Super League",
+        "homeTeam": "Kokand 1912",
+        "awayTeam": "Xorazm",
+        "match": "Kokand 1912 v Xorazm",
+        "prediction": "Draw 1-1",
+        "predictionSide": "draw",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [
+          "L",
+          "L",
+          "D",
+          "L",
+          "L"
+        ],
+        "awayForm": [
+          "D",
+          "L",
+          "D",
+          "W",
+          "D"
+        ],
+        "url": "https://www.predictz.com/predictions/uzbekistan/super-league/1181153/"
+      },
+      {
+        "id": "1219923",
+        "day": "tomorrow",
+        "date": "2026-11-27",
+        "league": "Vietnam V League",
+        "homeTeam": "Nam Dinh",
+        "awayTeam": "Cong An Nhan Dan",
+        "match": "Nam Dinh v Cong An Nhan Dan",
+        "prediction": "Home 3-2",
+        "predictionSide": "home",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [
+          "W",
+          "W",
+          "W",
+          "W",
+          "W"
+        ],
+        "awayForm": [
+          "W",
+          "L",
+          "D",
+          "D",
+          "W"
+        ],
+        "url": "https://www.predictz.com/predictions/vietnam/v-league/1219923/"
+      },
+      {
+        "id": "1219924",
+        "day": "tomorrow",
+        "date": "2026-11-27",
+        "league": "Vietnam V League",
+        "homeTeam": "Song Lam Nghe An",
+        "awayTeam": "Phu Dong",
+        "match": "Song Lam Nghe An v Phu Dong",
+        "prediction": "Draw 2-2",
+        "predictionSide": "draw",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [
+          "D",
+          "W",
+          "D",
+          "D",
+          "D"
+        ],
+        "awayForm": [
+          "W",
+          "L",
+          "L",
+          "W",
+          "W"
+        ],
+        "url": "https://www.predictz.com/predictions/vietnam/v-league/1219924/"
+      },
+      {
+        "id": "1212215",
+        "day": "tomorrow",
+        "date": "2026-11-27",
+        "league": "Australia A League",
+        "homeTeam": "Macarthur",
+        "awayTeam": "Melbourne City",
+        "match": "Macarthur v Melbourne City",
+        "prediction": "Away 0-1",
+        "predictionSide": "away",
+        "odds": {
+          "home": "225",
+          "draw": "270",
+          "away": "101"
+        },
+        "homeForm": [
+          "W",
+          "D",
+          "D",
+          "L",
+          "W"
+        ],
+        "awayForm": [
+          "D",
+          "L",
+          "D",
+          "W",
+          "W"
+        ],
+        "url": "https://www.predictz.com/predictions/australia/a-league/1212215/"
+      },
+      {
+        "id": "1226362",
+        "day": "tomorrow",
+        "date": "2026-11-27",
+        "league": "Morocco Botola Pro",
+        "homeTeam": "Union Sportif Amal Tiznit",
+        "awayTeam": "Maghrib Tetouan",
+        "match": "Union Sportif Amal Tiznit v Maghrib Tetouan",
+        "prediction": "Home 2-0",
+        "predictionSide": "home",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [
+          "L",
+          "D",
+          "L",
+          "L",
+          "W"
+        ],
+        "awayForm": [
+          "D",
+          "L",
+          "L",
+          "L",
+          "L"
+        ],
+        "url": "https://www.predictz.com/predictions/morocco/botola-pro/1226362/"
+      },
+      {
+        "id": "1223364",
+        "day": "tomorrow",
+        "date": "2026-11-27",
+        "league": "Nigeria NPFL",
+        "homeTeam": "Shooting Stars",
+        "awayTeam": "Rivers United",
+        "match": "Shooting Stars v Rivers United",
+        "prediction": "Away 0-1",
+        "predictionSide": "away",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [
+          "D",
+          "W",
+          "L",
+          "W",
+          "L"
+        ],
+        "awayForm": [
+          "D",
+          "L",
+          "D",
+          "D",
+          "W"
+        ],
+        "url": "https://www.predictz.com/predictions/nigeria/npfl/1223364/"
+      },
+      {
+        "id": "1214974",
+        "day": "tomorrow",
+        "date": "2026-11-27",
+        "league": "South Africa Premiership",
+        "homeTeam": "Stellenbosch",
+        "awayTeam": "TS Galaxy",
+        "match": "Stellenbosch v TS Galaxy",
+        "prediction": "Draw 0-0",
+        "predictionSide": "draw",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [
+          "D",
+          "D",
+          "W",
+          "D",
+          "L"
+        ],
+        "awayForm": [
+          "D",
+          "L",
+          "L",
+          "L",
+          "D"
+        ],
+        "url": "https://www.predictz.com/predictions/south-africa/premiership/1214974/"
+      },
+      {
+        "id": "1214760",
+        "day": "tomorrow",
+        "date": "2026-11-27",
+        "league": "Tanzania Premier League",
+        "homeTeam": "Ihefu",
+        "awayTeam": "JKT Tanzania",
+        "match": "Ihefu v JKT Tanzania",
+        "prediction": "Draw 1-1",
+        "predictionSide": "draw",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [
+          "D",
+          "L",
+          "W",
+          "L",
+          "W"
+        ],
+        "awayForm": [
+          "W",
+          "W",
+          "D",
+          "L",
+          "L"
+        ],
+        "url": "https://www.predictz.com/predictions/tanzania/premier-league/1214760/"
+      },
+      {
+        "id": "1214758",
+        "day": "tomorrow",
+        "date": "2026-11-27",
+        "league": "Tanzania Premier League",
+        "homeTeam": "Mbeya City",
+        "awayTeam": "Young Africans",
+        "match": "Mbeya City v Young Africans",
+        "prediction": "Away 0-2",
+        "predictionSide": "away",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [
+          "L",
+          "L",
+          "L",
+          "W",
+          "D"
+        ],
+        "awayForm": [
+          "L",
+          "D",
+          "W",
+          "W",
+          "W"
+        ],
+        "url": "https://www.predictz.com/predictions/tanzania/premier-league/1214758/"
+      },
+      {
+        "id": "1214759",
+        "day": "tomorrow",
+        "date": "2026-11-27",
+        "league": "Tanzania Premier League",
+        "homeTeam": "Simba",
+        "awayTeam": "Polisi Tanzania",
+        "match": "Simba v Polisi Tanzania",
+        "prediction": "Home 3-1",
+        "predictionSide": "home",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [
+          "W",
+          "W",
+          "W",
+          "W",
+          "W"
+        ],
+        "awayForm": [
+          "D",
+          "D",
+          "L",
+          "W",
+          "L"
+        ],
+        "url": "https://www.predictz.com/predictions/tanzania/premier-league/1214759/"
+      },
+      {
+        "id": "1214761",
+        "day": "tomorrow",
+        "date": "2026-11-27",
+        "league": "Tanzania Premier League",
+        "homeTeam": "Singida",
+        "awayTeam": "Azam",
+        "match": "Singida v Azam",
+        "prediction": "Away 0-3",
+        "predictionSide": "away",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [
+          "D",
+          "D",
+          "L",
+          "L",
+          "D"
+        ],
+        "awayForm": [
+          "L",
+          "W",
+          "W",
+          "W",
+          "L"
+        ],
+        "url": "https://www.predictz.com/predictions/tanzania/premier-league/1214761/"
+      },
+      {
+        "id": "1214762",
+        "day": "tomorrow",
+        "date": "2026-11-27",
+        "league": "Tanzania Premier League",
+        "homeTeam": "Pamba",
+        "awayTeam": "Namungo",
+        "match": "Pamba v Namungo",
         "prediction": "Away 0-1",
         "predictionSide": "away",
         "odds": {
@@ -2260,15 +3605,46 @@
           "W"
         ],
         "awayForm": [
-          "D",
           "W",
           "W",
-          "D",
-          "L"
+          "W",
+          "L",
+          "D"
         ],
-        "url": "https://www.predictz.com/predictions/zambia/super-league/1220986/"
+        "url": "https://www.predictz.com/predictions/tanzania/premier-league/1214762/"
+      },
+      {
+        "id": "1214763",
+        "day": "tomorrow",
+        "date": "2026-11-27",
+        "league": "Tanzania Premier League",
+        "homeTeam": "Kagera Sugar",
+        "awayTeam": "Dodoma",
+        "match": "Kagera Sugar v Dodoma",
+        "prediction": "Away 0-1",
+        "predictionSide": "away",
+        "odds": {
+          "home": null,
+          "draw": null,
+          "away": null
+        },
+        "homeForm": [
+          "D",
+          "L",
+          "L",
+          "L",
+          "D"
+        ],
+        "awayForm": [
+          "D",
+          "W",
+          "D",
+          "D",
+          "D"
+        ],
+        "url": "https://www.predictz.com/predictions/tanzania/premier-league/1214763/"
       }
     ]
   },
-  "count": 73
+  "count": 117
 }
